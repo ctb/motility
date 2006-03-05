@@ -1,0 +1,138 @@
+# eventually --> C++.
+
+# also:
+#   * add probability interface to C++/Python motif code
+#
+#   * would need Cartwheel XMLRPC interface to load/save such things;
+#   * also need Web interface for humans
+#   * FLTK interface for use w/in FRII (to establish, load, save)
+#
+#   * then, w/in FRII, add single & pairwise search/display.
+#
+#   * camel functions:
+#        - search single, pair/triple with *all* public motif features
+#        - provide unified access to motif libraries (?)
+#        - genomes!!
+
+class MotifFeature:
+    """
+    Abstract base class for higher-order motif features.
+    """
+
+    # __init__ defined by base 
+    
+    def search(self, block_iterable):
+        """
+        Search the given block iterable (e.g. single sequence,
+        multiple sequences, genome) for this motif feature.
+
+        Returns a list of spans.
+        """
+        pass
+
+    def likelihood(self, sequence_size, p_AT=.25):
+        """
+        Return the likelihood of seeing even one of these in a sequence
+        of the given size with the given A/T bias.
+        """
+        pass
+
+class BlockIterableSequences:
+    """
+    Abstract base class for groups of DNA sequences that are searchable.
+
+    A simple example of one of these would be an in-memory list of
+    DNA sequences.  A more complicated example would be chromosomes
+    of a large genome, where perhaps some of the chromosomes are
+    too big to fit into memory.
+
+    This is basically a container allow iteration.
+    """
+    def __iter__(self):
+        """
+        Return an object that supports iteration over the collection.
+        """
+        pass
+
+class IterableSequence:
+    """
+    Miscellaneous stuff that makes it possible to iterate across
+    the sequence...
+    """
+
+    def get_id(self):
+        """
+        Return a string identifier that is unique within the
+        BlockIterableSequences object.
+        """
+        pass
+
+    def get_chunk(self, chunksize):
+        """
+        If nothing is returned, this signals the end of the sequence;
+        if less is returned then requested, this also signals the end
+        of the sequence.
+
+        It is the responsibility of the calling function to worry
+        about correctly dealing with overlaps.
+        """
+
+    def __getslice__(self, start, end):
+        """
+        Get the given region [start:end).
+        """
+        pass
+
+    def __len__(self):
+        """
+        Returns the overall length of the sequence.
+        """
+        pass
+
+class XmlArbiter:
+    """
+    Arbiter to dump MotifFeature objects to XML & load objects from XML.
+
+    Problem: what about encapsulated XML?  Would need to pass e.g. SAX
+    calls in from outside...
+    """
+    def load(self, ...):
+        # take a string produced by dump
+        pass
+
+    def dump(self, ...):
+        # return a string suitable for use by load
+        pass
+
+
+#####
+
+class MultiMotifCluster(MotifFeature):
+    """
+    Search for min_i motif_i, for all i, in a given window
+    """
+
+    def __init__(self, windowsize):
+        pass
+
+    def search(self, block_iterable):
+        pass
+
+    ### these functions are specific to MultiMotifCluster
+
+    def add_motif(self, motif, min_matches):
+        pass
+
+    def get_motifs(self):
+        pass
+
+    def get_windowsize(self):
+        pass
+
+class RandomGenome(IterableSequence):
+    """
+    Mimic a random genome with a given AT bias.
+    """
+
+    def __init__(self, size, p_AT):
+        pass

@@ -1,0 +1,30 @@
+ID   EF-C ; MATRIX.
+AC   EF-C.
+DE   IFTI ooTFD siteProfile SM00119.
+CC   Information Content: 14.71.
+CC   Matrix type: Frequency
+MA   /GENERAL_SPEC: ALPHABET='ACGT';
+MA   /DISJOINT: DEFINITION=PROTECT; N1=1; N2=13;
+MA   /NORMALIZATION: MODE=1; FUNCTION=LINEAR; R1=-96.81; R2=0.5931;
+MA      TEXT='Homology Score';
+MA   /NORMALIZATION: MODE=2; FUNCTION=LINEAR; R1=-10.198; R2=0.06215;
+MA      TEXT='Log KBk2';
+MA   /CUT_OFF: LEVEL=0; SCORE=1250; N_SCORE=485; MODE=1;
+MA   /DEFAULT: B0=*; B1=*; E0=*; E1=*; SY_M='*'; II=*;
+MA   /I: B0= 0; B1= 0;
+MA   /M: M=  0, 0, 75, 25; SY=G;
+MA   /M: M=  0, 0, 0, 100; SY=T;
+MA   /M: M=  6, 6, 0, 87; SY=T;
+MA   /M: M=  0, 12, 87, 0; SY=G;
+MA   /M: M=  18, 75, 0, 6; SY=C;
+MA   /M: M=  18, 50, 0, 31; SY=C;
+MA   /M: M=  0, 0, 50, 50; SY=G;
+MA   /M: M=  56, 0, 43, 0; SY=A;
+MA   /M: M=  18, 18, 62, 0; SY=G;
+MA   /M: M=  0, 68, 12, 18; SY=C;
+MA   /M: M=  81, 12, 6, 0; SY=A;
+MA   /M: M=  100, 0, 0, 0; SY=A;
+MA   /M: M=  12, 62, 6, 18; SY=C;
+MA   /I: E0=0; E1=0;
+CC   /TAXO-RANGE=???p?;
+//

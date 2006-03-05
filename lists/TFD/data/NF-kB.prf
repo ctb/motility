@@ -1,0 +1,27 @@
+ID   NF-kB ; MATRIX.
+AC   NF-kB.
+DE   IFTI ooTFD siteProfile SM00001.
+CC   Information Content: 14.14.
+CC   Matrix type: Frequency
+MA   /GENERAL_SPEC: ALPHABET='ACGT';
+MA   /DISJOINT: DEFINITION=PROTECT; N1=1; N2=10;
+MA   /NORMALIZATION: MODE=1; FUNCTION=LINEAR; R1=-96.81; R2=0.5931;
+MA      TEXT='Homology Score';
+MA   /NORMALIZATION: MODE=2; FUNCTION=LINEAR; R1=-10.198; R2=0.06215;
+MA      TEXT='Log KBk2';
+MA   /CUT_OFF: LEVEL=0; SCORE=1201; N_SCORE=466; MODE=1;
+MA   /DEFAULT: B0=*; B1=*; E0=*; E1=*; SY_M='*'; II=*;
+MA   /I: B0= 0; B1= 0;
+MA   /M: M=  3, 0, 90, 5; SY=G;
+MA   /M: M=  0, 0, 100, 0; SY=G;
+MA   /M: M=  0, 0, 97, 2; SY=G;
+MA   /M: M=  75, 2, 22, 0; SY=A;
+MA   /M: M=  32, 37, 7, 22; SY=C;
+MA   /M: M=  5, 1, 0, 93; SY=T;
+MA   /M: M=  0, 22, 0, 77; SY=T;
+MA   /M: M=  0, 40, 0, 59; SY=T;
+MA   /M: M=  6, 93, 0, 0; SY=C;
+MA   /M: M=  0, 98, 0, 1; SY=C;
+MA   /I: E0=0; E1=0;
+CC   /TAXO-RANGE=???p?;
+//

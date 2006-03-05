@@ -1,0 +1,29 @@
+ID   ISGF1 ; MATRIX.
+AC   ISGF1.
+DE   IFTI ooTFD siteProfile SM00095.
+CC   Information Content: 16.43.
+CC   Matrix type: Frequency
+MA   /GENERAL_SPEC: ALPHABET='ACGT';
+MA   /DISJOINT: DEFINITION=PROTECT; N1=1; N2=12;
+MA   /NORMALIZATION: MODE=1; FUNCTION=LINEAR; R1=-96.81; R2=0.5931;
+MA      TEXT='Homology Score';
+MA   /NORMALIZATION: MODE=2; FUNCTION=LINEAR; R1=-10.198; R2=0.06215;
+MA      TEXT='Log KBk2';
+MA   /CUT_OFF: LEVEL=0; SCORE=1396; N_SCORE=542; MODE=1;
+MA   /DEFAULT: B0=*; B1=*; E0=*; E1=*; SY_M='*'; II=*;
+MA   /I: B0= 0; B1= 0;
+MA   /M: M=  88, 0, 7, 3; SY=A;
+MA   /M: M=  0, 22, 77, 0; SY=G;
+MA   /M: M=  0, 0, 0, 100; SY=T;
+MA   /M: M=  0, 0, 0, 100; SY=T;
+MA   /M: M=  0, 3, 0, 96; SY=T;
+MA   /M: M=  0, 100, 0, 0; SY=C;
+MA   /M: M=  55, 3, 18, 22; SY=A;
+MA   /M: M=  3, 48, 22, 25; SY=C;
+MA   /M: M=  0, 11, 7, 81; SY=T;
+MA   /M: M=  0, 0, 0, 100; SY=T;
+MA   /M: M=  0, 55, 0, 44; SY=C;
+MA   /M: M=  0, 51, 0, 48; SY=C;
+MA   /I: E0=0; E1=0;
+CC   /TAXO-RANGE=???p?;
+//

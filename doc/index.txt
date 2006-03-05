@@ -1,0 +1,32 @@
+======================
+motility documentation
+======================
+
+**motility** is a C++ library for searching DNA sequences with several
+different types of motif representations, from the simplest case
+(string literals!) to IUPAC-style motifs (e.g. WGATAR),
+Position-Weight Matrices (PWMs), and energy operators. It also has a
+simple Python interface which renders it almost immediately useful
+from the command line; the Python interface also supports reading of
+the JASPAR and TFD libraries of binding sites.
+
+The current version of motility is **0.8**, and it's available
+from the Cartwheel CVS archive on SourceForge under ``motility/``,
+or upon request to *titus@caltech.edu*.
+
+Documentation:
+
+  * `Introduction to motility and motif types`_
+
+  * `C++ API`_
+
+  * `Python interface`_
+
+::
+
+   CTB 12/05
+
+.. _Introduction to motility and motif types: intro.html
+.. _C++ API: c++-interface.html
+.. _Python interface: python-interface.html
+.. _Cartwheel CVS archive on SourceForge: http://sf.net/projects/cartwheel/"

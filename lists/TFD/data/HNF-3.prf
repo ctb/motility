@@ -1,0 +1,26 @@
+ID   HNF-3 ; MATRIX.
+AC   HNF-3.
+DE   IFTI ooTFD siteProfile SM00100.
+CC   Information Content: 9.83.
+CC   Matrix type: Frequency
+MA   /GENERAL_SPEC: ALPHABET='ACGT';
+MA   /DISJOINT: DEFINITION=PROTECT; N1=1; N2=9;
+MA   /NORMALIZATION: MODE=1; FUNCTION=LINEAR; R1=-96.81; R2=0.5931;
+MA      TEXT='Homology Score';
+MA   /NORMALIZATION: MODE=2; FUNCTION=LINEAR; R1=-10.198; R2=0.06215;
+MA      TEXT='Log KBk2';
+MA   /CUT_OFF: LEVEL=0; SCORE=835; N_SCORE=324; MODE=1;
+MA   /DEFAULT: B0=*; B1=*; E0=*; E1=*; SY_M='*'; II=*;
+MA   /I: B0= 0; B1= 0;
+MA   /M: M=  0, 7, 7, 84; SY=T;
+MA   /M: M=  0, 30, 0, 69; SY=T;
+MA   /M: M=  0, 0, 30, 69; SY=T;
+MA   /M: M=  53, 0, 46, 0; SY=A;
+MA   /M: M=  0, 15, 0, 84; SY=T;
+MA   /M: M=  0, 0, 7, 92; SY=T;
+MA   /M: M=  0, 7, 0, 92; SY=T;
+MA   /M: M=  38, 7, 38, 15; SY=A;
+MA   /M: M=  0, 30, 38, 30; SY=G;
+MA   /I: E0=0; E1=0;
+CC   /TAXO-RANGE=???p?;
+//

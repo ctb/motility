@@ -1,0 +1,14 @@
+# DO NOT DELETE
+
+DnaSequence.o: DnaSequence.hh motility.hh
+EnergyOperator.o: EnergyOperator.hh Motif.hh DnaSequence.hh motility.hh
+EnergyOperator.o: MotifMatch.hh _MatrixMotif.hh _MatrixRow.hh
+IupacMotif.o: IupacMotif.hh PwmMotif.hh Motif.hh DnaSequence.hh motility.hh
+IupacMotif.o: MotifMatch.hh _MatrixMotif.hh _MatrixRow.hh
+LiteralMotif.o: LiteralMotif.hh Motif.hh DnaSequence.hh motility.hh
+LiteralMotif.o: MotifMatch.hh
+PwmMotif.o: PwmMotif.hh Motif.hh DnaSequence.hh motility.hh MotifMatch.hh
+PwmMotif.o: _MatrixMotif.hh _MatrixRow.hh
+_MatrixMotif.o: _MatrixMotif.hh Motif.hh DnaSequence.hh motility.hh
+_MatrixMotif.o: MotifMatch.hh _MatrixRow.hh
+motility.o: motility.hh Motif.hh DnaSequence.hh MotifMatch.hh

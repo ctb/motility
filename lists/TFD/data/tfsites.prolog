@@ -1,0 +1,6297 @@
+TFD_subseq('UAS(G)-pMH100',"CGGAGTACTGTCCTCCG","J Mol Biol 209: 423-32 (1989)","YEAST").
+TFD_subseq('TFIIIC-Xls-5S.1',"TGGATGGGAG","EMBO J 6: 3057-63 (1987)","AMPHIB").
+TFD_subseq('HSE_CS_inverted_repeat',"CTNGAANNTTCNAG","Cell 30: 517-28 (1982)","MAMM").
+TFD_subseq('ZDNA_CS',"GCGTGTGCA","Nature 303: 674-9 (1983)","MAMM").
+TFD_subseq('GCN4-his3-189',"ATGACTCAT","Science 234: 451-7 (1986)","YEAST").
+TFD_subseq('Ad5_EIA_element_I',"AGGAAGTGAAA","Cell 45: 229-36 (1986)","MAMM").
+TFD_subseq('Ad5_EIA_element_II',"GGGCGTAACCGAGTAAGATTTGGCCATTTTC","Cell 45: 229-36 (1986)","MAMM").
+TFD_subseq('BPV-E2_CS1',"ACCGNNNNCGGT","Nature 325: 70-3 (1987)","MAMM").
+TFD_subseq('Alb_DEI',"GATTTTGTAATGG","Cell 51: 963-73 (1987)","MAMM").
+TFD_subseq('Alb_DEII',"TTTTTGGCAAAGAT","Cell 51: 963-73 (1987)","MAMM").
+TFD_subseq('Alb_DEIII',"GCAAGGGATTTAGTT","Mol Cell Biol 9: 4750-8 (1989)","MAMM").
+TFD_subseq('Alb_PEI',"TGGTTAATGATCTACAGT","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('BPV-E2_CS2',"ACCNNNNNNGGT","Nucleic Acids Res 15: 10267-84 (1987)","MAMM").
+TFD_subseq('CACA',"CACACACACA","J Biol Chem 265: 2238- (1990)","MAMM").
+TFD_subseq('dc_box',"TSATTTGCAT","Nucleic Acids Res 16: 3693- (1988)","MAMM").
+TFD_subseq('GALV_E',"AGAAATAGATGAGTCAACAG","Mol Cell Biol 7: 2735- (1987)","MAMM").
+TFD_subseq('GCRE',"TGACTC","Cell 43: 177-88 (1985)","YEAST").
+TFD_subseq('Pit-1_CS1',"WTATYCAT","Genes Dev 4: 43-51 (1990)","MAMM").
+TFD_subseq('MuLV_GRBS',"AGAACAGATG","Mol Cell Biol 7: 1101-10 (1987)","MAMM").
+TFD_subseq('SV40-GTI',"GGTGTGGAAAGT","Genes Dev 1: 794-807 (1987)","MAMM").
+TFD_subseq('SV40-GTII',"GCTGTGGAATGT","EMBO J 6: 3005- (1987)","MAMM").
+TFD_subseq('H2KBI',"TGGGGATTCCCCA","Mol Cell Biol 7: 3107-12 (1987)","MAMM").
+TFD_subseq('H4siteII',"CTGGTCCG","Science 236: 1308-11 (1987)","MAMM").
+TFD_subseq('HCMV2',"CCCCATTGACGTCAATGGG","Cell 41: 521-30 (1985)","MAMM").
+TFD_subseq('HCMV-DR1',"TGACGTTGTTT","J Virol 62: 3463-73 (1988)","MAMM").
+TFD_subseq('HIV-kB',"GGGACTTTCC","Nature 326: 711- (1987)","MAMM").
+TFD_subseq('HSVIE',"TAATGARAT","J Virol 50: 708-16 (1984)","MAMM").
+TFD_subseq('HSV-alpha-element',"GYATGNTAATGARATTCYTTGNGGG","Genes Dev 4: 2383-96 (1990)","MAMM").
+TFD_subseq('HSV-a'-IE-element',"GTGCATGCTAATGATATTCTTTGGGG","Genes Dev 4: 2383-96 (1990)","MAMM").
+TFD_subseq('CTF/CP1-CTF-0',"GCCAATGACAAGACG","Nucleic Acids Res 17: 10179-90 (1989)","MAMM").
+TFD_subseq('mu-E1',"GTCAAGATGGCCGATCAG","Nature 322: 846-8 (1986)","MAMM").
+TFD_subseq('mu-E3_(1)',"AGGTCATGTGGCAAG","Nature 313: 798-801 (1985)","MAMM").
+TFD_subseq('Ig_cd',"ATGCAAATNA","Nature 310: 775-7 (1984)","MAMM").
+TFD_subseq('Ig_core',"GCCAGGTGGC","Nature 313: 798-801 (1985)","MAMM").
+TFD_subseq('Ig_dc',"TGATTTGCAT","Nature 310: 775-7 (1984)","MAMM").
+TFD_subseq('Ig_pd',"TGCAGCTGTGNCNAN","Nature 310: 775-7 (1984)","MAMM").
+TFD_subseq('NF-kB-mIg-kappa',"GGGGACTTTCC","Cell 46: 705-16 (1986)","MAMM").
+TFD_subseq('LVa_RS',"GAACAG","Mol Cell Biol 7: 1101-10 (1987)","MAMM").
+TFD_subseq('LVb_RS',"CAGGATA","Mol Cell Biol 7: 1101-10 (1987)","MAMM").
+TFD_subseq('MEP-1-MREd',"CTCTGCACTCCGCCC","Nucleic Acids Res 19: 4225-31 (1991)","MAMM").
+TFD_subseq('NFI_CS1',"TGGMNNNNNGCCAA","Nucleic Acids Res 15: 5545- (1987)","MAMM").
+TFD_subseq('NFI_CS2',"TGGGMNNNNNGCCA","Nucleic Acids Res 15: 5545- (1987)","MAMM").
+TFD_subseq('NFI_CS3',"TGGNNNNNNGCCA","EMBO J 5: 381-6 (1986)","MAMM").
+TFD_subseq('NFkB-k3',"CAGAGGGGACTTTCCGAGAGG","Cell 46: 705- (1986)","MAMM").
+TFD_subseq('NFkB-PRDII',"GGGAAATTCC","Cell 57: 287-94 (1989)","MAMM").
+TFD_subseq('kappa-E3',"GTCCCATGTGGTTAC","Cell 46: 705-16 (1986)","MAMM").
+TFD_subseq('OCTA1.1',"ATTTGCAT","Nature 319: 154-8 (1986)","MAMM").
+TFD_subseq('OCTA-mutant-8',"ATTTGCAGNA","Nature 329: 174-8 (1987)","MAMM").
+TFD_subseq('OCTA-mutant-10',"ATTTGCATNT","Nature 329: 174-8 (1987)","MAMM").
+TFD_subseq('E-box_CS',"CAGGTGGC","Science 227: 134-40 (1985)","MAMM").
+TFD_subseq('OCTA3',"ATGCAAAT","Proc Natl Acad Sci U S A 81: 2650-4 (1984)","MAMM").
+TFD_subseq('PEBP2_RS',"GACCGC","J Virol 63: 3669-77 (1989)","MAMM").
+TFD_subseq('PEA1-polyoma',"GAAGTGACTAACTG","EMBO J 6: 1331-7 (1987)","MAMM").
+TFD_subseq('PE-a',"GACCGCA","EMBO J 6: 1331-7 (1987)","MAMM").
+TFD_subseq('PE-b',"TCCTCTTTTAATTAGTTGCTAGGCAACTGCCCTCCAGAGGGCAGT","Nucleic Acids Res 14: 9595- (1986)","MAMM").
+TFD_subseq('PRL_conserved_motif',"CCTGAWWA","Proc Natl Acad Sci U S A 84: 5211-5 (1987)","MAMM").
+TFD_subseq('prolactin_USI',"GCTGTAATTAATCAAAA","Science 237: 283-6 (1987)","MAMM").
+TFD_subseq('prolactin_USII',"TCCTTCCTTTCTG","Science 237: 283-6 (1987)","MAMM").
+TFD_subseq('SCMV-IE94-series_III',"ACGGTAAATGGCCC","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('AP-1-SV40',"TCAATTAGTCA","Cell 53: 659-67 (1988)","MAMM").
+TFD_subseq('SV40-SPHII',"AAGTATGCAAAG","Cell 54: 943-53 (1988)","MAMM").
+TFD_subseq('SV40-core',"GTGGWWWGGTCCCCA","Science 219: 626-31 (1983)","MAMM").
+TFD_subseq('Sp1_CS1',"KGGGCGGRRY","Nature 316: 774-8 (1985)","MAMM").
+TFD_subseq('SRE.1',"ATCYYATTWTCTGKTTGTA","Nature 298: 707-8 (1982)","MAMM").
+TFD_subseq('TAATGARAT',"TAATGARAT","J Virol 63: 2798- (1989)","MAMM").
+TFD_subseq('TFIIIC-Xls-5S.2',"ACCGCCTG","EMBO J 6: 3057-63 (1987)","AMPHIB").
+TFD_subseq('TGGCA_RS',"YTGGCANNNTGCCAR","Nucleic Acids Res 13: 2045-61 (1985)","MAMM").
+TFD_subseq('alpha-TIF_CS',"TAATGARAT","Proc Natl Acad Sci U S A 87: 5268- (1990)","MAMM").
+TFD_subseq('beta-globin-CACCC-box',"CCACACCC","J Biol Chem 270: 1955-9 (1995)","MAMM").
+TFD_subseq('beta-IFN_CS',"AAWAANGAAAGGR","Cell 41: 509-20 (1985)","MAMM").
+TFD_subseq('cAMP_RE',"TGACGTCA","Proc Natl Acad Sci U S A 84: 3550-4 (1987)","MAMM").
+TFD_subseq('dGHF1_(1)',"AGCTTCTAAATTATCCAT","Science 243: 814-7 (1989)","MAMM").
+TFD_subseq('GR-MMTV-IIA',"TGGTATCAAATGTTCT","Nature 304: 749-52 (1983)","MAMM").
+TFD_subseq('oriP_CS',"TAGCATATGCTA","Cell 42: 859- (1985)","MAMM").
+TFD_subseq('pGHF1_(1)',"CCATGCATAAATGTACACAG","Science 243: 814-7 (1989)","MAMM").
+TFD_subseq('polII_term',"ATCRAAWTAGWAAKAGCAAT","Nucleic Acids Res 14: 4113-25 (1986)","EUK").
+TFD_subseq('topoI_RS',"ARACTTAGATAAAWWW","Cell 41: 541-51 (1985)","EUK").
+TFD_subseq('MRE_CS2',"TGCRCNC","Mol Cell Biol 9: 1376-80 (1989)","MAMM").
+TFD_subseq('tMT-B_MREa',"TTTTGCACACGGCAC","Mol Cell Biol 9: 5315-23 (1989)","FISH").
+TFD_subseq('NFkB_CS1',"GGGRHTYYHC","Cell 58: 227-9 (1989)","MAMM").
+TFD_subseq('EF-C_CS1',"GTTGCYNGRCAAC","Mol Cell Biol 9: 2787-97 (1989)","MAMM").
+TFD_subseq('EFII_RS',"TCTTATGCAATACTCTTGTA","Mol Cell Biol 7: 787-98 (1987)","MAMM").
+TFD_subseq('EFI__RS',"ACCGTGCATGCCGATTGGTG","Mol Cell Biol 7: 787-98 (1987)","MAMM").
+TFD_subseq('c-fos_SRE_half-site',"GATGTCC","Genes Dev 4: 255- (1990)","MAMM").
+TFD_subseq('c-fos_SRE_1',"GATGTCCATATTAGGACATC","Genes Dev 4: 255- (1990)","MAMM").
+TFD_subseq('TATA-box.2',"TATAAA","Nucleic Acids Res 14: 10009-26 (1986)","EUK").
+TFD_subseq('CAAT-box.1',"GGYCAATCT","Nucleic Acids Res 14: 10009-26 (1986)","EUK").
+TFD_subseq('FSE2.1',"GAGAGGA","Cell 49: 835-44 (1987)","MAMM").
+TFD_subseq('aP2-FSE2',"ACTCAGAGGAAAA","Cell 49: 835-44 (1987)","MAMM").
+TFD_subseq('MLTF-Ad-MLP',"GGCCACGTGACC","Genes Dev 1: 973-80 (1987)","MAMM").
+TFD_subseq('FSE1',"GGGWCTGGTCAKG","Cell 49: 835-44 (1987)","MAMM").
+TFD_subseq('AP-2_CS1',"TCCCCANGCG","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP-2_CS2',"CCCCAGGC","Cell 50: 847-61 (1987)","MAMM").
+TFD_subseq('AP3-SV40',"GGGTGTGGAAAGTC","Nature 329: 648-51 (1987)","MAMM").
+TFD_subseq('AP-4_CS',"YCAGCTGYGG","Nature 332: 557-61 (1988)","MAMM").
+TFD_subseq('CP1-MLP',"AACCAAT","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('CP2-gamma-FBG',"AGCCACT","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('NFI-NFI',"AGCCAAT","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('HNF-1_CS',"GTTAATNATTAAC","Proc Natl Acad Sci U S A 85: 7937-41 (1988)","MAMM").
+TFD_subseq('GRE_CS2',"YGGTWCAMWTGTYCT","Nature 308: 513-9 (1984)","MAMM").
+TFD_subseq('URS2',"CACGAAAA","Cell 48: 389-97 (1987)","YEAST").
+TFD_subseq('EivF/CRE_CS',"GTKACGW","Genes Dev 2: 975-90 (1988)","MAMM").
+TFD_subseq('ADH2_UAS1',"TCTCCAACTTATAAGTTGGAGA","Mol Cell Biol 9: 34-42 (1989)","YEAST").
+TFD_subseq('XlHbox1-F1',"CAATTAAA","EMBO J 7: 2139- (1988)","AMPHIB").
+TFD_subseq('CUP1-UASc',"TTTTTTGCTGGAACGGTTCAG","Mol Cell Biol 10: 4778-87 (1990)","YEAST").
+TFD_subseq('EF-1-alpha-globin',"CAACTGATAAGGAT","Mol Cell Biol 9: 2606- (1989)","MAMM").
+TFD_subseq('Octa1.4',"ATGCAAAG","Genes Dev 1: 1147-60 (1987)","MAMM").
+TFD_subseq('Octa2.2',"ATGCATCT","Genes Dev 1: 1147-60 (1987)","MAMM").
+TFD_subseq('BGP1_RS1',"GGGCGG","Genes Dev 2: 957-74 (1988)","AVIAN").
+TFD_subseq('HNF-1_CS2',"RGTTAMTNNTYNNCM","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('NP_CS',"TCAATTAAATGA","Cell 54: 1081-90 (1988)","DROS").
+TFD_subseq('B1_CS',"AAARRGGAARYG","Mol Cell Biol 8: 381-92 (1988)","MAMM").
+TFD_subseq('B2_RS',"TCCTATCA","Mol Cell Biol 8: 381-92 (1988)","MAMM").
+TFD_subseq('TyBF_RS',"GTCATCATAGACG","Mol Cell Biol 8: 2572-80 (1988)","YEAST").
+TFD_subseq('GRE_CS5',"SGGTWCAANNTGTYCT","DNA 5: 383-91 (1986)","MAMM").
+TFD_subseq('ICSBP_CS',"YRGTTTCRYTTYYN","Proc Natl Acad Sci U S A 87: 3743-7 (1990)","MAMM").
+TFD_subseq('cI-Op72a',"ATTGCTCTAATAAATTT","J Mol Biol 205: 127-35 (1989)","PROK").
+TFD_subseq('MCE-DSE14',"TTCCTAATTAGGAA","Genes Dev 3: 921-35 (1989)","YEAST").
+TFD_subseq('C/EBP_CS1',"TKNNGYAAK","Genes Dev 1: 133-46 (1987)","MAMM").
+TFD_subseq('Amy-1_LIVa',"TGTTCCCATTATGTTCT","Mol Cell Biol 6: 969- (1986)","MAMM").
+TFD_subseq('CK-1',"GAGATTCCAC","Proc Natl Acad Sci U S A 85: 674- (1988)","MAMM").
+TFD_subseq('CK-2',"TCAGGTA","Proc Natl Acad Sci U S A 85: 674- (1988)","MAMM").
+TFD_subseq('ERE_CS1',"GGTCANNNTGACC","Nucleic Acids Res 12: 8611- (1984)","AVIAN").
+TFD_subseq('RIPE',"CCAGGGGTCAGGGGGGGGGTGCTT","Mol Cell Biol 8: 2070-7 (1988)","MAMM").
+TFD_subseq('MHCemb-BSe',"GTGTCAGTCA","Mol Cell Biol 9: 1839-49 (1989)","MAMM").
+TFD_subseq('CK-8-mer',"AANCCAAA","EMBO J 6: 567-75 (1987)","MAMM").
+TFD_subseq('TATA-box.1',"TATAAT","J Mol Biol 206: 591-603 (1989)","PROK").
+TFD_subseq('Nod_box',"ATCCAAACAATCRATTTTACCAATC","Genes Dev 2: 282- (1988)","PROK").
+TFD_subseq('G-box',"SGGGTGKGTT","Genes Dev 2: 294-304 (1988)","DICT").
+TFD_subseq('GH0',"ACCGACCG","EMBO J 7: 1205- (1988)","MAMM").
+TFD_subseq('GH1',"TCTGTCTG","EMBO J 7: 1205- (1988)","MAMM").
+TFD_subseq('GH2',"ACCGACTG","EMBO J 7: 1205- (1988)","MAMM").
+TFD_subseq('JCV-GH-wt',"CTCGAGTACGAACCGACCGTCGGTAGG","EMBO J 7: 1205-10 (1988)","MAMM").
+TFD_subseq('IR_(1)',"TTATCCAAAACCTCGGTTTACAGGAAAC","EMBO J 7: 1219-27 (1988)","PROK").
+TFD_subseq('EIIaE_site_B',"AAAACTACGTCATCTCCA","Mol Cell Biol 7: 3806-17 (1987)","MAMM").
+TFD_subseq('EIIaE_site_A',"TCGCGCCCTTTCT","Mol Cell Biol 7: 3806-17 (1987)","MAMM").
+TFD_subseq('topoII_CS',"GTNWAYATTNATNNG","Nucleic Acids Res 13: 1057-72 (1985)","DROS").
+TFD_subseq('his3-Tr-TATA',"TATAAA","Proc Natl Acad Sci U S A 85: 2691-5 (1988)","YEAST").
+TFD_subseq('NF-MHCIIA_RS',"GAGTGATGACTCACGTCAAG","Mol Cell Biol 8: 2034-41 (1988)","MAMM").
+TFD_subseq('NF-MHCIIB_RS',"AGAACCAATGGGCAC","Mol Cell Biol 8: 2034-41 (1988)","MAMM").
+TFD_subseq('AP-1_CS1',"STGACTMA","Cell 49: 741-52 (1987)","MAMM").
+TFD_subseq('CRE.2',"KWCGTCA","Genes Dev 1: 1132-46 (1987)","MAMM").
+TFD_subseq('NFI_CS4',"TTGGCTNNNAGCCAA","Cell 48: 79-89 (1987)","MAMM").
+TFD_subseq('Sp1_CS2',"GGGCGG","Science 234: 47-52 (1986)","MAMM").
+TFD_subseq('E2F_CS.1',"TTTCGCGC","EMBO J 6: 2061-8 (1987)","MAMM").
+TFD_subseq('AP3-IL2-siteI',"AGGTGAAATCC","EMBO J 8: 1455-60 (1989)","MAMM").
+TFD_subseq('C/EBP-mTf',"CGGGGTGATTGGGCAATTGGACTG","Proc Natl Acad Sci U S A 87: 3992-6 (1990)","MAMM").
+TFD_subseq('AP5-SV40',"CTGTGGAATG","EMBO J 8: 1455-60 (1989)","MAMM").
+TFD_subseq('EF-C.2',"GTTGCNNGGCAAC","Proc Natl Acad Sci U S A 83: 8550-4 (1986)","MAMM").
+TFD_subseq('E2A_US',"TGGGAATT","Genes Dev 2: 267-81 (1988)","MAMM").
+TFD_subseq('E4TF1_CS',"RTGACGT","Mol Cell Biol 8: 1290-300 (1988)","MAMM").
+TFD_subseq('EIIaE-T1',"GTCCTTAAGAGTCA","EMBO J 4: 1293-300 (1985)","MAMM").
+TFD_subseq('ABF1_CS',"WDCNYNNNNNACGAD","Mol Cell Biol 10: 887-97 (1990)","YEAST").
+TFD_subseq('engrailed_CS',"HCWATHAAA","Proc Natl Acad Sci U S A 87: 2289-93 (1990)","DROS").
+TFD_subseq('eve_RS1',"TCAGCACCG","Mol Cell Biol 8: 4598-607 (1988)","DROS").
+TFD_subseq('b2-somatostatin',"TGACGTCA","J Biol Chem 264: 6550-6 (1989)","MAMM").
+TFD_subseq('Lymphokine_CS',"GRGRTTYCAY","EMBO J 4: 2569- (1985)","MAMM").
+TFD_subseq('COUP-ovalbuminS1',"TATGGTGTCAAAGGTCAAACT","J Biol Chem 263: 13470","MAMM").
+TFD_subseq('EGFR_site_2',"CAGCCCCCGGCGCAGC","J Biol Chem 264: 15508","MAMM").
+TFD_subseq('MHCII_CS-A',"CCCAGCGAGTGATG","Mol Cell Biol 8: 2034-41 (1988)","MAMM").
+TFD_subseq('MHCII_CS-B',"CCCATTGGTT","Mol Cell Biol 8: 2034-41 (1988)","MAMM").
+TFD_subseq('MT/G-box',"GSGGGSCGKGTGCA","Genes Dev 2: 412-27 (1988)","MAMM").
+TFD_subseq('MRE_CS3',"CTNTGCRCNCGGCCC","Nature 317: 828-31 (1985)","MAMM").
+TFD_subseq('IL2-B-site',"TAATATGTAAAACATTTT","Proc Natl Acad Sci U S A 85: 2934- (1988)","MAMM").
+TFD_subseq('A-alpha-Y_box',"CTGATTGGTTC","Mol Cell Biol 10: 593- (1990)","MAMM").
+TFD_subseq('E-alpha_Y_box',"TKCTGATTGTYTMM","Cell 50: 863-72 (1987)","MAMM").
+TFD_subseq('E-alpha_X_box',"CCTAGCAACAGATG","Mol Cell Biol 10: 593- (1990)","MAMM").
+TFD_subseq('E-alpha_H_box',"GGACCTG","Mol Cell Biol 10: 593- (1990)","MAMM").
+TFD_subseq('ISRE_CS',"YAGTTCWYTTTYCC","Genes Dev 2: 383-93 (1988)","MAMM").
+TFD_subseq('ARS_CS',"WTTTAYRTTTWB","Mol Cell Biol 10: 3917- (1990)","YEAST").
+TFD_subseq('dc_box.2',"TNATTTGCAT","Nucleic Acids Res 16: 3693- (1988)","MAMM").
+TFD_subseq('ApoCIIIp1',"CTCAGGCCCT","J Biol Chem 263: 6857- (1988)","MAMM").
+TFD_subseq('ApoCIIIp2',"GGTGACCTT","J Biol Chem 263: 6857- (1988)","MAMM").
+TFD_subseq('ApoCIII_NE',"GAGTTGGGAAATCCCT","J Biol Chem 263: 6857- (1988)","MAMM").
+TFD_subseq('ApoCIIId',"CCCCACTGAGGAACC","J Biol Chem 263: 6857- (1988)","MAMM").
+TFD_subseq('cytomeg18',"MCTAACGGGACTTTCCAA","Cell 41: 521-30 (1985)","MAMM").
+TFD_subseq('cytomeg19',"CCCCATTGACGTCAATGGG","Arch Virol 112: 67-80 (1990)","MAMM").
+TFD_subseq('AP-2_CS3',"CCSCRGGC","Cell 50: 847-61 (1987)","MAMM").
+TFD_subseq('PRDI_(1)',"GAGAAGTGAAAGTG","Proc Natl Acad Sci U S A 85: 3309- (1988)","MAMM").
+TFD_subseq('PRDII',"GTGGGAAATTCC","EMBO J 8: 101-10 (1989)","MAMM").
+TFD_subseq('NRDI',"GGAAATTCCTCTGAATAGAGAGAGGAC","Proc Natl Acad Sci U S A 85: 1447-51 (1988)","MAMM").
+TFD_subseq('ATF_CS1',"GTGACGTMR","Proc Natl Acad Sci U S A 85: 3396-400 (1988)","MAMM").
+TFD_subseq('TCR-beta_decamer',"AGTGAYRTCA","Mol Cell Biol 10: 5027- (1990)","MAMM").
+TFD_subseq('Ap1-E3',"GTTAGTCAT","Cell 53: 659-67 (1988)","MAMM").
+TFD_subseq('Ap1-SV',"ATTAGTCAG","Cell 53: 659-67 (1988)","MAMM").
+TFD_subseq('AP1-Col',"ATGAGTCAG","Cell 53: 659-67 (1988)","MAMM").
+TFD_subseq('HIS-wt',"AAGAGTCAT","Science 234: 451-7 (1986)","YEAST").
+TFD_subseq('HIS168',"AAGCGTCAT","Science 234: 451-7 (1986)","YEAST").
+TFD_subseq('GH-CSE1',"TAAATTA","J Biol Chem 263: 7821-9 (1988)","MAMM").
+TFD_subseq('GH-CSE2',"AATAAAT","J Biol Chem 263: 7821-9 (1988)","MAMM").
+TFD_subseq('GH-TRE',"AAAGGCGG","J Biol Chem 263: 7821-9 (1988)","MAMM").
+TFD_subseq('CYP1-UAS0',"CTAATAGCGATAATAGCGAGGG","Mol Cell Biol 8: 2275-9 (1988)","YEAST").
+TFD_subseq('UAS1A',"TTTCACCGATCTTTCC","Mol Cell Biol 8: 2275-9 (1988)","YEAST").
+TFD_subseq('UAS0',"CTAATAGCGATAATAGCGAGGG","Mol Cell Biol 8: 2275-9 (1988)","YEAST").
+TFD_subseq('UAS1B',"TCATCGTCCGTAAACCCCGGCCA","Mol Cell Biol 8: 2275-9 (1988)","YEAST").
+TFD_subseq('Slp-FPI',"AAAGTCTCTGGATGATGCAACCCTCCAAGAA","Mol Cell Biol 8: 2350-60 (1988)","MAMM").
+TFD_subseq('Slp-FPII',"CTGCAATTGCACAAGG","Mol Cell Biol 8: 2350-60 (1988)","MAMM").
+TFD_subseq('Slp-FPIIpa',"CCTTGCTGCAATTGCACAAGG","Mol Cell Biol 8: 2350-60 (1988)","MAMM").
+TFD_subseq('Slp-FPIII',"CACAAGGGGAAACT","Mol Cell Biol 8: 2350-60 (1988)","MAMM").
+TFD_subseq('Slp-FPIIIa',"CTCAAGATTTTAATCTAA","Mol Cell Biol 8: 2350-60 (1988)","MAMM").
+TFD_subseq('Slp-FPIIIb',"TTTGTGGTTGGCCCCAG","Mol Cell Biol 8: 2350-60 (1988)","MAMM").
+TFD_subseq('Slp-FPIV',"CCTGCTTATGTAATTATCT","Mol Cell Biol 8: 2350-60 (1988)","MAMM").
+TFD_subseq('SP-A',"CAATTCCTCCTCCTGC","Mol Cell Biol 8: 2449-55 (1988)","MAMM").
+TFD_subseq('SP-B',"CTCCACCAATCGGC","Mol Cell Biol 8: 2449-55 (1988)","MAMM").
+TFD_subseq('SP-C',"GGCAGTCAG","Mol Cell Biol 8: 2449-55 (1988)","MAMM").
+TFD_subseq('SP-D',"CCTCTAAGAGACAG","Mol Cell Biol 8: 2449-55 (1988)","MAMM").
+TFD_subseq('NFI-HBV-SP',"ACTGGCCAGCAGCCAAC","Mol Cell Biol 8: 2449-55 (1988)","MAMM").
+TFD_subseq('SP-E',"GACAGTCAT","Mol Cell Biol 8: 2449-55 (1988)","MAMM").
+TFD_subseq('CDEI',"ATCACGTG","Mol Cell Biol 8: 2523-35 (1988)","YEAST").
+TFD_subseq('CDEIII',"TGWTWTGNNTTCCGAANNNNNAAA","Mol Cell Biol 8: 2523-35 (1988)","YEAST").
+TFD_subseq('CEN6',"AGTTTTTGCTTTCCGAAGATGTAAA","Mol Cell Biol 8: 2523-35 (1988)","YEAST").
+TFD_subseq('APRT_US',"CCAGAAGCCCCACCTACCAAGGACGC","Mol Cell Biol 8: 2536-44 (1988)","MAMM").
+TFD_subseq('APRT-CHO_US',"GCCCCACC","Mol Cell Biol 8: 2536-44 (1988)","MAMM").
+TFD_subseq('APRT-mouse_US',"GCCCCGCC","Mol Cell Biol 8: 2536-44 (1988)","MAMM").
+TFD_subseq('APRT-human_US',"GCCCCACC","Mol Cell Biol 8: 2536-44 (1988)","MAMM").
+TFD_subseq('CYC7-H2',"GTTAGACGTTTCAGCTTCCAAAACAGAAGAATGTG","Mol Cell Biol 8: 2545-54 (1988)","YEAST").
+TFD_subseq('MLC1f/MLC3f-DR',"AAGCCCTCTCCC","Mol Cell Biol 8: 2581-8 (1988)","MAMM").
+TFD_subseq('MLC1f/MLC3f-IR',"CTGCAGGA","Mol Cell Biol 8: 2581-8 (1988)","MAMM").
+TFD_subseq('IgHuE1',"GGCCATCTTG","Mol Cell Biol 8: 2620-7 (1988)","MAMM").
+TFD_subseq('IgHuE2',"TGCCAGCTGC","Mol Cell Biol 8: 2620-7 (1988)","MAMM").
+TFD_subseq('IgHuE3',"TGCCACATGA","Mol Cell Biol 8: 2620-7 (1988)","MAMM").
+TFD_subseq('Nir_box',"CGCCATCTGC","Mol Cell Biol 8: 2620-7 (1988)","MAMM").
+TFD_subseq('GAGA_CS',"MGAGAGAGC","Cell 53: 699-711 (1988)","DROS").
+TFD_subseq('HIG1_HE2',"TATTTTAGGAAGCAAA","Cell 53: 723-30 (1988)","MAMM").
+TFD_subseq('IL2R-alpha_US',"GGGGAATCTCCC","Cell 53: 827-36 (1988)","MAMM").
+TFD_subseq('human_Sal_box_CS',"GGGTCGACCAG","Nucleic Acids Res 18: 4727-36 (1990)","MAMM").
+TFD_subseq('CArG_box_CS',"CCWWWWWWGG","Proc Natl Acad Sci U S A 84: 6702-6 (1987)","MAMM").
+TFD_subseq('HN1',"GCAGGTCATGTGGCAAGG","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('HN2',"ACTAGGTAAACTTGTAGCTGTGG","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('HN3',"TGAAACACT","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('HN4',"AAAGTCCAG","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('HN5',"TGGGTAATTTGCATTTCTA","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('LN1',"GCAGGTCATGTGGCAAGG","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('LN2',"GGGGAAGGGAAAATAAAACC","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('LN3',"ACTAGGTAAACTTGTAGCTGTGGTTTG","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('LN4',"GAAAGTCCAGGC","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('LN5',"TGGGTAATTTGCATTTCTAAAATAAGTT","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('HC1',"AGGAAGCA","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('HC2',"TTGAAACA","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('HC3',"CCACCA","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('HC4',"ACCTGGGTAATTTGCATTTCTA","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('HC5',"CCGAAAC","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('LC1',"TTTTCCCTTCCCCAAATAGCCTTGCCACATGACCTGCTTC","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('LC2',"GGTGGTTTGGCTTTCAGG","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('LC3',"TGGACCCATTAAACGTAAAGATTT","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('LC4',"TTATTCAACT","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('LF-A2_RS1',"TGGTTAAT","EMBO J 7: 1711-9 (1988)","MAMM").
+TFD_subseq('rPrl.A',"CTGATTA","EMBO J 7: 1721-33 (1988)","MAMM").
+TFD_subseq('rPrl.B',"TGAAGGTGTCGAAGGT","EMBO J 7: 1721-33 (1988)","MAMM").
+TFD_subseq('HAP1_RS',"AACCTCCGTTATCTCCATT","EMBO J 7: 1799-804 (1988)","YEAST").
+TFD_subseq('NFI.1',"ACATTCTCCTTGCCAAG","J Biol Chem 263: 8485-90 (1988)","MAMM").
+TFD_subseq('Lam_B2_US',"CCCKCCCWCCT","J Biol Chem 263: 8384-9 (1988)","MAMM").
+TFD_subseq('ApoE_SRE',"CCTCTCCAGATTACATTCATC","J Biol Chem 263: 8300-8 (1988)","MAMM").
+TFD_subseq('ApoE_B1',"SCCCACCTC","J Biol Chem 263: 8300-8 (1988)","MAMM").
+TFD_subseq('ApoE_B2',"SSCCCCAGNNTC","J Biol Chem 263: 8300-8 (1988)","MAMM").
+TFD_subseq('ApoE_A',"CTCCCYCTGYCC","J Biol Chem 263: 8300-8 (1988)","MAMM").
+TFD_subseq('CDF1_RS',"CTAAATAC","J Biol Chem 263: 8288-93 (1988)","PLANT").
+TFD_subseq('C/EBP_CS2',"TCNTACTC","Proc Natl Acad Sci U S A 85: 3840-4 (1988)","MAMM").
+TFD_subseq('C/EBP-TTRS2',"TAATACTC","Proc Natl Acad Sci U S A 85: 3840-4 (1988)","MAMM").
+TFD_subseq('C/EBP-TTRS3',"TCTTACTC","Proc Natl Acad Sci U S A 85: 3840-4 (1988)","MAMM").
+TFD_subseq('C/EBP-AT-Site-A',"ACCTACTC","Proc Natl Acad Sci U S A 85: 3840-4 (1988)","MAMM").
+TFD_subseq('C/EBP-AT-Site-C.1',"TAAGACTC","Proc Natl Acad Sci U S A 85: 3840-4 (1988)","MAMM").
+TFD_subseq('C/EBP-AT-Site-C.2',"TCTTAAGC","Proc Natl Acad Sci U S A 85: 3840-4 (1988)","MAMM").
+TFD_subseq('C/EBP-SV40-1',"TTCCACAC","Proc Natl Acad Sci U S A 85: 3840-4 (1988)","MAMM").
+TFD_subseq('C/EBP-DEI.1',"TCCTACCC","Proc Natl Acad Sci U S A 85: 3840-4 (1988)","MAMM").
+TFD_subseq('C/EBP-DEI.2',"TCATACCA","Proc Natl Acad Sci U S A 85: 3840-4 (1988)","MAMM").
+TFD_subseq('C/EBP-SV',"GTTAGGGTGTGGAAAGTCCC","Genes Dev 1: 133-46 (1987)","MAMM").
+TFD_subseq('C/EBP-MSV-1',"AGGATATCTGTGGTAAGCA","Genes Dev 1: 133-46 (1987)","MAMM").
+TFD_subseq('C/EBP-PY',"AGTGTGGTTTTGCAAGAGGAA","Genes Dev 1: 133-46 (1987)","MAMM").
+TFD_subseq('IEF1_(E3)_RS',"GCCATCTG","Proc Natl Acad Sci U S A 85: 4228-31 (1988)","MAMM").
+TFD_subseq('NFkB_CS2',"RGGGRMTYYCC","Nature 333: 776-8 (1988)","MAMM").
+TFD_subseq('NFkB-HIV-1.2',"GGGGACTTTCC","Nature 333: 776-8 (1988)","MAMM").
+TFD_subseq('NFkB-b2m',"AGGGACTTTCC","Nature 333: 776-8 (1988)","MAMM").
+TFD_subseq('NFkB-HIgk',"GGGGGATTTCC","Nature 333: 776-8 (1988)","MAMM").
+TFD_subseq('NF-kB-class_I_MHC',"GGGGAATCCCC","Nature 333: 776-8 (1988)","MAMM").
+TFD_subseq('NFkB-hIL2Ra',"GGGGAATCTCC","J Biol Chem 264: 8475- (1989)","MAMM").
+TFD_subseq('NFI.2',"GCCAATC","Mol Cell Biol 7: 3646-55 (1987)","MAMM").
+TFD_subseq('NFI.3',"TGGATTGAAGCCAA","Proc Natl Acad Sci U S A 80: 6177-81 (1983)","MAMM").
+TFD_subseq('NFI.4',"TGGGCACAGTGCCAA","Mol Cell Biol 5: 964-71 (1985)","MAMM").
+TFD_subseq('NFI.5',"TGGCTTTGGGCCAA","Mol Cell Biol 5: 964-71 (1985)","MAMM").
+TFD_subseq('NFI.6',"TGGATTTGTGCCAA","Mol Cell Biol 5: 964-71 (1985)","MAMM").
+TFD_subseq('NFI-cmycII1',"TGGAAGGCAGCCAA","Cell 37: 381-91 (1984)","MAMM").
+TFD_subseq('NFI-cmycII2',"TGGAAGGTATCCAA","Cell 37: 381-91 (1984)","MAMM").
+TFD_subseq('NFI.7',"TGGCACTATGCCAC","Mol Cell Biol 5: 964-71 (1985)","MAMM").
+TFD_subseq('NFI.8',"TGGGCAGATTGCCAA","Mol Cell Biol 5: 964-71 (1985)","MAMM").
+TFD_subseq('NFI.9',"TGGCAAGCTGTCAA","Mol Cell Biol 5: 964-71 (1985)","MAMM").
+TFD_subseq('NFI-wt',"TTGGATTGAAGGCCAA","Nucleic Acids Res 14: 1303-17 (1986)","MAMM").
+TFD_subseq('NFI.10',"TGGCACTGGGCCAA","Nature 314: 289-92 (1985)","MAMM").
+TFD_subseq('NFI.11',"TGGCACATGGCCAA","EMBO J 5: 1367-71 (1986)","MAMM").
+TFD_subseq('NFI.12',"TGGCTAATGGCCAA","EMBO J 5: 1367-71 (1986)","MAMM").
+TFD_subseq('NFI.13',"TGGCCAATAGCCAA","EMBO J 5: 1367-71 (1986)","MAMM").
+TFD_subseq('NFI.14',"TGGACATGAGCCAA","EMBO J 5: 1367-71 (1986)","MAMM").
+TFD_subseq('NFI.15',"TGGCTATATGCCAA","EMBO J 5: 1367-71 (1986)","MAMM").
+TFD_subseq('NFI.16',"TTGGATTGAAGCCAAT","Nucleic Acids Res 13: 4935-52 (1985)","MAMM").
+TFD_subseq('NFI-CSLa1,1',"CATCCGTGGCTGGAGCCAAAAGTG","Nucleic Acids Res 12: 4295-311 (1984)","MAMM").
+TFD_subseq('NFI.17',"ATTTTGGATTGAAGCCAATATGA","Mol Cell Biol 7: 864-74 (1987)","MAMM").
+TFD_subseq('CTF',"GCCAATGA","Cell 42: 559-72 (1985)","MAMM").
+TFD_subseq('NFI-tkII',"ACCCCGCCCA","Cell 42: 559-72 (1985)","MAMM").
+TFD_subseq('NFI.18',"TGGATTGAAGCCAATA","EMBO J 4: 1515-21 (1985)","MAMM").
+TFD_subseq('CRE-Ga',"TGACGTCA","J Biol Chem 263: 9879-86 (1988)","MAMM").
+TFD_subseq('Ga-URE',"ACTGGATTCCCAACTTTG","J Biol Chem 263: 9879-86 (1988)","MAMM").
+TFD_subseq('IL2_CS',"ASAAASGAGGAAAAACTG","Cell 46: 401-5 (1986)","MAMM").
+TFD_subseq('LysHREI',"CAGAGAACACAGG","EMBO J 7: 2063-73 (1988)","MAMM").
+TFD_subseq('LysHREII',"TTTATGTACAGGG","EMBO J 7: 2063-73 (1988)","MAMM").
+TFD_subseq('LysHREIII',"AGAAGACTTTCCATTCTGGCCACA","EMBO J 7: 2063-73 (1988)","MAMM").
+TFD_subseq('LysHREIV',"CCCAGTTTGTACAGTTCTGGCACTTTTT","EMBO J 7: 2063-73 (1988)","MAMM").
+TFD_subseq('LysHREV',"AGGCCGTGATCCAAGGAGCAGAAGTTCCAGCTATGGTCAG","EMBO J 7: 2063-73 (1988)","MAMM").
+TFD_subseq('LysHREVI',"GCCTGACCGTCCC","EMBO J 7: 2063-73 (1988)","MAMM").
+TFD_subseq('LF-A1_RS1',"CAGATCCCAGCCAGTGGACTTAGCCCCTGTTTGCT","EMBO J 7: 2075-87 (1988)","MAMM").
+TFD_subseq('LF-A2_RS2',"CTCCGATAACTG","EMBO J 7: 2075-87 (1988)","MAMM").
+TFD_subseq('LF-B1_RS',"ACCTTGGTTAATATTCACCAGCA","EMBO J 7: 2075-87 (1988)","MAMM").
+TFD_subseq('LF-B2_RS',"GGGTGACCTTGGTTAATATT","EMBO J 7: 2075-87 (1988)","MAMM").
+TFD_subseq('LF-C_RS',"TGCCCCTCTGGATCCACTGCTTAA","EMBO J 7: 2075-87 (1988)","MAMM").
+TFD_subseq('UBP1_RS',"CTCTCTGG","EMBO J 7: 2117-30 (1988)","MAMM").
+TFD_subseq('EBP1_RS',"GGGACTTTCC","EMBO J 7: 2117-30 (1988)","MAMM").
+TFD_subseq('GRF1_RS',"ATAACGTTTTTTGGGTAGTTGGAAC","EMBO J 7: 2241-53 (1988)","YEAST").
+TFD_subseq('CabE_PRE',"ACCGGCCCACCT","EMBO J 7: 1929-36 (1988)","PLANT").
+TFD_subseq('SP1-MTIIA',"GGGGCGGGGC","Trends Biochem Sci 11: 20","MAMM").
+TFD_subseq('SP1-IE3/34',"TGGGCGGGGC","Trends Biochem Sci 11: 20","MAMM").
+TFD_subseq('SP1-SV3/5',"TGGGCGGAGT","Trends Biochem Sci 11: 20","MAMM").
+TFD_subseq('SP1-DHFR.1',"GGGGCGGAGC","Trends Biochem Sci 11: 20","MAMM").
+TFD_subseq('SP1-IE3/1',"GGGGCGGGGG","Trends Biochem Sci 11: 20","MAMM").
+TFD_subseq('SP1-IE3/2',"GGGGCGGGGT","Trends Biochem Sci 11: 20","MAMM").
+TFD_subseq('SP1-TK/2',"TGGGCGGGGT","Trends Biochem Sci 11: 20","MAMM").
+TFD_subseq('SP1-SV/2',"TGGGCGGAAC","Trends Biochem Sci 11: 20","MAMM").
+TFD_subseq('SP1-SV/4',"GGGGCGGGAT","Trends Biochem Sci 11: 20","MAMM").
+TFD_subseq('SP1-SV/6',"GGGGCGGGAC","Trends Biochem Sci 11: 20","MAMM").
+TFD_subseq('SP1-SV/1',"GGGGCGGAGA","Trends Biochem Sci 11: 20","MAMM").
+TFD_subseq('SP1-TK/1',"GGGGCGGCGC","Trends Biochem Sci 11: 20","MAMM").
+TFD_subseq('E4-160R.O',"CGTTACGTCA","J Virol 62: 3003-13 (1988)","MAMM").
+TFD_subseq('E4-45R.D',"CGTTACGTCA","J Virol 62: 3003-13 (1988)","MAMM").
+TFD_subseq('ITRN63.O',"CGCCACGTCA","J Virol 62: 3003-13 (1988)","MAMM").
+TFD_subseq('ETFA-E2',"AACTACGTCA","J Virol 62: 3003-13 (1988)","MAMM").
+TFD_subseq('AAVN.160.O',"ATTCACGTCA","J Virol 62: 3003-13 (1988)","MAMM").
+TFD_subseq('AAVN.170.D',"AATTACGTCA","J Virol 62: 3003-13 (1988)","MAMM").
+TFD_subseq('AAVN.210.D',"GGTCACGTGA","J Virol 62: 3003-13 (1988)","MAMM").
+TFD_subseq('PEPCK-80.D',"CCTTACGTCA","J Virol 62: 3003-13 (1988)","MAMM").
+TFD_subseq('ETFA.2',"YYACGTCA","J Virol 62: 3003-13 (1988)","MAMM").
+TFD_subseq('ETFA.3',"TGACGTRR","J Virol 62: 3003-13 (1988)","MAMM").
+TFD_subseq('ETF_RS1',"CAGCCCCCGGCGCAG","Proc Natl Acad Sci U S A 85: 5016-20 (1988)","MAMM").
+TFD_subseq('ETF_RS2',"CCCCCGGC","Proc Natl Acad Sci U S A 85: 5016-20 (1988)","MAMM").
+TFD_subseq('AP-2_CS4',"YCSCCMNSSS","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('TfPRI',"CGGGAGGTCAAAGATTGCGC","J Biol Chem 263: 10180-5 (1988)","MAMM").
+TFD_subseq('TfPRII',"GGGCGATTGGGCAACCCGGC","J Biol Chem 263: 10180-5 (1988)","MAMM").
+TFD_subseq('TfDRI',"TCTTTGACCTTGAGCCCAGCT","J Biol Chem 263: 10180-5 (1988)","MAMM").
+TFD_subseq('TfCR',"GTGCTGGACTCCTTCCACTCGCGG","J Biol Chem 263: 10180-5 (1988)","MAMM").
+TFD_subseq('Ad_DPS',"GTGGCCGCGTCCATCTGGTCAGAAAAGACA","J Biol Chem 263: 10377-85 (1988)","MAMM").
+TFD_subseq('Ad_DPS.2',"AAAAGAACATCTTTT","J Biol Chem 263: 10377-85 (1988)","MAMM").
+TFD_subseq('alpha-2-STE6.1',"CCATGTAATTACCTAATAGGGAAATTTACACGCT","Cell 42: 237-47 (1985)","YEAST").
+TFD_subseq('alpha-2-synRS.1',"TCGAGCGTGTAAATTTCC","Cell 42: 237-47 (1985)","YEAST").
+TFD_subseq('alpha-2-synRS.2',"CATGTAATTACCTAATAGGGAAATTTACACGC","Cell 42: 237-47 (1985)","YEAST").
+TFD_subseq('alpha-2-BAR1',"AATTACCGAAAAAGGAAATT","Cell 42: 237-47 (1985)","YEAST").
+TFD_subseq('alpha-2-STE2',"ACTTACCCAATTAGGAAATT","Cell 42: 237-47 (1985)","YEAST").
+TFD_subseq('alpha-2-MFa1',"AATTACCCAAAAAGGAAATT","Cell 42: 237-47 (1985)","YEAST").
+TFD_subseq('alpha-2-ha-2-MFa2',"ATTTACCTATTCGGGAAATT","Cell 42: 237-47 (1985)","YEAST").
+TFD_subseq('alpha-2-CS',"AATTACCNAATAAGGAAATT","Genes Dev 2: 807-16 (1988)","YEAST").
+TFD_subseq('globin-wt-G-string',"AATTGCAGAGCTGGGAATCGGGGGGGGGGGGGGGGCGGGTGGTGGTGTGG","Genes Dev 2: 863-73 (1988)","AVIAN").
+TFD_subseq('OR(1)',"TTTTACCTCTGGCGGTGATAAT","Proc Natl Acad Sci U S A 83: 5469-73 (1986)","PROK").
+TFD_subseq('beta-glob-CACCC',"GCCACACCC","Mol Cell Biol 8: 3122-8 (1988)","MAMM").
+TFD_subseq('HNF-1_RS',"CTGTGAAATATTAACTAAA","EMBO J 7: 2485-93 (1988)","MAMM").
+TFD_subseq('A2vit_RE1',"TGGTGAGGTAATT","EMBO J 7: 2495-501 (1988)","AMPHIB").
+TFD_subseq('A2vit_RE2',"GTTTACACAACCT","EMBO J 7: 2495-501 (1988)","AMPHIB").
+TFD_subseq('A2vit_RE3',"CTGATAACAGT","EMBO J 7: 2495-501 (1988)","AMPHIB").
+TFD_subseq('AP2-SV40.0',"GTCCCCAGGCTC","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-Hmt2a1',"CCGCCCGCGGCC","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-Hmt2a2',"TTCGCCTGGAGC","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-Hmt2a3',"GTCCCCGAGGCG","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-HgH1',"TGCCCTCTGGCC","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-HgH2',"TGCCCCCTGGCT","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-Hcmyc1',"CCGCCCACCGGCC","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-Hcmyc2',"ACCCCCGAGCTGT","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-BPV.1',"CTCCCCAAGGGAC","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-BPV.2',"AGCCCCAAACCTAT","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-H2Kb1',"ATCCCCAGCCCT","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('Ap2-H2Kb2',"TTCCCCACCCCTG","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-H2Kb3',"TTCCCCATCT","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('beta/epsilon-GATA.2',"AGTCTTGATAGCAAAA","Proc Natl Acad Sci U S A 85: 5976-80 (1988)","MAMM").
+TFD_subseq('rho-promoter-GATA',"CAGCAAGATAAGGGCT","Proc Natl Acad Sci U S A 85: 5976-80 (1988)","MAMM").
+TFD_subseq('beta-H-GATA',"AGGAAAGATAGCAAAT","Proc Natl Acad Sci U S A 85: 5976-80 (1988)","MAMM").
+TFD_subseq('alpha-D-GATA',"GGATAAGATAAGGCCG","Proc Natl Acad Sci U S A 85: 5976-80 (1988)","MAMM").
+TFD_subseq('pi-GATA',"CAAGGAGATAAGGGTC","Proc Natl Acad Sci U S A 85: 5976-80 (1988)","MAMM").
+TFD_subseq('alpha-A-GATA.1',"GGCCGTGATAAGAGCC","Proc Natl Acad Sci U S A 85: 5976-80 (1988)","MAMM").
+TFD_subseq('alpha-A-GATA.2',"GTGGCTGATAAAGAGC","Proc Natl Acad Sci U S A 85: 5976-80 (1988)","MAMM").
+TFD_subseq('alpha-A-GATA.3',"GCAGCAGATAGCCTCG","Proc Natl Acad Sci U S A 85: 5976-80 (1988)","MAMM").
+TFD_subseq('PEA1_RS',"TGACTAA","Proc Natl Acad Sci U S A 85: 5839-43 (1988)","MAMM").
+TFD_subseq('PEA2_RS',"GACCGCA","Proc Natl Acad Sci U S A 85: 5839-43 (1988)","MAMM").
+TFD_subseq('PEA3_RS',"AGGAAG","Proc Natl Acad Sci U S A 85: 5839-43 (1988)","MAMM").
+TFD_subseq('PEB1_RS',"CAGAGGGCAGTGTG","Proc Natl Acad Sci U S A 85: 5839-43 (1988)","MAMM").
+TFD_subseq('EF-C_RS',"GTTGCTAGGCAAC","Proc Natl Acad Sci U S A 85: 5839-43 (1988)","MAMM").
+TFD_subseq('XRE_CS1',"CACGCW","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('XRE_CS2',"GNNSMNGNNCNTNTNCCGCWA","Proc Natl Acad Sci U S A 85: 5859-63 (1988)","MAMM").
+TFD_subseq('XRE-1',"CCTCCAGGCTCTTCTCACGCAACTC","Proc Natl Acad Sci U S A 85: 5859-63 (1988)","MAMM").
+TFD_subseq('XRE-2',"CGGGTCCCAGTGCTGTCACGCTAGCT","Proc Natl Acad Sci U S A 85: 5859-63 (1988)","MAMM").
+TFD_subseq('EivF_CS',"GTKACGT","Genes Dev 2: 975-90 (1988)","MAMM").
+TFD_subseq('ICS_(1)',"AGTTTCTCCTCT","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICS-H2Ld',"AGTTTCACTTCT","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICS-H2Kb',"AGTTTCACTTCT","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICS-H2Dd',"AGTTTCACTTCT","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICS-b2m',"AGTTTCATGTTC","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICS-HLADR',"AGTTTCTCCTCT","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICS-HLAA3',"AGTTTCTTTTCT","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICS-MTII',"AGTTTCTCCTCT","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICS-FacB',"AGTTTCTGTTTC","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICS-ISG15',"AGTTTCGGTTTC","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICS-ISG54',"AGTTTCACTTTC","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICS-6-16',"AGTTTCATTTTC","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICS-os',"GGTTTCGTTTCC","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('ICSbf_CS',"AGTTTCNNYTYY","Proc Natl Acad Sci U S A 85: 5884-8 (1988)","MAMM").
+TFD_subseq('APF-alb1',"TGGTTAATGATCTACAG","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('APF-alb2',"TGGTTAATGATCTACAG","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('APF-alb3',"TAGTTAATAATCTACAA","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('APF-alb4',"CAGGTAATGTTTTACAG","Genes Dev 2: 957-74 (1988)","AVIAN").
+TFD_subseq('APF-alb5',"AGGTTAATAATTTTCCA","Genes Dev 2: 957-74 (1988)","AMPHIB").
+TFD_subseq('APF-alb6',"AGGTTAATCATTTTCCA","Genes Dev 2: 957-74 (1988)","AMPHIB").
+TFD_subseq('APF-AFP1',"AGGTTACTAGTTAACAG","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('APF-AFP2',"AGGTTACTAGTTAACAG","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('APF-AFP3',"AGGTTACTAGTTAACAG","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('APF-AT',"TGGTTAATATTCACCAG","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('APF-FIB1',"TAGTTAATATTTGACAG","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('APF-FIB2',"AGGTTAATCATCACCCT","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('APF-PK',"TGGTTATACTTTAACCA","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('APF-HG',"CTGTTAAGAGTTGAGCT","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('APF_CS',"RGTTAMTNNTYNNCM","Genes Dev 2: 957-74 (1988)","MAMM").
+TFD_subseq('EBP1_RS.2',"GTGGAAAGTCCCC","Genes Dev 2: 991-1002 (1988)","MAMM").
+TFD_subseq('COUP-ovalbumin',"TGACCTTTGACAC","EMBO J 7: 2757-63 (1988)","AVIAN").
+TFD_subseq('COUP-VLDL',"GGACCTTTGACCC","EMBO J 7: 2757-63 (1988)","AVIAN").
+TFD_subseq('UAS1.3',"TGGCCGGGGTTTACGGACGATGA","Cell 49: 9-18 (1987)","YEAST").
+TFD_subseq('UAS1.1',"GGCCGGGGTTTAC","Cell 49: 9-18 (1987)","YEAST").
+TFD_subseq('UAS1.2',"GATGACCGA","Cell 49: 9-18 (1987)","YEAST").
+TFD_subseq('TFIID-EIIa',"TACAAA","J Biol Chem 263: 12596-601 (1988)","MAMM").
+TFD_subseq('UCE.1',"GTCCGT","Science 241: 1192-7 (1988)","MAMM").
+TFD_subseq('UCE.3',"GTCCGTGTCGNNNNNNNNNTGGGCCG","Science 241: 1192-7 (1988)","MAMM").
+TFD_subseq('rRNA_UScor',"CTCCGAGTCGNNNNNNTGGGCCGCCGG","Science 241: 1192-7 (1988)","MAMM").
+TFD_subseq('E3I_RS',"GGGTATAACTCACCTGA","Mol Cell Biol 8: 3717-25 (1988)","MAMM").
+TFD_subseq('E3II_RS',"GGCTTTCGTCACAGGGTG","Mol Cell Biol 8: 3717-25 (1988)","MAMM").
+TFD_subseq('E3III_RS',"GAAGTTCAGATGACTAACTCA","Mol Cell Biol 8: 3717-25 (1988)","MAMM").
+TFD_subseq('E3IV_RS',"TAGTTGGCCCGCTGCCCTGG","Mol Cell Biol 8: 3717-25 (1988)","MAMM").
+TFD_subseq('HLAII.Xbox',"ACCCTTCCCCTAGCAACAGAT","Mol Cell Biol 8: 3734-9 (1988)","MAMM").
+TFD_subseq('HLAII.Ybox',"TTTTTCTGATTGGCC","Mol Cell Biol 8: 3734-9 (1988)","MAMM").
+TFD_subseq('MTVGRE_NRS',"AGGATGT","Mol Cell Biol 8: 3872-81 (1988)","MAMM").
+TFD_subseq('NFBK.1',"TGGAATGCAGCCAAA","J Virol 62: 3388-98 (1988)","MAMM").
+TFD_subseq('NFBK.2',"GGGAATGCAGCCAAA","J Virol 62: 3388-98 (1988)","MAMM").
+TFD_subseq('NFBK.3',"TGGGCAGCMGCCAGT","J Virol 62: 3388-98 (1988)","MAMM").
+TFD_subseq('NFBK.4',"TGGAAACTGGCCAAA","J Virol 62: 3388-98 (1988)","MAMM").
+TFD_subseq('NFBK.5',"TGGCTGCTTTCCACT","J Virol 62: 3388-98 (1988)","MAMM").
+TFD_subseq('NFBK.6',"TGAAACCATGCCAAA","J Virol 62: 3388-98 (1988)","MAMM").
+TFD_subseq('NFBK.7',"TGGCCTTGTCCCCAG","J Virol 62: 3388-98 (1988)","MAMM").
+TFD_subseq('NFBK_CS',"TGGAAWSYWGCCAAA","J Virol 62: 3388-98 (1988)","MAMM").
+TFD_subseq('NFIII-Ad2',"AATATGATAATGAGG","J Virol 62: 3092-102 (1988)","MAMM").
+TFD_subseq('NFIII-Ad4',"AATATGCAAATAAGG","J Virol 62: 3092-102 (1988)","MAMM").
+TFD_subseq('NFIII-SA7',"AATATGCTAATGAGG","J Virol 62: 3092-102 (1988)","MAMM").
+TFD_subseq('NFIII-Ad12',"AATATTAAAATGAAG","J Virol 62: 3092-102 (1988)","MAMM").
+TFD_subseq('NFIII-Ad40',"AATATGATAATGAGG","J Virol 62: 3092-102 (1988)","MAMM").
+TFD_subseq('NFIII-Ad41',"AATATGATAATGAGT","J Virol 62: 3092-102 (1988)","MAMM").
+TFD_subseq('HNFI-alpha-Fib',"GACAAGGGTGATGATTAACCTAGTTTCCTG","Science 238: 688-92 (1987)","MAMM").
+TFD_subseq('HNFI-beta-Fib',"AACAAACTGTCAAATATTAACTAAAGGGAG","Science 238: 688-92 (1987)","MAMM").
+TFD_subseq('HNF1-alpha-1-AT',"CCTTGGTTAATATTCACCAGCAGCCTC","Science 238: 688-92 (1987)","MAMM").
+TFD_subseq('UAS2UP1',"TGATTGGT","Cell 51: 953-61 (1987)","YEAST").
+TFD_subseq('NF-Y_CS',"TKCTGATTGGYTMM","Cell 50: 863-72 (1987)","MAMM").
+TFD_subseq('alpha-1-AT-X-Hapt',"TGGACACAGG","EMBO J 6: 2759-66 (1987)","MAMM").
+TFD_subseq('alpha-1-AT-X-core',"TGTGGTTT","EMBO J 6: 2759-66 (1987)","MAMM").
+TFD_subseq('alpha-1-AT-X-RBP',"CTGAGCCAGG","EMBO J 6: 2759-66 (1987)","MAMM").
+TFD_subseq('NFY-E-alpha',"ATTTTTCTGATTGGTTAAAAGT","Nucleic Acids Res 15: 7265-82 (1987)","MAMM").
+TFD_subseq('TRE-col',"ATGAGTCAGA","Cell 49: 729-39 (1987)","MAMM").
+TFD_subseq('TRE-stromelysin',"ATGAGTCAGT","Cell 49: 729-39 (1987)","MAMM").
+TFD_subseq('TRE-hMTIIA',"GTGACTCAGC","Cell 49: 729-39 (1987)","MAMM").
+TFD_subseq('TRE-polyoma.1',"CTGCGTCAGT","Cell 49: 729-39 (1987)","MAMM").
+TFD_subseq('TRE-polyoma.2',"GTTAGTCACT","Cell 49: 729-39 (1987)","MAMM").
+TFD_subseq('AP1-IL2',"TTCAGTCAGT","Cell 49: 729-39 (1987)","MAMM").
+TFD_subseq('AP-1_CS2',"TGAGTCAG","Cell 49: 729-39 (1987)","MAMM").
+TFD_subseq('NF-E1_CS1',"MYWATCWY","Genes Dev 2: 1089-100 (1988)","MAMM").
+TFD_subseq('NF-E1.1',"TGCTAATCAT","Genes Dev 2: 1089-100 (1988)","MAMM").
+TFD_subseq('NF-E1.2',"CTTATCTT","Genes Dev 2: 1089-100 (1988)","MAMM").
+TFD_subseq('NF-E1.9',"AAGTATCACT","Genes Dev 2: 1089-100 (1988)","MAMM").
+TFD_subseq('NF-E1.3',"CTATCA","Genes Dev 2: 1089-100 (1988)","MAMM").
+TFD_subseq('NF-E1.4',"TTATCTC","Genes Dev 2: 1089-100 (1988)","MAMM").
+TFD_subseq('NF-E1.5',"TATCTT","Genes Dev 2: 1089-100 (1988)","MAMM").
+TFD_subseq('NF-E1.6',"TATCTC","Genes Dev 2: 1089-100 (1988)","MAMM").
+TFD_subseq('NF-E1.7',"TCATCAC","Genes Dev 2: 1089-100 (1988)","MAMM").
+TFD_subseq('NF-E1.8',"CCAATCT","Genes Dev 2: 1089-100 (1988)","MAMM").
+TFD_subseq('IL2R-alpha-kB',"GGGGAATCTCCC","Science 241: 1652-5 (1988)","MAMM").
+TFD_subseq('XY_CS.1',"CCTAGMRACWGATG","Mol Cell Biol 8: 3975-87 (1988)","MAMM").
+TFD_subseq('XY_CS.2',"TKCTGATTGGYTMM","Mol Cell Biol 8: 3975-87 (1988)","MAMM").
+TFD_subseq('CArG_CS',"CCAWATWWGG","Mol Cell Biol 8: 4110-9 (1988)","MAMM").
+TFD_subseq('CArG-hcact',"CCAAATAAGG","Mol Cell Biol 8: 4110-9 (1988)","MAMM").
+TFD_subseq('CArG-fos',"CCATATTAGG","Mol Cell Biol 8: 4110-9 (1988)","MAMM").
+TFD_subseq('CArG-xcact',"CCATATTTGG","Mol Cell Biol 8: 4110-9 (1988)","MAMM").
+TFD_subseq('CArG-csact',"CCAAATATGG","Mol Cell Biol 8: 4110-9 (1988)","MAMM").
+TFD_subseq('CArG-hsact',"CCAAATATGG","Mol Cell Biol 8: 4110-9 (1988)","MAMM").
+TFD_subseq('CArG-hs1',"CCCAAATATGGCTC","Mol Cell Biol 8: 4120-33 (1988)","MAMM").
+TFD_subseq('CArG-hs2',"TCCTTCTTTGGTCT","Mol Cell Biol 8: 4120-33 (1988)","MAMM").
+TFD_subseq('CArG-hs3',"CCATATACGG","Mol Cell Biol 8: 4120-33 (1988)","MAMM").
+TFD_subseq('CArG-hc1',"CCAAATAAGGC","Mol Cell Biol 8: 4120-33 (1988)","MAMM").
+TFD_subseq('CArG-hb1',"CCTTTTATGG","Mol Cell Biol 8: 4120-33 (1988)","MAMM").
+TFD_subseq('CArG-cs1',"CCAAATATGGCGAC","Mol Cell Biol 8: 4120-33 (1988)","MAMM").
+TFD_subseq('CArG-sc1',"GCCCATATTTGGC","Mol Cell Biol 8: 4120-33 (1988)","MAMM").
+TFD_subseq('CArG-fos',"CCATATTAGG","Mol Cell Biol 8: 4120-33 (1988)","MAMM").
+TFD_subseq('S1_HS',"TCCTCCTCC","Mol Cell Biol 8: 4174-84 (1988)","MAMM").
+TFD_subseq('CRE-fos',"GTGACGTTTA","Genes Dev 3: 198-211 (1989)","MAMM").
+TFD_subseq('CRE-PE',"GGGGCTGGCGTAGGGCCTGCGTCA","Mol Cell Biol 8: 4225-33 (1988)","MAMM").
+TFD_subseq('CRE-VIP',"CCCATGGCCGTCATACTGTGACGTC","Mol Cell Biol 8: 4225-33 (1988)","MAMM").
+TFD_subseq('CRE-som',"TGACGTCA","Mol Cell Biol 8: 4225-33 (1988)","MAMM").
+TFD_subseq('ENKCRE-1_(1)',"TGGCGTA","Mol Cell Biol 8: 4225-33 (1988)","MAMM").
+TFD_subseq('UASt',"TCGTTTTGTACGTTTTTCA","Mol Cell Biol 8: 4328-41 (1988)","YEAST").
+TFD_subseq('HNF1_RS',"TGGTTAAT","Mol Cell Biol 8: 4362-9 (1988)","MAMM").
+TFD_subseq('MRE_CS5',"NTTTGGRCNCGGCYC","Mol Cell Biol 8: 4469-76 (1988)","FISH").
+TFD_subseq('ADH2.1',"TCTCCAACTT","Mol Cell Biol 8: 4552-6 (1988)","YEAST").
+TFD_subseq('ADH2.2',"TAAGTTGGAGAA","Mol Cell Biol 8: 4552-6 (1988)","YEAST").
+TFD_subseq('CREB-Som',"TTGGCTGACGTCAGAGAGAGA","J Biol Chem 263: 18466- (1988)","MAMM").
+TFD_subseq('CREB-fos',"CTTCCGCCCAGTGACGTAGGAAGTCC","Mol Cell Biol 10: 2402-6 (1990)","MAMM").
+TFD_subseq('CREB-proenkephalin',"GGCCTGCGTCAGCTGC","J Biol Chem 263: 18466- (1988)","MAMM").
+TFD_subseq('CREB-hsp70',"TCCGTGACGACTTA","Mol Cell Biol 9: 2574-87 (1989)","MAMM").
+TFD_subseq('CREB-TH',"GCTTTGACGTCAGCCTGGCC","J Neurochem 53: 1656- (1989)","MAMM").
+TFD_subseq('CREB-FN',"ACCCACAGTCCCCCGTCACGCTCACCCGGAG","J Biol Chem 265: 3522- (1990)","MAMM").
+TFD_subseq('CREB-PEPCK',"CCTTACGTCAGAGGCGA","Mol Cell Biol 10: 3357- (1990)","MAMM").
+TFD_subseq('CREB-VIP',"CTGTGACGTCTTTCA","J Biol Chem 263: 18466- (1988)","MAMM").
+TFD_subseq('CREB-PTH',"GGAGTGACGTCATCTGTA","J Biol Chem 263: 18466- (1988)","MAMM").
+TFD_subseq('CREB-ACG',"AAATTGACGTCATGGTAA","J Biol Chem 263: 18466- (1988)","MAMM").
+TFD_subseq('CREB-E2A',"TACGTCAT","Genes Dev 1: 1132-46 (1987)","MAMM").
+TFD_subseq('CREB-E3',"GGCTTTCGTCACAGGGTG","J Virol 64: 2004-13 (1990)","MAMM").
+TFD_subseq('CREB-E4',"TACGTCAT","Genes Dev 1: 1132-46 (1987)","MAMM").
+TFD_subseq('CREB-HTLV-II',"CCACGGCCCTGACGTCCCTCCCCCCC","Trends Neurosci 13: 184-8 (1990)","MAMM").
+TFD_subseq('CREB-BLV',"CCGTAAACCAGACAGAGACGTCAGCTGCCA","EMBO J 8: 497-503 (1989)","MAMM").
+TFD_subseq('CREB-CMV',"CCCTATTGACGTCAATGA","Arch Virol 112: 67-80 (1990)","MAMM").
+TFD_subseq('CREB-IAP',"CCTCTCCCGTGACGTCATCTGGGG","Trends Neurosci 13: 184-8 (1990)","MAMM").
+TFD_subseq('CREB_CS1',"ACGTCA","Proc Natl Acad Sci U S A 85: 7192-6 (1988)","MAMM").
+TFD_subseq('CuE1.1',"AAGATGGC","Science 227: 134-40 (1985)","MAMM").
+TFD_subseq('CuE2.1',"CAGCTGGC","Science 227: 134-40 (1985)","MAMM").
+TFD_subseq('CuE3.1',"CATGTGGC","Science 227: 134-40 (1985)","MAMM").
+TFD_subseq('CuE4.1',"CAGGTGGT","Science 227: 134-40 (1985)","MAMM").
+TFD_subseq('CuE1.2',"GATGGCCG","Nature 322: 846-8 (1986)","MAMM").
+TFD_subseq('CuE3.2',"GTCATGTGGCAAG","Cell 46: 705-16 (1986)","MAMM").
+TFD_subseq('CuE4.2',"GCAAATTACCCAGGTG","Cell 46: 705-16 (1986)","MAMM").
+TFD_subseq('CuE2.2',"GCTGGCAGGAAGCAGGT","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('CuE3.3',"CATGTGGCAAGG","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('IgPE2_RS',"CCACCAAACCGAAAGTCCAGG","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('CuE4.3',"CCTGGGTAATTTGCATTTCTAAAAT","EMBO J 5: 3251-8 (1986)","MAMM").
+TFD_subseq('CuE2.3',"AGCAGCTGGC","Science 236: 1573-7 (1987)","MAMM").
+TFD_subseq('CuE1.3',"TCAAGATGGC","Science 236: 1573-7 (1987)","MAMM").
+TFD_subseq('CuE3.4_(1)',"GTCATGTGGC","Science 236: 1573-7 (1987)","MAMM").
+TFD_subseq('TEF1-SphI',"AAGCATGCA","Cell 54: 931-42 (1988)","MAMM").
+TFD_subseq('TEF1-SphII',"AAGTATGCA","Cell 54: 931-42 (1988)","MAMM").
+TFD_subseq('TEF1-GTIIC',"TGGAATGTG","Cell 54: 931-42 (1988)","MAMM").
+TFD_subseq('TEF1-GTI*',"TGGAAAGTC","Cell 54: 931-42 (1988)","MAMM").
+TFD_subseq('TEF1-Pywt',"TAGAATGTT","Cell 54: 931-42 (1988)","MAMM").
+TFD_subseq('TEF1-PyEC9',"TGGAATGTT","Cell 54: 931-42 (1988)","MAMM").
+TFD_subseq('TEF2-GT-I',"GGGTGTGG","Genes Dev 1: 794-807 (1987)","MAMM").
+TFD_subseq('ERE.cvitII',"GGTCAGCGTGACC","Proc Natl Acad Sci U S A 85: 7526-30 (1988)","AVIAN").
+TFD_subseq('GRE.cvitII',"AGAACACATTGATCC","Proc Natl Acad Sci U S A 85: 7526-30 (1988)","AVIAN").
+TFD_subseq('DRE.cvitII',"AGAACATGATGTTCT","Proc Natl Acad Sci U S A 85: 7526-30 (1988)","AVIAN").
+TFD_subseq('beta-pol_CS',"NTGACGTCAN","J Biol Chem 263: 16992-8 (1988)","MAMM").
+TFD_subseq('beta-pol_RS',"GTGACGTCAC","J Biol Chem 263: 16992-8 (1988)","MAMM").
+TFD_subseq('PUT2_UAS.1',"GAAGCCAA","Mol Cell Biol 8: 4634-41 (1988)","YEAST").
+TFD_subseq('PUT2_UAS.2',"GAAGCCGA","Mol Cell Biol 8: 4634-41 (1988)","YEAST").
+TFD_subseq('uEBP-E_CS',"TNNAKYNNKNNMTNATGA","Mol Cell Biol 8: 4972-80 (1988)","MAMM").
+TFD_subseq('HSV/AT',"GWATCYCATTANCATRC","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('HSV-IE110(3)-TAATGARAT',"GAAACTCATTACCATAC","J Virol 63: 2798-812 (1989)","MAMM").
+TFD_subseq('HSV-IE110(2)-TAATGARAT',"GAACCCCATTAGCATGC","J Virol 63: 2798-812 (1989)","MAMM").
+TFD_subseq('HSV-IE110(1)-TAATGARAT',"GAATATCATTAGCATGC","J Virol 63: 2798-812 (1989)","MAMM").
+TFD_subseq('HSV-IE175(2)-TAATGARAT',"GCATCTCATTACCGCCC","J Virol 63: 2798-812 (1989)","MAMM").
+TFD_subseq('HSV-IE175(1)-TAATGARAT',"GAATTCCATTATGCACG","J Virol 63: 2798-812 (1989)","MAMM").
+TFD_subseq('AT-alpha-27.1',"GTATTTAATTAGCATAT","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('AT-alpha-27.2',"GAGGCCAATTAGCATAT","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('AT-alpha-47.1',"GTTCCTCGTTAGCATGC","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('AT-alpha-47.2',"GTATCTCCTTACCGCCG","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('AT-alpha-47.3',"CACTCCTTTTACCCGGC","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('AT-SV40',"GCATCTCATTAGTCAGC","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('AT-MSV',"GAACTGCTTACCACAG","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('AT-SR_CS',"ATCYYATTWTCTGKT","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('AT-beta-INF',"AAATCTTTTTCCCTATT","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('AT-hsp',"GAATNTTCTAGA","Roizman et.al. (84) In Transfer and Expression....","DROS").
+TFD_subseq('AT-LC',"GAAGTTTTAT","Roizman et.al. (84) In Transfer and Expression....","INSECT").
+TFD_subseq('AT-E1A',"GCGTTTTATTATTATAG","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('AT-tk',"GCTTGTCATTACCACCG","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('AT-beta-globin',"AAATCYCATTTGTATGA","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('AT-Alu',"AGCTGGGATTACAGRC","Roizman et.al. (84) In Transfer and Expression....","MAMM").
+TFD_subseq('CBAR',"CCAAATAWGG","Mol Cell Biol 8: 4587-97 (1988)","AVIAN").
+TFD_subseq('eve_CS1',"TCAATTAAAT","Mol Cell Biol 8: 4598-607 (1988)","DROS").
+TFD_subseq('eve_CS2',"TCAGCACCG","Mol Cell Biol 8: 4598-607 (1988)","DROS").
+TFD_subseq('PUT2_UAS1',"GAATGCCAA","Mol Cell Biol 8: 4634-41 (1988)","YEAST").
+TFD_subseq('PUT2_UAS2',"GAAGCCGA","Mol Cell Biol 8: 4634-41 (1988)","YEAST").
+TFD_subseq('STE2.1',"ATGTACTT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('STE2.2',"ATTTACAT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('STE6.1',"ATGTAATT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('STE6.2',"ATTTACAC","Cell 55: 135-44 (1988)","MAMM").
+TFD_subseq('BAR1.1',"ATGTAATT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('BAR1.2',"AATTACAT","Cell 55: 135-44 (1988)","MAMM").
+TFD_subseq('MFa1.1',"GTGTAATT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('MFa1.2',"ATTTACAT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('MFa2.1',"ATGTATTT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('MFa2.2',"ATTTACAT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('MAT-alpha-2_CS1',"ATGTAATT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('MAT-alpha-2_CS2',"ATTTACAT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('MAT-OCTA1',"ATGCAAAT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('MAT-OCTA2',"ATTTGCAT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('HO/-411',"ATGTTATTATTTACAT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('HO/-736',"ATGTGAATGAATACAT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('MAT-alpha-1_RS',"ATGTAGAAAAGTACAT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('MATa1/alpha-2CS',"ATGTNAATAANTACAT","Cell 55: 135-44 (1988)","YEAST").
+TFD_subseq('a-actin_US',"GTCGCC","J Biol Chem 262: 9429-32 (1987)","AVIAN/MAMM").
+TFD_subseq('actin_5c_US',"TATAAAA","Mol Cell Biol 7: 1217-25 (1987)","DROS").
+TFD_subseq('(SRF)-actin',"AAGATGCGGATATTGGCGAT","EMBO J 6: 667-73 (1987)","MAMM/AMPHI").
+TFD_subseq('Ad2MLP-UE_(US.1)',"TGTAGGCCACGTGACCGG","EMBO J 6: 3027-34 (1987)","MAMM").
+TFD_subseq('Ad2MLP_US.2',"GGCCACGTGACC","Cell 43: 165-75 (1985)","MAMM").
+TFD_subseq('Ad2MLP_US.3',"TATAAA","Nucleic Acids Res 14: 3729-44 (1986)","MAMM").
+TFD_subseq('Ad2MLP_US.4',"TATAAAA","Cell 43: 165-75 (1985)","MAMM").
+TFD_subseq('Ad2MLP_US.5',"TATAAAA","Cell 43: 165-75 (1985)","MAMM").
+TFD_subseq('Adh_US1',"GCTGCTGCTGCATCCGTCGACGTCG","Cell 41: 965-77 (1985)","DROS").
+TFD_subseq('Adh_US2',"TACTAATACTAATACTAATACTAA","Cell 41: 965-77 (1985)","DROS").
+TFD_subseq('Adh_US3',"GCAGCGCTGCCGTCGCCGGCTGAGCAGC","Cell 41: 965-77 (1985)","DROS").
+TFD_subseq('Adh_US4',"GAGATCGCGTAACGGTAGATAA","Cell 41: 965-77 (1985)","DROS").
+TFD_subseq('Adh1_US2',"CCCCGG","J Biol Chem 262: 7947-50 (1987)","PLANT").
+TFD_subseq('Adh1_US4',"CCCACAGGC","J Biol Chem 262: 7947-50 (1987)","PLANT").
+TFD_subseq('Adh2_US',"TCTCCAACTTATAAGTTGGAGA","Mol Cell Biol 5: 1743-9 (1985)","YEAST").
+TFD_subseq('Albumin_US1',"GCAAGGGATTTAGTTA","Cell 50: 627-38 (1987)","MAMM").
+TFD_subseq('NFI-albumin',"TTTTTGGCAAGGAT","Cell 50: 627-38 (1987)","MAMM").
+TFD_subseq('Albumin_US2',"ATTTTGTAAT","Cell 50: 627-38 (1987)","MAMM").
+TFD_subseq('Albumin_US3',"TGGTTAATGATCTACAGTTATTGGTTA","Cell 50: 627-38 (1987)","MAMM").
+TFD_subseq('adip-P2_US1',"AACATGACTCAGAGGAA","Cell 49: 835-44 (1987)","MAMM").
+TFD_subseq('BPV_En.1',"ATCGGTGCACCGAT","Proc Natl Acad Sci U S A 84: 1215-8 (1987)","MAMM").
+TFD_subseq('AP2-BPV.3',"TTGGGGCTCCCCAA","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('NFI_CS5',"TCGNNNNNGCCAA","J Biol Chem 261: 11310-4 (1986)","MAMM").
+TFD_subseq('AP1-col.3',"ATGAGTCAGA","Cell 49: 9-18 (1987)","MAMM").
+TFD_subseq('CYC1-region-A',"TTTCACCGATCTTTCC","Cell 49: 9-18 (1987)","YEAST").
+TFD_subseq('HAP1-CYC1',"TGGCCGGGGTTTACGGACGATGA","Cell 49: 9-18 (1987)","YEAST").
+TFD_subseq('RC2-CYC1.1',"GCCGGGGTTTA","Cell 49: 9-18 (1987)","YEAST").
+TFD_subseq('RC1a/RC2-CYC',"GCCGGGGTTTA","EMBO J 4: 2627-33 (1985)","YEAST").
+TFD_subseq('RC2-CYC1.2',"GATGACC","Cell 49: 9-18 (1987)","YEAST").
+TFD_subseq('RC1/RC2-CYC',"TGACCGA","EMBO J 4: 2627-33 (1985)","YEAST").
+TFD_subseq('CYC7_US1',"GCTAATAGCGATAATAGCGAGGG","Cell 49: 19-27 (1987)","YEAST").
+TFD_subseq('CYC7_US2',"GCAAGGGGCAAAGACAAAGGCACACA","Mol Cell Biol 7: 3252-9 (1987)","YEAST").
+TFD_subseq('Sp1-DHFR.2',"GGGGCGGAGC","Nature 319: 246-8 (1986)","MAMM").
+TFD_subseq('Sp1-DHFR.3',"GGGGCGGGGC","Nature 319: 246-8 (1986)","MAMM").
+TFD_subseq('E1a.1',"GATGTGGTAAA","Nucleic Acids Res 15: 2719-35 (1987)","MAMM").
+TFD_subseq('E1a.2',"GTTGTAGTAAA","Nucleic Acids Res 15: 2719-35 (1987)","MAMM").
+TFD_subseq('E2E1a',"CAATTTTCGCGCGG","Proc Natl Acad Sci U S A 84: 2180-4 (1987)","MAMM").
+TFD_subseq('E2F-E1a',"CCATTTTCGCGGGAA","Proc Natl Acad Sci U S A 84: 2180-4 (1987)","MAMM").
+TFD_subseq('EIIaE-CaEI',"GTGGGATTTCCTT","Nucleic Acids Res 15: 2719-35 (1987)","MAMM").
+TFD_subseq('EIIaE-CbEI',"CTCATAATGGCGCT","Mol Cell Biol 7: 3806-17 (1987)","MAMM").
+TFD_subseq('EIIaE-T1.2',"AGTCCTTAAGAGTCAG","Nucleic Acids Res 15: 509-27 (1987)","MAMM").
+TFD_subseq('EIIa-EF/EP',"TGGAGATGACGTAGTTT","Proc Natl Acad Sci U S A 83: 5914-8 (1986)","MAMM").
+TFD_subseq('EIIaE-BEII',"TGGAGATGACGTAGT","Nucleic Acids Res 15: 509-27 (1987)","MAMM").
+TFD_subseq('(E2)-EIIaE1',"GACGTAGTTTTCGCGC","Mol Cell Biol 7: 3806-17 (1987)","MAMM").
+TFD_subseq('E2F-EIIaE1',"TAGTTTTCGCGCTTAAATT","Proc Natl Acad Sci U S A 84: 6112-6 (1987)","MAMM").
+TFD_subseq('EIIaE-AEII',"AAGGGCGC","Mol Cell Biol 7: 3806-17 (1987)","MAMM").
+TFD_subseq('E2F-EIIaE1',"GAAAGGGCGCGAAACTA","EMBO J 6: 2061-8 (1987)","MAMM").
+TFD_subseq('EIIF-EIIaE1',"GCGCGAAA","Proc Natl Acad Sci U S A 84: 6112-6 (1987)","MAMM").
+TFD_subseq('EIIaE1_US',"CCTTAAGAGT","Nucleic Acids Res 15: 509-27 (1987)","MAMM").
+TFD_subseq('EIIaE1.2',"GTCCTTAAGAGTCAG","Mol Cell Biol 7: 3806-17 (1987)","MAMM").
+TFD_subseq('Ga/CRFEII',"GGGGGGATTGGG","Nucleic Acids Res 15: 7761-80 (1987)","MAMM").
+TFD_subseq('GaEII-late',"AACCCCCC","Nucleic Acids Res 15: 7761-80 (1987)","MAMM").
+TFD_subseq('USF-IIEII',"TGACGCA","Nucleic Acids Res 15: 7761-80 (1987)","MAMM").
+TFD_subseq('Sp1/CRF-EII',"CGGGCGGGATTGG","Nucleic Acids Res 15: 7761-80 (1987)","MAMM").
+TFD_subseq('Sp1-EII-lat',"TGGGCGTGGT","Nucleic Acids Res 15: 7761-80 (1987)","MAMM").
+TFD_subseq('E4F1-E4',"ACGTAACGT","EMBO J 6: 1345-53 (1987)","MAMM").
+TFD_subseq('E4F1-E4.1',"CGTTACGT","EMBO J 6: 1345-53 (1987)","MAMM").
+TFD_subseq('EF-1-alpha/TEF1_US1',"AACACCCAAGCA","EMBO J 4: 3539-47 (1985)","YEAST").
+TFD_subseq('EF-1-alpha/TEF2_US1',"ACCCACACATTT","EMBO J 4: 3539-47 (1985)","YEAST").
+TFD_subseq('SCR-indf-c-fos',"CAGTTCCCGTCAATG","Proc Natl Acad Sci U S A 84: 1272-6 (1987)","MAMM").
+TFD_subseq('f-EBP-fos',"GATGTCCATATTAGGACATC","Mol Cell Biol 7: 3482-9 (1987)","MAMM").
+TFD_subseq('c-fos_SRE_2',"GATGTCCATATTAGGACATC","Mol Cell Biol 7: 1217-25 (1987)","MAMM").
+TFD_subseq('c-fos.5',"GCGCCACC","Mol Cell Biol 7: 3490-502 (1987)","MAMM").
+TFD_subseq('c-fos_US5',"GTGACGT","Mol Cell Biol 7: 3490-502 (1987)","MAMM").
+TFD_subseq('c-fos.1',"GATGTCCATATTAGGACATC","Mol Cell Biol 6: 4305-16 (1986)","MAMM").
+TFD_subseq('c-fos.2',"AAGCCTGGGGCGTAG","Mol Cell Biol 6: 4305-16 (1986)","MAMM").
+TFD_subseq('c-fos.3',"AGAGGGCCTTGGGGCGCTTA","Mol Cell Biol 6: 4305-16 (1986)","MAMM").
+TFD_subseq('c-fos.4',"CCAGTTCCGCCCA","Mol Cell Biol 6: 4305-16 (1986)","MAMM").
+TFD_subseq('GAL4-depGAL',"ACTTATAT","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL4-GAL1-1.3',"CGGATTAGAAGCCGCCG","Cell 40: 767-74 (1985)","YEAST").
+TFD_subseq('GAL4-GAL1-1.2',"CGGGTGACAGCCCTCCGA","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL4-GAL1-1',"AGGAAGACTCTCCTCCG","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL4-GAL1-1.4',"CGCGCCGCACTGCTCCGAACAAT","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL1-TATA',"ATATAA","Nature 325: 173-7 (1987)","YEAST").
+TFD_subseq('GAL4-depGA',"TTATATATC","Nature 325: 173-7 (1987)","YEAST").
+TFD_subseq('GAL2_US2',"CACCGGCGGTCTTTCGTCCGTGC","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL4-GAL2.1',"TATCGGGGCGGATCACTCCGAAC","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL4-GAL7.1',"CTTCGGAGCACTGTTGAGCGAAG","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL4-GAL7.4',"GGCTCAACAGTGCTCCGAAGTAT","Proc Natl Acad Sci U S A 82: 43-7 (1985)","YEAST").
+TFD_subseq('GAL4-GAL7.5',"GGCTCAACAGTTGTCCGAGCGCT","Proc Natl Acad Sci U S A 82: 43-7 (1985)","YEAST").
+TFD_subseq('GAL4-GAL80',"CGGCGCACTCTCGCCCG","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('CTF/NF-1a',"AGCCAAT","Cell 48: 79-89 (1987)","MAMM").
+TFD_subseq('aD-globin-CS2',"CCGTGCGG","Mol Cell Biol 7: 2059-69 (1987)","AVIAN").
+TFD_subseq('aD-globin-B',"AAGATAAGG","Mol Cell Biol 7: 2059-69 (1987)","AVIAN").
+TFD_subseq('aD-globin-A',"CGGGGCGGGTGTACAG","Mol Cell Biol 7: 2059-69 (1987)","AVIAN").
+TFD_subseq('beta-globin-CACCC',"CCACACCCG","Cell 48: 79-89 (1987)","MAMM").
+TFD_subseq('CTF/NF-1b',"AGCCAAT","Cell 48: 79-89 (1987)","MAMM").
+TFD_subseq('bA-globin.1',"GGGGCGGG","Cell 41: 21-30 (1985)","AVIAN").
+TFD_subseq('bA-globin.2',"GGATCTGGGCACCTTGCCCTGAGCC","Cell 41: 21-30 (1985)","AVIAN").
+TFD_subseq('bA-globin.4',"GAGGAGGGG","Cell 41: 21-30 (1985)","AVIAN").
+TFD_subseq('GRE_CS8',"AGAWCAGW","Proc Natl Acad Sci U S A 83: 5899-903 (1986)","MAMM").
+TFD_subseq('GH-site_2',"TGGCCTGCGGCAG","EMBO J 6: 971-81 (1987)","MAMM").
+TFD_subseq('GH-site_3',"ACCATGGCCTGCGGCCAGAGGGCACCCACGTGACCCT","EMBO J 6: 971-81 (1987)","MAMM").
+TFD_subseq('AP2-GH.1',"ATGGCCTGCGGCCAGAGGGCACC","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-GH.2',"GACAAGCCAGGGGGCATGATCCC","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('GHF-1-GH-site_2',"TGTGTGGGAGGAGCTTCTAA","EMBO J 6: 971-81 (1987)","MAMM").
+TFD_subseq('GHF-1-GH-site_2a',"GGAGGAGCTTCTAAATTATCCATTAGCA","EMBO J 6: 971-81 (1987)","MAMM").
+TFD_subseq('GHF-1-GH-site_1',"CAGTGGCCCCATGCATAAATGTACACAGAAAC","EMBO J 6: 971-81 (1987)","MAMM").
+TFD_subseq('GR-hGH_(1)',"GGCACAATGTGTCCT","Proc Natl Acad Sci U S A 82: 699-702 (1985)","MAMM").
+TFD_subseq('T3rec-GH',"AGGTAAGATCAGGGGACG","Proc Natl Acad Sci U S A 84: 5670-4 (1987)","MAMM").
+TFD_subseq('GC2-GH-CS',"GAGCTTCTAAATTATCCATCAGCACAAGC","Mol Cell Biol 7: 1193-7 (1987)","MAMM").
+TFD_subseq('Pit-1-pGHF1',"CCAGCCATGAATAAATGTATAGGGAAAAAGGCAGG","J Biol Chem 262: 6313-7 (1987)","MAMM").
+TFD_subseq('HBVE-UE3',"GGGTTATGTCATTGGATGTT","EMBO J 6: 1913-20 (1987)","MAMM").
+TFD_subseq('HBVE-UE2',"CCTATTGATTGGAAAGTATG","EMBO J 6: 1913-20 (1987)","MAMM").
+TFD_subseq('HBVE-UE1',"TTTACACAATGTGGTTATCC","EMBO J 6: 1913-20 (1987)","MAMM").
+TFD_subseq('HBVE-E_site',"AAGTGTTTGCTGACGCAACCCCCACT","EMBO J 6: 1913-20 (1987)","MAMM").
+TFD_subseq('GCN4-HIS3.1',"TGACGA","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('GCN4-HIS3.2',"GAGTCA","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('GCN4-HIS3.3',"TAGTCAGGGAAGTCA","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('GCN4-HIS3.4',"TTACTC","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('GCN4-HIS',"TGACTC","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('GCN4-HIS3.5',"TGACTC","Cell 43: 177-88 (1985)","YEAST").
+TFD_subseq('GCN4-HIS4.1',"TGACTC","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('HIS4_RS',"TTGCTAAACCGATGCACAGTGACTC","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('GCN4-HIS4.2',"TGACTC","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('GCN4-HIS4.3',"CAGTCA","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('GCN4-HIS4.4',"TGACTA","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('histone-H2B-US',"ATTTGCAT","Proc Natl Acad Sci U S A 83: 6382-6 (1986)","MAMM").
+TFD_subseq('OBF-histone',"ATTTGCAT","Cell 50: 347-59 (1987)","ECHINO").
+TFD_subseq('OBF-H2B1',"ATTTGCAT","Cell 50: 347-59 (1987)","ECHINO").
+TFD_subseq('(TFIID/TBP)-H2B1',"TATAAATAG","Cell 50: 347-59 (1987)","ECHINO").
+TFD_subseq('B-factor-H3',"TATAAGTA","Cell 36: 357-69 (1984)","DROS").
+TFD_subseq('H4TF-1hist',"GATTTC","Proc Natl Acad Sci U S A 83: 7241-5 (1986)","MAMM").
+TFD_subseq('histone_H4.1',"AAAAGAAATGACGAAATGTCGAGAGGGCGGGGACAATTG","Science 236: 1308-11 (1987)","MAMM").
+TFD_subseq('HiNF-Ahist',"AGAAATG","Nucleic Acids Res 15: 1679-98 (1987)","MAMM").
+TFD_subseq('histone_H4.2',"CTTTCGGTTTTCAATCTGGTCCGATACTCTTGTATATCAG","Science 236: 1308-11 (1987)","MAMM").
+TFD_subseq('B-factor-H3',"TATAAGTA","Cell 36: 357-69 (1984)","DROS").
+TFD_subseq('Sp1-HIV-1.1',"GAGGCGTGGG","Science 232: 755-9 (1986)","MAMM").
+TFD_subseq('Sp1-HIV-1.2',"TGGGCGGGAC","Science 232: 755-9 (1986)","MAMM").
+TFD_subseq('Sp1-HIV-1.3',"GGGGAGTGGC","Science 232: 755-9 (1986)","MAMM").
+TFD_subseq('HMGCoAred_FP1',"CTTGCTGGCGCCCCTCACGGCTCAG","Proc Natl Acad Sci U S A 84: 3614-8 (1987)","MAMM").
+TFD_subseq('HMGCoAred_FP2.1',"TGCTGGAACTCGACCAGCTATTGGTTGGCTCGGCCGTGGT","Proc Natl Acad Sci U S A 84: 3614-8 (1987)","MAMM").
+TFD_subseq('HMGCoAred_FP3',"GTTCTCCGCCCGGGTGCGAGCAGTGGGCGGTTGTTAAGGC","Proc Natl Acad Sci U S A 84: 3614-8 (1987)","MAMM").
+TFD_subseq('MLTF-HMGCoAred',"CGTGAC","Proc Natl Acad Sci U S A 84: 3614-8 (1987)","MAMM").
+TFD_subseq('HMGCoAred_FP5',"GGTGATTGGCTAGGCGATC","Proc Natl Acad Sci U S A 84: 3614-8 (1987)","MAMM").
+TFD_subseq('HMGCoAred_FP6',"GACGATCCTTTCTTATTGGCGGCCCTGAGC","Proc Natl Acad Sci U S A 84: 3614-8 (1987)","MAMM").
+TFD_subseq('SBF-EHML',"ATGGGTTTTTG","EMBO J 6: 461-76 (1987)","YEAST").
+TFD_subseq('SBF-BHMR',"TAAATATAAAA","EMBO J 6: 461-76 (1987)","YEAST").
+TFD_subseq('SBF-EHMR',"CAAAAACCCAT","EMBO J 6: 461-76 (1987)","YEAST").
+TFD_subseq('HSTF-hsp70.1',"AAATAAAGAATATTCTAGAATCCC","Cell 42: 527-37 (1985)","DROS").
+TFD_subseq('HSTF-hsp70.2',"CGAGAAATTCTCTGGCCGT","Cell 42: 527-37 (1985)","YEAST").
+TFD_subseq('HAP-hsp70',"CTGCGAATGTTCGCG","Nature 309: 229-34 (1984)","MAMM").
+TFD_subseq('HSTF-hsp70.3',"CTCGTTGCTTCGAGA","Cell 37: 273-83 (1984)","DROS").
+TFD_subseq('HSTF-hsp70.4',"CTCGAATGTTCGCGAAAA","Cell 37: 273-83 (1984)","DROS").
+TFD_subseq('HSTF-hsp70.5',"CTCGTTGCTTCGAG","Cell 42: 527-37 (1985)","DROS").
+TFD_subseq('HSTF-hsp70.6',"CTCGTTGCTTCGAG","J Biol Chem 261: 7934-40 (1986)","DROS").
+TFD_subseq('HSTF-hsp70.7',"CTCGAATGTTCGCG","Cell 42: 527-37 (1985)","DROS").
+TFD_subseq('HSTF-hsp70.8',"CTCGAATGTTCGCG","J Biol Chem 261: 7934-40 (1986)","DROS").
+TFD_subseq('TAB-hsp70',"TATAAATAGAGGCGC","Nature 309: 229-34 (1984)","DROS").
+TFD_subseq('B-factor-hsp70',"TATAAATA","Cell 37: 273-83 (1984)","DROS").
+TFD_subseq('heat-indf-hsp70',"CTGGAATATTCCCG","Mol Cell Biol 7: 1530-4 (1987)","MAMM").
+TFD_subseq('HSTF-hsp70.9',"GACCTTATAAGGGC","Mol Cell Biol 7: 1129-38 (1987)","DROS").
+TFD_subseq('HSTF-hsp70.10',"GACCGTCGGAGTAG","Proc Natl Acad Sci U S A 84: 2203-7 (1987)","MAMM").
+TFD_subseq('CTF/CBP-hs',"GATTGG","Mol Cell Biol 7: 1129-38 (1987)","MAMM").
+TFD_subseq('hsp70.4',"AGAAGGGAAA","Proc Natl Acad Sci U S A 84: 2203-7 (1987)","MAMM").
+TFD_subseq('hsp70_US',"GAAGGGAAAA","Mol Cell Biol 7: 3646-55 (1987)","MAMM").
+TFD_subseq('hsp70.5',"GATTGG","Mol Cell Biol 7: 3646-55 (1987)","MAMM").
+TFD_subseq('Sp1-hsp70',"GGCGGG","Mol Cell Biol 7: 3646-55 (1987)","MAMM").
+TFD_subseq('hsp70.2',"GGCGGG","Proc Natl Acad Sci U S A 84: 2203-7 (1987)","MAMM").
+TFD_subseq('(TFIID/TBF)-RS',"TATAAA","Proc Natl Acad Sci U S A 84: 2203-7 (1987)","MAMM").
+TFD_subseq('HAP-hsp83',"GAAGTCTCTAGAAGTTTCTAGAGACTTC","Nature 309: 229-34 (1984)","MAMM").
+TFD_subseq('TAB-hsp83',"TATAAAAGCAGACGC","Nature 309: 229-34 (1984)","MAMM").
+TFD_subseq('HTLV-pa-BS.3',"GAAAACGAAACAAAGA","Eur J Biochem 166: 519-26 (1987)","MAMM").
+TFD_subseq('HTLV-pA-BS.1',"ACCCTGCTT","Eur J Biochem 166: 519-26 (1987)","MAMM").
+TFD_subseq('HTLV-pA-BS.2',"GCGTCTTTGTTTCGTTTTC","Eur J Biochem 166: 519-26 (1987)","MAMM").
+TFD_subseq('NFI-IE1.1',"TGGCACATGGCCAA","EMBO J 5: 1367-71 (1986)","MAMM").
+TFD_subseq('NFI-IE1.2',"TTGGCCATTAGCCA","EMBO J 5: 1367-71 (1986)","MAMM").
+TFD_subseq('NFI-IE1.3',"TTGGCTATTGGCCA","EMBO J 5: 1367-71 (1986)","MAMM").
+TFD_subseq('NFI-IE1.4',"TTGGCTCATGTCCAA","EMBO J 5: 1367-71 (1986)","MAMM").
+TFD_subseq('IE1-I',"CCCGCCTGGCTGACCGCCCAACGAC","Proc Natl Acad Sci U S A 84: 3658-62 (1987)","MAMM").
+TFD_subseq('IE1.2',"CTTTCC","Proc Natl Acad Sci U S A 84: 3658-62 (1987)","MAMM").
+TFD_subseq('IE1.1',"TTGGCAGTACATC","Proc Natl Acad Sci U S A 84: 3658-62 (1987)","MAMM").
+TFD_subseq('NFI-IE1.5',"TTGGCTATATGCCAA","EMBO J 5: 1367-71 (1986)","MAMM").
+TFD_subseq('alpha-4_RS1',"GGGGAATCGTCACTGCCGCCCCTTTG","Proc Natl Acad Sci U S A 83: 4700-4 (1986)","MAMM").
+TFD_subseq('alpha-4_RS2.1',"CGGATGGGCGGGGCCGGGGGTTCGACCAACGGGCCGCGGC","Proc Natl Acad Sci U S A 83: 4700-4 (1986)","MAMM").
+TFD_subseq('Sp1-IE-3.1',"CCGCCC","Nature 317: 179-82 (1985)","MAMM").
+TFD_subseq('Sp1-IE-3.2',"GGGCGG","Nature 317: 179-82 (1985)","MAMM").
+TFD_subseq('Sp1-IE-3.3',"CCCGCC","Nature 317: 179-82 (1985)","MAMM").
+TFD_subseq('Sp1-IE-3.4',"CCGCCC","Nature 317: 179-82 (1985)","MAMM").
+TFD_subseq('Sp1-IE-3.5',"CCGCCC","Nature 317: 179-82 (1985)","MAMM").
+TFD_subseq('Sp1-IE-4/5',"CCCGCC","Nature 317: 179-82 (1985)","MAMM").
+TFD_subseq('Sp1-IE-4/5.2',"CCGCCC","Nature 317: 179-82 (1985)","MAMM").
+TFD_subseq('GCN4-ILV1.1',"GAGTCA","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('GCN4-ILV1.2',"TGAGTG","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('GCN4-ILV1.3',"AAGTCA","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('GCN4-ILV2',"TGATTC","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('IgNF-A-IgH',"ATTTGCAT","Nature 319: 154-8 (1986)","MAMM").
+TFD_subseq('IgHC.1',"ATTTGCAT","Proc Natl Acad Sci U S A 83: 9626-30 (1986)","MAMM").
+TFD_subseq('NF-A1-IgHC',"ATTTGCAT","Nature 323: 640-3 (1986)","MAMM").
+TFD_subseq('NF-A2-IgHC',"ATTTGCAT","Nature 323: 640-3 (1986)","MAMM").
+TFD_subseq('IgHC.2',"ATTTGCAT","Nature 323: 548-51 (1986)","MAMM").
+TFD_subseq('NFuE1-IgHC',"AGTCAAGATGGCCGATC","Cell 46: 705-16 (1986)","MAMM").
+TFD_subseq('IgHC.20',"AAGATGGC","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('IgPE-1-IgH',"CAGCTGGCAGGAAGCAGGTCATGTGGCAAGG","EMBO J 5: 3251-8 (1986)","MAMM").
+TFD_subseq('IgHC.4',"CAGCTGGC","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('NFuE3/GTII',"GTCATGTGGCAAG","Cell 46: 705-16 (1986)","MAMM").
+TFD_subseq('IgHC.8',"CATGTGGC","Science 227: 134-40 (1985)","MAMM").
+TFD_subseq('IgNF-A-IgH',"ATGCAAAT","Nature 319: 154-8 (1986)","MAMM").
+TFD_subseq('IgPE-2-IgH',"CCACCAAACCGAAAGTCCAGG","EMBO J 5: 3251-8 (1986)","MAMM").
+TFD_subseq('IgHC.11',"GTGTTTTGCTCA","Nature 325: 268-72 (1987)","MAMM").
+TFD_subseq('IgHC.12',"ACCACCTG","Science 227: 134-40 (1985)","MAMM").
+TFD_subseq('IgHC.13',"ATGCAAATAG","Nature 325: 268-72 (1987)","MAMM").
+TFD_subseq('IgHC.14',"ATTTGCAT","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('IgHC.15',"ATTTGCAT","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('IgPE-3-IgH',"CTGGGTAATTTGCATTTCTAAAATA","EMBO J 5: 3251-8 (1986)","MAMM").
+TFD_subseq('IgHC.16',"ATTTGCAT","Proc Natl Acad Sci U S A 83: 6382-6 (1986)","MAMM").
+TFD_subseq('IgHC.21',"ATTGCAT","Cell 46: 705-16 (1986)","MAMM").
+TFD_subseq('IgHC.17',"TTTTAGGAAGCAAAAACA","Nucleic Acids Res 15: 2851-69 (1987)","MAMM").
+TFD_subseq('IgHC.18',"ATTTGCGT","Nucleic Acids Res 15: 2851-69 (1987)","MAMM").
+TFD_subseq('IgHC.19',"ATGAAAAT","Nucleic Acids Res 15: 2851-69 (1987)","MAMM").
+TFD_subseq('NFkB-IgkLC',"GGGGACTTTCC","Cell 46: 705-16 (1986)","MAMM").
+TFD_subseq('IgNF-A-Igk',"ATTTGCAT","Proc Natl Acad Sci U S A 83: 6382-6 (1986)","MAMM").
+TFD_subseq('NF-A1-IgkLc',"ATTTGCAT","Nature 323: 640-3 (1986)","MAMM").
+TFD_subseq('NF-A2-IgkLc',"ATTTGCAT","Nature 323: 640-3 (1986)","MAMM").
+TFD_subseq('IgkLC-1',"GGGGATTTCCAAGAGGCCACCTG","Mol Cell Biol 7: 1815-22 (1987)","MAMM").
+TFD_subseq('unknown-insulin',"GTGGAAA","Cell 45: 35-44 (1986)","MAMM").
+TFD_subseq('unknown-insulin.2',"TTAATAATCTAATTCCC","Cell 45: 35-44 (1986)","MAMM").
+TFD_subseq('INS_US.1',"TTTCTGCAGACTTAGC","Cell 45: 35-44 (1986)","MAMM").
+TFD_subseq('R2-b-IFN.1',"TTTTTCCCTATTATATATATCATAAGATAGGAGCTTAAAT","Cell 45: 611-8 (1986)","MAMM").
+TFD_subseq('R1-b-IFN',"GAGAAGTGAAAGTGGGAAATTCCTCTGAATAGAGAGAGGA","Cell 45: 611-8 (1986)","MAMM").
+TFD_subseq('ITF-b-IFN',"GAGAAGTGAAAGTGG","Cell 45: 611-8 (1986)","MAMM").
+TFD_subseq('60k-protein_RS1',"GAATTTAATTAA","Nature 328: 734-7 (1987)","PLANT").
+TFD_subseq('60k-protein_RS2',"ATTAAATTTTAAATT","Nature 328: 734-7 (1987)","PLANT").
+TFD_subseq('IgPE-2-LPV-wt',"GAATCAACTGAACGCGGAAGCTGTGGTTAGACTCG","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('GR-lysozym.1',"ATTCCTCTGT","Proc Natl Acad Sci U S A 83: 2817-21 (1986)","AVIAN").
+TFD_subseq('PR-lysozym',"ATTCCTCTGT","Proc Natl Acad Sci U S A 83: 2817-21 (1986)","AVIAN").
+TFD_subseq('GR-lysozym.2-1',"ACAGACTATAAAATTCCTCTGTGGCTT","Nature 313: 706-9 (1985)","AVIAN").
+TFD_subseq('PR-lysozym.2-1',"ACAGACTATAAAATTCCTCTGTGGCTTAGCCAATGTGGTA","Nature 313: 706-9 (1985)","AVIAN").
+TFD_subseq('GR-lysozym.3',"AACAGAGGAAT","Proc Natl Acad Sci U S A 83: 2817-21 (1986)","AVIAN").
+TFD_subseq('lysozyme-TATA',"GTTAAAA","Nature 313: 706-9 (1985)","AVIAN").
+TFD_subseq('GAL4-MEL1',"TTCGGCCATATGTCTTCCGAA","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('Sp1-MT-I.1',"GAGCTCTGCACTCCGCCCGAAAAGTGC","Science 235: 1383-7 (1987)","MAMM").
+TFD_subseq('MT-I.1',"GCACTC","Mol Cell Biol 7: 3574-81 (1987)","MAMM").
+TFD_subseq('(Sp1)-MT-I.1',"GGGGGCGG","Mol Cell Biol 7: 3574-81 (1987)","MAMM").
+TFD_subseq('MT-I.2',"TGCACACCG","Mol Cell Biol 7: 3574-81 (1987)","MAMM").
+TFD_subseq('(Sp1)-MT-I.2',"TGCACTCCGCCC","Mol Cell Biol 7: 3574-81 (1987)","MAMM").
+TFD_subseq('MT-I.3',"TGCGTCGG","Mol Cell Biol 7: 3574-81 (1987)","MAMM").
+TFD_subseq('MT-I.4',"TGCGTCGT","Mol Cell Biol 7: 3574-81 (1987)","MAMM").
+TFD_subseq('MT-I.5',"CTGAGTGCA","Mol Cell Biol 7: 3574-81 (1987)","MAMM").
+TFD_subseq('MT-I.6',"TGCGCCCGG","Mol Cell Biol 7: 3574-81 (1987)","MAMM").
+TFD_subseq('GR-MT-IIA',"TGTCCT","Nature 308: 513-9 (1984)","MAMM").
+TFD_subseq('AP2-MT-II.1',"GCCGAGGCGTCCCCGAGGCGCAAGTGG","Cell 50: 847-61 (1987)","MAMM").
+TFD_subseq('AP2-MT-II.2',"AGGGAACTGACCGCCCGCGGCCCGTGTG","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('MT-IIA-BLE-1',"GCCGCAAGTGACTTCTAGCG","Nature 325: 368-72 (1987)","MAMM").
+TFD_subseq('AP2-MT-II.3',"CCGGGTGTTTCGCCTGGAGCCGCAAGTG","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP1-MT-II',"TGACTTCT","Cell 50: 847-61 (1987)","MAMM").
+TFD_subseq('PRTF-MFa1',"TTTCCGATTAGGAAT","Cell 50: 681-91 (1987)","YEAST").
+TFD_subseq('dirF/MATa1.1',"CCTAATTAGTCCTATCAATAGAAC","Cell 50: 681-91 (1987)","YEAST").
+TFD_subseq('PRTF/MATa1.2',"CTTCCTAATTAGGCCATTCAACGACAG","Cell 50: 681-91 (1987)","YEAST").
+TFD_subseq('PRTF/MATa1.3',"TTTCTTCATTGGTACATTCAATGCCAG","Cell 50: 681-91 (1987)","YEAST").
+TFD_subseq('MHCI/H2K',"GGGATTCCCCAT","Proc Natl Acad Sci U S A 84: 2653-7 (1987)","MAMM").
+TFD_subseq('AP2-MHCI',"AGGTCAGGGGTGGGGAAGCCCAGGGCTGGGGATTCCCCAT","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('KBF1-MHCI',"GGGGATTCCCCAT","EMBO J 6: 3317-24 (1987)","MAMM").
+TFD_subseq('MHCI/H2K.2',"GGGATTCCCCAT","Proc Natl Acad Sci U S A 84: 2653-7 (1987)","MAMM").
+TFD_subseq('Bfactor-MH',"TGGGGATTCCCCA","Mol Cell Biol 7: 305-13 (1987)","MAMM").
+TFD_subseq('x-box-bp-MHCII',"CCTAGCAACAGATG","Proc Natl Acad Sci U S A 84: 6249-53 (1987)","MAMM").
+TFD_subseq('DQ-beta-US1',"ATTTGTAT","Nucleic Acids Res 15: 8057-67 (1987)","MAMM").
+TFD_subseq('KBF1-beta2-microglobulin',"GGGGATTCCCC","EMBO J 6: 3317-24 (1987)","MAMM").
+TFD_subseq('MMTV-NF-I_RS',"AAAACCTTAAATAGGTTTAGAA","Cell 48: 261-70 (1987)","MAMM").
+TFD_subseq('GR-MMTV.01',"CCAAGGAGGGGACAGTGG","Cell 35: 381-92 (1983)","MAMM").
+TFD_subseq('GR-MMTV.02',"ACTAATAGAACATTA","Cell 35: 381-92 (1983)","MAMM").
+TFD_subseq('GR-MMTV.03',"TTTTTGGTTACAAACTGTTCTTAA","Proc Natl Acad Sci U S A 81: 3029-33 (1984)","MAMM").
+TFD_subseq('GR-MMTV.1',"AGTTTATGGTTACAAACTGTTCTTAAAACA","Nature 304: 749-52 (1983)","MAMM").
+TFD_subseq('GR/PR-MMTV.2',"ATGGTTACAAACTGTTCTTAAAACA","Nature 313: 706-9 (1985)","MAMM").
+TFD_subseq('GR/PR-MMTV.3',"AAATGTTCTGATCTGAGC","Nature 313: 706-9 (1985)","MAMM").
+TFD_subseq('GR/PR-MMTV.4',"TTAGTGTTCTATT","Nature 313: 706-9 (1985)","MAMM").
+TFD_subseq('GR/PR-MMTV.5',"TGTTCTTTTGGAA","Nature 313: 706-9 (1985)","MAMM").
+TFD_subseq('GR-MMTV.04',"GATGTGAGACAAGTGGTTTCCTGAC","Cell 35: 381-92 (1983)","MAMM").
+TFD_subseq('GR-MMTV.05',"GGATCAAAGGTTCTGATCTGAGCTCTGAGTGTTCTATTTT","Cell 35: 381-92 (1983)","MAMM").
+TFD_subseq('GR-MMTV.06',"TTGGCACAGGCTCTTTTTGTGCTGAATCAGTGTTCT","Cell 35: 381-92 (1983)","MAMM").
+TFD_subseq('GR-MMTV.07',"GGGTCCTGGAAAGGACGATGTCCTAATTGTTCT","Nature 304: 749-52 (1983)","MAMM").
+TFD_subseq('NFI-MMTV',"TTGGAATCTATCCAA","Nucleic Acids Res 13: 2045-61 (1985)","MAMM").
+TFD_subseq('GR-MMTV.08',"GTGTAGATCAGTCAGATCAGATT","Cell 35: 381-92 (1983)","MAMM").
+TFD_subseq('GR-MMTV.09',"GCAAAAAGGATCTATTTGGAAA","Cell 35: 381-92 (1983)","MAMM").
+TFD_subseq('GR-MMTV',"AGATCAGTAGATCAG","Cell 35: 381-92 (1983)","MAMM").
+TFD_subseq('LVa-Mo-MuLV',"GAACAG","Mol Cell Biol 7: 1101-10 (1987)","MAMM").
+TFD_subseq('NFI-Mo-MuLV.2',"TGAATATGGGCCA","Mol Cell Biol 7: 1101-10 (1987)","MAMM").
+TFD_subseq('LVb-Mo-MuLV',"CAGGATA","Mol Cell Biol 7: 1101-10 (1987)","MAMM").
+TFD_subseq('Mo-MuLV',"TGTGGTAT","Mol Cell Biol 7: 1101-10 (1987)","MAMM").
+TFD_subseq('NFI-Mo-MuLV.1',"CGGCTCAGGGCCA","Mol Cell Biol 7: 1101-10 (1987)","MAMM").
+TFD_subseq('(GR)-Mo-MuLV',"AGAACAGATG","Mol Cell Biol 7: 1101-10 (1987)","MAMM").
+TFD_subseq('c-mos_DS1',"TGGTTTG","J Mol Biol 193: 255-66 (1987)","MAMM").
+TFD_subseq('c-mos_DS2',"CAACCAC","J Mol Biol 193: 255-66 (1987)","MAMM").
+TFD_subseq('c-mos_DS3',"GTTTTAA","J Mol Biol 193: 255-66 (1987)","MAMM").
+TFD_subseq('IgPE-1-MSV',"ATATGGGCCAAACAGGATATCTGTGGTAAGC","EMBO J 5: 1791-7 (1986)","MAMM").
+TFD_subseq('C/EBP-MSV-2',"ACAGGATATCTGTGGTAAGCAGTT","Genes Dev 1: 133-46 (1987)","MAMM").
+TFD_subseq('AP2-c-myc.1',"AAAGGGCCGGTGGGCGGGAGATT","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('AP2-c-myc.2',"CAGCACAGCTCGGGGGTCCTCAG","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('COUP-ovalbuminS2',"TTTGACCTTTGACACCATAGAA","J Biol Chem 263: 13470-4 (1988)","MAMM").
+TFD_subseq('UAS-PGK_RS',"GAAATTACCGTCGCTCGTGATTTGTTTG","Nucleic Acids Res 15: 6855-73 (1987)","YEAST").
+TFD_subseq('Py-alpha.1',"TGACTAACT","EMBO J 6: 1331-7 (1987)","MAMM").
+TFD_subseq('PEA-2-poly',"ACTAACTGACCGCAGCTGGCC","EMBO J 6: 1331-7 (1987)","MAMM").
+TFD_subseq('PEA2-polyoma',"ACTGACCGC","Nature 328: 254-6 (1987)","MAMM").
+TFD_subseq('PEB1-polyoma',"GACATCCTCTTTTAATTAGTTG","EMBO J 4: 2675-85 (1985)","MAMM").
+TFD_subseq('polyoma.4',"ACTGCCCTCCAGAGGGCAGT","EMBO J 4: 2675-85 (1985)","MAMM").
+TFD_subseq('polyoma.3',"ACTGCCCTCCAGAGGGCAGT","Nucleic Acids Res 14: 2845-61 (1986)","MAMM").
+TFD_subseq('polyoma.2',"AGTTGCTAGGCAACT","Nucleic Acids Res 14: 2845-61 (1986)","MAMM").
+TFD_subseq('T-Ag-Py.1',"CTCTCCACCCAGGCC","J Virol 52: 750-60 (1984)","MAMM").
+TFD_subseq('C/EBP-polyoma',"AGTGTGGTTTTGCAAGAGGAAGC","Genes Dev 1: 133-46 (1987)","MAMM").
+TFD_subseq('GT-IIc-Py-wt',"CAGGCCTAGAATGT","EMBO J 6: 3005-13 (1987)","MAMM").
+TFD_subseq('EF-C-polyoma',"AGTTGCTAGGCAACT","Proc Natl Acad Sci U S A 83: 8550-4 (1986)","MAMM").
+TFD_subseq('T-Ag-Py.2',"CAACAGCTGTTTTTTTTAGTATTAAGCAG","J Virol 52: 750-60 (1984)","MAMM").
+TFD_subseq('T-Ag-Py.3',"GGCCGGGGGCCCCT","J Virol 52: 750-60 (1984)","MAMM").
+TFD_subseq('T-Ag-Py.4',"AAAAGAAGAGAGGCATTGTAGAGGCTTCCAGAGGCAACTT","J Virol 52: 750-60 (1984)","MAMM").
+TFD_subseq('T-Ag-Py.5',"ACTGGCGCCTTGGAGGCGCTGTGGGGCCACCCAAATTGAT","J Virol 52: 750-60 (1984)","MAMM").
+TFD_subseq('T-Ag-Py.6',"ATTAAGCCCCAACCGCCTCTTCCCGCCTCATTTCAGCCTC","J Virol 52: 750-60 (1984)","MAMM").
+TFD_subseq('rPRL-FPIV',"GCTGTAATTA","Proc Natl Acad Sci U S A 84: 5211-5 (1987)","MAMM").
+TFD_subseq('rPRL-FPIII',"CCTGAAAATGAATAAGAAA","Proc Natl Acad Sci U S A 84: 5211-5 (1987)","MAMM").
+TFD_subseq('rPRL-FPII',"GATGTTTAAAAT","Proc Natl Acad Sci U S A 84: 5211-5 (1987)","MAMM").
+TFD_subseq('rPRL-FPI',"CCTGATTATATATATATTCA","Science 234: 1552-7 (1986)","MAMM").
+TFD_subseq('PUF-1-prolactin',"TGATTATATATATATTCA","Proc Natl Acad Sci U S A 84: 5211-5 (1987)","MAMM").
+TFD_subseq('qa-1F-qa-2.1',"GGATGAGTTTTTAACC","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('qa-1F-qa-2.2',"GGATAAATCCTAACCC","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('qa-1F-qa-2.3',"GGGTAATCGCTTATCC","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('qa-1F-qa-4.1',"GGCTAAGTGTTTAACA","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('qa-1F-qa-4.2',"CGTTAATGCTTTATTC","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('qa-1F-qa-3.1',"GGGTAAGTATTTAAGC","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('qa-1F-qa-3.2',"GGCAAAACGCTCATCC","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('qa-1F-qa-3.3',"GGGGAATAACTTATAG","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('qa-1F-qa-y.1',"GGGTAATGGCTTTTCC","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('qa-1F-qa-y.2',"GGTTATACATTCATCC","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('qa-1F-qa-y.3',"GGCTCAACACTCATCA","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('qa-1F-qa-1.1',"GGATGAGTGATTCTCC","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('qa-1F-qa-1.2',"GGATAAACAATTATCC","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('Sp1-ras1.1',"GCTCCGCCTC","Science 232: 1410-3 (1986)","MAMM").
+TFD_subseq('Sp1-ras1.2',"GCCCCGCCCG","Science 232: 1410-3 (1986)","MAMM").
+TFD_subseq('Sp1-ras1.3',"GGGGCGGGGC","Science 232: 1410-3 (1986)","MAMM").
+TFD_subseq('Sp1-ras1.4',"GGGGGCGGGC","Science 232: 1410-3 (1986)","MAMM").
+TFD_subseq('Sp1-ras1.5',"CCCCCGCCCC","Science 232: 1410-3 (1986)","MAMM").
+TFD_subseq('Sp1-ras',"GCCCCGCCCCGCCCCGCCCC","Science 232: 1410-3 (1986)","MAMM").
+TFD_subseq('GT-I-rbcS-.1',"GATTTACACT","EMBO J 6: 2543-9 (1987)","PLANT").
+TFD_subseq('GT-I-rbcS-.2',"GTGAGGTAATAT","EMBO J 6: 2543-9 (1987)","PLANT").
+TFD_subseq('GT-I-rbcS-.3',"GTGTGGTTAATAT","EMBO J 6: 2543-9 (1987)","PLANT").
+TFD_subseq('GT-I-rbcS-.4',"ATCATTTTCNACT","EMBO J 6: 2543-9 (1987)","PLANT").
+TFD_subseq('TUF_CS1',"ACCCATACATYW","EMBO J 6: 1451-7 (1987)","YEAST").
+TFD_subseq('TUF_RS',"ACACCCATACAT","EMBO J 6: 1451-7 (1987)","YEAST").
+TFD_subseq('TUF-RP/RP5.1',"AACATCCGTGCA","EMBO J 4: 3539-47 (1985)","YEAST").
+TFD_subseq('TUF-RP/RP5.2',"TACCTCCGTACA","EMBO J 6: 1451-7 (1987)","YEAST").
+TFD_subseq('TUF-RP/S33',"ACACCCATACAT","EMBO J 6: 1451-7 (1987)","YEAST").
+TFD_subseq('EFII-RSV',"TATGCA","Mol Cell Biol 7: 787-98 (1987)","AVIAN").
+TFD_subseq('EFI-RSV',"AAGCACCGTGCATGCCGATTGGTGGAAGTA","Mol Cell Biol 7: 787-98 (1987)","AVIAN").
+TFD_subseq('CRE-somatostatin',"TGACGTC","Nature 328: 175-8 (1987)","MAMM").
+TFD_subseq('PRTF/MATa1.4',"TTTCCTAATTAGTGTCACAATGACAG","Cell 50: 681-91 (1987)","YEAST").
+TFD_subseq('HBsAG-US',"ACTGGCCAGCAGC","EMBO J 5: 1967-71 (1986)","MAMM").
+TFD_subseq('LSF-SV40',"CCGCCC","Proc Natl Acad Sci U S A 84: 6025-9 (1987)","MAMM").
+TFD_subseq('Sp1-SV40.2',"GGGCGGAG","Science 230: 511-7 (1985)","MAMM").
+TFD_subseq('Sp1-SV40.3',"GGGCGGAG","Nature 312: 409-13 (1984)","MAMM").
+TFD_subseq('Sp1-SV40.4',"GGGCGG","Nature 312: 409-13 (1984)","MAMM").
+TFD_subseq('Sp1-SV40.1',"GGGGCGGG","Nature 312: 409-13 (1984)","MAMM").
+TFD_subseq('AP1-SV40.1',"TTAGTCAG","Cell 49: 9-18 (1987)","MAMM").
+TFD_subseq('SV40.1',"TCTCAATTAGT","Nature 325: 268-72 (1987)","MAMM").
+TFD_subseq('AP1-SV40.2',"TGACTAA","Nature 325: 368-72 (1987)","MAMM").
+TFD_subseq('SV40.2',"TGCATGCTTTGCATACTT","Nature 323: 544-8 (1986)","MAMM").
+TFD_subseq('OBF-SV40.1',"TGCTTTGCAT","Nature 325: 268-72 (1987)","MAMM").
+TFD_subseq('SV40.3',"TGTGGAAAGTCCCCAGGCTCCCCAGCAG","Nature 325: 268-72 (1987)","MAMM").
+TFD_subseq('SV40.4',"CCAGGCTCCCC","Mol Cell Biol 6: 2098-105 (1986)","MAMM").
+TFD_subseq('SV40.5',"ACTTTCCACACC","Nature 323: 544-8 (1986)","MAMM").
+TFD_subseq('SV40.6',"TGGAAAG","Cell 49: 9-18 (1987)","MAMM").
+TFD_subseq('SV40.16',"TGGAAAG","Cell 49: 9-18 (1987)","MAMM").
+TFD_subseq('TRE-SV40',"ATTAGTCAGC","Cell 49: 729-39 (1987)","MAMM").
+TFD_subseq('SV40.7',"TGACTAATTGA","Nature 325: 268-72 (1987)","MAMM").
+TFD_subseq('OBF-SV40.2',"TGTTTGCAT","Nature 325: 268-72 (1987)","MAMM").
+TFD_subseq('SV40.8',"TGCATGCTTTGCATACTT","Nucleic Acids Res 15: 2851-69 (1987)","MAMM").
+TFD_subseq('oct-B1A-SV40',"CTTTGCAT","EMBO J 6: 3015-25 (1987)","MAMM").
+TFD_subseq('oct-B1B-SV40',"CTTTGCAT","EMBO J 6: 3015-25 (1987)","MAMM").
+TFD_subseq('oct-B2-SV40',"CTTGCAT","EMBO J 6: 3015-25 (1987)","MAMM").
+TFD_subseq('oct-B3-SV40',"CTTTGCAT","EMBO J 6: 3015-25 (1987)","MAMM").
+TFD_subseq('SV40.9',"TGTGGAAAGTCCCCAGGCTCCCCAGCAG","Nature 325: 268-72 (1987)","MAMM").
+TFD_subseq('AP2-SV40.1',"CTGGGGAGCCTGGGGA","Cell 50: 847-61 (1987)","MAMM").
+TFD_subseq('AP2-SV40.2',"GAGCCTGGGGACTTT","Cell 51: 251-60 (1987)","MAMM").
+TFD_subseq('SV40.10',"CCAGGCTCCCC","Mol Cell Biol 6: 2098-105 (1986)","MAMM").
+TFD_subseq('AP2-SV40.3',"GGAGCCTGGGGACTTT","Nature 329: 648-51 (1987)","MAMM").
+TFD_subseq('SV40.12',"ACTTTCCACACC","Genes Dev 1: 133-46 (1987)","MAMM").
+TFD_subseq('C/EBP-SV40-2',"GGGACTTTCCACACCCTAAC","Nature 323: 544-8 (1986)","MAMM").
+TFD_subseq('SV40.13',"TGGAAAG","Cell 49: 9-18 (1987)","MAMM").
+TFD_subseq('AP3-SV40.1',"ACTTTCCACACC","Cell 50: 847-61 (1987)","MAMM").
+TFD_subseq('AP3-SV40.2',"TTTCCACACCCTAACTG","Nature 323: 544-8 (1986)","MAMM").
+TFD_subseq('SV40.14',"ACATTCCACAGC","Nature 323: 544-8 (1986)","MAMM").
+TFD_subseq('GT-IIC-SV40',"ACATTCCACAG","Nature 323: 544-8 (1986)","MAMM").
+TFD_subseq('SV40.15',"ACATTCCACAGC","Nature 323: 544-8 (1986)","MAMM").
+TFD_subseq('GT-IIBa-SV40',"ACAGCTG","EMBO J 6: 3005-13 (1987)","MAMM").
+TFD_subseq('GT-IIBb-SV40',"ACAGCTG","EMBO J 6: 3005-13 (1987)","MAMM").
+TFD_subseq('GT-IIA-SV40',"AGCTGGTTCTTTCC","EMBO J 6: 3005-13 (1987)","MAMM").
+TFD_subseq('Sp1-tk.1',"ACCCCGCCCA","Cell 42: 559-72 (1985)","MAMM").
+TFD_subseq('CTF/NF-I-t',"AGCCAAT","Cell 48: 79-89 (1987)","MAMM").
+TFD_subseq('Sp1-tk.2',"GGGGCGGCGC","Cell 42: 559-72 (1985)","MAMM").
+TFD_subseq('tryp-oxy_GRE.1',"CCAGGACATCATGAAAGGGAGCAGTGAACATACCCTTCCC","EMBO J 6: 625-30 (1987)","MAMM").
+TFD_subseq('tryp-oxy_GRE.2',"ATATGCACAGCGAGTTCTAGTGAGTTTCATTTGCCAAGGA","Proc Natl Acad Sci U S A 83: 6382-6 (1986)","MAMM").
+TFD_subseq('TAT-distal-GRE',"CTGTACAGGATGTTC","Cell 49: 29-38 (1987)","MAMM").
+TFD_subseq('TAT-prox-GRE',"TAGAACAAACAAGTCC","Cell 49: 29-38 (1987)","MAMM").
+TFD_subseq('U1BsnRNA',"ATGCAAATGAGGG","Nucleic Acids Res 15: 4997-5016 (1987)","AMPHIB").
+TFD_subseq('U2snRNA.1',"STGCAAAT","Nucleic Acids Res 15: 4997-5016 (1987)","MAMM").
+TFD_subseq('(Sp1)-U2snR.1',"GGGCGG","Nucleic Acids Res 15: 4997-5016 (1987)","MAMM").
+TFD_subseq('(Sp1)-U2snR.2',"ACGCCC","Nucleic Acids Res 15: 4997-5016 (1987)","MAMM").
+TFD_subseq('(Sp1)-U2snR.3',"GGGCGG","Nucleic Acids Res 15: 4997-5016 (1987)","MAMM").
+TFD_subseq('Octa-U2snRNA',"ATGCAAAT","Nucleic Acids Res 15: 4997-5016 (1987)","MAMM").
+TFD_subseq('OBF-U2snRNA',"ATGCAAATAG","Nature 325: 268-72 (1987)","AMPHIB").
+TFD_subseq('U5snRNA',"ATTTGCAT","EMBO J 6: 3071-8 (1987)","AMPHIB").
+TFD_subseq('U5snRNA.2',"GGTGCGCGCCGGT","EMBO J 6: 3071-8 (1987)","AMPHIB").
+TFD_subseq('PR-uteroglobin-1',"AGTGTCAGTCTTGTTCTCCC","Nucleic Acids Res 15: 4535-52 (1987)","MAMM").
+TFD_subseq('GR-uteroglobin.1',"TGTTCT","Nucleic Acids Res 15: 4535-52 (1987)","MAMM").
+TFD_subseq('PR-uterogl.2',"AGTCCTTT","Nucleic Acids Res 15: 4535-52 (1987)","MAMM").
+TFD_subseq('GR-uteroglobin.2',"TGTTCT","Nucleic Acids Res 15: 4535-52 (1987)","MAMM").
+TFD_subseq('PR-uterogl.3',"TGTTCACT","Nucleic Acids Res 15: 4535-52 (1987)","MAMM").
+TFD_subseq('PR-uterogl.4',"TAGAACCCGTGCTCTT","Nucleic Acids Res 15: 4535-52 (1987)","MAMM").
+TFD_subseq('PR-uteroglobin-2'',"CCTGTTCACTGATTCGTTCCAAGG","Nucleic Acids Res 15: 4535-52 (1987)","MAMM").
+TFD_subseq('GR/PR-uteroglobin.1',"TGTTCACT","Cell 48: 177-8 (1987)","MAMM").
+TFD_subseq('PR-uterogl.6',"TGTCCTCT","EMBO J 5: 3235-41 (1986)","MAMM").
+TFD_subseq('PR-uterogl.7',"GAGTGGGAACAACTGTTTGGCAGAGAGTGTTACTTGTT","EMBO J 5: 3235-41 (1986)","MAMM").
+TFD_subseq('vaccinia',"TATTACTGAATTAATA","Proc Natl Acad Sci U S A 84: 6069-73 (1987)","MAMM").
+TFD_subseq('ER-c-vit',"GCGTGACCGGAGCTGAAAGAACAC","Proc Natl Acad Sci U S A 81: 429-33 (1984)","AVIAN").
+TFD_subseq('vitellogenin.1',"CACGGGATCAATGTGTTCTT","Proc Natl Acad Sci U S A 83: 7167-71 (1986)","AVIAN").
+TFD_subseq('WAP_US1',"TTTAAAAATGGCCTCCAT","Nucleic Acids Res 15: 2103-21 (1987)","MAMM").
+TFD_subseq('WAP_US2',"CTGCTCTCTCTGTGT","Nucleic Acids Res 15: 2103-21 (1987)","MAMM").
+TFD_subseq('WAP_US3',"GTGGCCAAGAAGGAAGT","Nucleic Acids Res 15: 2103-21 (1987)","MAMM").
+TFD_subseq('WAP_US4',"CCTTTAAATGCATC","Nucleic Acids Res 15: 2103-21 (1987)","MAMM").
+TFD_subseq('WAP_US5',"CCAAGT","Nucleic Acids Res 15: 2103-21 (1987)","MAMM").
+TFD_subseq('WAP_US6',"TTTAAA","Nucleic Acids Res 15: 2103-21 (1987)","MAMM").
+TFD_subseq('CuE1.4',"GTCAAGATGGC","Cell 56: 777-83 (1989)","MAMM").
+TFD_subseq('kappa-E2.1',"GGCAGGTGG","Cell 56: 777-83 (1989)","MAMM").
+TFD_subseq('CuE3.4_(2)',"GTCATGTGG","Cell 56: 777-83 (1989)","MAMM").
+TFD_subseq('CuE5',"TGCAGGTGT","Cell 56: 777-83 (1989)","MAMM").
+TFD_subseq('E1A_element_II',"GGCGTAACCGAGTAAGATTTGGCCATTTTCGCG","Cell 45: 229-36 (1986)","MAMM").
+TFD_subseq('E1A_element_I.1',"AGGAAGTGACAA","Cell 45: 229-36 (1986)","MAMM").
+TFD_subseq('ATF_RS',"TGACGT","Proc Natl Acad Sci U S A 85: 3396-400 (1988)","MAMM").
+TFD_subseq('E3-binding_site_IV',"TAGTTGGCCCGCTTCCCTGGTGTA","Nucleic Acids Res 15: 8367-85 (1987)","MAMM").
+TFD_subseq('E3-binding_site_III',"GAAGTTCAGATGACTAACTCA","Nucleic Acids Res 15: 8367-85 (1987)","MAMM").
+TFD_subseq('CREB-E3.2',"GGCGGCTTTCGTCACAGGGTG","Nucleic Acids Res 15: 8367-85 (1987)","MAMM").
+TFD_subseq('FSE2',"CATGACTCAGAGGAAAACATAC","Cell 52: 471-80 (1988)","MAMM").
+TFD_subseq('GAPD_initiation_site',"AAAAAACCAAGCAACT","J Biol Chem 258: 5291-9 (1983)","YEAST").
+TFD_subseq('ADH_US2',"CACCTCCC","Nucleic Acids Res 13: 727-43 (1985)","PLANT").
+TFD_subseq('HP1-syn0',"GTTAATAATTTTC","Nucleic Acids Res 16: 3165-74 (1988)","MAMM").
+TFD_subseq('AAT_USFP',"CTGCTGGTGAATATTAACCAAGGTCAC","Nucleic Acids Res 15: 8399-415 (1987)","MAMM").
+TFD_subseq('AAT_US3',"TGGTTAATATTCACCA","Nucleic Acids Res 15: 8399-415 (1987)","MAMM").
+TFD_subseq('E2_RS1',"ACCNNNNNNGGT","Nucleic Acids Res 15: 10267-84 (1987)","MAMM").
+TFD_subseq('E2_RS2',"ACCKNNNYCGGTGC","Nucleic Acids Res 15: 10267-84 (1987)","MAMM").
+TFD_subseq('ovotransferrin_S_element_1',"GAAAAGGAAAAAGGAAAGGAAAAGAAAGGAAAGA","Nucleic Acids Res 11: 1227-43 (1983)","AVIAN").
+TFD_subseq('ovotransferrin_S_element_2',"GGAAGGGAAG","Nucleic Acids Res 11: 1227-43 (1983)","AVIAN").
+TFD_subseq('XRE-cyt450_RS',"CSTSYTSTCACGCWA","Nucleic Acids Res 15: 4179-91 (1987)","MAMM").
+TFD_subseq('CytR-galO(E)',"TTGTGTAAACGATTCCACTA","Nucleic Acids Res 14: 2215-28 (1986)","PROK").
+TFD_subseq('CytR-deoP-2',"TTATTTGAACCAGATCGCATTA","Nucleic Acids Res 14: 2215-28 (1986)","PROK").
+TFD_subseq('SRF_CS1',"GATSBCCWWATWWGGV","Cell 46: 567-74 (1986)","MAMM").
+TFD_subseq('GAL4_CS3',"CGGASGACWGTCSTCCG","Cell 40: 767-74 (1985)","YEAST").
+TFD_subseq('galE_operator_CS',"TGTAANCGNTNCCAC","Cell 32: 783-8 (1983)","YEAST").
+TFD_subseq('cuticle-gene-US',"TGCATCA","Cell 29: 1027-40 (1982)","DROS").
+TFD_subseq('reductase_US1',"CGGTGCCCGTTCTCCGCCCGGGTGCG","Cell 38: 275-85 (1984)","MAMM").
+TFD_subseq('EARLY-SEQ1',"YYCCGCCC","J Mol Appl Genet 1: 457-81 (1982)","MAMM").
+TFD_subseq('SP1_CS3',"GGGCGG","Nature 312: 409-13 (1984)","MAMM").
+TFD_subseq('HSP/LSP_CS',"CANACCCCAAAGAYA","Cell 36: 635-43 (1984)","MAMM").
+TFD_subseq('biosynthetic_repeated_sequence',"AWGTGACTC","J Biol Chem 258: 5238-47 (1983)","YEAST").
+TFD_subseq('beta-A_globin_B'_site',"TGCCCTGAGCCCCACCCTGATGCCGCGTTCCCTCCC","Nucleic Acids Res 14: 7675-93 (1986)","AVIAN").
+TFD_subseq('vit-B1_ERE',"AGTCACTGTGACC","Nucleic Acids Res 14: 8755-70 (1986)","AMPHIB").
+TFD_subseq('CAP/CRP-gal',"AAAGTGTGACA","Proc Natl Acad Sci U S A 76: 5090-4 (1979)","PROK").
+TFD_subseq('Ad-conserved-sequence-a',"ATAATATACCTTAT","Cell 17: 705-13 (1979)","MAMM").
+TFD_subseq('Ad-conserved-sequence-e',"TGACGT","Cell 17: 705-13 (1979)","MAMM").
+TFD_subseq('CAP/CRP_CS1',"AAAGTGTGACA","Proc Natl Acad Sci U S A 76: 5090-4 (1979)","PROK").
+TFD_subseq('CAP/CRP-lac',"ACACTTT","Proc Natl Acad Sci U S A 76: 5090-4 (1979)","PROK").
+TFD_subseq('CAP/CRP_CS2',"AANTGTGANNTNNNNCANATT","Science 224: 831-8 (1984)","PROK").
+TFD_subseq('CAP/CRP_CS3',"AANTGTGANNTNNNTCANATW","Proc Natl Acad Sci U S A 81: 7274-8 (1984)","PROK").
+TFD_subseq('CAP/CRP_CS4',"AAATGTGATCTAGATCACATTT","J Mol Biol 200: 709-23 (1988)","PROK").
+TFD_subseq('CAP/CRP-lac_site_1',"CAATTAATGTGAGTTAGCTCACTCATTA","Science 224: 831-8 (1984)","PROK").
+TFD_subseq('CAP/CRP_CS5',"AAATGTGATCTMGATCAMATWT","Nucleic Acids Res 16: 7315-32 (1988)","PROK").
+TFD_subseq('Amy-2A_conserved_seq',"GAAGAACCTTCAGCTGTGCACATCATTGCTACT","Nucleic Acids Res 14: 8307-30 (1986)","MAMM").
+TFD_subseq('araC_CS',"TNTGGACNNNNNNGCTA","Proc Natl Acad Sci U S A 85: 1749-53 (1988)","PROK").
+TFD_subseq('Arg_box_CS',"WATGAATAWTNATNCANT","Nucleic Acids Res 11: 5007-19 (1983)","PROK").
+TFD_subseq('CAR_US1',"TAGCCGCCGA","Proc Natl Acad Sci U S A 82: 643-7 (1985)","YEAST").
+TFD_subseq('chorion_upstream_CS',"RTCACGTW","Chromosoma 92: 124-35 (1985)","DROS").
+TFD_subseq('Gld_YYRR_sequence',"AACTGACTCACTGACTCACTGACTGACTGACTGACGGACTGACAG","Nucleic Acids Res 16: 3375-90 (1988)","DROS").
+TFD_subseq('HO_site',"CACGAAAA","Cell 48: 389-97 (1987)","YEAST").
+TFD_subseq('leu2_US',"TGAGAGGCCGGAACCGGCTTTTCA","Nature 307: 740-2 (1984)","YEAST").
+TFD_subseq('malT_CS',"GGAKGA","J Bacteriol 161: 1201-8 (1985)","PROK").
+TFD_subseq('alpha-factor_stim_element',"TGAAACA","Cell 50: 369-77 (1987)","YEAST").
+TFD_subseq('alpha1/alpha2_element_CS',"TCRTGTNNWNANNTACATCA","Nature 314: 598-603 (1985)","YEAST").
+TFD_subseq('MSP_CS',"AGATCT","J Mol Biol 199: 15-22 (1988)","NEMAT").
+TFD_subseq('SOD-1-GC-hexamer',"GGGGCGGGCTGAG","EMBO J 4: 77-84 (1985)","MAMM").
+TFD_subseq('TTR_inverted_repeat',"CGCCGCG","Nucleic Acids Res 15: 1259-70 (1987)","MAMM").
+TFD_subseq('Tg_c_region',"CCCAGTCAAGTGTTC","Nucleic Acids Res 15: 8149-66 (1987)","MAMM").
+TFD_subseq('AP1-transferrin_receptor',"CAGGAAGTGACGCAC","Nucleic Acids Res 16: 629-46 (1988)","MAMM").
+TFD_subseq('b-alpha1-tubulin_US',"TTCTCTGGG","Nucleic Acids Res 13: 207-23 (1985)","MAMM").
+TFD_subseq('tufB_wt_promoter',"CCATAGAATGCGCGCTACTTG","EMBO J 4: 1053-8 (1985)","PROK").
+TFD_subseq('malT-malPp',"TCCTCC","J Bacteriol 161: 1201-8 (1985)","PROK").
+TFD_subseq('MFA1_alpha-2_element',"ATTACCCAAAAAGGAAATT","Nature 314: 598-603 (1985)","YEAST").
+TFD_subseq('C4-(G)18CGGGTGG',"GGGGGGGGGGGGGGGGGGCGGGTGG","Nucleic Acids Res 13: 4047-65 (1985)","AVIAN").
+TFD_subseq('CACA-pseudobeta-2',"ACACACACACACACACACACACAC","Nucleic Acids Res 10: 7809-18 (1982)","MAMM").
+TFD_subseq('copia_HSE1',"CTACAAAAATAACG","Nucleic Acids Res 13: 4401-10 (1985)","DROS").
+TFD_subseq('HSE_CS',"CTGGAATNTTCTAGA","Cell 30: 517-28 (1982)","DROS").
+TFD_subseq('copia_HSE2',"TTGGAATATACTAT","Nucleic Acids Res 13: 4401-10 (1985)","DROS").
+TFD_subseq('HSE-hsp23',"CGAGAAGTTTCGTG","Cell 30: 517-28 (1982)","DROS").
+TFD_subseq('HLA_DQ-beta_US',"ATTTGTAT","Nucleic Acids Res 15: 8057-67 (1987)","MAMM").
+TFD_subseq('H-2Kb-sequence-VII',"CTAGAAGACTCCAG","Cell 44: 261-72 (1986)","MAMM").
+TFD_subseq('H-2Kb-sequence-V-repeat',"GGAAGAGTGGAAGAGA","Cell 44: 261-72 (1986)","MAMM").
+TFD_subseq('H-2Kb-sequence-IV',"GGGGTGGGGAAGCCC","Cell 44: 261-72 (1986)","MAMM").
+TFD_subseq('H2B-CCAAT',"CCAATNA","Nucleic Acids Res 14 Suppl: r119-49 (1986)","MULTIPLE").
+TFD_subseq('H2B-specific_CS',"CYTNATTTGCATAC","Nucleic Acids Res 14 Suppl: r119-49 (1986)","MULTIPLE").
+TFD_subseq('H1_conserved_US',"AAACACA","Nucleic Acids Res 14 Suppl: r119-49 (1986)","MULTIPLE").
+TFD_subseq('H1-box',"AAGAAACACAAA","Nucleic Acids Res 13: 585-94 (1985)","AVIAN").
+TFD_subseq('histone_H4_CS',"GTCAGGTCC","Nucleic Acids Res 11: 8641-57 (1983)","AMPHIB").
+TFD_subseq('histone_H4_CS.2',"YCCTGA","Nucleic Acids Res 11: 8641-57 (1983)","AMPHIB").
+TFD_subseq('HO_CS',"RNNYCACGAAAA","Cell 42: 225-35 (1985)","YEAST").
+TFD_subseq('H1-TATA',"ATATAAANGAG","Nucleic Acids Res 14 Suppl: r119-49 (1986)","MULTIPLE").
+TFD_subseq('H2A_conserved_US',"YCATTC","Nucleic Acids Res 14 Suppl: r119-49 (1986)","MULTIPLE").
+TFD_subseq('ICP4_CS',"ATCGTCNNNNYCGRC","Nucleic Acids Res 14: 6067-83 (1986)","MAMM").
+TFD_subseq('IEmRNA-4/5_US',"GCGCACATAAAGG","J Gen Virol 65 ( Pt 3): 451-66 (1984)","MAMM").
+TFD_subseq('IEmRNA-4/5_start',"CGTCCCGGTC","J Gen Virol 65 ( Pt 3): 451-66 (1984)","MAMM").
+TFD_subseq('IEmRNA-4/5_DS',"GACCGGGACG","J Gen Virol 65 ( Pt 3): 451-66 (1984)","MAMM").
+TFD_subseq('IgH-heptamer',"CTCATGA","Nucleic Acids Res 16: 5503-14 (1988)","MAMM").
+TFD_subseq('cd_element_CS',"ATGCAAATNA","Nature 310: 71-4 (1984)","MAMM").
+TFD_subseq('Ig-kappa.1',"GGGGACTTTCC","Cell 46: 705-16 (1986)","MAMM").
+TFD_subseq('dc_element_CS',"TNATTTGCAT","Nucleic Acids Res 14: 8819-27 (1986)","MAMM").
+TFD_subseq('Ig-kappa.2',"ATTTGCAT","Nucleic Acids Res 14: 4837-48 (1986)","MAMM").
+TFD_subseq('pd_element_CS',"TGCASCTGTGNCCAG","Nature 310: 71-4 (1984)","MAMM").
+TFD_subseq('Ig-dc.2',"TNATTTGCAT","Nature 310: 71-4 (1984)","MAMM").
+TFD_subseq('Ins-IEF1',"CGCCATCTGC","Proc Natl Acad Sci U S A 85: 4228-31 (1988)","MAMM").
+TFD_subseq('INF.1',"AAGTGA","Cell 49: 357-67 (1987)","MAMM").
+TFD_subseq('TGGCA_CS1',"ANNNNTGGCANNNTGCCAA","Nucleic Acids Res 12: 4295-311 (1984)","AVIAN").
+TFD_subseq('lysozyme_E-0.2kb',"GTTGGGAAATTT","Nucleic Acids Res 15: 4163-78 (1987)","AVIAN").
+TFD_subseq('MRE_CS6',"CYTTTGCRYYCG","Proc Natl Acad Sci U S A 81: 7318-22 (1984)","MAMM").
+TFD_subseq('hMTIIa-GRE',"ACCCGGTACACTGTGTCCTCCCGCT","Nature 308: 513-9 (1984)","MAMM").
+TFD_subseq('MRE_CS4',"YKCGCCCGGCYC","Nature 308: 513-9 (1984)","MAMM").
+TFD_subseq('MRE_CS7',"TGCGCCCGCYC","Proc Natl Acad Sci U S A 81: 7392-6 (1984)","MAMM").
+TFD_subseq('glnAp2',"TTGGCACAGATTTCGCT","Cell 45: 785-92 (1986)","PROK").
+TFD_subseq('nitrogen_regulatory_CS',"TTTTGCA","Proc Natl Acad Sci U S A 80: 2524-8 (1983)","PROK").
+TFD_subseq('ntrC_CS',"TGCACCWWWWTGGTGCA","EMBO J 4: 539-47 (1985)","PROK").
+TFD_subseq('nif_promoter_CS1',"CTGGNNNNNNNNTTGCA","Cell 34: 665-71 (1983)","PROK").
+TFD_subseq('nif_promoter_CS2',"YTGGCAYGNNNNTTGCW","Nucleic Acids Res 12: 8329-44 (1984)","PROK").
+TFD_subseq('NR(I)_CS',"GCACNNNNNTGGTGC","Cell 45: 785-92 (1986)","PROK").
+TFD_subseq('nodulin_consensus_A',"GTTTCCCT","Nucleic Acids Res 13: 239-49 (1985)","PLANT").
+TFD_subseq('RS_RNA_5'_CS',"GGGGCAAAT","Proc Natl Acad Sci U S A 81: 7683-7 (1984)","MAMM").
+TFD_subseq('RS_initiation_site',"GGGCAAAT","J Virol 55: 101-10 (1985)","MAMM").
+TFD_subseq('rDNA_SalI_box_CS',"AGGTCGACCAGWWNTCCG","Cell 45: 837-46 (1986)","MAMM").
+TFD_subseq('T3-box',"GACTTGC","Cell 47: 913-20 (1986)","AMPHIB").
+TFD_subseq('16S/32S_rRNA.1',"TTTATATG","Nucleic Acids Res 15: 5581-95 (1987)","PROK").
+TFD_subseq('UAS(rpg)_CS',"WRMAYCCRTRCMYYH","Nucleic Acids Res 15: 6037-48 (1987)","YEAST").
+TFD_subseq('RPG-box',"ACCCATACATTT","Nucleic Acids Res 13: 701-9 (1985)","YEAST").
+TFD_subseq('U4B-octa',"CTTTGCAT","Nucleic Acids Res 15: 9239-54 (1987)","AVIAN").
+TFD_subseq('LexA_CS1',"TACTGTATATNCATNCAGGA","Cell 29: 11-22 (1982)","PROK").
+TFD_subseq('LexA_CS2',"TACTGTATATAYAYMCAGTW","Nucleic Acids Res 12: 6727-39 (1984)","PROK").
+TFD_subseq('GRE_CS4',"GNNACAANNTGTYCT","Proc Natl Acad Sci U S A 82: 699-702 (1985)","MAMM").
+TFD_subseq('RUG1',"ACTCTGTTCACTCTGTTCTATGCCT","EMBO J 3: 2771-8 (1984)","MAMM").
+TFD_subseq('GR-lysozyme-1',"TTGATTCCTCTGTTCT","Cell 37: 503-10 (1984)","AVIAN").
+TFD_subseq('GR-lysozyme-2',"ATTCCTCTGT","Cell 37: 503-10 (1984)","MAMM").
+TFD_subseq('PR-ovalbumin',"GGGTAACAATGTGTTTT","Nature 305: 551-4 (1983)","MAMM").
+TFD_subseq('ER-cvit',"CGGCATCAATGTGTTCT","Proc Natl Acad Sci U S A 81: 429-33 (1984)","AVIAN").
+TFD_subseq('RUG2',"ACCGGACACGGAGTCCTTTTGC","EMBO J 3: 2771-8 (1984)","MAMM").
+TFD_subseq('SV40-late-US1',"GGTACCTAACC","Cell 31: 625-33 (1982)","MAMM").
+TFD_subseq('HSV-tk-2nd_distal_signal',"CCCCGCCCAG","Cell 37: 253-62 (1984)","MAMM").
+TFD_subseq('(Sp1)-TK.1',"CCCCGCCC","Science 217: 316-24 (1982)","MAMM").
+TFD_subseq('(Sp1)-TK.2',"GGGGCGGCGCGG","Science 217: 316-24 (1982)","MAMM").
+TFD_subseq('HSV-tk-1st_distal_signal',"CGGGGCGGCG","Cell 37: 253-62 (1984)","MAMM").
+TFD_subseq('uteroglobin_HS-2.4_CS',"RYYWSGTG","Nucleic Acids Res 15: 4535-52 (1987)","MAMM").
+TFD_subseq('Sindbis_subgenomic_promoter',"ATCTCTACGGTGGTCCTAAATAGT","J Virol 64: 1726-33 (1990)","MAMM").
+TFD_subseq('satDNA.1',"CCTGTCCGAGATGCGTGCTGATATCGGCGACAT","Nucleic Acids Res 14: 3229-39 (1986)","PLANT").
+TFD_subseq('JCV_repeated_sequence',"GGGNGGRR","J Virol 53: 306-11 (1985)","MAMM").
+TFD_subseq('ERE_CS',"GGTCANNNTGACC","Proc Natl Acad Sci U S A 85: 1038-42 (1988)","AMPHIB").
+TFD_subseq('vit-ERE',"GGTCACAGTGACC","Nucleic Acids Res 16: 647-63 (1988)","AMPHIB").
+TFD_subseq('vit-p17-ERE',"CAGGTCAGAGTGACCTG","Proc Natl Acad Sci U S A 85: 1038-42 (1988)","AMPHIB").
+TFD_subseq('vaccinia-term-sequence',"CTATTC","Cell 25: 805-13 (1981)","MAMM").
+TFD_subseq('vaccinia_F10_DS',"CTATTCCTATCC","Nucleic Acids Res 13: 985-98 (1985)","MAMM").
+TFD_subseq('oli1_DS',"ATTCTTA","J Biol Chem 258: 14065-8 (1983)","YEAST").
+TFD_subseq('yeast-termination-CS1',"TAGNNNNNNNTAGT","Cell 28: 563-73 (1982)","YEAST").
+TFD_subseq('yeast.term.2',"TTTTTATA","Cell 33: 607-14 (1983)","YEAST").
+TFD_subseq('lambda-boxA',"CGCTCTTA","Annu Rev Genet 21: 453-88 (1987)","PROK").
+TFD_subseq('lambda-boxA_CS',"CGCTCTTTA","Genes Dev 4: 2210-22 (1990)","PROK").
+TFD_subseq('lambda.c',"GGYGTRYG","Friedman, D.I., Gottesman, M.","PROK").
+TFD_subseq('retroviral_TATA',"SWATWWAG","Cell 27: 1-3 (1981)","MAMM").
+TFD_subseq('28S_RNA_termination_CS',"AGGTCGACCAGWWNTCCG","Nucleic Acids Res 15: 4131-43 (1987)","MAMM").
+TFD_subseq('rRNA-T2/T3',"GACTTGC","Cell 50: 51-7 (1987)","AMPHIB").
+TFD_subseq('yeast-termination-CS2',"TAGNNNNNNNTATGT","Cell 28: 563-73 (1982)","YEAST").
+TFD_subseq('rDNA_spacer_CS',"CATCTTCGGGT","J Mol Biol 148: 107-27 (1981)","PROK").
+TFD_subseq('lambda.d',"GGTGTGTG","Friedman, D.I., Gottesman, M.","PROK").
+TFD_subseq('EBV.IR1_US1',"AAGGTGGCCTAGCAACGCGA","Nucleic Acids Res 16: 8391-410 (1988)","MAMM").
+TFD_subseq('E2_RS.1',"GAACCACACCCGGTAC","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.2',"GCACCGGCGGCGGTAG","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.3',"CGACCTATCCCGGTAA","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.4',"GGACCGAACACGTTAT","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.5',"GAACCAGAACTGGTAA","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.6',"CCACCAGTAATGGTGC","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.7',"GTACCGCCATCGGTGC","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.8',"GCACCGATATAGGTTT","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.9',"GTACCGTTGCCGGTCG","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.10',"AAACCGTCTTCGGTGC","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.11',"TCACCGAAACCGGTAA","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.12',"ACACCATCACCGTTTT","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.13',"CAAACGATAAAGGTAG","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.14',"AAAACAGCAGCGGTTC","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.15',"CCACCCCTCCTGGTAA","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.16',"AGAACCTAAACGGTGC","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('E2_RS.17',"GCACCATGGCCGGTGC","Genes Dev 3: 510-26 (1989)","MAMM").
+TFD_subseq('HMGCoAred_FP4',"GTTCGTGACGTAGGCCG","Proc Natl Acad Sci U S A 84: 3614-8 (1987)","MAMM").
+TFD_subseq('GAL2_US1',"TATCGGGGCGGATCACTCCGAAC","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL10_US1',"GTACGGATTAGAAGCCGCCGAGC","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL10_US2',"GAGCGGGTGACAGCCCTCCGAAG","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL10_US3',"CGAAGGAAGACTCTCCTCCGTGC","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL1_US1',"CCTCGCGCCGCACTGCTCCGAAC","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL7_US1',"CTTCGGAGCACTGTTGAGCGAAG","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL7_US2',"GCTCGGACAACTGTTGACCGTGA","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL7_US3',"CAACTGTTGACCGTGATCCGAAG","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('MEL1',"ATTCGGCCATATGTCTTCCGAAA","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL80_US1',"TACCGGCGCACTCTCGCCCGAAC","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL4_CS1',"SWWCGGRSSACWSTCSTCCGAAC","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL4_CS2',"SYWCGGASSACWGTSSTCCGWRS","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('E2F-myc',"GCGGGAAAA","Genes Dev 3: 527-36 (1989)","MAMM").
+TFD_subseq('E2F-Ad5-E2a',"GCGCGAAAA","Genes Dev 3: 527-36 (1989)","MAMM").
+TFD_subseq('E2F-Ad5-E1a.1',"GCGCGAAAA","Genes Dev 3: 527-36 (1989)","MAMM").
+TFD_subseq('E2F-Ad5-E1a.2',"CCGCGAAAA","Genes Dev 3: 527-36 (1989)","MAMM").
+TFD_subseq('E2F-Ad12-E1a',"GCGCGAAAA","Genes Dev 3: 527-36 (1989)","MAMM").
+TFD_subseq('E2F_CS.2',"SCGSGAAAA","Genes Dev 3: 527-36 (1989)","MAMM").
+TFD_subseq('HSE-hsp70',"CTGGAATATTCCCG","Proc Natl Acad Sci U S A 84: 2203-7 (1987)","MAMM").
+TFD_subseq('E4F1_CS',"ACGTMAC","EMBO J 6: 1345-53 (1987)","MAMM").
+TFD_subseq('E4F1-E4.2',"TCGTCAC","EMBO J 6: 1345-53 (1987)","MAMM").
+TFD_subseq('E4F1-E4.3',"TCGTCAC","EMBO J 6: 1345-53 (1987)","MAMM").
+TFD_subseq('E4F1-E4.4',"ACGTCAC","EMBO J 6: 1345-53 (1987)","MAMM").
+TFD_subseq('E4F1-E4.5',"ACGTCAC","EMBO J 6: 1345-53 (1987)","MAMM").
+TFD_subseq('E4F1-E1A.1',"GCGTAAC","EMBO J 6: 1345-53 (1987)","MAMM").
+TFD_subseq('E4F1-E1a.2',"ACGTAAA","EMBO J 6: 1345-53 (1987)","MAMM").
+TFD_subseq('E4F1-E1a.3',"ACGTCAG","EMBO J 6: 1345-53 (1987)","MAMM").
+TFD_subseq('E4F1-E2',"ACGTCAT","EMBO J 6: 1345-53 (1987)","MAMM").
+TFD_subseq('E4F1-E3',"TCGTCAC","EMBO J 6: 1345-53 (1987)","MAMM").
+TFD_subseq('GR-MTV-I',"GTTACAAACTGTTCT","Proc Natl Acad Sci U S A 81: 3029-33 (1984)","MAMM").
+TFD_subseq('GR-HMT-IIaI',"GGTACACTGTGTCCT","Nature 308: 513-9 (1984)","MAMM").
+TFD_subseq('GR-RUG-I',"TGTTCACTCTGTTCT","EMBO J 3: 2771-6 (1984)","MAMM").
+TFD_subseq('GR-RUG-II',"CGGACACGGAGTCCT","EMBO J 3: 2771-8 (1984)","MAMM").
+TFD_subseq('GR-MRib',"CTGACACGCTGTCCT","DNA 5: 383-91 (1986)","MAMM").
+TFD_subseq('GR-RUG-III',"TGTCAGTCTTGTTCT","EMBO J 3: 2771-8 (1984)","MAMM").
+TFD_subseq('GR-MTV-IIA',"GGTATCAAATGTTCT","Proc Natl Acad Sci U S A 81: 3029-33 (1984)","MAMM").
+TFD_subseq('GR-DSC7',"GATTTGATCTGTTCT","DNA 5: 383-91 (1986)","DROS").
+TFD_subseq('GR-CLYS-I',"GACAACTGTAGAACA","Cell 37: 503-10 (1984)","AVIAN").
+TFD_subseq('GR-CLYS-II',"AATTCCTCTGTGGCT","Cell 37: 503-10 (1984)","AVIAN").
+TFD_subseq('GR-rTAT-I',"CGTACAGGATGGTTCT","Nature 324: 686-8 (1986)","MAMM").
+TFD_subseq('GR-rTAT-II',"GGACTTGTTTGTTCT","Nature 324: 686-8 (1986)","MAMM").
+TFD_subseq('GR-hGH-I',"GGCACAATGTGTCCT","J Steroid Biochem 27: 9-14 (1987)","MAMM").
+TFD_subseq('GR-CVIT-II',"GGATCAATGTGTTCT","J Steroid Biochem 27: 9-14 (1987)","MAMM").
+TFD_subseq('GR-rTO-I',"TGCACAGCGAGTTCT","J Steroid Biochem 27: 9-14 (1987)","MAMM").
+TFD_subseq('GR-rTO-II',"CTTTCATGATGTCCT","J Steroid Biochem 27: 9-14 (1987)","MAMM").
+TFD_subseq('GR-MSV-I',"GGGACCATCTGTTCT","J Steroid Biochem 27: 9-14 (1987)","MAMM").
+TFD_subseq('GR-MSV-II',"TGTTCCATCTGTTCT","J Steroid Biochem 27: 9-14 (1987)","MAMM").
+TFD_subseq('GR-MSV-III',"CTGTCTCTCTGTTCC","J Steroid Biochem 27: 9-14 (1987)","MAMM").
+TFD_subseq('GR-COV-I',"TTTTCTGCCTGTTCT","J Steroid Biochem 27: 9-14 (1987)","MAMM").
+TFD_subseq('GR-HMTIIa-II',"CCTCCCTCCTGTCCT","J Steroid Biochem 27: 9-14 (1987)","MAMM").
+TFD_subseq('GRE_CS1',"GGTACANNNTGTYCT","J Steroid Biochem 27: 9-14 (1987)","MAMM").
+TFD_subseq('Adf-1-Adh',"CNGCCGNCGCCGNCT","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('Adf-1-AntpP1',"CNGTCGNCGTCGNCG","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('DBF-1-ddc',"TNAACCGGTTTTGCGG","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('DBF-1-Ubx',"CNAACTGGTCCTGCGG","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('dFRA-hmtIIA',"TGACTCA","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('dJRA-hmtIIA',"TGACTCA","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('DTF-1_RS1',"GCAACATG","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('DTF-1_RS2',"GCAACACC","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('GAGA-Ubx',"CGAGAGAG","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('GAGA-en',"AGAGAGAG","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('HSE-pHT5',"GCGCCTCGAATGTTCGGCAA","Cell 30: 517-28 (1982)","DROS").
+TFD_subseq('zeste-Ubx',"CGAGCG","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('zeste-white',"TGAGTG","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('AbdB-r_RS1',"TAATTTGCAT","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('AbdB-r_RS2',"TCAATTAAAT","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('Antp-Ubx',"TAATAATAATAATAA","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('bicoid-hb',"TCCTAATCCC","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('engrailed_RS',"TCAATTAAAT","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('eve_RS2',"TAATAATAATAATAA","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('eve_RS3',"TCAGCACCG","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('ftz-Ubx',"TCAATTAAAT","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('ftz_RS1',"TAATAATAATAATAA","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('paired_RS1',"TCAATTAAAT","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('Ubx-Ubx',"TAATAATAATAATAA","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('zen_RS1',"TCAATTAAAT","Trends Genet 5: 377-83 (1989)","DROS").
+TFD_subseq('CP1_CS',"YNNNNNNRRCCAATCANYK","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('CP2_CS',"YAGYNNNRRCCAATCNNNR","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('CP1-MLP.2',"CTACACCTATAAACCAATCACCT","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('NF-I_CS',"NTTGGCNNNNNGCCAN","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('GRE_CS3',"GGTACANNNTGTTCT","Cell 56: 335-44 (1989)","MAMM").
+TFD_subseq('ERE_CS2',"AGGTCANNNTGACCT","Cell 56: 335-44 (1989)","MAMM").
+TFD_subseq('EcRE',"AGGGTTNNNTGCACT","Cell 56: 335-44 (1989)","DROS").
+TFD_subseq('TR-TRE1',"TCAGGTCATGACCTGA","Cell 56: 335-44 (1989)","MAMM").
+TFD_subseq('GRE(-)',"ATYACNNNNTGATCW","Cell 56: 335-44 (1989)","MAMM").
+TFD_subseq('nGRE.1',"CCTTTTAGAAAGGACAAAACAGAATG","Genes Dev 2: 1144-54 (1988)","MAMM").
+TFD_subseq('nGRE.2',"GAGTATAACAGGAACTGAAAATCTTA","Genes Dev 2: 1144-54 (1988)","MAMM").
+TFD_subseq('nGRE.3',"TAAAATACTCTTTGATAATACAT","Genes Dev 2: 1144-54 (1988)","MAMM").
+TFD_subseq('nGRE.4',"GGCAAATGTTACAAGAAAT","Genes Dev 2: 1144-54 (1988)","MAMM").
+TFD_subseq('nGRE.5',"CCAGATCTCACCATCATTAT","Genes Dev 2: 1144-54 (1988)","MAMM").
+TFD_subseq('nGRE.6',"CCTAGATGTTCATTTCTGGTCAGTATGTCTTCCTG","Genes Dev 2: 1144-54 (1988)","MAMM").
+TFD_subseq('nGRE.7',"GGCAAAAGGGAATGCCTGATTAAATA","Genes Dev 2: 1144-54 (1988)","MAMM").
+TFD_subseq('PLF_US1',"ACAGTATGATTTGTTTTAGTCAGAGCATGAACATGAGATG","Genes Dev 3: 760-9 (1989)","MAMM").
+TFD_subseq('nGRE.8',"GTTGGCAGAGAACATTGC","Mol Cell Biol 8: 1398-407 (1988)","MAMM").
+TFD_subseq('nGRE.9',"GGTCTTTGTCCTTGAACATAAGA","Mol Cell Biol 8: 1398-407 (1988)","MAMM").
+TFD_subseq('GR-MMTV.10',"CCTCGTTTTAAGAACAGTTTGTAACC","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-MMTV.11',"AGCTCAGATCAGAACATTTGATACCA","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-MMTV.12',"ATAGGAAAATAGAACACTAAGAGCTC","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-MMTV.13',"AGATTCCAAAAGAACATAGGAAAATA","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-MoMSV.1',"ATCAAGGTCAGGAACAGAGAGACAGC","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-MoMSV.2',"CTCAGGGCCAAGAACAGATGGAACAG","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-MoMSV.3',"CTCAGGGCCAAGAACAGATGGTCCCC","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-MuRFV.1',"TGTTTTTCTGAGAACATCAGCTCTGG","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-MuRFV.2',"CAGAAAAACAAGAACAAGGAAGTACA","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-MuRFV.3',"CGCAGGGACCAGAACAGATGGTTCCC","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-G/A-FLV.1',"ATGTCTGTCCAGGACAGCCAACCGGA","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-G/A-FLV.2',"CGGGATACCGAGAACAGGGCTATAGG","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-G/A-FLV.3',"CTTGAGGCCAAGAACAGTTAAACCCC","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-visna.1',"GCACGAGAGAAGAACATCCCATCGCA","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-visna.2',"ACACAACTGGAGGACAATGCCCTATA","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-visna.3',"GTGGACTGTCAGGACAGAGAACAATG","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-visna.4',"GTCAGGACAGAGAACAATGCCTACCT","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-HuEnRV4-1.1',"GGAACTGAGAAGGACAACAGGAGAAG","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-HuEnRV4-1.2',"ATCAGCTAACAGAACAAAAAGTTTTA","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-HuEnRV14-1.1',"CTAGCAGAACAGAACAGAAAGTTTCA","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-MuEnRV14-1.2',"GGGGGCTAGCAGAACAGAACAGAAAG","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-HIV1.1',"AATAAAGGAGAGAACACCAGCTTGTT","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('GR-ARV-2.1',"AATGAAGGAGAGAACAACAGCTTGTT","Cell 46: 283-90 (1986)","MAMM").
+TFD_subseq('EIIaE-A',"AAGGGCGCG","Nucleic Acids Res 15: 509-27 (1987)","MAMM").
+TFD_subseq('EIIaE-T2',"CTTAAATTTG","Nucleic Acids Res 15: 509-27 (1987)","MAMM").
+TFD_subseq('EIIaE-B'',"GTTTTCGC","Nucleic Acids Res 15: 509-27 (1987)","MAMM").
+TFD_subseq('EIIaE-B',"GTGGCCGCTGGAGATGACGTA","Nucleic Acids Res 15: 509-27 (1987)","MAMM").
+TFD_subseq('EIIaE-C',"GGGCGTGGGAATTTCCTTGCTCATAATGGCGCTGA","Nucleic Acids Res 15: 509-27 (1987)","MAMM").
+TFD_subseq('aD-globin-US',"GTGCGGATAAGATAAGGCCG","Mol Cell Biol 7: 2059-69 (1987)","AVIAN").
+TFD_subseq('GC2-GH-NCS',"TGCTGATGGATAATTTAGAAGCTCCTCCCACA","Mol Cell Biol 7: 1193-7 (1987)","MAMM").
+TFD_subseq('IE1-II',"CCCCGCCCATTGACGTCAA","Proc Natl Acad Sci U S A 84: 3658-62 (1987)","MAMM").
+TFD_subseq('IE1-III',"TAATGACGTATGTTCCCATAGTAACGCCAAT","Proc Natl Acad Sci U S A 84: 3658-62 (1987)","MAMM").
+TFD_subseq('IE1-IV',"CTTTCCATTGACGTCAATGGGTAACGCCAAT","Proc Natl Acad Sci U S A 84: 3658-62 (1987)","MAMM").
+TFD_subseq('IE1-V',"CCCACTTGGCAGTACATCAAGTGT","Proc Natl Acad Sci U S A 84: 3658-62 (1987)","MAMM").
+TFD_subseq('IE1-VI',"CCCCCTATTGACGTCAATGACG","Proc Natl Acad Sci U S A 84: 3658-62 (1987)","MAMM").
+TFD_subseq('IE1-VII',"CCGCCTGGCATTATGCCCAGTACA","Proc Natl Acad Sci U S A 84: 3658-62 (1987)","MAMM").
+TFD_subseq('IE1-VIII',"CTTTCCTACTTGGCAGTACATCTACGTATTAGTCATCGTC","Proc Natl Acad Sci U S A 84: 3658-62 (1987)","MAMM").
+TFD_subseq('IE1-IX',"ATGCGGTTTTGGCAGTACATCAATGGG","Proc Natl Acad Sci U S A 84: 3658-62 (1987)","MAMM").
+TFD_subseq('R2-b-IFN.2',"AAAGAGAGTTTTAGAAACTACTAAAATGTAAATGACAT","Cell 45: 611-8 (1986)","MAMM").
+TFD_subseq('GR-lysozym.2-2',"GTTTTTGACAACTGTAGAACAGAGGAA","Nature 313: 706-9 (1985)","AVIAN").
+TFD_subseq('PR-lysozym.2-2',"GTTTTTGACAACTGTAGAACAGAGGAA","Nature 313: 706-9 (1985)","AVIAN").
+TFD_subseq('IgPE-1-Py',"CAAGGTCCCTCCAGAGGGACGTGTGGTTTTG","EMBO J 5: 3251-8 (1986)","MAMM").
+TFD_subseq('IgPE-2-LPVmut1',"GAATCAACTGAACGCGGAAGCTGTGGTTAGACTCG","EMBO J 5: 3251-8 (1986)","MAMM").
+TFD_subseq('IgPE-2-LPVmut2',"GAATCAACTGAAAGAGTACGCTGTGGTTAGACTCG","EMBO J 5: 3251-8 (1986)","MAMM").
+TFD_subseq('IgPE-2-LPVmut3',"GATCAACTGAAAGAGGAAGCGGGGGTTAGACTCG","EMBO J 5: 3251-8 (1986)","MAMM").
+TFD_subseq('IgPE-2-LPVmut4',"ACTGAAAGAGGAAGCTGTGGTTAGACTCG","EMBO J 5: 3251-8 (1986)","MAMM").
+TFD_subseq('GT-IIc-Py-EC9.1',"CAGGCCTGGAATGT","EMBO J 6: 3005-13 (1987)","MAMM").
+TFD_subseq('IgkLC-2',"GGGGATTTCCAAGAGGCCACCTGGCAGTTGCTG","Mol Cell Biol 7: 1815-22 (1987)","MAMM").
+TFD_subseq('MREd_(1)',"CTCTGCACTCCGCCCGA","Science 235: 1383-7 (1987)","MAMM").
+TFD_subseq('MREc_(1)',"AAGTGCGCTCGGCTCTG","Science 235: 1383-7 (1987)","MAMM").
+TFD_subseq('T-Ag-SV40-I',"GCCTAGGCCTCCAAAAAAGCCTC","J Virol 46: 143-50 (1983)","MAMM").
+TFD_subseq('T-Ag-SV40-II',"GAGGCCGAGGCGGCCTCGGCCTC","J Virol 46: 143-50 (1983)","MAMM").
+TFD_subseq('T-Ag-SV40-III',"ATGGGCGGAACTGGGCGGAGTTAGGGGCGGGATGGGCGGA","J Virol 46: 143-50 (1983)","MAMM").
+TFD_subseq('GAL4-GAL2.2',"CACCGGCGGTCTTTCGTCCGTGC","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL4-GAL7.2',"GCTCGGACAACTGTTGACCGTGA","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL4-GAL7.3',"CAACTGTTGACCGTGATCCGAAG","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('GAL2_ds',"AAAATGGGTCACGTGATCTATATT","EMBO J 5: 603-8 (1986)","YEAST").
+TFD_subseq('MHC-CRE',"AGGCGGTGAGGTCAGGGGTGGGGAA","Proc Natl Acad Sci U S A 86: 8289-93 (1989)","MAMM").
+TFD_subseq('CArG-MCK',"CCATGTAAGG","Science 246: 780-6 (1989)","MAMM").
+TFD_subseq('AP2-MCK',"GGCCTGGGGA","Science 246: 780-6 (1989)","MAMM").
+TFD_subseq('kappa-MCK',"CCAGACATGTGGC","Science 246: 780-6 (1989)","MAMM").
+TFD_subseq('MEF1-MCK',"CACCTGCTGC","Science 246: 780-6 (1989)","MAMM").
+TFD_subseq('A-rich-MCK',"CTAAAAATAACCC","Science 246: 780-6 (1989)","MAMM").
+TFD_subseq('NTF-1-I',"TGATTCGGTATCGAAA","Genes Dev 3: 1677-88 (1989)","DROS").
+TFD_subseq('NTF-1-II',"GGGAGCTGTTTTTTCC","Genes Dev 3: 1677-88 (1989)","DROS").
+TFD_subseq('NTF-1-IIIa',"TCGGATGGTTTTATAT","Genes Dev 3: 1677-88 (1989)","DROS").
+TFD_subseq('NTF-1-IIIb',"AATAAGGGTGTAGAGT","Genes Dev 3: 1677-88 (1989)","DROS").
+TFD_subseq('NTF-1-IV',"CTTTCTGGTTTTGCAG","Genes Dev 3: 1677-88 (1989)","DROS").
+TFD_subseq('hCuE1',"GAGTCAAGATGGCTGCA","Nature 307: 334-40 (1984)","MAMM").
+TFD_subseq('C/EBP-RS',"ATTGCGCAAT","Science 246: 922-6 (1989)","SYN").
+TFD_subseq('C/EBP-RSV',"TAGTCTTATGCAATACTCTT","Mol Cell Biol 9: 1155-64 (1989)","MAMM").
+TFD_subseq('C/EBP-RSV.2',"ACCATGTTGCAAGACTAC","Mol Cell Biol 9: 1155-64 (1989)","MAMM").
+TFD_subseq('c-Myc_RS1',"TCTCTTA","EMBO J 8: 4273- (1989)","MAMM").
+TFD_subseq('GLI_RS',"GACCACCCA","Mol Cell Biol 10: 634- (1990)","MAMM").
+TFD_subseq('Hepta',"CTCATGA","EMBO J 8: 2001-8 (1989)","MAMM").
+TFD_subseq('APRE',"CCACAGTTGGGATTTCCCAACCTGACCAG","Mol Cell Biol 10: 1023-32 (1990)","MAMM").
+TFD_subseq('deltaE1_(1)',"AATAAACAAGGAGATAGGGTGTTTATTTT","Science 247: 1225-9 (1990)","MAMM").
+TFD_subseq('deltaE2',"AGTTTCTTTTGTAACTTGTAACTCCCTTGAAA","Science 247: 1225-9 (1990)","MAMM").
+TFD_subseq('deltaE3',"ATGCATGTGGTTTCCAACCGTTAATGC","Science 247: 1225-9 (1990)","MAMM").
+TFD_subseq('deltaE4_(1)',"AGTTATCACTTTCTGTTATCAAGTGGCTTCA","Science 247: 1225-9 (1990)","MAMM").
+TFD_subseq('deltaE5',"GGAAACCAAACAGG","Science 247: 1225-9 (1990)","MAMM").
+TFD_subseq('deltaE6_(1)',"AGGTTGAAAGCAGGT","Science 247: 1225-9 (1990)","MAMM").
+TFD_subseq('deltaE7',"AAGCCCTTTGAA","Science 247: 1225-9 (1990)","MAMM").
+TFD_subseq('myc-PCF_CS',"RGAAAGGGRRAGGA","Proc Natl Acad Sci U S A 84: 7031-5 (1987)","MAMM").
+TFD_subseq('MLTF_RS',"GTAGGCCACGTGACCGG","Mol Cell Biol 6: 4723-33 (1986)","MAMM").
+TFD_subseq('NF-AT-IL-2',"GGAGGAAAAACTGTTTCATACAGAAGGCGT","Science 246: 1617-20 (1989)","MAMM").
+TFD_subseq('mu-E5',"AACACCTG","Science 247: 467-70 (1990)","MAMM").
+TFD_subseq('NFAT-HIV.1',"CCAGTTGAGCCAGAGA","Science 241: 202-5 (1988)","MAMM").
+TFD_subseq('NFAT-HIV.2',"GCTTGTTACACCCTGTGAGCCTGCATGGAATGGATGACC","Science 241: 202-5 (1988)","MAMM").
+TFD_subseq('CREB-HTLVI.1',"TGACGTCT","J Virol 63: 1604-11 (1989)","MAMM").
+TFD_subseq('CREB-HTLVI.2',"TGACGTGT","J Virol 63: 1604-11 (1989)","MAMM").
+TFD_subseq('CREB-HTLVI.3',"TGACGACA","J Virol 63: 1604-11 (1989)","MAMM").
+TFD_subseq('CYP21B_US',"GGCCACTCTGTGGGCGGGTCGGTGGGAGGGTACC","J Biol Chem 265: 11299-305 (1990)","MAMM").
+TFD_subseq('AP1-col_wt',"AAGCATGAGTCAGACA","Cell 49: 741-52 (1987)","MAMM").
+TFD_subseq('AP1-col_syn',"AGCTGATGAGTCAGCCG","Cell 49: 741-52 (1987)","MAMM").
+TFD_subseq('AP1-osteocalcin',"GGTGACTCACC","Cell 61: 497-504 (1990)","MAMM").
+TFD_subseq('AP1-histoneH3.2',"CTGACTCG","Proc Natl Acad Sci U S A 86: 491-5 (1989)","MAMM").
+TFD_subseq('AP-1_CS3',"TGANTMA","Cell 49: 741-52 (1987)","MAMM").
+TFD_subseq('TRE.2',"GTGACTCAG","Oncogene 5: 427-31 (1990)","MAMM").
+TFD_subseq('TRE.1',"TGACTCA","Cell 49: 741-52 (1987)","MAMM").
+TFD_subseq('AP1-HIV',"AGGGCCAGGAGTGAGATATCCACTGACCTTTGGATGGTGC","Science 239: 1150-3 (1988)","MAMM").
+TFD_subseq('DFSE2',"CATGACTCAGAGGAAAACATA","Science 239: 1150-3 (1988)","MAMM").
+TFD_subseq('DGALVEN',"ACAGAAATAGATGAGTCAACAGCAGATA","Science 239: 1150-3 (1988)","MAMM").
+TFD_subseq('TRE-cjun.1',"GTGACATCAT","Cell 55: 875-85 (1988)","MAMM").
+TFD_subseq('TRE-cjun.2',"GTCACTCACTGAG","Cell 55: 875-85 (1988)","MAMM").
+TFD_subseq('TRE-GPEI.1',"AGTCAGTCA","EMBO J 9: 1131- (1990)","MAMM").
+TFD_subseq('TRE-GPEI.2',"TGATTCAG","EMBO J 9: 1131- (1990)","MAMM").
+TFD_subseq('TRE-EBV-ZRE',"TCGAGGCTGACTCAAG","EMBO J 8: 1447-53 (1989)","MAMM").
+TFD_subseq('AP1-SCC',"TAGCCATGAGTCAGGAG","J Biol Chem 265: 11713- (1990)","MAMM").
+TFD_subseq('AP1-cfos',"GACATCTGCGTCAGCAGGTTTCC","Mol Cell Biol 9: 1327-31 (1989)","MAMM").
+TFD_subseq('AP1-TRE-2/T',"ATTAGTCAG","EMBO J 8: 3825-32 (1989)","MAMM").
+TFD_subseq('AP1-TRE-1/C',"ATGCGTCAG","EMBO J 8: 3825-32 (1989)","MAMM").
+TFD_subseq('AP1-TRE0/C',"ATGACTCAG","EMBO J 8: 3825-32 (1989)","MAMM").
+TFD_subseq('AP1-TRE-4/T',"TTGAGTCAG","EMBO J 8: 3825-32 (1989)","MAMM").
+TFD_subseq('AP1-TRE+4/C',"ATGAGTCAC","EMBO J 8: 3825-32 (1989)","MAMM").
+TFD_subseq('AP1-TRE+4/A',"ATGAGTCAA","EMBO J 8: 3825-32 (1989)","MAMM").
+TFD_subseq('AP1-TRE-1/T',"ATGTGTCAG","EMBO J 8: 3825-32 (1989)","MAMM").
+TFD_subseq('AP1-TRE0/A',"ATGAATCAG","EMBO J 8: 3825-32 (1989)","MAMM").
+TFD_subseq('AP1-TRE-4/G',"GTGAGTCAG","EMBO J 8: 3825-32 (1989)","MAMM").
+TFD_subseq('AP1-TRE-4/C',"CTGAGTCAG","EMBO J 8: 3825-32 (1989)","MAMM").
+TFD_subseq('AP1-aP2',"AAAACATGACTCAGAGGAAAACA","Mol Cell Biol 9: 5331-9 (1989)","MAMM").
+TFD_subseq('AP1-GALV',"CGAGAAATAGATGAGTCAACAG","Mol Cell Biol 9: 4713- (1989)","MAMM").
+TFD_subseq('AP1-PBGD',"TCCAGTGACTCAGCACAGGTTC","Nucleic Acids Res 17: 37-54 (1989)","MAMM").
+TFD_subseq('NF-E2_CS',"TGACTCAGC","Proc Natl Acad Sci U S A 86: 6548-52 (1989)","MAMM").
+TFD_subseq('AP1-IL3',"AGTGAGCTGAGTCAGG","Proc Natl Acad Sci U S A 87: 5046- (1990)","MAMM").
+TFD_subseq('AP1-ET-I',"GTGACTAA","J Biol Chem 265: 10446- (1990)","MAMM").
+TFD_subseq('AP1-HPV16',"ACTGAATCACTATGTACATTGTGTCATAT","Nucleic Acids Res 18: 465-70 (1990)","MAMM").
+TFD_subseq('AP1-HPV16-fp4e1',"CTGAATCAC","Nucleic Acids Res 18: 763-9 (1990)","MAMM").
+TFD_subseq('AP1-HPV16-fp9e',"GTTAGTCAT","Nucleic Acids Res 18: 763-9 (1990)","MAMM").
+TFD_subseq('AP1-JE',"GGCACCAACCACCCTGCCTGACTCCA","Nucleic Acids Res 18: 23-34 (1990)","MAMM").
+TFD_subseq('AP1-TGF-beta1.1',"TGAGACGAG","J Biol Chem 264: 19373-8 (1989)","MAMM").
+TFD_subseq('AP1-TGF-beta1.2',"TGAGACTT","J Biol Chem 264: 19373-8 (1989)","MAMM").
+TFD_subseq('AP1-HIV.1',"ATGACTTTAC","Anticancer Res 9: 383- (1989)","MAMM").
+TFD_subseq('AP1-HIV.2',"TTGAGCCAG","Anticancer Res 9: 383- (1989)","MAMM").
+TFD_subseq('AP1-HIV.3',"ATGACCCGG","Anticancer Res 9: 383- (1989)","MAMM").
+TFD_subseq('AP1-HIV.4',"CTGAGCCTG","Anticancer Res 9: 383- (1989)","MAMM").
+TFD_subseq('AP1-TGF-beta',"GGACACAGAGTAGGG","Mol Cell Biol 10: 1492-7 (1990)","MAMM").
+TFD_subseq('TRE-Egr-1.1',"CTGACTCG","Nucleic Acids Res 16: 8835-46 (1988)","MAMM").
+TFD_subseq('TRE-Egr-1.2',"CTGACTGG","Nucleic Acids Res 16: 8835-46 (1988)","MAMM").
+TFD_subseq('TRE-Py',"GTGACTAAC","J Virol 63: 3669-77 (1989)","MAMM").
+TFD_subseq('MLTF-L-PK',"ATGGGCGCACGGGGCACTCCCGTGGTTCCT","Mol Cell Biol 9: 4409-15 (1989)","MAMM").
+TFD_subseq('MLTF-chymotrypsin',"TCAGGGCACCTGTCCTTTTCCCATGGCC","J Biol Chem 264: 20744- (1989)","MAMM").
+TFD_subseq('MLTF-fibrinogen',"GACCCCGTGACC","Science 238: 684-8 (1987)","MAMM").
+TFD_subseq('MLTF-hGH',"ACCCACGTGACC","Eur J Biochem 181: 555-61 (1989)","MAMM").
+TFD_subseq('MLTF-pB48',"TTCGTCACGTGATGCGA","Biochem Biophys Res Commun 165: 956- (1989)","MAMM").
+TFD_subseq('MLTF-HHO',"CTGGCCCACGTGACCCGC","Eur J Biochem 188: 231-7 (1990)","MAMM").
+TFD_subseq('MLTF-mMT-I',"GGGCGCGTGACT","Genes Dev 2: 412-27 (1988)","MAMM").
+TFD_subseq('MLTF-TFIIIA',"ATCACGTGCTCCACTAGGA","Genes Dev 3: 651-62 (1989)","AMPHIB").
+TFD_subseq('MLTF-mMT1',"GCGGGGCGCGTGACTAT","Genes Dev 1: 973-80 (1987)","MAMM").
+TFD_subseq('MLTF-L-PK.2',"CACGGGGCACTCCCGTGG","J Mol Biol 209: 205-19 (1989)","MAMM").
+TFD_subseq('MLTF-HCMV',"TCACGTGA","J Mol Biol 209: 205-19 (1989)","MAMM").
+TFD_subseq('MLTF-Ad2IVa2',"GGTGTGAAGACACATGTCGCCCTCTT","J Virol 64: 3199-206 (1990)","MAMM").
+TFD_subseq('MLTF-AAVP5',"GAGGTCACGTGAGTGT","J Virol 63: 3479-88 (1989)","MAMM").
+TFD_subseq('MLTF-TS',"TCACGTGG","J Biol Chem 261: 16000-5 (1986)","MAMM").
+TFD_subseq('MLTF-hU1snRNA',"GGGCAAGTGAC","J Biol Chem 263: 17603-10 (1988)","MAMM").
+TFD_subseq('MLTF-H5',"CGAAGGTCCACGTCACCCAGG","Nucleic Acids Res 18: 1225-31 (1990)","MAMM").
+TFD_subseq('MLTF-hGH.2',"CCACGTGACC","J Steroid Biochem 34: 79- (1989)","MAMM").
+TFD_subseq('NFkB-HCMV-18R',"GGGACTTTCC","EMBO J 8: 4251-8 (1989)","MAMM").
+TFD_subseq('NFkB-MHCclassII',"CGGGACTTCCC","Mol Cell Biol 9: 844-6 (1989)","MAMM").
+TFD_subseq('NFkB-IL2',"GGGATTTCAC","Science 244: 457-60 (1989)","MAMM").
+TFD_subseq('NFkB-HIV-pol',"AGGGAGTCTCC","Proc Natl Acad Sci U S A 87: 4874-8 (1990)","MAMM").
+TFD_subseq('NFkB-MHCclassI',"GGGGATTCCCCAT","Proc Natl Acad Sci U S A 85: 723-7 (1988)","MAMM").
+TFD_subseq('NFkB-TNF-alpha',"GGGGAATTTCC","Mol Cell Biol 10: 4146-54 (1990)","MAMM").
+TFD_subseq('NFkB-TNFaCK1',"GTGAATTCCC","Mol Cell Biol 10: 1498-506 (1990)","MAMM").
+TFD_subseq('NFkB-TNFa-K.1',"GGGGCTTTCC","Mol Cell Biol 10: 1498-506 (1990)","MAMM").
+TFD_subseq('NFkB-TNFa-K.2',"GGGGAATCCTT","Mol Cell Biol 10: 1498-506 (1990)","MAMM").
+TFD_subseq('NFkB-TNFa-K.3',"GGAGATTCCTT","Mol Cell Biol 10: 1498-506 (1990)","MAMM").
+TFD_subseq('NFkB-IL6',"GGGATTTTCCC","Mol Cell Biol 10: 561-8 (1990)","MAMM").
+TFD_subseq('NFkB-MHC-I.2',"GGGGAAGCCCA","EMBO J 8: 3793-800 (1989)","MAMM").
+TFD_subseq('NFkB-HCMV-AP18',"GGGATTTCC","EMBO J 8: 4251-8 (1989)","MAMM").
+TFD_subseq('NFkB_CS3',"GGGRATYYCC","Hepatology 10: 1017- (1989)","MAMM").
+TFD_subseq('NFkB_CS4',"GGGRNTYYC","Hamatol Bluttransfus 32: 411-415 (1989)","MAMM").
+TFD_subseq('NF-kB-APRE',"CCACAGTTGGGATTTCCCAACCTGACCAG","Mol Cell Biol 10: 1023-32 (1990)","MAMM").
+TFD_subseq('mu-B.1',"TATTTGGGGAA","Mol Cell Biol 10: 3145- (1990)","MAMM").
+TFD_subseq('mu-B.2',"TCGAGCAAGGCTATTTGGGGAAGGGAAAATAAAGTCGA","Mol Cell Biol 10: 3155-62 (1990)","MAMM").
+TFD_subseq('Pu_box',"GAGGAA","Cell 61: 113-24 (1990)","MAMM").
+TFD_subseq('PU-MHC_II_I-Ab',"CGTCCCAAGTGAGGAACCAATCAGCATTG","Cell 61: 113-24 (1990)","MAMM").
+TFD_subseq('E1A_element_I.2',"AGGAAGTGAAA","Cell 45: 229- (1986)","MAMM").
+TFD_subseq('element_II_rs-2',"CGAGTAA","Cell 45: 229- (1986)","MAMM").
+TFD_subseq('element_II_rs-3',"TTTGGCC","Cell 45: 229- (1986)","MAMM").
+TFD_subseq('element_II_rs-4',"TTTCGCG","Cell 45: 229- (1986)","MAMM").
+TFD_subseq('Xl_g-actin_SRE',"AAGATGCCCATATTTGGCGATCTT","Cell 46: 567-74 (1986)","AMPHIB").
+TFD_subseq('galE-O(E)',"TGTAAACGATTCCAC","Cell 32: 783- (1983)","PROK").
+TFD_subseq('galE-O(I)',"TGTAACCGCTACCAC","Cell 32: 783- (1983)","PROK").
+TFD_subseq('HSP_TS',"GAACCAACCAAACCCCAAAGACA","Cell 36: 635-43 (1984)","MAMM").
+TFD_subseq('LSP_TS',"GGGTGACTGTTAAAAGTGCATACCCCAAAGATAAAATTTG","Cell 36: 635- (1984)","MAMM").
+TFD_subseq('CRP-galO',"ATTTATTCCATGTCACACTTTTCGCA","Proc Natl Acad Sci U S A 76: 5090- (1979)","PROK").
+TFD_subseq('CRP-lac-1',"TTAATGTGAGT","Proc Natl Acad Sci U S A 76: 5090- (1979)","PROK").
+TFD_subseq('CRP-lac-2',"AATGAGTGAGG","Proc Natl Acad Sci U S A 76: 5090- (1979)","PROK").
+TFD_subseq('CRP-gal-1',"AAGATGCGAAA","Proc Natl Acad Sci U S A 76: 5090- (1979)","PROK").
+TFD_subseq('CRP-gal-2',"AAAGTGTGACA","Proc Natl Acad Sci U S A 76: 5090- (1979)","PROK").
+TFD_subseq('CRP-gal-3',"TCCATGTCACA","Proc Natl Acad Sci U S A 76: 5090- (1979)","PROK").
+TFD_subseq('CRP-ara-1',"AAAGCGTCAGG","Proc Natl Acad Sci U S A 76: 5090- (1979)","PROK").
+TFD_subseq('CRP-ara-2',"AAAGTGTGACG","Proc Natl Acad Sci U S A 76: 5090- (1979)","PROK").
+TFD_subseq('CRP-ara-3',"AAAGTGTCTAT","Proc Natl Acad Sci U S A 76: 5090- (1979)","PROK").
+TFD_subseq('CRP-ara-4',"AAAGCGCTACA","Proc Natl Acad Sci U S A 76: 5090- (1979)","PROK").
+TFD_subseq('CRP-ara-5',"AAAGCGCTACA","Proc Natl Acad Sci U S A 76: 5090- (1979)","PROK").
+TFD_subseq('XRE-2.2',"CGGGTCCCAGTGCTGTCACGCTAG","Nucleic Acids Res 15: 4179- (1987)","MAMM").
+TFD_subseq('Elastase_II_CS',"GAAAACCAAACATTTGGACTCCAGCCCTTTATT","Nucleic Acids Res 14: 8307- (1986)","MAMM").
+TFD_subseq('AraC-araO(1)',"TGTGGACTTTTCTGCTA","Proc Natl Acad Sci U S A 85: 1749-53 (1988)","PROK").
+TFD_subseq('ICP4-gD',"TGTGACACTATCGTCCATACCGACCACACCGACGAATCCCCTAAG","Nucleic Acids Res 14: 6067- (1986)","MAMM").
+TFD_subseq('ICP4-pBR-1',"AATGCGCTCATCGTCATCCTCGGCACCGTCACCCTGGATGCTGTA","Nucleic Acids Res 14: 6067- (1986)","MAMM").
+TFD_subseq('ICP4-pBR-2',"TTGCGGGATATCGTCCATTCCGACAGCATCGCCAGTCACTATGGC","Nucleic Acids Res 14: 6067- (1986)","MAMM").
+TFD_subseq('TGGCA-BS1a',"AGAGAACTGGCAAACTGTCAAAAACAAA","Nucleic Acids Res 12: 4295- (1984)","MAMM").
+TFD_subseq('TGGCA-BS1b',"GGTGCACTGCTGGCACTATGGCCACGGCCTGCT","Nucleic Acids Res 12: 4295- (1984)","MAMM").
+TFD_subseq('TGGCA-BS2',"AACCTTGGCAATCTGCCCAGCTGC","Nucleic Acids Res 12: 4295- (1984)","MAMM").
+TFD_subseq('GR-hGH_(2)',"CCCTTTGGGCACAATGTGTCCTGAGGGGA","Proc Natl Acad Sci U S A 82: 699- (1985)","MAMM").
+TFD_subseq('NR(I)-1',"GCACCAACATGGTGC","Cell 45: 785-92 (1986)","PROK").
+TFD_subseq('NR(I)-2',"GCACTATATTGGTGC","Cell 45: 785-92 (1986)","PROK").
+TFD_subseq('NR(I)-3',"TCACATCGTGGTG","Cell 45: 785-92 (1986)","PROK").
+TFD_subseq('NR(I)-4',"GCACGATGGTGC","Cell 45: 785-92 (1986)","PROK").
+TFD_subseq('NR(I)-5',"ACGCCTTTTAGGGGC","Cell 45: 785-92 (1986)","PROK").
+TFD_subseq('element_II-rs-1',"GGCGTAA","Cell 45: 229-36 (1986)","MAMM").
+TFD_subseq('TATA-box-CS',"TATAWAW","Annu Rev Biochem 50: 349-83 (1981)","MAMM").
+TFD_subseq('CAAT-box.2',"TTGGCNNNNNGCCA","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('GC-box',"KRGGCGKRRY","Science 234: 47-52 (1986)","MAMM").
+TFD_subseq('enhancer_core_(1)',"GTGGWWWG","Science 219: 626-31 (1983)","MAMM").
+TFD_subseq('AP-2_CS5',"GSSWGSCC","Cell 50: 847-61 (1987)","MAMM").
+TFD_subseq('AP-3_RS',"GGAAAGTCC","Nature 329: 648-51 (1987)","MAMM").
+TFD_subseq('GT-IIB/Pvu_box',"CAGCTGTGG","Genes Dev 2: 267-81 (1988)","MAMM").
+TFD_subseq('globin-3'_conserved_sequence',"GCTTTTCACAGCCCTTGTGGATGC","EMBO J 6: 2997-3004 (1987)","MAMM").
+TFD_subseq('fos-BLE-2',"AAGCCTGGGGCGTA","Cell 51: 513-4 (1987)","MAMM").
+TFD_subseq('SIS-RE',"GTTCCCGTCAATC","Cell 51: 513-4 (1987)","MAMM").
+TFD_subseq('IFN-inducible_CS',"RGAAANNGAAASY","Mol Cell Biol 8: 3065-79 (1988)","MAMM").
+TFD_subseq('VRE(IFN-alpha)-repA',"AAGGAAAGCAAAAACAGAA","Cell 50: 1057-69 (1987)","MAMM").
+TFD_subseq('VRE(IFN-beta)-NE',"CTCTGAATAGAGAGAGGAC","Cell 50: 1057-69 (1987)","MAMM").
+TFD_subseq('VRE(IFN-alpha)-repB',"ATGGAAAGTGGCCCAGAA","Cell 50: 1057-69 (1987)","MAMM").
+TFD_subseq('NRE_Box1_CS',"ANCCTCTCY","EMBO J 6: 2297-303 (1987)","MAMM").
+TFD_subseq('NRE_Box2_CS',"ANTCTCCTCC","EMBO J 6: 2297-303 (1987)","MAMM").
+TFD_subseq('Lysozyme-N-0.25',"AACAATGGCTATGCAGTAAAA","EMBO J 6: 2297-303 (1987)","MAMM").
+TFD_subseq('Myc-CF1_RS',"AGAAAATGGT","EMBO J 6: 2297-303 (1987)","MAMM").
+TFD_subseq('GRE_CS6',"YGGTWCAMWNTGTYCT","Mol Cell Biol 5: 2984-92 (1985)","MAMM").
+TFD_subseq('TSE',"AGGTAAGATCAGGGACGT","Mol Endocrinol 2: 536-42 (1988)","MAMM").
+TFD_subseq('TIE_(1)',"AGGGTATAAAAAGGGC","Mol Endocrinol 2: 536-42 (1988)","MAMM").
+TFD_subseq('SDR_RS',"GRGSGGTG","J Biol Chem 263: 3380-7 (1988)","MAMM").
+TFD_subseq('SV40_Pu-box',"CTGAAAGAGGAA","Genes Dev 1: 962-72 (1987)","MAMM").
+TFD_subseq('HIV-NRF_RS',"TAGCATTTCATCACATGG","EMBO J 6: 3761-70 (1987)","MAMM").
+TFD_subseq('fPyF9_Box-DNA_CS',"GCATTCCATTGTT","Mol Cell Biol 9: 4032-7 (1989)","MAMM").
+TFD_subseq('HSV_IE_repeat',"GCGGAA","Genes Dev 3: 1372-83 (1989)","MAMM").
+TFD_subseq('Ad-Enh.3',"TTTTTTGGCTTTCGTTTCTGGGC","Mol Cell Biol 8: 1290-300 (1988)","MAMM").
+TFD_subseq('HSV_late_TATA_box',"GGGTATAAATTCCGG","Genes Dev 2: 40-53 (1988)","MAMM").
+TFD_subseq('hAFP_box_I',"GCTTTGAGCAATGGCACA","Mol Cell Biol 8: 1169-78 (1988)","MAMM").
+TFD_subseq('LF-A1_RS2',"TGGACTTAGCC","Nucleic Acids Res 17: 119-33 (1989)","MAMM").
+TFD_subseq('tf-LF1_CS',"ARYCTTTGACCTC","Nucleic Acids Res 17: 119-33 (1989)","MAMM").
+TFD_subseq('LF-B1_CS',"TGGTTATNWTCNNCA","EMBO J 7: 1711-9 (1988)","MAMM").
+TFD_subseq('alpha-1-AT-B',"AGAGGGCCATGTGACTCATTACACCAG","Science 239: 786-8 (1988)","MAMM").
+TFD_subseq('C/EBP-TTR-2',"GTTCAAACATGTCCTAATACTCTGT","Science 239: 786-8 (1988)","MAMM").
+TFD_subseq('C/EBP-TTR-3',"AGTAGTTTTCCATCTTACTCAACATC","Science 239: 786-8 (1988)","MAMM").
+TFD_subseq('C/EBP-alpha-1-AT-A',"TTCGTCAGGTGGGCACATAACCTACTCT","Science 239: 786-8 (1988)","MAMM").
+TFD_subseq('C/EBP-alpha-1-AT-C',"TAACTGCTTTGCTTAAGACTCCATTGATTTAGG","Science 239: 786-8 (1988)","MAMM").
+TFD_subseq('C/EBP-SV40_core-C',"GTAGGGTGTGGAAAGTCCCA","Proc Natl Acad Sci U S A 85: 3840-4 (1988)","MAMM").
+TFD_subseq('C/EBP-Albumin-DE-I',"TATGATTTTGTAATGGGGTA","Proc Natl Acad Sci U S A 85: 3840-4 (1988)","MAMM").
+TFD_subseq('C/EBP-Gene_248(1)',"CAAAGTTGAGAAAATTTCTATT","Genes Dev 3: 1323-35 (1989)","MAMM").
+TFD_subseq('C/EBP-SCD1',"AGGGGGCTGAGGAAATACTGAACA","Genes Dev 3: 1323-35 (1989)","MAMM").
+TFD_subseq('LTF-E-Hep.B-E',"AAGTGTTTGCTGACGCAAC","EMBO J 6: 1913-20 (1987)","MAMM").
+TFD_subseq('Alb-PE',"ARTTATTGGTTRGAGAAGTATATT","Cell 50: 627-38 (1987)","MAMM").
+TFD_subseq('Pancreatic_CS',"GWCACCTGTSCTTTTCCCTG","Proc Natl Acad Sci U S A 83: 3599-603 (1986)","MAMM").
+TFD_subseq('UCR_core',"CGCCATTTT","Mol Cell Biol 12: 38-44 (1992)","MAMM").
+TFD_subseq('mu-E4',"TAACCCAGGTGGTGTT","In Transcriptional Control Mechanisms:  83-101","MAMM").
+TFD_subseq('kappa-E2.2',"CAGGCAGGTGGCCCA","In Transcriptional Control Mechanisms:  83-101","MAMM").
+TFD_subseq('SCD1/BP_RS',"CTGCGCTCTTTACCCTTTGCTGGCAGCCG","Genes Dev 3: 1323-35 (1989)","MAMM").
+TFD_subseq('Myc-PRF_RS',"CGTACAGAAAGGGAAAGGACTAGCGC","Nature 339: 718-21 (1989)","MAMM").
+TFD_subseq('Anteriory_Pituitary_ES',"AWWTATNCAT","CSHSQB 53:  545-556","MAMM").
+TFD_subseq('NF-E1_CS2',"GATAAG","Genes Dev 2: 1089-100 (1988)","MAMM").
+TFD_subseq('IEB1',"CGCCATCTGCC","Mol Cell Biol 9: 823-7 (1989)","MAMM").
+TFD_subseq('bicoid_RS',"TCTAATCCC","Nature 337: 138-43 (1989)","DROS").
+TFD_subseq('bicoid_CS',"BBTAATCYV","Nature 337: 138-43 (1989)","DROS").
+TFD_subseq('HSTF_CS1',"CNNGAANNTTCNNG","Nature 316: 774-8 (1985)","DROS").
+TFD_subseq('PEA1_CS',"TKAGTCA","Genes Dev 2: 267-81 (1988)","MAMM").
+TFD_subseq('AP-4_RS',"CAGCTGTGG","Genes Dev 2: 267-81 (1988)","MAMM").
+TFD_subseq('GRE_CS7',"WCTGWTCT","Comp Appl Biosci 1:  95-104 (1985)","MAMM").
+TFD_subseq('Hox-1.3_RS',"CATTAGTG","Genes Dev 1: 482-96 (1987)","MAMM").
+TFD_subseq('TR-TRE2',"CAGGGACGTGACCGCA","Nature 336: 262-5 (1988)","MAMM").
+TFD_subseq('GCN4_CS1',"ATGASTCAT","EMBO J 6: 2781-4 (1987)","YEAST").
+TFD_subseq('GCN4_CS2',"RRTGAYTSWY","Proc Natl Acad Sci U S A 83: 8516-20 (1986)","YEAST").
+TFD_subseq('HSTF_CS2',"CNNGAANNTTCNNG","Nature 316: 774-8 (1985)","YEAST").
+TFD_subseq('RAP1-HMRE',"AAAACCCATCAAAC","Cell 51: 721-32 (1987)","YEAST").
+TFD_subseq('MAT-alpha-2_CS3',"CATGTAATTACCNAATAAGGAAATTTACATGNT","Cell 42: 237-47 (1985)","YEAST").
+TFD_subseq('MAT-alpha-2_CS4',"YRTGTAATTACCBAWWHRGGAAATT","Cell 42: 237-47 (1985)","YEAST").
+TFD_subseq('P-Box-alpha-CS',"TTTCCTAATTAGTNCN","Cell 50: 681-91 (1987)","YEAST").
+TFD_subseq('P-Box-a-CS',"TTTCCTTATTNGGTAA","Cell 50: 681-91 (1987)","YEAST").
+TFD_subseq('Q_Box_CS',"TCAATGNCAG","Cell 50: 681-91 (1987)","YEAST").
+TFD_subseq('qa-1F_CS1',"GGRTAARYRYTYATCC","Mol Cell Biol 7: 1256-66 (1987)","PLANT").
+TFD_subseq('RAP1-TEF2',"TGCACCCACACATT","Cell 51: 721-32 (1987)","YEAST").
+TFD_subseq('AABS_CS1',"GTGNNGYAANNNNTTRCNNCAC","Mol Cell Biol 11: 93-101 (1991)","MAMM").
+TFD_subseq('AABS_CS2',"GTGNNGYAA","Mol Cell Biol 11: 93-101 (1991)","MAMM").
+TFD_subseq('ABRE',"CACGTGGC","Science 250: 267-71 (1990)","PLANT").
+TFD_subseq('E6_element_(1)',"CCGAAACTGAAAAGG","Mol Cell Biol 11: 75-83 (1991)","MAMM").
+TFD_subseq('HIV_URE-1',"GGGGACTTTCCAG","Mol Cell Biol 9: 5169-81 (1989)","MAMM").
+TFD_subseq('HIV_URE-2',"AGGGACTTTCCGC","Mol Cell Biol 9: 5169-81 (1989)","MAMM").
+TFD_subseq('HNF1-HP1',"CNNNTNNTNATTG","Mol Cell Biol 11: 93-101 (1991)","MAMM").
+TFD_subseq('HSTF_CS3',"NGAANNTTCNNGAAN","Mol Cell Biol 10: 3125-36 (1990)","MAMM").
+TFD_subseq('NF-IL6_RS',"ACATTGCACAATCT","EMBO J 9: 1897-906 (1990)","MAMM").
+TFD_subseq('KROX24_CS',"GCGSGGGCG","Proc Natl Acad Sci U S A 86: 8737-41 (1989)","MAMM").
+TFD_subseq('KROX24-F',"CGCCCCCGC","Science 250: 1259-62 (1990)","MAMM").
+TFD_subseq('GR-IL6',"ACATTGCACAATCT","Mol Cell Biol 10: 5736-46 (1990)","MAMM").
+TFD_subseq('NF-IL2-D_RS',"ATGCAATTAA","Mol Cell Biol 10: 5464-72 (1990)","MAMM").
+TFD_subseq('PhyA-response_element',"GCGGTAATT","Science 250: 1397-9 (1990)","PLANT").
+TFD_subseq('RAD_CS',"CGWGGWNGMA","Mol Cell Biol 10: 4630-7 (1990)","YEAST").
+TFD_subseq('XIB-SV40',"TGTCAGTTAGGGT","Mol Cell Biol 10: 5279-85 (1990)","MAMM").
+TFD_subseq('Y_box_(1)',"CTGATTGGCCAA","Proc Natl Acad Sci U S A 87: 9028-32 (1990)","MAMM").
+TFD_subseq('hAFP_box_2',"TGTTTGCTGT","Mol Cell Biol 8: 1169-78 (1988)","MAMM").
+TFD_subseq('IEB2',"GCCATCTGGC","Mol Cell Biol 9: 823-7 (1989)","MAMM").
+TFD_subseq('NF-IL2-A_RS',"ATGTAAAACA","Mol Cell Biol 10: 5464-72 (1990)","MAMM").
+TFD_subseq('E4TF1-E4',"GGGAAAACGGAAGTGACGATT","Mol Cell Biol 8: 1290-300 (1988)","MAMM").
+TFD_subseq('E4TF3-E4.1',"GTTTGTGACGTGGCGCG","Mol Cell Biol 8: 1290-300 (1988)","MAMM").
+TFD_subseq('E4TF3-E4.2',"GGGCGGGTGACGTAGGTTTTAG","Mol Cell Biol 8: 1290-300 (1988)","MAMM").
+TFD_subseq('E4TF3-E4.3',"AAAATGGGAAGTGACGTAACGTGGG","Mol Cell Biol 8: 1290-300 (1988)","MAMM").
+TFD_subseq('E4TF3-E4.4',"TAACCGTTACGTCATTTTTT","Mol Cell Biol 8: 1290-300 (1988)","MAMM").
+TFD_subseq('GT-rice',"TAGGTTAATTATTGGCGGTAATT","Science 250: 1397-9 (1990)","PLANT").
+TFD_subseq('GT-rice/oat',"TAGGTTAATTATTGGCGGTTAAT","Science 250: 1397-9 (1990)","PLANT").
+TFD_subseq('GT-oat',"TAGGTTAATCAATTTCAGGTTAAT","Science 250: 1397-9 (1990)","PLANT").
+TFD_subseq('GT-pea',"GTGTGGTTAATATG","Science 250: 1397-9 (1990)","PLANT").
+TFD_subseq('NFkB-TCR-beta',"GGGAGATTCC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-IL2Ra.1',"GGGAATCTCC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-IL2Ra.2',"GGGAGATTCC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-MHCI-H2Kb.1',"GGGATTCCCC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-MHCI-H2Kb.2',"GGGGAATCCC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-MHCI-H2Kb.3',"GGGAATCCCC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-IC-li',"GGGAATTTCC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-GMCSF',"GGGAACTACC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-TNF-alpha.1',"GGGAAAGCCC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-TNF-alpha.2',"GGGAATTCAC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-LT.1',"GGGGGCTTCC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-LT.2',"GGGGCTTCCC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-LT.3',"GGGAAGCCCC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-LT.4',"GGGGAAGCCC","J Biol Chem 266: 252-60 (1991)","MAMM").
+TFD_subseq('NFkB-APRE',"GGGAAATCCC","Mol Cell Biol 10: 1023-32 (1990)","MAMM").
+TFD_subseq('NFkB-vimentin',"GGGGCTTTCC","J Virol 64: 256-63 (1990)","MAMM").
+TFD_subseq('RF-X_RS',"TCCCCTAGCAACAG","Genes Dev 4: 1528-40 (1990)","MAMM").
+TFD_subseq('bicoid_wt_RS',"TCTAATCCC","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid_mutant_2',"TCTAATCAC","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid_mutant_5',"TCTAATCTC","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('Antp_wt_RS',"ATTTAATTGA","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid-antp-18',"ATTTAATCCA","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid-antp-21',"ATTTAATCTA","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid-antp-25',"ATTTAATTCC","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid_mut_9',"TCTAATTGA","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid_mut_10',"TCTAATTGC","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid_mut_11',"TCTAATTGT","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid_mut_12',"TCTAATTGG","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid_mut_13',"TCTAATTAG","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid_mut_14',"TCTAATTTG","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('Antp_wt_RS.2',"ATTTAATTGA","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('Antp_mut_20',"ATTTAATCAA","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('Antp_mut_24',"ATTTAATTCG","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid-X1',"GCTAAGCTG","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid-X2',"GCTAAGCTC","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid-X3',"GATCATCCA","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid-A1',"CGTAATCCC","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('bicoid-A2',"TCTAATCCA","Science 251: 426-30 (1991)","DROS").
+TFD_subseq('HNF-4_CS',"KGCWARGKYCAY","Genes Dev 4: 2353-65 (1990)","MAMM").
+TFD_subseq('HNF-4-TTR',"GGCAAGGTTCATATTTGTGTAG","Genes Dev 4: 2353-65 (1990)","MAMM").
+TFD_subseq('HNF-4-HNF4P',"CCCTAGGCAAGGTTCATATGGCC","Genes Dev 4: 2353-65 (1990)","MAMM").
+TFD_subseq('HNF-4-HNF4D',"CTCTCTGCAAGGGTCATCAGTAC","Genes Dev 4: 2353-65 (1990)","MAMM").
+TFD_subseq('HNF-4-apoCIII',"GCGCTGGGCAAAGGTCACCTGC","Genes Dev 4: 2353-65 (1990)","MAMM").
+TFD_subseq('HNF-4-alpha1-AT',"AGCAAACAGGGGCTAAGTCCACTGGCTG","Genes Dev 4: 2353-65 (1990)","MAMM").
+TFD_subseq('Pit-1_CS2',"TANTNCATNNWTATNCAT","Cell 64: 475-8 (1991)","MAMM").
+TFD_subseq('Pit-1-PlPPal',"GATTACATGAATATTCAT","Cell 64: 475-8 (1991)","MAMM").
+TFD_subseq('Pit-1-PitB1',"AAATCCATTTATACAT","Nature 346: 583-6 (1990)","MAMM").
+TFD_subseq('Pit-1-PitB2',"TATTGCATATATACAT","Nature 346: 583-6 (1990)","MAMM").
+TFD_subseq('Pit-1-pGH',"CCATGAATAAATGTATA","Science 243: 814-7 (1989)","MAMM").
+TFD_subseq('Pit-1-dGH',"GAGCTTCTAAATTATCC","Science 243: 814-7 (1989)","MAMM").
+TFD_subseq('Pit-1-P3D',"AACTTCATTATTATTCAC","Cell 64: 475-8 (1991)","MAMM").
+TFD_subseq('Pit-1-P1P',"GATTATATATATATTCAT","Cell 64: 475-8 (1991)","MAMM").
+TFD_subseq('Pit-1-P1D',"GAGTGCATTAAAAAATGCAT","Cell 64: 475-8 (1991)","MAMM").
+TFD_subseq('Pit-1-P3P',"TATTTTATTTCTTATTCAT","Cell 64: 475-8 (1991)","MAMM").
+TFD_subseq('Pit-1-P2D',"TAGGAAATCTCTAAAACAT","Cell 64: 475-8 (1991)","MAMM").
+TFD_subseq('Pit-1-P2P',"TTAAACATCAAATGGTAT","Cell 64: 475-8 (1991)","MAMM").
+TFD_subseq('Pit-1-P4P',"ATTTTGATTAATTACAG","Cell 64: 475-8 (1991)","MAMM").
+TFD_subseq('Pit-1-P4D',"TCATTCATCTGAAGCAG","Cell 64: 475-8 (1991)","MAMM").
+TFD_subseq('Pit-1-PRL-1',"TCATCTATTTCCGTCAT","Cell 64: 475-8 (1991)","MAMM").
+TFD_subseq('TFIID-MLP',"GGGCTATAAAAGGGGGT","Proc Natl Acad Sci U S A 86: 5718-22 (1989)","MAMM").
+TFD_subseq('TFIID-CYC1-1',"CAGGCATATATATATGTGT","Proc Natl Acad Sci U S A 86: 5718-22 (1989)","YEAST").
+TFD_subseq('TFIID-CYC1-2',"GTATGTATATAAAAC","Proc Natl Acad Sci U S A 86: 5718-22 (1989)","YEAST").
+TFD_subseq('TFIID-LEU2-1',"CAATATTATTTAAGGAC","Proc Natl Acad Sci U S A 86: 5718-22 (1989)","YEAST").
+TFD_subseq('TFIID-LEU2-2',"AGCAATATATATATATATTT","Proc Natl Acad Sci U S A 86: 5718-22 (1989)","YEAST").
+TFD_subseq('TFIID-CYC1/MLP',"TGTTCCTGAAGGGTTCCTTATACATTAGGT","Proc Natl Acad Sci U S A 86: 5718-22 (1989)","SYNTH").
+TFD_subseq('TFIID-SV40/MLP',"TGTTCCTGAAGGGGACTTATTTATGCCC","Proc Natl Acad Sci U S A 86: 5718-22 (1989)","SYNTH").
+TFD_subseq('glass-Rh1',"GTGGAAACCCTTGAAATGCCTTTAA","Genes Dev 5: 583-93 (1991)","DROS").
+TFD_subseq('NF-1-IE94.23',"TTGGCACGGTGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.22',"TTGGCACCGAGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.21',"TTGGCAACGTGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.20',"TTGGCACTGTGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.19',"CTGGCACGGTGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.18',"TTGGCATTGAGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.17',"TTGGACTTGGGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.16',"CTGGATTTCTGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.15',"TTGGATACTGGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.14',"ATGGATCTGTGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.13',"CTGGACCATAGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.12',"ATGGACTCATGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.11',"CTGGACCTGTGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.10',"ATGGACTCGTGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.9',"CTGGACCCCAGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.8',"TTGGCACCATGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.7',"TTGGCACTGTGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.6',"TTGGCACGGTGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.5',"TTGGCCCTGTGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.4',"TTGGCATGGTGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.3',"TTGGCTATATGCCAG","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.2',"ATGGCCCTATGCCAA","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('NF-1-IE94.1',"TTGGCCCTATGCCAT","J Virol 61: 1559-70 (1987)","MAMM").
+TFD_subseq('FTZ-F1_RS',"CAAGGTCGCCGAG","Science 252: 848-51 (1991)","DROS").
+TFD_subseq('FTZ-F1_RS2',"GCAGCACCGTCTCAAGGTCGCCGAGTAGGAGAA","Science 252: 848-51 (1991)","DROS").
+TFD_subseq('junB-US1',"AGGGGGCCGCGGGGGCCT","Nucleic Acids Res 19: 775-81 (1991)","MAMM").
+TFD_subseq('junB-US2',"GGCCAAT","Nucleic Acids Res 19: 775-81 (1991)","MAMM").
+TFD_subseq('junB-US3',"AGTGCACT","Nucleic Acids Res 19: 775-81 (1991)","MAMM").
+TFD_subseq('ftz-CON',"AAGCAATTAAG","Mol Cell Biol 11: 3613-23 (1991)","DROS").
+TFD_subseq('ftz_CS2',"AAADDANNCAATTANNNTWWT","Mol Cell Biol 11: 3613-23 (1991)","DROS").
+TFD_subseq('Ubx-dpp',"CCATTACCATTACCATTATCATTACCGTTACTATTACCAT","EMBO J 10: 1179-86 (1991)","DROS").
+TFD_subseq('GAGA-kruppel.1',"CGTGTGAGCGGGAGAGCCAATT","J Biol Chem 266: 574-82 (1991)","DROS").
+TFD_subseq('GAGA-kruppel.2',"GAGTGAGAATCT","J Biol Chem 266: 574-82 (1991)","DROS").
+TFD_subseq('GAGA-kruppel.3',"CGAGACAGAGCGT","J Biol Chem 266: 574-82 (1991)","DROS").
+TFD_subseq('GAGA-kruppel.4',"ACCGCGAGTAATAT","J Biol Chem 266: 574-82 (1991)","DROS").
+TFD_subseq('GAGA-kruppel.5',"AACTACCTCATTTTGC","J Biol Chem 266: 574-82 (1991)","DROS").
+TFD_subseq('GAGA-kruppel.6',"AATCTCTCTACC","J Biol Chem 266: 574-82 (1991)","DROS").
+TFD_subseq('VETF-VGF1',"ATATTACTGAATTAATAAT","J Biol Chem 266: 15539-44 (1991)","MAMM").
+TFD_subseq('c-Myb-F3-L',"GAATTAAACGTCCGGTT","Oncogene 6: 1397-407 (1991)","MAMM").
+TFD_subseq('c-Myb-F3-H',"AGAGTTAACGGTTTTTT","Oncogene 6: 1397-407 (1991)","MAMM").
+TFD_subseq('c-Myb-F5L',"GAATTGTGCAGTGCATCGGATTTGGAAG","Oncogene 6: 1397-407 (1991)","MAMM").
+TFD_subseq('c-Myb-F5-H',"AAACTCAACGGGTAATAA","Oncogene 6: 1397-407 (1991)","MAMM").
+TFD_subseq('c-Myb-F1-L-1',"TTTCTCAGAGTAGTTATGGTAACTG","Oncogene 6: 1397-407 (1991)","MAMM").
+TFD_subseq('c-Myb-F1-L-2',"GGGCTGGGGTGGGGGGTAA","Oncogene 6: 1397-407 (1991)","MAMM").
+TFD_subseq('c-Myb-F1-L-3',"TCCTGAACTGGATC","Oncogene 6: 1397-407 (1991)","MAMM").
+TFD_subseq('c-Myb-F1-H',"AAAACGGGAATGGTTTTTAAGAC","Oncogene 6: 1397-407 (1991)","MAMM").
+TFD_subseq('c-Myb-F4-H',"GAATACACGTTTGCGGGTTACA","Oncogene 6: 1397-407 (1991)","MAMM").
+TFD_subseq('c-Myb-F4-L',"AGAAAAAATTGTGAGTCAGTG","Oncogene 6: 1397-407 (1991)","MAMM").
+TFD_subseq('ILF-HIV.1',"GAAGAGGCCAATGAAGGAGAGAACAACA","Proc Natl Acad Sci U S A 88: 7739-43 (1991)","MAMM").
+TFD_subseq('ILF-HIV.2',"GAGGACGCGGAGAAAGAAGTGTTAGTGTG","Proc Natl Acad Sci U S A 88: 7739-43 (1991)","MAMM").
+TFD_subseq('lambda-boxA',"CGCTCTTAC","Genes Dev 4: 2210-22 (1990)","PROK").
+TFD_subseq('21-boxAr',"TGCTCTTTA","Genes Dev 4: 2210-22 (1990)","PROK").
+TFD_subseq('lambda-Al',"CGCTCTTAA","Genes Dev 4: 2210-22 (1990)","PROK").
+TFD_subseq('21-boxAl',"GGCTCTTTA","Genes Dev 4: 2210-22 (1990)","PROK").
+TFD_subseq('rrn-boxA',"TGCTCTTTA","Genes Dev 4: 2210-22 (1990)","PROK").
+TFD_subseq('beta-casein-FP1',"CCAGAATTTCTTGGGAAAGAAAATA","Mol Cell Biol 11: 3745-55 (1991)","MAMM").
+TFD_subseq('beta-casein-FP2',"AGAAACCATTTTCTAATCATGTGGA","Mol Cell Biol 11:  3745-55 (1991)","MAMM").
+TFD_subseq('EF-1A-site_A',"AGGAAGTGA","Mol Cell Biol 9: 5143-53 (1989)","MAMM").
+TFD_subseq('EF-1A_CS',"RNMGGAWGT","Mol Cell Biol 9: 5143-53 (1989)","MAMM").
+TFD_subseq('IHF-L1',"TCTGTATGTTTTTTATATGAATTTA","J Mol Biol 213: 109-21 (1990)","PROK").
+TFD_subseq('IHF-L2',"TTTATTTTTCAATAAATACAATTGGTTATGTGTTTTG","J Mol Biol 213: 109-21 (1990)","PROK").
+TFD_subseq('E1A-F_CS',"NGGAYGT","Nucleic Acids Res 17: 10015-34 (1989)","MAMM").
+TFD_subseq('EBP-80-enh2-up',"ATCTGCGCATATGCCGA","Mol Cell Biol 11: 117-25 (1991)","MAMM").
+TFD_subseq('EBP-80-enh2',"ATCTGCGCATATGCCGAGGGTGGTTCTCTACTC","Mol Cell Biol 11: 117-25 (1991)","MAMM").
+TFD_subseq('UAS(G)-pSV3',"CGGAGACTCTCCTCCG","J Mol Biol 209: 423-32 (1989)","MAMM").
+TFD_subseq('XylR-UBS1',"GCTGCCTTGATCAAATC","EMBO J 10: 1159-67 (1991)","PROK").
+TFD_subseq('XylR-UBS2',"TGCGCGATTGATGATTTGCTCAAATACAG","EMBO J 10: 1159-67 (1991)","PROK").
+TFD_subseq('XylR_CS1',"TGATGATTTGCTNAAATNCACNC","Mol Microbiol 4: 1551-6 (1990)","PROK").
+TFD_subseq('XylR_CS2',"TTGANCAAATC","EMBO J 10: 1159-67 (1991)","PROK").
+TFD_subseq('XylR_CS3',"ATTTGNNCAAAT","J Biol Chem 266: 15832-8 (1991)","PROK").
+TFD_subseq('TetR-O1',"ACTCTATCATTGATAGAGT","Nucleic Acids Res 18: 2875-80 (1990)","PROK").
+TFD_subseq('TetR-O2',"TCCCTATCAGTGATAGAGA","Nucleic Acids Res 18: 2875-80 (1990)","PROK").
+TFD_subseq('MetJ-16mer',"GGTACCCAGACGTCTAGACGTCTGGGGATCCT","Nature 341: 711-5 (1989)","PROK").
+TFD_subseq('MetJ-MetF',"CTTCATCTTTACATCTGGACGTCTAAACGGATAGATGTGC","Nature 341: 711-5 (1989)","PROK").
+TFD_subseq('MetJ-MetC',"AGACATCCAGACGTAT","Nature 341: 711-5 (1989)","PROK").
+TFD_subseq('MetJ_RS',"AGACGTCTAGACGTCT","Nature 341: 711-5 (1989)","PROK").
+TFD_subseq('Ner_operator_IS',"CCGTGAGCTAC","EMBO J 8: 3141-8 (1989)","PROK").
+TFD_subseq('NifA-UAS3',"TGTCAGGACTAATACA","J Mol Biol 220: 915-31 (1991)","PROK").
+TFD_subseq('MerR-mer_promoter',"CCGTACATGAGTACGGA","Nucleic Acids Res 18: 5157-62 (1990)","PROK").
+TFD_subseq('OmpR-ompC-a',"CATTTACATTTTGAAACATCTATAG","J Bacteriol 172: 501-3 (1990)","PROK").
+TFD_subseq('OmpR-ompC-bc',"TAAATGAAACATCTTAAAAGTTTTAGTATCATATTC","J Bacteriol 172: 501-3 (1990)","PROK").
+TFD_subseq('AlgR1-algD_US1',"CCGTTCGTCTGCAA","Proc Natl Acad Sci U S A 88: 1760-4 (1991)","PROK").
+TFD_subseq('AlgR1-algD_US2',"CCGTTCGTCTGCAA","Proc Natl Acad Sci U S A 88: 1760-4 (1991)","PROK").
+TFD_subseq('ArgR-carAB_arg-box-1',"AATGAATTAATATGCAAA","J Bacteriol 171: 5436-42 (1989)","PROK").
+TFD_subseq('ArgR-carAB_arg-box-2',"AGTGAGTGAATATTCTCT","J Bacteriol 171: 5436-42 (1989)","PROK").
+TFD_subseq('BlaI-P(p)1',"CAAATCTTACAAATGTAGTCTTT","FEBS Lett 246: 83-8 (1989)","PROK").
+TFD_subseq('BlaI-P(p)2',"AAAGTATTACATATGTAAGATTT","FEBS Lett 246: 83-8 (1989)","PROK").
+TFD_subseq('BlaI-P(i)',"AGAGTATTACATTTGTAAGTATA","FEBS Lett 246: 83-8 (1989)","PROK").
+TFD_subseq('deoR-deoO(E)',"TGTGAAAATTTTATCA","Cell 58: 545-51 (1989)","PROK").
+TFD_subseq('deoR-deoO(1)',"TGTTAGAATTCTAACA","Cell 58: 545-51 (1989)","PROK").
+TFD_subseq('deoR-deoO(2)',"TGTTAGAATACTAACA","Cell 58: 545-51 (1989)","PROK").
+TFD_subseq('FNR_CS',"ANANTTGATNNANATCAATNNN","Mol Microbiol 4: 1831-8 (1990)","PROK").
+TFD_subseq('MalT_CS',"GGGGAKGAGG","J Mol Biol 218: 323-34 (1991)","PROK").
+TFD_subseq('MalT-malE(2ek)',"GGGGCGTAGG","J Mol Biol 218: 323-34 (1991)","PROK").
+TFD_subseq('MalT-malE(1ek)',"AAGGAGGATG","J Mol Biol 218: 323-34 (1991)","PROK").
+TFD_subseq('MomR/OxyR_CS',"ATGCATCRW","EMBO J 8: 2403-10 (1989)","PROK").
+TFD_subseq('MomR/OxyR-mom',"ACGACGATCGAATCAATTAAATCGATCGGTAATACAGATCGAT","EMBO J 8: 2403-10 (1989)","PROK").
+TFD_subseq('RafR-rafO(1)',"AACCGAAACGTTTTGGTT","J Bacteriol 172: 2178-80 (1990)","PROK").
+TFD_subseq('RafR-rafO(2)',"GTTCGAAACGTTTCGGAT","J Bacteriol 172: 2178-80 (1990)","PROK").
+TFD_subseq('SBS-1A',"ATTGTTCTCACGGAAGCACACGCAG","J Bacteriol 173: 678-86 (1991)","PROK").
+TFD_subseq('SBS-1B',"GTCATTTGAACGAATTTTTTC","J Bacteriol 173: 678-86 (1991)","PROK").
+TFD_subseq('GSG_element',"GCGGGGGGCG","Mol Cell Biol 11: 3835-41 (1991)","MAMM").
+TFD_subseq('Oct-2-A',"ATGCTAATGAGAT","Mol Cell Biol 11: 3925-30 (1991)","MAMM").
+TFD_subseq('Oct-2-B',"GCGGTAATGAGAT","Mol Cell Biol 11: 3925-30 (1991)","MAMM").
+TFD_subseq('Oct-2-C',"ATGCTAATGATAT","Mol Cell Biol 11: 3925-30 (1991)","MAMM").
+TFD_subseq('Oct-2-D',"ATGCAAATAA","Mol Cell Biol 11: 3925-30 (1991)","MAMM").
+TFD_subseq('FP1_alpha1(I)',"TTCTGATTGGCTGGGGGCCGGGCTGCT","Mol Cell Biol 11: 4065-73 (1991)","MAMM").
+TFD_subseq('FP2_alpha1(I)',"CCAAATTGGGGGCCGGGCCAG","Mol Cell Biol 11: 4065-73 (1991)","MAMM").
+TFD_subseq('beta-RARE',"GATCTGTAGGGTTCACCGAAAGTTCACTCA","Mol Cell Biol 11: 4097-103 (1991)","MAMM").
+TFD_subseq('Myogenin_CS',"AACAGKTGTT","Mol Cell Biol 11: 4104-10 (1991)","MAMM").
+TFD_subseq('(Myogenin)_CS',"TTGCACCTGTTNNTT","Mol Cell Biol 11: 4104-10 (1991)","MAMM").
+TFD_subseq('Ucp-DNAseI-HS4-CRE',"CCAATTTATAGTGCCGTCACTAACAGTACT","Mol Cell Biol 11: 4147-56 (1991)","MAMM").
+TFD_subseq('MHC_class_I_silencer',"CCAAAATTATCTGAAAAGGTTATTAAAA","Mol Cell Biol 11: 4217-27 (1991)","MAMM").
+TFD_subseq('MHC_class_I_enhancer',"ACATTCAAAATAACCTTTGAG","Mol Cell Biol 11: 4217-27 (1991)","MAMM").
+TFD_subseq('silencer_binding_site_1',"CCAAAATTAT","Mol Cell Biol 11: 4228-34 (1991)","MAMM").
+TFD_subseq('silencer_binding_site_2',"TATTAAAA","Mol Cell Biol 11: 4228-34 (1991)","MAMM").
+TFD_subseq('rPOMC_DE-4',"AGATCTTGATTTCACAAGACTCCA","Mol Cell Biol 11: 3492-503 (1991)","MAMM").
+TFD_subseq('rPOMC_DE-3',"AAATCTGATGCGTAA","Mol Cell Biol 11: 3492-503 (1991)","MAMM").
+TFD_subseq('rPOMC_DE-2',"TCATTAGTGATATTTACCTCCAAA","Mol Cell Biol 11: 3492-503 (1991)","MAMM").
+TFD_subseq('rPOMC_DE-1',"AGGTAATTCCACTCCATTCTGT","Mol Cell Biol 11: 3492-503 (1991)","MAMM").
+TFD_subseq('rPOMC_CE-2',"GAGTGGAGATCCAACAGCATCCTTAATTAAGTTCCT","Mol Cell Biol 11: 3492-503 (1991)","MAMM").
+TFD_subseq('rPOMC_CE-1',"GGGTCTGTGCTAACGCCAGCCTCC","Mol Cell Biol 11: 3492-503 (1991)","MAMM").
+TFD_subseq('rPOMC_PE-4',"CCCCCCTCCCGCGGCCCGCCGCCCCCCTTCGCGTG","Mol Cell Biol 11: 3492-503 (1991)","MAMM").
+TFD_subseq('rPOMC_PE-3',"GGAAGGTCACGTCCAAG","Mol Cell Biol 11: 3492-503 (1991)","MAMM").
+TFD_subseq('rPOMC_PE-2',"AAGAGAGAAGAGTGACAGGGACCAAACG","Mol Cell Biol 11: 3492-503 (1991)","MAMM").
+TFD_subseq('rPOMC_PE-1',"TAAGGAGCAGTGACTAAGAGAGGC","Mol Cell Biol 11: 3492-503 (1991)","MAMM").
+TFD_subseq('MCK-kE2',"CCCAACACCTGCTGCCTGAGCC","Mol Cell Biol 11: 3633-41 (1991)","MAMM").
+TFD_subseq('RAP1-HIS4',"GCTAAACCCATGCACAGTGACTCACGTT","Mol Cell Biol 11: 3642-51 (1991)","YEAST").
+TFD_subseq('MLC(1/3)-MRE',"CCAAATATGGCGACGG","Mol Cell Biol 11: 3735-44 (1991)","MAMM").
+TFD_subseq('GATA-1-GATA-1',"CTGATAAGACTTATC","Genes Dev 5: 919-31 (1991)","MAMM").
+TFD_subseq('PGK-1-GC_box1',"CTTCCTGCTCCGCCCCTAAGT","Genes Dev 5: 1102-13 (1991)","MAMM").
+TFD_subseq('PGK-1-US',"CTTGCGGTTCGCGGCGTGCCGGACG","Genes Dev 5: 1102-13 (1991)","MAMM").
+TFD_subseq('PGK-1-NF1-like_US',"CAGACGGACAGCGCCAGGGAGCAATGGCAGCGCGCCGAC","Genes Dev 5: 1102-13 (1991)","MAMM").
+TFD_subseq('PGK-1-CCAAT',"CTGTGGCCAATAGCGGCT","Genes Dev 5: 1102-13 (1991)","MAMM").
+TFD_subseq('PGK1-GC-box2',"AAGGGGCGGTGCGGGAGGCGGGG","Genes Dev 5: 1102-13 (1991)","MAMM").
+TFD_subseq('X_box',"CCTAGCAACAGATGC","Mol Cell Biol 11: 2406-15 (1991)","MAMM").
+TFD_subseq('Y_box_(2)',"CTGATTGG","Mol Cell Biol 5: 2406-15 (1991)","MAMM").
+TFD_subseq('E_box/CArG3_element',"CGCACCTGCCTTAGATGGCC","Mol Cell Biol 11: 2439-50 (1991)","AVIAN").
+TFD_subseq('Evi-1_CS',"TGACAAGATAA","Mol Cell Biol 11: 2665-74 (1991)","MAMM").
+TFD_subseq('gERE',"GGGGCGGGGTGGGGGG","Mol Cell Biol 11: 2686-96 (1991)","MAMM").
+TFD_subseq('C/EBP-cVITII',"ATTGCAAAA","Mol Cell Biol 11: 2704-17 (1991)","AVIAN").
+TFD_subseq('Sp1-cVITII',"GAGGAGTGTT","Mol Cell Biol 11: 2704-17 (1991)","AVIAN").
+TFD_subseq('TF-V-beta-cVITII',"ATAAAAAACT","Mol Cell Biol 11: 2704-17 (1991)","AVIAN").
+TFD_subseq('USF-cVITII',"GCCACGTG","Mol Cell Biol 11: 2704-17 (1991)","MAMM").
+TFD_subseq('c-fos_SRE_3',"CAGGATGTCCATATTAGGACATCT","Mol Cell Biol 11: 2752-9 (1991)","MAMM").
+TFD_subseq('ARGRII-CAR1',"GTGCTGCTAATGGCAATCAACAGCGCATCGCCGCTCGCTGAATT","Mol Cell Biol 11: 2852-63 (1991)","YEAST").
+TFD_subseq('ARGRII-CAR2',"GACGCCGTAGTCGCGTGCCCTTGCCCTTAGCGGCTGA","Mol Cell Biol 11: 2852-63 (1991)","YEAST").
+TFD_subseq('ARGRII-ARG5/ARG6',"TTGTTGTTCGCTATCCATTTCCATTAGGAACATTTTGGAT","Mol Cell Biol 11: 2852-63 (1991)","YEAST").
+TFD_subseq('ARGRII-ARG3',"GTATGTCCTTTAAGTACAGTTAATAACGAGCAA","Mol Cell Biol 11: 2852-63 (1991)","YEAST").
+TFD_subseq('ICE1',"AGCCCCTCTGG","Mol Cell Biol 11: 2881-6 (1991)","MAMM").
+TFD_subseq('Pcp-2-rat-NSE_sequence',"GGAGAGGGAGGCTCAG","Genes Dev 5: 1136-48 (1991)","MAMM").
+TFD_subseq('EMF-1-M1',"TGTGCTGCACCTGTCTACTC","Genes Dev 5: 1149-60 (1991)","AMPHIB").
+TFD_subseq('EHSE',"GAAACTTCTGGAATATTCCCGAACTTTC","Genes Dev 5: 1285-98 (1991)","MAMM").
+TFD_subseq('URS-SSA1',"TCGGCGGCA","Genes Dev 5: 1299-308 (1991)","YEAST").
+TFD_subseq('Prl-1P',"CCTGATTATATATATATTCATGAAGG","Genes Dev 5: 1309-20 (1991)","MAMM").
+TFD_subseq('HCMV_MIE_conserved_sequence',"TGACCTCCATAGAAGACA","J Virol 65: 2299-307 (1991)","MAMM").
+TFD_subseq('HCMV_MIE_FP1',"TGACCTCCATAGAAGACACCGGGACCGATCCAGCCTC","J Virol 65: 2299-307 (1991)","MAMM").
+TFD_subseq('HCMV_MIE_FP2',"AATGCACCAGTTCCCGGCCGCGGAGGCTGGATCGGTCCCGGTGTCTT","J Virol 65: 2299-307 (1991)","MAMM").
+TFD_subseq('EBV_BamHI-C_conserved_sequence',"ACATGCACCC","J Virol 65: 2164-9 (1991)","MAMM").
+TFD_subseq('c-Myc_RS2',"GACCACGTGGTC","Proc Natl Acad Sci U S A 88: 6162-6 (1991)","MAMM").
+TFD_subseq('cell-cycle-responsive_UAS',"ACGCGTCGCG","Proc Natl Acad Sci U S A 88: 6058-62 (1991)","YEAST").
+TFD_subseq('eve-stripe2-kr6',"ATAACCCAAT","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-kr5',"TTAATCCGTT","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-bcd5',"GTTAATCCG","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-gt3',"CGAGATTATTAGTCAATTGCAGTTGC","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-bcd4',"GAGATTATT","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-gt2',"GACTTTATTGCAGCATCTTGAACAATCGTCGCAGTTTGGTAACAC","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-bcd3',"TATAATCGC","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-bcd2',"GGGATTAGC","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-gt1',"GAAAGTCATAAAAACA","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-bcd1/kr3',"GAAGGGATTAG","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-hb3',"CATAAAAACA","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-kr2',"ACTGGGTTAT","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-hb2',"TTATTTTTTT","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-kr1',"TTAACCCGTTT","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('eve-stripe2-hb1',"CGATTTTTTT","Science 254: 1385-7 (1991)","DROS").
+TFD_subseq('TFII-I-TdT-Inr',"CATTCTGG","Nature 354: 245-8 (1991)","MAMM").
+TFD_subseq('TFII-I-ML-Inr1',"CACTCTCT","Nature 354: 245-8 (1991)","MAMM").
+TFD_subseq('TFII-I-ML-Inr2',"TACTCCCT","Nature 354: 245-8 (1991)","MAMM").
+TFD_subseq('TFII-I-HIV-1-Inr1',"GTCTCTCT","Nature 354: 245-8 (1991)","MAMM").
+TFD_subseq('TFII-I-HIV-1-Inr2',"AGCTCTCT","Nature 354: 245-8 (1991)","MAMM").
+TFD_subseq('YY1-P5',"GGTCTCCATTTTGAAGCG","Nature 354: 241-5 (1991)","MAMM").
+TFD_subseq('YY1-TdT',"GCCCTCATTCTGGAGAC","Nature 354: 241-5 (1991)","MAMM").
+TFD_subseq('YY1-LeIF-J',"AGTCTCCAGAAAACCTAG","Nature 354: 241-5 (1991)","MAMM").
+TFD_subseq('HNF-1-alpha-C_site',"GGCTGAAGTCCAAAGTTCAGTCCCTTCGC","Nature 355: 457-61 (1992)","MAMM").
+TFD_subseq('HNF-1-alpha-B2-site',"TCCAATGTAAACAGAGCAGGCAG","Nature 355: 457-61 (1992)","MAMM").
+TFD_subseq('HNF-1-alpha-B1-site',"GGGCCCTGATTCACTGGCCGCT","Nature 355: 457-61 (1992)","MAMM").
+TFD_subseq('HNF-1-alpha-A-site',"AGTGGGATTTGGGGGGGCAGTGGGTGCA","Nature 355: 457-61 (1992)","MAMM").
+TFD_subseq('MuLV-GRE',"AGAACAGATGGTCCCCA","J Virol 62: 1314-22 (1988)","MAMM").
+TFD_subseq('Inr_(1)',"GCCCTCATTCTGGAG","J Biol Chem 267: 2823-30 (1992)","MAMM").
+TFD_subseq('Mut.Inr',"GCCCTGGGTCTGGAG","J Biol Chem 267: 2823-30 (1992)","MAMM").
+TFD_subseq('MyoD-MCK-right_site',"CACCTG","Science 255: 979-83 (1992)","MAMM").
+TFD_subseq('MyoD-MCK-left_site',"CACGTG","Science 255: 979-83 (1992)","MAMM").
+TFD_subseq('UCR-MHC-I',"CTGCAGTAACGCCATTTTGCAAGGCAT","Mol Cell Biol 12: 38-44 (1992)","MAMM").
+TFD_subseq('H-2RIIBP-region-II',"GGTCAGGG","EMBO J 11: 1419-35 (1992)","MAMM").
+TFD_subseq('H-2RIIBP-vit-B-1',"GACCCAACCCAAGTTATCATG","EMBO J 11: 1419-35 (1992)","MAMM").
+TFD_subseq('H-2RIIBP/T3R-alpha-region-II',"GAGGTC","EMBO J 11: 1419-35 (1992)","MAMM").
+TFD_subseq('H-2RIIBP/T3R-alpha-vit-B-1',"GACCCAACCCAAGTTATCATGACC","EMBO J 11: 1419-35 (1992)","MAMM").
+TFD_subseq('V-beta-CRE',"TGGAGACAGTGACATCACTAAGTCA","J Immunol 148: 1906-12 (1992)","MAMM").
+TFD_subseq('NBRE',"AAAAGGTCA","Science 256: 107-10 (1992)","MAMM").
+TFD_subseq('HF-1',"GCCAAAAGTGGTCTATGGGGTTATTTTTA","Mol Cell Biol 12: 1469-79 (1992)","MAMM").
+TFD_subseq('VLX_RS',"TCCCTAGTGATGTAAAC","J Biol Chem 266: 24834-41 (1991)","MAMM").
+TFD_subseq('VLY_RS',"AAACTTGTACTTTCCC","J Biol Chem 266: 24384-41 (1991)","MAMM").
+TFD_subseq('CP1-alpha-globin',"GGCTCCGCGCCAGCCAATGAGCG","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('CP1-H-2K(b)',"CGATCACCAAGAACCAATCAGTG","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('CP1-HSP70',"TTTCCCTTCTGAGCCAATCACCG","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('CP1-UAS2UP1-CYC1',"ACCGCTTGATCCACCAATCAACG","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('CP1-MSV-LTR',"TTATTTGAACTAACCAATCAGTT","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('CP1-MOPC-41-V(k)',"ACAGCAGCTGTGACCAATCCTAA","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('CP1-beta-globin',"ACTCTGGTAAGGGCCAATCTGCT","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('CP1-tk',"GTGTTCGAATTCGCCAATGACAA","Cell 53: 11-24 (1988)","MAMM").
+TFD_subseq('GAS_(1)',"CTTTCAGTTTCATATTACTCTAAATCCATT","EMBO J 10: 927-32 (1991)","MAMM").
+TFD_subseq('SDRE_(1)',"TCACAATTCCTCTG","J Biol Chem 266: 10490-7 (1991)","AVIAN").
+TFD_subseq('AhR-XRE1',"CCTCCAGGCTCTTCTCACGCAACTCCGGGGCAC","Science 252: 954-8 (1991)","MAMM").
+TFD_subseq('3MC-inducible-GST-Ya_site',"CGTCAGGCATGTTGCGTGCA","Mol Cell Biol 10: 1841-52 (1990)","MAMM").
+TFD_subseq('HNF1-GSTYa',"ATTAATCATTACC","Mol Cell Biol 10: 1841-52 (1990)","MAMM").
+TFD_subseq('HNF4-GSTYa',"CGGTGATGAACCTTGTTGGA","Mol Cell Biol 10: 1841-52 (1990)","MAMM").
+TFD_subseq('NLS-GSTYa',"GGCATTGCTAATGGTGACAAA","Mol Cell Biol 10: 1841-52 (1990)","MAMM").
+TFD_subseq('AAF_RS',"TTTCATATTACTCT","EMBO J 10: 927-32 (1991)","MAMM").
+TFD_subseq('AhR_RS',"TGCGTGAGAAGA","Science 252: 954-8 (1991)","MAMM").
+TFD_subseq('AGIE-BP1_RS',"GGTTGGGAAATCCC","Mol Cell Biol 11: 2887-95 (1991)","MAMM").
+TFD_subseq('ANF_RS',"CTTTATCTGG","Mol Cell Biol 10: 3896-905 (1990)","MAMM").
+TFD_subseq('AP-1_CS4',"TGASTMA","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('AP-3_CS',"TGTGGWWW","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('AR_CS',"AGAACANNNTGTTCT","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('ARP-1_RS',"TGANCCCTTGACCCCT","Science 251: 561-5 (1991)","MAMM").
+TFD_subseq('ATF_CS2',"TGACGYMR","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('BGP1_RS2',"GGGGGGGGGGGGGGGG","Genes Dev 2: 863-73 (1988)","AVIAN").
+TFD_subseq('BSAP_CS',"GACGCANYGRWNNNYG","Genes Dev 4: 849-59 (1990)","MAMM").
+TFD_subseq('CBF_RS',"ACACCCAAATATGGCGAC","Mol Cell Biol 9: 515-22 (1989)","MAMM").
+TFD_subseq('CBP-1_CS',"TCACRTGATA","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('CD28RC_RS',"AAAGAAATTCC","Science 251: 313-6 (1991)","MAMM").
+TFD_subseq('COUP_RS',"GTGTCAAAGGTCA","Mol Endocrinol 4: 1293-301 (1990)","MAMM/AVIAN").
+TFD_subseq('DBP_RS',"TGATTTTGT","Cell 63: 1257-66 (1990)","MAMM").
+TFD_subseq('E2A_CS',"RCAGNTG","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('E2BP_CS',"TGCAAYAY","Virology 176: 483-93 (1990)","AVIAN").
+TFD_subseq('E2F_CS',"TTTTSSCGS","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('E4F_RS',"TGACGTAAC","J Virol 62: 3003-13 (1988)","MAMM").
+TFD_subseq('E4TF1_RS',"CGGAAGTG","EMBO J 9: 841-7 (1990)","MAMM").
+TFD_subseq('EF-1A_RS',"CGGAAGTG","Mol Cell Biol 9: 5143-53 (1989)","MAMM").
+TFD_subseq('EGR-1_CS',"CGCCCSCGC","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('EGR-2_RS',"CCGCCCCCGC","EMBO J 9: 1209-18 (1990)","MAMM").
+TFD_subseq('ELP_RS',"CAAGGTCA","Mol Cell Biol 9: 4670-6 (1989)","MAMM").
+TFD_subseq('v-ErbA_RS',"GTGTCAAAGGTCA","Nucleic Acids Res 18: 4489-97 (1990)","MAMM/AVIAN").
+TFD_subseq('ETF_RS3',"CAGCCCCCGCGCAGC","Cell 59: 815-25 (1989)","MAMM").
+TFD_subseq('Ets-1_CS',"SMGGAWGY","Nucleic Acids Res 20: 3-26 (1992)","MAMM/AVIAN").
+TFD_subseq('F-ACT1_RS',"TGGCGA","EMBO J 9: 4455-65 (1990)","AVIAN").
+TFD_subseq('GAF_RS',"TTTCATATTACTCT","Mol Cell Biol 11: 5147-53 (1991)","MAMM").
+TFD_subseq('GR_CS',"AGAACANNNTGTTCT","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('H1TF1_RS',"AACAAACACAAA","Mol Cell Biol 9: 1566-75 (1989)","MAMM").
+TFD_subseq('H1TF2_RS',"GCACCAATCACAGCGCGC","Mol Cell Biol 9: 1566-75 (1989)","MAMM").
+TFD_subseq('H2RIIBP_RS',"TCAGGTCACAGTGACCTGA","Proc Natl Acad Sci U S A 86: 8289-93 (1989)","MAMM").
+TFD_subseq('H4TF1_RS',"GGGGGAGGG","Genes Dev 2: 1700-12 (1988)","MAMM").
+TFD_subseq('H4TF2_CS',"GGTTCTCNNNNCGGTCCG","Genes Dev 2: 1700-12 (1988)","MAMM").
+TFD_subseq('H-APF-1_RS',"CTGGRAA","EMBO J 9: 457-65 (1990)","MAMM").
+TFD_subseq('HiNF-A_RS',"ATTTNNNNATTT","Nucleic Acids Res 16: 571-92 (1988)","MAMM").
+TFD_subseq('HNF-3_CS',"TATTGAYTTWG","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('HNF-5_CS',"TRTTTGY","Nucleic Acids Res 19: 131-9 (1991)","MAMM").
+TFD_subseq('IAF_RS',"GCCATCTGCT","Mol Cell Biol 10: 1564-72 (1990)","MAMM").
+TFD_subseq('Ig/EBP1_CS',"WGNATTNTGYAATRNTNW","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('IREBF-1_RS',"CGGGAAATGGAAACTG","Proc Natl Acad Sci U S A 88: 144-8 (1991)","MAMM").
+TFD_subseq('ISGF1_RS',"CTTTCAGTTT","Nucleic Acids Res 18: 6573-80 (1990)","MAMM").
+TFD_subseq('ISGF2_RS',"CTTTCTCTTT","Nucleic Acids Res 18: 6573-80","MAMM").
+TFD_subseq('ISGF3_RS',"GCTTCAGTTT","Cell 63: 303-12 (1990)","MAMM").
+TFD_subseq('Ker1_RS',"GCCTGCAGGC","Genes Dev 4: 1985-98 (1990)","MAMM").
+TFD_subseq('LBP_RS',"TAACGCCATTT","Mol Cell Biol 9: 4670-6 (1989)","MAMM").
+TFD_subseq('LIT-1_RS',"GCGCCCTTTGGACCT","Gene 94: 295-301 (1990)","MAMM").
+TFD_subseq('LSF_CS',"GGGCGGNNNNGGGCGG","Genes Dev 4: 287-98 (1990)","MAMM").
+TFD_subseq('LSF_RS',"GGTTCTTTCCGCC","Genes Dev 4: 287-98 (1990)","MAMM").
+TFD_subseq('MBF-1_RS',"YTAAAAATAAYYY","Mol Cell Biol 9: 5022-33 (1989)","MAMM").
+TFD_subseq('MBF-I_CS',"TGCRCRC","Mol Cell Biol 9: 5315-23 (1989)","MAMM").
+TFD_subseq('MCBF_RS',"CATTCCT","Mol Cell Biol 10: 4271-83 (1990)","AVIAN").
+TFD_subseq('MEF-2_CS',"YTAWAAATAR","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('MR_CS',"AGAACANNNTGTTCT","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('mtTF1_RS',"TTAACAGTCACCCCCAAC","Science 252: 965-9 (1991)","MAMM").
+TFD_subseq('MyoD_RS',"CAACTGAC","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('NFI_CS6',"YGGMNNNNNGCCA","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('NFI_CS7',"YGGMNNNNNNGCCAA","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('NF-AT_RS',"GGAGGAAAAACTGTTTCAT","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('NF-D_RS',"GATGGCGG","EMBO J 9: 947-55 (1990)","MAMM").
+TFD_subseq('NF-GMa_CS',"GRGRTTKCAY","Proc Natl Acad Sci U S A 85: 674-8 (1988)","MAMM").
+TFD_subseq('NF-GMb_CS',"TCAGRTA","Proc Natl Acad Sci U S A 85: 674-8 (1988)","MAMM").
+TFD_subseq('NFkB_CS5',"GGGAMTNYCC","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('NF-uE3_RS',"GCCACATGACC","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('NF-S_CS',"YGTCAGC","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('NF-W1/W2_RS',"GTTGCATC","Mol Cell Biol 9: 312-20 (1989)","MAMM").
+TFD_subseq('NGFI-B_RS',"AGGTCATGACCT","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('NRF-1_CS',"YGCGCAYGCGCR","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('NTF_RS',"GGAACCTCCCCC","Mol Cell Biol 10: 2145-53 (1990)","MAMM").
+TFD_subseq('Oct-R_CS',"ATGCAAAY","Nucleic Acids Res 20: 3-26 (1992)","AMPHIB").
+TFD_subseq('Pax-1_RS',"CACCGTTCCGCTCTAGATATCTC","Cell 66: 873-84 (1991)","MAMM").
+TFD_subseq('myc-PRF_RS',"AGAAAGGGAAAGGA","Nature 339: 718-21 (1989)","MAMM").
+TFD_subseq('PEA3_CS',"AGGAAR","Nucleic Acids Res 20: 3-26 (1992)","MAMM/AVIAN").
+TFD_subseq('PR_CS',"AGAACANNNTGTTCT","Nucleic Acids Res 20: 3-26 (1992)","MAMM/AVIAN").
+TFD_subseq('PRDI-BF1_RS',"AAGTGAAAGT","Genes Dev 5: 868-79 (1991)","MAMM").
+TFD_subseq('PTF_RS',"TCAGAGTATAAATACT","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('Pu.1_RS',"AGAGGAACT","Cell 61: 1165-6 (1990)","AVIAN").
+TFD_subseq('PuF_RS',"GGGTGGG","Mol Cell Biol 9: 5123-33 (1989)","MAMM").
+TFD_subseq('RAR_RS',"AGGTCATGACCT","Nucleic Acids Res 20: 3-26 (1992)","MAMM/AMPHI").
+TFD_subseq('RFX_RS',"CCCCTAGCAACAGATG","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('RVF_RS',"AAGATAAAACC","Mol Cell Biol 11: 1875-82 (1991)","MAMM").
+TFD_subseq('SEF-1_RS',"TCTGTGGTTAA","Mol Cell Biol 8: 1625-37 (1988)","MAMM").
+TFD_subseq('SIF_core_RS',"CCCGTC","EMBO J 9: 4477-84 (1990)","MAMM").
+TFD_subseq('Sp1_CS4',"KRGGCKRRK","Nucleic Acids Res 20: 3-26 (1992)","MAMM/AVIAN").
+TFD_subseq('TCF-2-alpha_CS',"SAGGAAGY","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('HBV_TGT3_site',"AAGTGTTTGC","Mol Cell Biol 9: 1804-9 (1989)","MAMM").
+TFD_subseq('TIN-1-PGK-1',"AGGAAGTTCC","Nucleic Acids Res 19: 3959-63 (1991)","MAMM").
+TFD_subseq('TR_RS',"AGGTCAAGGTCA","Nucleic Acids Res 20: 3-26 (1992)","MAMM/AVIAN").
+TFD_subseq('TTF-1_CS',"GNNCACTCAAG","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('USF_CS',"GGSCACRTGAC","Nucleic Acids Res 20: 3-26 (1992)","MAMM").
+TFD_subseq('VBP_RS',"GTTTACATAAAC","Mol Cell Biol 11: 4863-75 (1991)","AVIAN").
+TFD_subseq('XF1/XF2_RS',"TCTTCTCACGCAACT","Mol Cell Biol 10: 6408-16 (1990)","MAMM").
+TFD_subseq('XPF-1_RS',"CACCTGTCCTTTTCCC","Mol Cell Biol 11: 4985-97 (1991)","MAMM").
+TFD_subseq('YB-1_LY-box',"ATTTTTCTGATTGGCCAAAG","Proc Natl Acad Sci U S A 85: 7322-6 (1988)","MAMM").
+TFD_subseq('E2F/DRTF-1_class_I',"TTTTCCCGCCAAAA","Oncogene 7: 1075-81 (1992)","MAMM").
+TFD_subseq('E2F/DRTF-1_class_II',"TTTTCCCGCCTTTTTT","Oncogene 7: 1075-81 (1992)","MAMM").
+TFD_subseq('E2F/DRTF-1_class_III',"TTTTCCCGCGCTTTTTT","Oncogene 7: 1075-81 (1992)","MAMM").
+TFD_subseq('SCB',"CACGAAAA","Cell 42: 225-35 (1985)","YEAST").
+TFD_subseq('MBF-TMP1-beta',"GACGCGTTAA","Nature 357: 508-13 (1992)","MAMM").
+TFD_subseq('MBF-TMP1-alpha',"TTGACGCGT","Nature 357: 508-13 (1992)","YEAST").
+TFD_subseq('NF-I-adenovirus',"TATTTTGGATTGAAGCCAATATGATAATGA","Nucleic Acids Res 18: 57-64 (1990)","MAMM").
+TFD_subseq('IEF1-IEB1',"GATCCGCCATCTGCCA","J Biol Chem 267: 15642-9 (1992)","MAMM").
+TFD_subseq('HTF4-HIV-E-box-I',"ATAAGCAGCTGCTT","J Virol 66: 5631-4 (1992)","MAMM").
+TFD_subseq('MGF_CS',"ANTTCTTGGNA","J Biol Chem 267: 16365-70 (1992)","MAMM").
+TFD_subseq('MGF-beta-casein',"ACTTCTTGGAATT","J Biol Chem 267: 16365-70 (1992)","MAMM").
+TFD_subseq('glucagon-G3',"TTTTCACGCCTGACTGAGATTGAAGGG","J Biol Chem 265: 8725-35 (1990)","MAMM").
+TFD_subseq('glucagon-G3A',"CGCCTGA","J Biol Chem 265: 8725-35 (1990)","MAMM").
+TFD_subseq('glucagon-G3B',"GATTGAAGGGTGTA","J Biol Chem 265: 8725-35 (1990)","MAMM").
+TFD_subseq('Ad_DE1',"TTGTCAGTTTCC","Nucleic Acids Res 20: 3881-9 (1992)","MAMM").
+TFD_subseq('Ad_DE2',"AACGAGGAGGATTTGA","Nucleic Acids Res 20: 3881-9 (1992)","MAMM").
+TFD_subseq('TGA1a-as-1',"TGACGTAA","Genes Dev 4: 1899-909 (1990)","PLANT").
+TFD_subseq('TGA1b-hex1',"TGACGT","Nature 340: 727-30 (1989)","PLANT").
+TFD_subseq('CF2-I_RS',"GTATATTATATA","Science 257: 1946-50 (1992)","DROS").
+TFD_subseq('CF2-II-s15',"AGTGTATATAGGTCAC","Science 257: 1951-5 (1992)","DROS").
+TFD_subseq('Ets-1-T-alpha-2_(1)',"AGCCACATCCTCTGGAA","Science 250: 814-8 (1990)","MAMM").
+TFD_subseq('eve-stripe2-bcd-1',"TCGAAGGGATTAGGG","EMBO J 11: 4047-57 (1992)","DROS").
+TFD_subseq('PER3',"CAGGCCAGTGGGAGGAGCTGT","EMBO J 11: 2971-80 (1992)","MAMM").
+TFD_subseq('PER2',"CCCCCCACCCCCC","EMBO J 11: 2971-80 (1992)","MAMM").
+TFD_subseq('PER1',"ATAAAGCCGCCCCGCATCGGTCT","EMBO J 11: 2971-80 (1992)","MAMM").
+TFD_subseq('PRE-TAT',"GATCCTGTACAGGATGTTCTAGCTACA","Cell 60: 247-57 (1990)","MAMM").
+TFD_subseq('NF-AT-IL-2.2',"TAAAGAAAGGAGGAAAAACTGTTTCATACAGAAG","J Exp Med 175: 637-46 (1992)","MAMM").
+TFD_subseq('KTF-1_CS',"ACCCTGAGGCT","J Biol Chem 268: 377-84 (1993)","MAMM").
+TFD_subseq('keratinocyte_CS',"AARCCAAA","J Biol Chem 268: 377-84 (1993)","MAMM").
+TFD_subseq('PTF-1-amylase.1',"TTGCGTGAGAGT","J Biol Chem 268: 464-8 (1993)","MAMM").
+TFD_subseq('PTF-1-amylase.2',"CATCACCTGTTCA","J Biol Chem 268: 464-8 (1993)","MAMM").
+TFD_subseq('GArC1',"GAAAAATCT","J Biol Chem 268: 476-82 (1993)","MAMM").
+TFD_subseq('GArC3',"AGATTTTTC","J Biol Chem 268: 476-82 (1993)","MAMM").
+TFD_subseq('COUP-POMC',"GGAAGGTCACGTCCAA","Genome 31: 510-9 (1989)","MAMM").
+TFD_subseq('lambda-P(r)_start_site',"GATAATGGTTGCAT","Science 259: 358-61 (1993)","PROK").
+TFD_subseq('SIF-wt_RS',"CAGTTCCCGTCAATC","EMBO J 9: 4477-84 (1990)","MAMM").
+TFD_subseq('CyIIIa-P1.1',"TGGTCCCCCACAGT","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('CyIIIa-P1.2',"TGGTGTCATCCAGT","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('CyIIIa-P2I',"AACCCTGGACATAACTCTCGCTTG","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('CyIIIa-P2II',"AAGGAAGGGGTAGTACTTTACTTGG","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('CyIIIa-P3A.1',"GCGGCGCA","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('CyIIIa-P3A.2',"TTTGCGCT","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('CyIIIa-P3A.3',"GAGGCGCT","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('CyIIIa-P3B',"CTCATTTGCATATC","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('CyIIIa-P4',"CTCTGATTGGACCA","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('CyIIIa-P5',"TTCATTGTCGCGACATACTTGTAG","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('CyIIIa-P7I',"GGTTGTGTCATGGTT","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('CyIIIa-P7II',"ACCGTTACCCTTAACCT","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('HNF-3-TTR',"CTAAGTCAATAAT","Mol Cell Biol 9: 1415-25 (1989)","MAMM").
+TFD_subseq('P1_CS',"KGGTGCYNYNCAGT","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('P2I_CS',"ACATRAS","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('P2II_CS',"AGGGKTA","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('P2II_CS2',"TTTMMTTGG","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('P3A_CS',"YNYGCGCW","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('P3B_CS',"ATTTGCATA","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('P4_CS',"CTCTGATTGGWCCA","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('P5_CS',"TTCATTG","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('P7I_CS',"TTGTNSKYAT","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('P7II_CS',"STWACCCTY","Genes Dev 4: 1999-2010 (1990)","ECHINO").
+TFD_subseq('p53-RGC',"GATCCTTGCCTGGACTTGCCTGGCCTTGCCTTTTCTG","Nature 358: 83-6 (1992)","MAMM").
+TFD_subseq('p53-772-C(BE)',"GCCTGGACTTGCC","Science 252: 1708-11 (1991)","MAMM").
+TFD_subseq('p53_CS',"RRRCWWGYYY","Nature Genet 1: 45-9 (1992)","MAMM").
+TFD_subseq('p53_RS',"AGGCATGCCT","Nature Genet 1: 45-9 (1992)","MAMM").
+TFD_subseq('ABF-1_CS',"TATCATTNNNNACGA","Genetika 26: 804-16 (1990)","YEAST").
+TFD_subseq('AntP_CS',"ANNNNCATTA","Genetika 26: 804-16 (1990)","DROS").
+TFD_subseq('AP-1_CS',"TGASTAG","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('ATF_CS',"WTCGTCA","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('beta-actin_corelike_sequence',"TATGGTAAT","Mol Cell Biol 8: 267-72 (1988)","MAMM").
+TFD_subseq('C/EBP_CS',"TGTGGWWWGCCAAT","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('CAC-BP_CS',"GCCCCWCCCT","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('CATT-BP_RS1',"GTCACCATT","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('CATT-BP_RS2',"CATTANNCATT","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('CREB_CS2',"TGACGTYW","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('EBP-1_RS',"CGGACTTTCC","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('EF-C_CS2',"GGTGCNNGGCAAC","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('FIS_CS',"CAANANNTGANC","Genetika 26: 804-16 (1990)","PROK").
+TFD_subseq('GAL4_CS',"CGGANNACTGTTNNCCG","Genetika 26: 804-16 (1990)","YEAST").
+TFD_subseq('GT-2A_RS',"CGGAAAGAACC","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('GT-2B_RS',"CCAGCTG","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('H4TF-2_RS',"GTGGTCCG","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('HAP-1_RS1',"GGGNTTTANGGACNANGA","Genetika 26: 804-16 (1990)","YEAST").
+TFD_subseq('HAP-1_RS2',"GCNNTTANNGCNNTTAG","Genetika 26: 804-16 (1990)","YEAST").
+TFD_subseq('HNP-1_CS',"GGTTAATNATTAMCA","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('IBP-1_CS',"GNGAAANNGAAACT","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('IBP-1_CS2',"AAGTGA","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('KBF-1_CS',"GGGRMTTYCCCA","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('LOB_RS',"GCWWWWWWWWWWWWWWWWWG","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('MAT-alpha1_RS',"TTTCCTAATTAGGAAA","Genetika 26: 804-16 (1990)","YEAST").
+TFD_subseq('MRE-BP_CS',"RGCRCYCGGCC","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('NF-1_CS',"TTGGMNNNNNGCCAAT","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('GATA-1_CS2',"WGATAMS","Genetika 26: 804-16 (1990)","MAMM/AVIAN").
+TFD_subseq('NF-kB_CS',"GGGAYTTTCC","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('NF-mu-E1_CS',"CAGNTGGC","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('OBP_RS',"TTCGCAC","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('OTF-1_RS',"TATGCAAAT","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('OTF-2A_RS',"TATGCAAAT","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('PEA-2_RS',"CTGACCGCAG","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('RAF_RS',"TCACCGATCT","Genetika 26: 804-16 (1990)","YEAST").
+TFD_subseq('SRF_CS2',"GATGTCCNNNNNNGGACATC","Genetika 26: 804-16 (1990)","MAMM/AVIAN").
+TFD_subseq('T-antigen_RS',"GAGGCC","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('TFIIIA_CS',"CNGGNYNGAR","Genetika 26: 804-16 (1990)","AMPHIB").
+TFD_subseq('TopoI_RS',"AGACTTAGARAAWWW","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('TopoII_RS',"RNYNNCNNGYNGKTNYCY","Genetika 26: 804-16 (1990)","AVIAN").
+TFD_subseq('TRF_RS',"ATGCTAAT","EMBO J 7: 4231-8 (1988)","MAMM").
+TFD_subseq('TUF_CS2',"ACAYCYGTRCAT","Genetika 26: 804-16 (1990)","YEAST").
+TFD_subseq('XRE-BP_RS',"TSTCACGCWAS","Genetika 26: 804-16 (1990)","MAMM").
+TFD_subseq('AluA',"GGAGGCTGAGGCA","FEBS Lett 263: 69-72 (1990)","MAMM").
+TFD_subseq('GAGA-E74A.1',"CTCTCTT","Genetics 127: 535-43 (1991)","DROS").
+TFD_subseq('GAGA-E74A.2',"TGCGCGCTCTC","Genetics 127: 535-43 (1991)","DROS").
+TFD_subseq('GAGA-E74A.3',"TCTCTGCCG","Genetics 127: 535-43 (1991)","DROS").
+TFD_subseq('GAGA-E74A.4',"GTCTCAGTGCA","Genetics 127: 535-43 (1991)","DROS").
+TFD_subseq('p53-human-gadd45',"GAACATGTCTAAGCATGCTG","Cell 71: 587-97 (1992)","MAMM").
+TFD_subseq('p53-hamster-gadd45',"GAGCGTGTCTAAGCTCGTGG","Cell 71: 587-97 (1992)","MAMM").
+TFD_subseq('alpha(1)-I3-GME',"CCCTGGCACATTTCGTGCAA","J Biol Chem 266: 18268-75 (1991)","MAMM").
+TFD_subseq('TAT-GME',"CTTCTGCGTCAGCGCCAGTAT","Mol Endocrinol 6: 416-28 (1992)","MAMM").
+TFD_subseq('c-Myb-HIV',"AAGCTAGTACCAGTTGAGCCAG","Proc Natl Acad Sci U S A 87: 8090-4 (1990)","MAMM").
+TFD_subseq('HIV-2-PuB1',"GACAGGAACAG","J Virol 66: 5890-7 (1992)","MAMM").
+TFD_subseq('HIV-2-PuB2',"GGCAGGAAGTA","J Virol 66: 5890-7 (1992)","MAMM").
+TFD_subseq('Ets-1-T-alpha-2_(2)',"CCTCTTCTTTCCAGAGGATGTGGCTTCTGCGA","J Virol 66: 5890-7 (1992)","MAMM").
+TFD_subseq('Initiator_CS',"CTCANTCT","Proc Natl Acad Sci U S A 87: 4509-13 (1990)","MAMM").
+TFD_subseq('CAP-box',"CTTYTG","Nature 274: 84-7 (1978)","UBIQ").
+TFD_subseq('histone_CAP_box',"YCATTCR","Nature 285: 147-51 (1980)","UBIQ").
+TFD_subseq('PO-B_binding_site',"AGAGAAGAGTGACAG","Nucleic Acids Res 18: 4513-21 (1990)","MAMM").
+TFD_subseq('enhancer_core_(2)',"GGGRHTYYCC","Genes Dev 2: 991-1002 (1988)","MAMM").
+TFD_subseq('Sph-Box',"AAGYATGCA","Cell 65: 551-68 (1991)","MAMM").
+TFD_subseq('delta_site_(kappa-E3)',"CNGCCATC","Proc Natl Acad Sci U S A 88: 9799-803 (1991)","MAMM").
+TFD_subseq('ATF_CS4',"RTGACGTMR","Genes Dev 3: 2083-90 (1989)","MAMM").
+TFD_subseq('PEA3_site',"CMGGAAGT","Nature 346: 191-3 (1990)","MAMM").
+TFD_subseq('RPG-alpha_site',"MACTTCCGG","Mol Cell Biol 11: 1281-94 (1991)","MAMM").
+TFD_subseq('mu-E3_(2)',"AGGTCATGTGGCAAC","Proc Natl Acad Sci U S A 88: 4323-7 (1991)","MAMM").
+TFD_subseq('c-Myc_binding_site',"CACGTG","Proc Natl Acad Sci U S A 88: 4323-7 (1991)","MAMM").
+TFD_subseq('myc-TCE_(1)',"GCGTGGGGA","Cold Spring Harb Symp Quant Biol 56: 129-35 (1991)","MAMM").
+TFD_subseq('TIE_(2)',"GNNTTGGTGA","Cell 61: 267-78 (1990)","MAMM").
+TFD_subseq('c-Myc_P2_promoter_site',"TCGCGTGAGTATAAAAGCGCGGTT","Mol Cell Biol 11: 2154-61 (1991)","MAMM").
+TFD_subseq('GSG_element_(2)',"GCGGGGGCG","Mol Cell Biol 11: 3835-41 (1991)","MAMM").
+TFD_subseq('MHC_class_I_enhancer_site',"ATTCAAAATAACTTTGAG","J Biol Chem 271: 30992-9 (1996)","MAMM").
+TFD_subseq('ISRE/VRE/PRDI',"YAGTTTCWYTTTYCC","Genes Dev 2: 383-93 (1988)","MAMM").
+TFD_subseq('URE_(1)',"TGACAACA","Cancer Res 50: 5374-81 (1990)","MAMM").
+TFD_subseq('ETS2_S/S2_site',"GCGCGCCGCGTG","Cell Growth Differ 2: 215-24 (1991)","MAMM").
+TFD_subseq('ETS2_H2_site',"GAGACTGACGA","Cell Growth Differ 2: 215-24 (1991)","MAMM").
+TFD_subseq('U2/U6_proximal_element',"YACCGYRACTTTGAAWGT","Nucleic Acids Res 18: 2891-9 (1990)","MAMM").
+TFD_subseq('Polyoma_fPyF9',"GCATTCCATTGTT","Mol Cell Biol 9: 4032-7 (1989)","MAMM").
+TFD_subseq('N-ras_NRE',"TTTTATGTTAATGG","Mol Cell Biol 11: 1334-43 (1991)","MAMM").
+TFD_subseq('CNBP-SRE',"STGSSGYG","J Biol Chem 263: 3380-7 (1988)","MAMM").
+TFD_subseq('FIRE',"TCCCCGGCCGGGGA","Cell 61: 485-96 (1990)","MAMM").
+TFD_subseq('RARE_CS',"RGKTCAYYNRNRGKTCA","FASEB J 5: 2924-33 (1991)","MAMM").
+TFD_subseq('CRBPE/RXRE',"AGGTCANAGGTCA","Cell 67: 1251-66 (1991)","MAMM").
+TFD_subseq('TSE/TRE',"RGGTSANNNNAGGWCA","Cell 67: 1251-66 (1991)","MAMM").
+TFD_subseq('VDRE_CS_(1)',"RGGTSANNRRGGNCA","Cell 67: 1251-66 (1991)","MAMM").
+TFD_subseq('IRE-A(1)',"CCCGCCTC","Proc Natl Acad Sci U S A 87: 5273-7 (1990)","MAMM").
+TFD_subseq('HNF-1_site',"GGTTAATNATTAAC","J Biol Chem 266: 677- (1991)","MAMM").
+TFD_subseq('ATBF1_site',"TGATTAATAATTACA","Mol Cell Biol 8: 5179- (1988)","MAMM").
+TFD_subseq('C/EBP-HBV_Box-beta',"CCTACTTCAAAGACTGT","DNA Seq 1: 33- (1990)","MAMM").
+TFD_subseq('C/EBP-Gene_248(2)',"CAAAGTTGAGAAATTTCTATT","Genes Dev 3: 1323- (1989)","MAMM").
+TFD_subseq('Albumin_D_Site',"GATTTTATAATA","Genes Dev 3: 1323- (1989)","MAMM").
+TFD_subseq('HBVI-FPV',"AGTAAACAGTA","J Biol Chem 271: 21859-69 (1996)","MAMM").
+TFD_subseq('GABP_site',"CGGAARCGGAAR","Science 253: 789- (1991)","MAMM").
+TFD_subseq('HNF-3_site',"TATTGAYYYWG","Mol Cell Biol 9: 1415- (1989)","MAMM").
+TFD_subseq('HNF-5_site',"RCAAAYA","Cell 67: 977- (1991)","MAMM").
+TFD_subseq('LFA1_site',"TGRACYTGGCCC","Nucleic Acids Res 19: 1139- (1990)","MAMM").
+TFD_subseq('ANF_site',"CTTKAWCTSG","Mol Cell Biol 10: 3896- (1990)","MAMM").
+TFD_subseq('MTF1-MRE',"CTNTCCRCNCGGCCC","Mol Cell Biol 7: 606- (1987)","MAMM").
+TFD_subseq('IL-1_response_element',"AATGTTGGAA","Mol Cell Biol 11: 3001- (1991)","MAMM").
+TFD_subseq('alpha(1)-gene_element-I',"TCCTTTACCAACACTGT","Mol Cell Biol 10: 3483- (1990)","MAMM").
+TFD_subseq('kappa-E2',"CAGGTGKY","Annu Rev Immunol 9: 373- (1991)","MAMM").
+TFD_subseq('NFAT_site',"ARGARATTCCA","Nature 352: 803- (1991)","MAMM").
+TFD_subseq('class_II_gene_X_CS',"CTAGCAACWGANG","Mol Cell Biol 9: 5219- (1989)","MAMM").
+TFD_subseq('IA-beta-X',"CCAGAGACAGACG","Mol Cell Biol 9: 5219- (1989)","MAMM").
+TFD_subseq('IA-alpha-X',"CTGGCAACTGTGA","Mol Cell Biol 9: 5219- (1989)","MAMM").
+TFD_subseq('IE-alpha-X',"CTAGCAACAGATG","Mol Cell Biol 9: 5219- (1989)","MAMM").
+TFD_subseq('IE-beta-X',"CTAGCAACTGATG","Mol Cell Biol 9: 5219- (1989)","MAMM").
+TFD_subseq('IA-beta-X'',"CTAGCAACAGAAG","Mol Cell Biol 9: 5219- (1989)","MAMM").
+TFD_subseq('GM-CSF_promoter_site',"MATTAWTCATTTCCT","Mol Cell Biol 10: 6084- (1990)","MAMM").
+TFD_subseq('NFE4_site',"RAGAGGRGG","Genes Dev 3: 1845- (1989)","MAMM").
+TFD_subseq('pyr_factor_site',"CCTTCCTTCC","Proc Natl Acad Sci U S A 88: 8953- (1991)","MAMM").
+TFD_subseq('IEF1-IEB',"GCCATCTGSC","Mol Cell Biol 9: 823- (1989)","MAMM").
+TFD_subseq('MGF_site',"ANTTCTTGGNA","Mol Cell Biol 11: 3745- (1991)","MAMM").
+TFD_subseq('KRE2',"CCCTAAGGC","J Biol Chem 269:  493-502 (1994)","MAMM").
+TFD_subseq('KRF1_site',"GCATAACTATATCCACTCCC","Proc Natl Acad Sci U S A 88: 9102- (1991)","MAMM").
+TFD_subseq('PVF_site',"AGGCACATAT","Nucleic Acids Res 18: 465- (1990)","MAMM").
+TFD_subseq('Topo_II_cleavage_site_CS',"RNYNNCNNGYNGKTNYNY","Nucleic Acids Res 16: 5533- (1988)","AVIAN/MAMM").
+TFD_subseq('MDBP_site',"RTYRYYAYRGYRAY","Cancer Res 50: 6865-9 (1990)","MAMM").
+TFD_subseq('ISRE_(1)',"GGGAAAATGAAACT","Nucleic Acids Res 19: 517 (1991)","MAMM").
+TFD_subseq('ISRE_(2)',"GGGGAAAATGAAACTGCA","Proc Natl Acad Sci U S A 87: 3743-3747 (1990)","MAMM").
+TFD_subseq('ISRE_(3)',"AGGAAATAGAAACT","Nucleic Acids Res 19: 4387-4393 (1991)","MAMM").
+TFD_subseq('PPE',"ACCCCTCCCACTT","FEBS Lett 282: 87-90 (1991)","MAMM").
+TFD_subseq('as-1',"CTGACGTAAGGGATGACGCAC","J Biol Chem 265: 9909-9913 (1990)","PLANT").
+TFD_subseq('ARIIp',"CCTCAGCTGTCATGC","Nature 345: 353-358 (1990)","MAMM").
+TFD_subseq('ARIIb',"ACAGGTGGTGTAAGGCA","Nature 345: 353-358 (1990)","MAMM").
+TFD_subseq('CARG_box',"CCCTATTTGG","EMBO J 10: 933-940 (1991)","AMPHIB").
+TFD_subseq('Adh-p1_(1)',"GCTGCCGTCGCC","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('pF',"GGGATTTAGTCAAACAACTTTTTGGCAAAGAT","Proc Natl Acad Sci U S A 87: 5469-5473 (1990)","MAMM").
+TFD_subseq('pD',"TATGATTTTGTAATGGG","Cell 67: 569-579 (1991)","MAMM").
+TFD_subseq('C/EBP-LTR.1',"ATTACCAAA","Mol Cell Biol 9: 1155-1164 (1989)","MAMM").
+TFD_subseq('C/EBP-LTR.2',"CTTGCGTCA","Mol Cell Biol 9: 1155-1164 (1989)","MAMM").
+TFD_subseq('C/EBP-LTR.3',"TTGTGTAAC","Mol Cell Biol 9: 1155-1164 (1989)","MAMM").
+TFD_subseq('Adf-1-P1-C',"GTCGCAGTCGCTGCC","J Biol Chem 265: 5086-5094 (1990)","DROS").
+TFD_subseq('Adf-1-P1-B_(1)',"CGCTGTTGCGGCCGACGCTGACGCA","J Biol Chem 265: 5086-5094 (1990)","DROS").
+TFD_subseq('Adf-1-P1-B_(2)',"CGCTGCCACCGCTG","J Biol Chem 265: 5086-5094 (1990)","DROS").
+TFD_subseq('FSE2.2',"GATCCATGACTCAGAGGAAAACATACG","Genes Dev 3: 293-303 (1989)","MAMM").
+TFD_subseq('NF-1-e',"TTACCCATGGAATGCAGCCAAACC","Mol Cell Biol 8: 3448-3457 (1988)","MAMM").
+TFD_subseq('RI',"TTATTTTGGTTCCT","J Virol 64: 1217-1226 (1990)","MAMM").
+TFD_subseq('ZIA/ZIB',"TGTCTAAAATAAGCTGGTGTCAAAAATAG","J Virol 64: 1217-1226 (1990)","MAMM").
+TFD_subseq('ZIC',"TAGTTTCTAAAAGAG","J Virol 64: 1217-1226 (1990)","MAMM").
+TFD_subseq('ZID/ZII',"CTCTGTGATGTCATGGTTT","J Virol 64: 1217-1226 (1990)","MAMM").
+TFD_subseq('HCG-URE',"AAATGACCTAAGGGTTGAAACAA","J Biol Chem 263: 9879-9886 (1988)","MAMM").
+TFD_subseq('CIIS1',"CCTCTGTGTAGGAATACACCAGA","J Biol Chem 265: 6669-74 (1990)","MAMM").
+TFD_subseq('UAS2_(1)',"CTCATTTGGCGAGCGTTGGT","EMBO J 12: 4647-4655 (1993)","YEAST").
+TFD_subseq('UAS2_(2)',"CTCATTTGGCGAGCGTTGGT","Cell 53: 25-35 (1988)","YEAST").
+TFD_subseq('UAS2_(3)',"CTCATTTGGCGAGCGTTGGT","Cell 53: 25-35 (1988)","YEAST").
+TFD_subseq('DRE',"GAGTTGGGT","Mol Cell Biol 11: 4314-4323 (1991)","MAMM").
+TFD_subseq('CYP1A1-BTE',"GAGAAGGAGGCGTGGCCAA","J Biol Chem 273: 17917-25 (1998)","MAMM").
+TFD_subseq('GBF-B3-DG17',"ATGTGTGTTCATGTGTGTTTGAGTGTGTT","Genes Dev 4: 419-432 (1990)","FUNGI").
+TFD_subseq('GBF-B4',"TTGGGGGTATGGTGGAGTT","Genes Dev 4: 419-432 (1990)","FUNGI").
+TFD_subseq('DHFR-5'-UTR.1',"CCCCGCTGCCATC","Mol Cell Biol 10: 1390-1398 (1990)","MAMM").
+TFD_subseq('Sp1-human-beta-polymerase',"GCCCCGCCCCGCCCCGCCC","Nucleic Acids Res 18: 919-928 (1990)","MAMM").
+TFD_subseq('CREB-beta-polymerase',"GACGCGTGACGTCACAACAAGC","Proc Natl Acad Sci U S A 88: 3729-3733 (1991)","MAMM").
+TFD_subseq('beta-polymerase-site_C1',"GTGCGCCCC","Proc Natl Acad Sci U S A 88: 3729-3733 (1991)","MAMM").
+TFD_subseq('beta-polymerase-site_E_(1)',"CTCCTGCTCCCGTCT","Nucleic Acids Res 18:  919-28 (1990)","MAMM").
+TFD_subseq('EBV-ZRE7',"TTGCTCA","J Virol 64: 1143-1155 (1990)","MAMM").
+TFD_subseq('EBV-ZRE6',"TGTGTCA","J Virol 64: 1143-1155 (1990)","MAMM").
+TFD_subseq('EBV-ZRE5',"TGTGCAA","J Virol 64: 1143-1155 (1990)","MAMM").
+TFD_subseq('EBV-ZRE4/TGTG2',"TGACACA","J Virol 64: 1143-1155 (1990)","MAMM").
+TFD_subseq('EBV-ZRE3/TGTG1',"TGACACA","J Virol 64: 1143-1155 (1990)","MAMM").
+TFD_subseq('EBV-ZRE2',"TGAGCAA","J Virol 64: 1143-1155 (1990)","MAMM").
+TFD_subseq('EBV-ZRE1',"TTACACA","J Virol 64: 1143-1155 (1990)","MAMM").
+TFD_subseq('CArG-1',"AGTCCATATATGGGCAGCGAC","Nucleic Acids Res 18: 2749-57 (1990)","MAMM").
+TFD_subseq('En-k1',"TAAATTAAATGTCAATTAAATATCAATCAATT","Nature 332: 858-861 (1988)","DROS").
+TFD_subseq('En-k2',"ACATTTAACTGGTTAATTGA","Genes Dev 5: 254-264 (1991)","DROS").
+TFD_subseq('Eve-k3',"TCATTTAAAT","Nature 332: 858-861 (1988)","DROS").
+TFD_subseq('UAS1_(1)',"GCACCCAAACACCTGCATATTTGG","Mol Cell Biol 8: 5086-5099 (1988)","YEAST").
+TFD_subseq('ERE-vit-A2',"CTAGAAAGTCAGGTCACAGTGACCTGATCAAT","Nucleic Acids Res 16: 647-63 (1988)","AMPHIB").
+TFD_subseq('Eve-site_e5_(1)',"TCAGCACCGCACGATTAGCACCG","Genes Dev 5: 594-604 (1991)","DROS").
+TFD_subseq('beta28',"CAAACTGTCAAATATTAACTAAAGGGAG","Science 238: 688-92 (1987)","MAMM").
+TFD_subseq('IR_(2)',"AAATCAGCATCAGTTC","J Mol Biol 213: 651-670 (1990)","MAMM").
+TFD_subseq('CRE_(1)',"CCAGTGACGTAGG","Mol Cell Biol 10: 1347-1357 (1990)","MAMM").
+TFD_subseq('C/EBP-LTR(1)',"ATTACATAA","Mol Cell Biol 9: 1155-1164 (1989)","MAMM").
+TFD_subseq('alpha-globin-CCAAT_site',"CAAACCAGCCAATGAGTAACTGCTCCAAG","J Biol Chem 265: 13362-13369 (1990)","MAMM").
+TFD_subseq('TO-CACCC-box',"CCACACCCG","Nature 332: 87-90 (1988)","MAMM").
+TFD_subseq('CACCC_site_2',"CCCCACCCTG","Genes Dev 3: 1860-1873 (1989)","AVIAN").
+TFD_subseq('betaE-F4',"TTGCAGATAAACATTTTGCTATCAAGACTTG","Nature 343: 92-96 (1990)","AVIAN").
+TFD_subseq('EKLF-gamma-globin',"CTCCACCCA","J Biol Chem 270: 1955-9 (1995)","MAMM").
+TFD_subseq('GSTYa-XRE',"GAGCTTGGAAATGGCATTGCTAATGGTGACAAAGCAACTTT","Proc Natl Acad Sci USA 87: 6258-62 (1990)","MAMM").
+TFD_subseq('GPHalpha-GRE1',"AGATCAAATTGACGT","New Biol 4: 527-540 (1992)","MAMM").
+TFD_subseq('GPHalpha-CRE',"TGACGTCATGGTAAAAATTGACGTCA","New Biol 4: 527-540 (1992)","MAMM").
+TFD_subseq('GPHalpha-GRE2',"ATTACACCAAGTACC","New Biol 4: 527-540 (1992)","MAMM").
+TFD_subseq('GPHalpha-GRE3',"GGAATTTCCTGTTGATCC","New Biol 4: 527-540 (1992)","MAMM").
+TFD_subseq('GPE1',"CCCCGATTTCACAAAAACTTTCGCAA","FEBS Lett 282: 95-97 (1991)","MAMM").
+TFD_subseq('dGHF-1',"GGAGCTTCTAAATTATCCATTAGCAC","J Biol Chem 266: 9805-9813 (1991)","MAMM").
+TFD_subseq('pGHF-1',"GGCCCCATGCATAAATGTACACAGAAAC","J Biol Chem 266: 9805-9813 (1991)","MAMM").
+TFD_subseq('dGHF1_(2)',"GGAGCCTTGGGGTC","J Biol Chem 264: 12063-12073 (1989)","MAMM").
+TFD_subseq('pGHF1_(2)',"ATGAATAAAT","Proc Natl Acad Sci U S A 89: 11451-11455 (1992)","MAMM").
+TFD_subseq('IL-6RE_(1)',"AAGTGTGAAGCAAGA","Cell 63: 643-653 (1990)","MAMM").
+TFD_subseq('HBV-NF-1c',"CTTTCTCGCCAACTTACA","Proc Natl Acad Sci U S A 88: 3797-3801 (1991)","MAMM").
+TFD_subseq('C/EBP-EP',"CCGTTGCTCGGCAACGG","Cell 69: 751-757 (1992)","MAMM").
+TFD_subseq('NF-1b',"CAACGGCCTGGTCTGTGCCAAGTGTTTG","J Gen Virol 73: 131-7 (1992)","MAMM").
+TFD_subseq('AP-1-site_E',"CCAAGTGTTTGCTGACGCAACCCCC","J Virol 65: 6686-6692 (1991)","MAMM").
+TFD_subseq('NF-1a',"TGGGGCTTGGCCATAGGCCATCAGCGCAT","J Virol 65: 6686-6692 (1991)","MAMM").
+TFD_subseq('Sp1-LTR.1',"GGCGTGGC","J Biol Chem 266: 15850-15854 (1991)","MAMM").
+TFD_subseq('HSE_(1)',"CTCGTTGCTTCGAGAGAGCGCGCCTCGAATGTTCGCGAAAA","Proc Natl Acad Sci U S A 88: 6906-6910 (1991)","MAMM").
+TFD_subseq('HSE_(2)',"GAAACCCCTGGAATATTCCCGAC","Mol Cell Biol 13: 749-761 (1993)","YEAST").
+TFD_subseq('hsp70-CAAT',"GATTGG","Mol Cell Biol 11: 586-592 (1991)","MAMM").
+TFD_subseq('CP1-SRE',"CTCGGTGATTGGCTCAGAAGGGAAAA","Proc Natl Acad Sci USA 84: 2203-7 (1987)","MAMM").
+TFD_subseq('HSE2_(1)',"TTTTTCCAGAACGTTCCA","Mol Cell Biol 13: 5637-5646 (1993)","YEAST").
+TFD_subseq('21bpI',"AGGCTCTGACGTCTCCCCCCG","Mol Cell Biol 9: 1733-1745 (1989)","MAMM").
+TFD_subseq('21bpII',"AGGCCCTGACGTGTCCCCCTG","Proc Natl Acad Sci U S A 91: 5642-5646 (1994)","MAMM").
+TFD_subseq('21bpIII',"CAGGCGTTGACGACAACCCCTC","Mol Cell Biol 14: 456-462 (1994)","MAMM").
+TFD_subseq('EF-C_site_(1)',"TATGTTCCCATAGTAACGCCAATAG","Virology 182: 865-869 (1991)","MAMM").
+TFD_subseq('ATF_site',"CCCATTGACGTCAATGGG","Mol Cell Biol 10: 1347-1357 (1990)","MAMM").
+TFD_subseq('ISRE_(4)',"GACCTGCAACCATAGAT","Eur J Biochem 169: 313-21 (1987)","MAMM").
+TFD_subseq('OCTA_(1)',"ATTTGCATT","Nucleic Acids Res 19: 5981-5989 (1991)","MAMM").
+TFD_subseq('ACCC-containing_site',"GCCTACCC","Nucleic Acids Res 16: 3693-704 (1988)","MAMM").
+TFD_subseq('Ig-undefined_site',"TTTCCA","Mol Cell Biol 7: 1815-22 (1987)","MAMM").
+TFD_subseq('NF-kappaE1_site',"GCCACCTG","Nucleic Acids Res 16: 4967-4988 (1988)","MAMM").
+TFD_subseq('RIPE3a1',"TCTGGCCATCTGCTGATCC","Mol Cell Biol 11: 1734-1738 (1991)","MAMM").
+TFD_subseq('bINF-PRDI_(2)',"AAAGGGAGAAGTGAAAGTGGGAA","Genes Dev 5: 868-879 (1991)","MAMM").
+TFD_subseq('ISRE_(5)',"AAGGGAAACCGAAACTG","Mol Cell Biol 12: 4486-4495 (1992)","MAMM").
+TFD_subseq('ISRE_(6)',"AAGGGAAACCGAAACTG","Mol Cell Biol 12: 4486-4495 (1992)","MAMM").
+TFD_subseq('ISG54-ISRE',"TCTAGTTTCACTTTCCCTTT","Mol Cell Biol 12: 4486-4495 (1992)","MAMM").
+TFD_subseq('UAS-L',"CGGAAATTTGTGGTCCG","Nucleic Acids Res 21: 69-77 (1993)","YEAST").
+TFD_subseq('UAS-L2',"AGGTGAGAGGCCGGAACCGGCTTTTCATAT","Mol Cell Biol 13: 5702-5709 (1993)","YEAST").
+TFD_subseq('MREd_(2)',"CTGCACTCCGCCC","Nucleic Acids Res 19: 4225-4231 (1991)","MAMM").
+TFD_subseq('MREd_(3)',"TGCGCTCGG","Mol Cell Biol 7: 3574-3581 (1987)","MAMM").
+TFD_subseq('MREc_(2)',"TGCGCTCGT","Mol Cell Biol 7: 3574-3581 (1987)","MAMM").
+TFD_subseq('BLE-1',"TCAGCGCGGG","Nature 332: 557-561 (1988)","MAMM").
+TFD_subseq('IRS_(1)',"CTCCTCAGTTTCACTTCT","Proc Natl Acad Sci U S A 87: 3743-3747 (1990)","MAMM").
+TFD_subseq('ICS_(2)',"GTTTCACTTC","J Neuroimmunol. 41: 35-42 (1992)","MAMM").
+TFD_subseq('v-Myb-site_C',"CCATCTGTTAAT","Cell 59: 1115-1125 (1989)","AVIAN").
+TFD_subseq('v-Myb-site_B',"ACACCCGTTACT","Cell 59: 1115-1125 (1989)","AVIAN").
+TFD_subseq('v-Myb-site_A',"AAAACCGTTATA","Cell 59: 1115-1125 (1989)","AVIAN").
+TFD_subseq('GRE_(1)',"TGGTTACAAACTGTTCTT","Cell 60: 719-731 (1990)","MAMM").
+TFD_subseq('UBR',"ACTGTTCT","Proc Natl Acad Sci U S A 89: 3884-3888 (1992)","MAMM").
+TFD_subseq('ML1',"TGTGGTAAG","Anticancer Res. 12: 285-292 (1992)","MAMM").
+TFD_subseq('C/EBP-LTR(2)',"TATTTGAACTAAGCAATCAGTTCG","Proc Natl Acad Sci U S A 87: 3992-3996 (1990)","MAMM").
+TFD_subseq('c-Ets-1-LTR',"CGCGCGCTTCCGCTCTCCGAG","Genes Dev 4: 667-79 (1990)","MAMM").
+TFD_subseq('MBTE',"AATAACTGGCAAGGCGCCCA","J Biol Chem 265: 19065-70 (1990)","MAMM").
+TFD_subseq('OTC-site_B_(2)',"GGCTTAAAGTTCAAGTGCCCC","Mol Cell Biol 10: 1180-91 (1990)","MAMM").
+TFD_subseq('OTC-site_C_(1)',"GGTGGTAGGACCTTTGATCCCCTCTGCAACTGAAAGCAT","Mol Cell Biol 10: 1180-91 (1990)","MAMM").
+TFD_subseq('OTC-site_D_(2)',"TTCTTAGCTTGCCAGTGGCCCCCACTGC","Mol Cell Biol 10: 1180-91 (1990)","MAMM").
+TFD_subseq('c-fos-ERE_(2)',"CAGGTCACCACAGCCCA","J Steroid Biochem Mol Biol 48: 69-79 (1994)","MAMM").
+TFD_subseq('UAS_(1)',"ACCCAGACACGCTCGA","Nucleic Acids Res 18: 7331 (1990)","YEAST").
+TFD_subseq('CRE_(3)',"TTACGTCA","EMBO J 11: 3337-3346 (1992)","MAMM").
+TFD_subseq('PEBP2_site',"ACTGACCGCAG","Proc Natl Acad Sci U S A 90: 6859-6863 (1993)","MAMM").
+TFD_subseq('NF-1-junction',"TGGCGGGCCTCCA","EMBO J 9: 947-955 (1990)","MAMM").
+TFD_subseq('PBGD-CACCC-site',"AGGCCCCACCCTTC","Mol Cell Biol 10: 3838-3842 (1990)","MAMM").
+TFD_subseq('ENKCRE-1_(2)',"TGGCGTAGGGCCT","Nucleic Acids Res 19: 2721 (1991)","MAMM").
+TFD_subseq('ENKCRE-2',"TGCGTCA","EMBO J 11: 3337-3346 (1992)","MAMM").
+TFD_subseq('c-Fos-nGRE',"TACTCACAGTATGATTTG","Science 249: 1266-1267 (1990)","MAMM").
+TFD_subseq('C/EBP-LTR(3)',"TGACGCAAG","Mol Cell Biol 9: 1155-1164 (1989)","AVIAN").
+TFD_subseq('IES1',"TAAAACCGTTGGCACATCCTGCTATCATTGCGGAACAG","J Virol 67: 2862-70 (1993)","AVIAN").
+TFD_subseq('IES2',"GGCTGCAATTGCGCCACCGCCAC","Mol Cell Biol 9: 1929-1939 (1989)","AVIAN").
+TFD_subseq('unknown-CRE.1',"TCCTTGGCTGACGTCAGAGAGAGA","Nature 365: 314-320 (1993)","MAMM").
+TFD_subseq('unknown-CRE.2',"TCCTTGGCTGACGTCAGAGAGAGA","Nature 365: 314-320 (1993)","MAMM").
+TFD_subseq('AP-1-P.1',"CTGACTAA","Genes Dev 5: 60-73 (1991)","YEAST").
+TFD_subseq('AP-1-P.2',"CTGACTAA","Cell 59: 709-717 (1989)","MAMM").
+TFD_subseq('TCR-NF-alpha1',"CTGGTCAGATAGTGAATCAATAGCCAGAAGTAG","EMBO J 8: 729-33 (1989)","MAMM").
+TFD_subseq('deltaE1_(2)',"AAATAAACAAGGAGATAGGGTGTTTATTT","Science 247: 1225-9 (1990)","MAMM").
+TFD_subseq('deltaE4_(2)',"AGAGTTATCACTTTCTGTTATCAAGT","Science 247: 1225-9 (1990)","MAMM").
+TFD_subseq('deltaE6_(2)',"AAGCAGGTTGAAAGCAGGTT","Proc Natl Acad Sci U S A 88: 7284-7288 (1991)","MAMM").
+TFD_subseq('transferrin-site_III',"TTAAGGGCCAACTCGTG","J Biol Chem 266: 9822-8 (1991)","MAMM").
+TFD_subseq('transferrin-site_IV',"GTTTTGCCCTGTTTGCGGTGAAAGATTTGGCTCATGCTTGGGTTG","J Biol Chem 264: 7153-60 (1989)","MAMM").
+TFD_subseq('CTF-CR',"CTGTGCTGGACTCCTTCCACTCGCGGGTCGTC","J Biol Chem 266: 9876-9884 (1991)","MAMM").
+TFD_subseq('TRE-pal',"GATCCTCAGGTCATGACCTTGAAA","J Biol Chem 271: 11392-9 (1996)","MAMM").
+TFD_subseq('TH-FSE',"GGTGATTCAGAGGCAGGTGCCT","Genes Dev 4: 477-491 (1990)","MAMM").
+TFD_subseq('DSE_(1)',"GAGGCGGGGC","Nucleic Acids Res 15: 6437-6453 (1987)","MAMM").
+TFD_subseq('PSE_(1)',"TCTCCCCATG","J Mol Biol 223: 873-4 (1992)","AMPHIB").
+TFD_subseq('c-Fos-CRE',"CGTCATACTGTGACGTC","J Biol Chem 266: 3882-3887 (1991)","MAMM").
+TFD_subseq('CAP-CRE',"GCCGTCATACTGTGACGTCTTTCAGAGCA","Nature 340: 656-659 (1989)","UBIQ").
+TFD_subseq('TATA_(1)',"TATAAAT","Mol Cell Biol 9: 5548-5562 (1989)","AMPHIB").
+TFD_subseq('AF-1-k-apoB',"CCGGGAGGCGCCCTTTGGACCTTTTG","J Biol Chem 268: 16831-8 (1993)","MAMM").
+TFD_subseq('C/EBP-k',"GACCTTTTGCAATCCTGG","J Biol Chem 266: 24149-24160 (1991)","MAMM").
+TFD_subseq('SDRE_(2)',"CTCGAACCATGAACACT","J Biol Chem 265: 7590-5 (1990)","AVIAN").
+TFD_subseq('DP3',"TATCGATCCTGG","Mol Cell Biol 10: 3770-3781 (1990)","MAMM").
+TFD_subseq('Oct-1_site_(1)',"AAGATTCTTATTTTACATTTTAACCT","Mol Cell Biol 10: 3843-3846 (1990)","MAMM").
+TFD_subseq('Oct-2_site_(1)',"AAGATTCTTATTTTACATTTTAACCTT","Mol Cell Biol 10: 3843-3846 (1990)","MAMM").
+TFD_subseq('Oct-2_site_(2)',"CCCTGCTGATTTGCATGTTCC","Mol Cell Biol 10: 3843-3846 (1990)","MAMM").
+TFD_subseq('Oct-1_site_(2)',"CCCTGCTGATTTGCATGTTCC","Mol Cell Biol 10: 3843-3846 (1990)","MAMM").
+TFD_subseq('lysozyme-site_e_(1)',"GAATATTACTTATAA","Cell 61: 505-514 (1990)","AVIAN").
+TFD_subseq('lysozyme-site_f_(1)',"GCTCTGCATTTTCTTTTG","Cell 61: 505-514 (1990)","AVIAN").
+TFD_subseq('lysozyme-site_g_(1)',"GGAGGAGGAGGAGGAGGAGGAGGAGGAGGAGGAGGAGGAGGAGGA","Cell 61: 505-514 (1990)","AVIAN").
+TFD_subseq('NCAM-HBS-I',"CCCTAATTATTAA","Proc Natl Acad Sci USA 93: 1892-6 (1996)","MAMM").
+TFD_subseq('NCAM-HBS-II',"CCTGATTAAGG","Proc Natl Acad Sci USA 93: 1892-6 (1996)","MAMM").
+TFD_subseq('NF-1-MMTV',"CATATTGGCTTCAATCCAAA","Cell 48: 79-89 (1987)","MAMM").
+TFD_subseq('PEPCK-CRE-1',"CCGGCCCCTTACGTCAGAGGCG","J Biol Chem 261: 9721-6 (1986)","MAMM").
+TFD_subseq('C/EBP-B',"TTATTGTGTTAGGTC","J Biol Chem 266: 19095-19102 (1991)","MAMM").
+TFD_subseq('PEPCK-site_C_(2)',"TCCCAACATTCATTAACAACAGCAAGTTCAATCATTATCTCC","J Biol Chem 266: 19095-19102 (1991)","MAMM").
+TFD_subseq('C/EBP-D(1)',"AAACGTTGTGTAAGGACTCAA","J Biol Chem 266: 19095-19102 (1991)","MAMM").
+TFD_subseq('C/EBP-E(1)',"TAGTTTGCATCAGCAACAG","J Biol Chem 266: 19095-19102 (1991)","MAMM").
+TFD_subseq('Sp1-site_C',"GTGGGTGTGGC","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('USF-B',"AGATCACGTGT","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('GATA-1-site_A',"TTGATAAGAA","J Biol Chem 266: 8932-8939 (1991)","MAMM").
+TFD_subseq('TD5',"AGAGAAAACCC","EMBO J 11: 1837-1842 (1992)","DROS").
+TFD_subseq('TD4',"GCATTTTCCCA","EMBO J 11: 1837-1842 (1992)","DROS").
+TFD_subseq('kappaB-pd',"GGGAATTCCC","Mol Cell Biol 13: 7826-35 (1993)","MAMM").
+TFD_subseq('RBE',"ACACCCAGACCTC","Mol Cell Biol 9: 5359-5372 (1989)","YEAST").
+TFD_subseq('UASd',"GCATTTCTTC","Proc Natl Acad Sci U S A 86: 5267-5271 (1989)","YEAST").
+TFD_subseq('OV-330',"TAATTATGTTTTCCATCTCCAAGGTT","Nucleic Acids Res 17: 6693-711 (1989)","AVIAN").
+TFD_subseq('OV-280',"CATTATCTGGTTGTAA","Nucleic Acids Res 17: 6693-711 (1989)","AVIAN").
+TFD_subseq('OV-250',"CTCAATGGAACATGAGCAATATTTCCCAG","Nucleic Acids Res 17: 6693-711 (1989)","AVIAN").
+TFD_subseq('OV-220',"TCTTCTCTCCCATCCAACAGTC","Nucleic Acids Res 17: 6693-711 (1989)","AVIAN").
+TFD_subseq('OV-150',"ATTTGCTCTCCATTCAATCCA","Nucleic Acids Res 17: 6693-711 (1989)","AVIAN").
+TFD_subseq('gamma-globin-distal-CCAAT',"TGACCAATAGC","J Biol Chem 270: 21934-41 (1995)","MAMM").
+TFD_subseq('theta-globin-GC-I',"GCGCGGCGCCCCCTGGAGGCCG","Nucleic Acids Res 17: 5687-700 (1989)","MAMM").
+TFD_subseq('CCAAT_site_2',"GGTTGACCAATCAAG","Genes Dev 3: 973-985 (1989)","ECHINO").
+TFD_subseq('betaP-F4',"GGCTGGGG","Genes Dev 3: 1845-1859 (1989)","AVIAN").
+TFD_subseq('betaP-F1',"GATAAA","Genes Dev 3: 1845-1859 (1989)","AVIAN").
+TFD_subseq('betaE-F3',"GGGTGGGG","Genes Dev 3: 1845-1859 (1989)","AVIAN").
+TFD_subseq('betaE-F5',"GAGAGGGGGTTAATCCTG","Genes Dev 3: 1845-1859 (1989)","AVIAN").
+TFD_subseq('ADH-site_d8_(1)',"GTATTACACGTATGCAAATTAAGCCG","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d8_(2)',"GTATTACACGTATGGAAATTAAGCCG","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d7_(1)',"CGAGCGCAGCAACAACACGAGCTTGC","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d7_(2)',"GACCGCAGCAACAACACGAGCTT","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d6_(1)',"GACATTCACAAGGTCAAAG","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d6_(2)',"GACATTCACAAGGTCGAAG","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d5(o)',"CACAAAATTACATTATGCATTCTTC","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d5(m)',"AACAGGTG","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d4_(1)',"GTTTCTCAGTGCACTTTCTGGTGT","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d4_(2)',"AATTTTTTCTCAGTGCACTTCCTGGT","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d3_(1)',"ACCCGGCGTTTGTTTGCAGATCACTT","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d3_(2)',"TTTACCCCGCATTTGTTTGCAGATCACTTGCTTGC","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d2_(1)',"ATTTTTATTGCATTTTACATATTACACATTA","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d2_(2)',"TATTATTATAGCATTTTACACATTA","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-d1',"TCGCTGCTGCAGCCGCTGTCGACGTCAACTGCACTCGCC","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d0_(1)',"CACGACAAAACGGTATTTAAGGCGC","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-site_d0_(2)',"CACGAGAGAACAGTATTTAAGGAGC","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p8_(1)',"GTCTCAGTGCAGTTGTCAGTTGCAGTT","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p8_(2)',"GTCTCAGTGCAGTTGTCAGTTGCAGTT","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p7_(1)',"CAAATTTACCTAATTGATCAAGT","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p7_(2)',"CAAATTTACTTAATTGATCAAGT","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p6(m)',"TTGTTTAATTGAATTTATTATGCAAGT","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p6(o)',"TGGGAAAGGGACCTCATTATGC","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p4(o)',"AATGCAAACCGGCAC","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p5(m)',"ATATATAATCAAATTTATTCAATCAGAA","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p3_(1)',"GAAAATCACCTGTTAGTT","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p3_(2)',"AAATCACCTGTTGTTT","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p2b',"TTGGGCATAAATTATAAACAT","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p2',"TATAATATACTAATACTAATACTAATACTAATATAAGAATACTAATATAGA","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p2a',"CTGAATACTAATATAGA","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p2alpha_(1)',"GCTTTGCCGCCA","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p2alpha_(2)',"GCTTTGCCGGTA","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p0_(1)',"AGATCGCGTAACGGTAGATAATGAAAAGCTCTACGTAA","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p1_(2)',"GAGCAGCGTTGCCGTCGTTGCGG","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('ADH-p0_(2)',"GAGATCGCGTAATGATAGATAAAGAAAGCTCTACGTAA","Mol Cell Biol 10: 539-548 (1990)","DROS").
+TFD_subseq('E1A-BS20/21',"TGGATTGAAGCCA","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS19',"CCAATATATGATAAT","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS15',"CGGAAGT","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS13',"CGGATGT","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS9',"CGGATGT","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS10',"AGGAAGT","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS7',"TGAAATCTGAATAA","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS6',"TGTTACTCATAG","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS5',"TCTCAGGTG","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS4',"GTCAAAGT","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS3',"GGCGTTTTATTATTATAGTCA","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS2',"AGTGTATTTATAC","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS1a',"TCAAGAGGCCACTCTTGAGTGCCAGCGAGTAGA","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('E1A-BS1b',"CCTCAAGAGGCCACTCTTGAG","Nucleic Acids Res 17: 10015-10034 (1989)","MAMM").
+TFD_subseq('MREa',"CTTTGCGCCCGGACT","Nucleic Acids Res 19: 4225-4231 (1991)","MAMM").
+TFD_subseq('PE-2',"AGAGAAGAGTGACA","Mol Cell Biol 11: 3492-3503 (1991)","MAMM").
+TFD_subseq('GRE_(2)',"GGTACAAAGTGTTCA","Nucleic Acids Res 18: 4237 (1990)","MAMM").
+TFD_subseq('C/EBP_site_II',"GTCTTTGTCCTTGAACAT","J Biol Chem 265: 3382-3391 (1990)","MAMM").
+TFD_subseq('C/EBP_site_Ib',"TATGTTTGCTCA","J Biol Chem 266: 21179-21185 (1991)","MAMM").
+TFD_subseq('GHF2',"GTGGGAGGAGC","Nucleic Acids Res 18: 5235-5244 (1990)","MAMM").
+TFD_subseq('rGH-GHF7',"ATGAATAAATG","Nucleic Acids Res 18: 5235-5244 (1990)","MAMM").
+TFD_subseq('his3-GG1-Q-element',"TTAGAAGCCGCCGAGCGGGTGACAGCCCT","Mol Cell Biol 10: 4256-4265 (1990)","YEAST").
+TFD_subseq('M-CAT',"CGGGGCCGCATTCCTGGGGGCCGGG","Mol Cell Biol 14: 5056-65 (1994)","AVIAN").
+TFD_subseq('Ad2-ML-Inr1_(1)',"CTCACTCTCTTC","EMBO J 16: 7091-104 (1997)","MAMM").
+TFD_subseq('Inr1_(2)',"CTCACTCTCTTC","Nature 354: 245-248 (1991)","MAMM").
+TFD_subseq('TG23',"TTTGGGGGGGGGGTACGGGGGGGGTGA","Mech Dev 33: 179-190 (1991)","MAMM").
+TFD_subseq('CM-1',"CCCCCACCACGTGGTGCCTGA","Science 250: 1149-51 (1990)","MAMM").
+TFD_subseq('BCD1',"ACGGATTAA","Science 256: 94-97 (1992)","DROS").
+TFD_subseq('BCD6',"ACTAAATCCG","Science 256: 94-97 (1992)","DROS").
+TFD_subseq('enII',"GTGGAAACCCTTGAAATGCCTTT","Genes Dev 5: 583-593 (1991)","DROS").
+TFD_subseq('NRE-A',"CAGACAGGTAAAGT","Science 254: 1791-1794 (1991)","MAMM").
+TFD_subseq('GST-Ya-EpRE',"ACTTGGCAGGAAGGATCAGTAATTCTCATTAGCTTGGAAATGACA","Proc Natl Acad Sci U S A 87: 6258-6262 (1990)","MAMM").
+TFD_subseq('Ftz_binding_site',"ACAAAATGTCTTTTACA","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('betaE1_(1)',"GTTTATCTGTA","Mol Cell Biol 10: 5027-5035 (1990)","MAMM").
+TFD_subseq('betaE2_(1)',"AGTAACATCAGCA","Mol Cell Biol 10: 5027-5035 (1990)","MAMM").
+TFD_subseq('betaE3_(1)',"GGCCACCTGCCATAGCTCC","Mol Cell Biol 10: 5027-5035 (1990)","MAMM").
+TFD_subseq('betaE4',"CACAACAGGATGTGGTTTGACATT","Mol Cell Biol 10: 5027-5035 (1990)","MAMM").
+TFD_subseq('betaE6',"AACCACACTTGCCACATCCTG","Mol Cell Biol 10: 5027-5035 (1990)","MAMM").
+TFD_subseq('betaE7',"ATCACCGTGACAGTGAGA","Mol Cell Biol 10: 5027-5035 (1990)","MAMM").
+TFD_subseq('GA1_(1)',"GAAGGAAGAACGAAGGAA","Mol Cell Biol 10: 5257-5270 (1990)","YEAST").
+TFD_subseq('GA1_(2)',"AGACTTAGATTG","Mol Cell Biol 10: 5257-5270 (1990)","YEAST").
+TFD_subseq('FUSE',"CAAAATAAAAAATCCCGAGGGAATATA","J Biol Chem 271: 31679-87 (1996)","MAMM").
+TFD_subseq('CRE-BP1-CCAAT2',"AGCCGACAGCCAATCACAGTCTTCCACAG","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('CCAAT1',"GCTCCTTGTCCAATCATGAGCGCCCGAGT","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('SAA3-PR-II',"TGGGATTATGCAAGATCAAAC","Mol Cell Biol 10: 6624-6631 (1990)","MAMM").
+TFD_subseq('TPO-enhancer_site_3',"AATTTGGAAACTAC","Mol Cell Biol 10: 6216-6224 (1990)","MAMM").
+TFD_subseq('TPO-TTF-1_site',"ATTCTTCACACTTCATAGAGCAGC","Mol Cell Biol 11: 4927-4993 (1991)","MAMM").
+TFD_subseq('TPO-enhancer_site_1',"GAAAGGGACTTGAGCACTACTTGGG","Mol Cell Biol 11: 4927-4993 (1991)","MAMM").
+TFD_subseq('TPO-enhancer_site_2',"TGTTCTTTTGCCAAATCATG","Mol Cell Biol 11: 4927-4993 (1991)","MAMM").
+TFD_subseq('kr4',"ACCGGGTTGC","Genes Dev 5: 827-839 (1991)","DROS").
+TFD_subseq('hb3_(1)',"TCATAAAAACA","Genes Dev 5: 827-839 (1991)","DROS").
+TFD_subseq('kr3',"TCGAAGGGATTAG","Genes Dev 5: 827-839 (1991)","DROS").
+TFD_subseq('BS2-18',"GAGAAAAAGCCATTAGAG","Proc Natl Acad Sci U S A 87: 4093-4097 (1990)","DROS").
+TFD_subseq('BS1-26',"GCGTAATGTGTT","Proc Natl Acad Sci U S A 87: 4093-4097 (1990)","DROS").
+TFD_subseq('BSX-18',"GAGCAATTACAG","Proc Natl Acad Sci U S A 87: 4093-4097 (1990)","DROS").
+TFD_subseq('TT2',"CCTTAATTGATCAATTAAGG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('T0',"CCTTAATTGATCC","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('TT0',"CCTTAATTGCAATTAAGG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('TT4',"CCTTAATTGATATCAATTAAGG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('H0',"CCGCAATTAAGATCC","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('HH2',"CCGCAATTAATTAATTGCGG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('HH4',"CCGCAATTAACGTTAATTGCGG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('HH6',"CCGCAATTAAGATCTTAATTGCGG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('HT5',"AAGCAATTAAGAAGCAATTAAGG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('HT6',"AAGCAATTAAGGAAGCAATTAAGG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('CON',"AAGCAATTAAGG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('fRE2',"GCGGATAAATCGCGATGATAATG","Genes Dev 5: 855-867 (1991)","DROS").
+TFD_subseq('fRE3',"GTACGGATAAAGTTGCCAGGACCTCGGATAACTTCC","Genes Dev 5: 855-867 (1991)","DROS").
+TFD_subseq('fDE2',"CTGCAAGGACATTTCG","Genes Dev 5: 855-867 (1991)","DROS").
+TFD_subseq('unknown-3'-UTR.1',"GTTTTCCA","Mol Cell Biol 9: 2928-2933 (1989)","MAMM").
+TFD_subseq('AP-1-NRE',"GCCTGCGATGATTTATACTCACAGGA","J Biol Chem 264: 8992-8999 (1989)","MAMM").
+TFD_subseq('kr1',"TGCGGGACTTAA","Nature 341: 335-337 (1989)","DROS").
+TFD_subseq('hb3_(2)',"ATAATTAAACAACTAT","Nature 341: 335-337 (1989)","DROS").
+TFD_subseq('hb2',"AAACGCAAAACGGGAA","Nature 341: 335-337 (1989)","DROS").
+TFD_subseq('hb1',"AGAAACAAAAAATTAT","Nature 341: 335-337 (1989)","DROS").
+TFD_subseq('hb8',"GGACTAAAAAAAAAAA","Nature 341: 335-337 (1989)","DROS").
+TFD_subseq('hb7',"TTGGGAAAAAAATTGG","Nature 341: 335-337 (1989)","DROS").
+TFD_subseq('hb6',"TAGCTTAAAAAGGTGG","Nature 341: 335-337 (1989)","DROS").
+TFD_subseq('hb5',"TTGCCCAAAAAACAAT","Nature 341: 335-337 (1989)","DROS").
+TFD_subseq('hb4',"GATGCCAAAAAACGGC","Nature 341: 335-337 (1989)","DROS").
+TFD_subseq('K1',"TTAGCGGCATAAAAGGGTTAAACAGG","Nature 341: 337-340 (1989)","DROS").
+TFD_subseq('K2',"AATGCGCGCCCATAAAAGGGTTAAG","Nature 341: 337-340 (1989)","DROS").
+TFD_subseq('Df6',"ATGATGCCTGTTTATGC","Cell 57: 1017-1030 (1989)","DROS").
+TFD_subseq('Cf1',"ATGGTCATAAATCAAATTGTA","Cell 57: 1017-1030 (1989)","DROS").
+TFD_subseq('Bf2',"GCCACCCGTAAAGCAGCATAATGT","Cell 57: 1017-1030 (1989)","DROS").
+TFD_subseq('Uf3',"GTTGGGCGACTGGTGGCTG","Cell 57: 1017-1030 (1989)","DROS").
+TFD_subseq('Uf7',"ATAGTAATTAAAGGC","Cell 57: 1017-1030 (1989)","DROS").
+TFD_subseq('Uf8',"TTCCTGTCGTATTCCAGGATCATTAGCCGAG","Cell 57: 1017-1030 (1989)","DROS").
+TFD_subseq('Uf9',"AAAATATTTTGAAT","Cell 57: 1017-1030 (1989)","DROS").
+TFD_subseq('Uf10',"CCACATATTTATT","Cell 57: 1017-1030 (1989)","DROS").
+TFD_subseq('SC',"CCATGAATAAATTA","Cell 59: 815-825 (1989)","MAMM").
+TFD_subseq('SB',"TTTACATAG","Cell 59: 815-825 (1989)","MAMM").
+TFD_subseq('SA',"TACATTGTTTGCACAAATG","Cell 59: 815-825 (1989)","MAMM").
+TFD_subseq('HB-1',"CCAACCATGTTGTGTCT","Mol Cell Biol 10: 2625-2637 (1990)","MAMM").
+TFD_subseq('alpha-1-PI-site-j',"AAAGAGAAGCCAGTGTAGAAAAGCAA","Mol Cell Biol 10: 2625-2637 (1990)","MAMM").
+TFD_subseq('TGT3-apoB',"CAGGTC","J Biol Chem 266: 24149-24160 (1991)","MAMM").
+TFD_subseq('site_B_(3)',"AGGCTATTTGGGGAAGGGAAA","Science 261: 82-86 (1993)","MAMM").
+TFD_subseq('GC-II',"GCCACCGG","J Biol Chem 265: 8237-8242 (1990)","MAMM").
+TFD_subseq('unknown-NRE_1',"GGAGACATTTG","J Biol Chem 265: 8237-8242 (1990)","MAMM").
+TFD_subseq('IUF1-CT-II',"CYCTAATG","FEBS Lett 290: 27-30 (1991)","MAMM").
+TFD_subseq('CT-I',"CCCTAATG","J Biol Chem 265: 8285-8296 (1990)","MAMM").
+TFD_subseq('alpha-MHC_TRE2',"ATCAAAGGAGGAGGAGCCA","J Biol Chem 265: 11233-11237 (1990)","MAMM").
+TFD_subseq('CRE_(4)',"CTCTGTGGGCGGGTC","J Biol Chem 266: 11199-11204 (1991)","DROS").
+TFD_subseq('SDI-A2',"GGGCCAAAACAAACA","Mol Cell Biol 15: 4158-66 (1995)","MAMM").
+TFD_subseq('MB7',"CCCCTCAGAGAAAGCTGCTTTGTCCGGTGCTCAGCTTT","J Biol Chem 265: 13830-5 (1990)","MAMM").
+TFD_subseq('MB4',"CAGCGGTGACTGACTCCAAGCGCACAGCGGACCCGAAG","J Biol Chem 265: 13830-5 (1990)","MAMM").
+TFD_subseq('MB1',"AGGGAGGACAACACCTTCAAAGACAGGCCCTCTGA","Biochem Biophys Res Commun 243: 295-301 (1998)","MAMM").
+TFD_subseq('D10',"TTGCATA","Mol Cell Biol 10: 4690-4700 (1990)","MAMM").
+TFD_subseq('D9',"TAAACAC","Mol Cell Biol 10: 4690-4700 (1990)","MAMM").
+TFD_subseq('D8',"TGTTGCAACA","Mol Cell Biol 10: 4690-4700 (1990)","MAMM").
+TFD_subseq('D7',"AATTCAG","Mol Cell Biol 10: 4690-4700 (1990)","MAMM").
+TFD_subseq('D6',"ATGAATA","Mol Cell Biol 10: 4690-4700 (1990)","MAMM").
+TFD_subseq('D5',"ATGAATCATC","Mol Cell Biol 10: 4690-4700 (1990)","MAMM").
+TFD_subseq('D4',"CATTCAT","Mol Cell Biol 10: 4690-4700 (1990)","MAMM").
+TFD_subseq('D3',"GATGCAT","Mol Cell Biol 10: 4690-4700 (1990)","MAMM").
+TFD_subseq('D2',"ATCAATA","Mol Cell Biol 10: 4690-4700 (1990)","MAMM").
+TFD_subseq('D1',"ATGAAAA","Mol Cell Biol 10: 4690-4700 (1990)","MAMM").
+TFD_subseq('GR1/GR2',"CACACAAAATGTGCAGCCAGCAGCATATGAAGTCCA","Mol Endocrinol 12: 482-91 (1998)","MAMM").
+TFD_subseq('site_e5_(2)',"TCAGCACCGCACGATTAGCACCG","Proc Natl Acad Sci U S A 89: 1179-1183 (1992)","MAMM").
+TFD_subseq('eve-site_e4',"CCTGCTCCTCCGCTTTGTCCCGCCTCGTTATCG","Genes Dev 5: 594-604 (1991)","DROS").
+TFD_subseq('RRE-DR',"ATTGTCCACGGGACAAGGCAC","Nucleic Acids Res 19: 2661 (1991)","MAMM").
+TFD_subseq('P12.B',"CAAGTCAATCAATAA","Nucleic Acids Res 16: 6229","MAMM").
+TFD_subseq('P12.A',"CACAGTGGGTGGAGCCTGT","J Biol Chem 265: 22035-43 (1990)","MAMM").
+TFD_subseq('CPE',"GGGCAGTGGCCGACTGCG","J Biol Chem 265: 20524-20532 (1990)","MAMM").
+TFD_subseq('OXBOX',"CTCGGGAGCGCACGGCTCTAAAGAGGCCCATATCCAGGCA","J Biol Chem 265: 20524-20532 (1990)","MAMM").
+TFD_subseq('GFAP-GFIII',"GGGTACAGTGACCTCAGTGGGGT","J Neurochem 55: 1180-8 (1990)","MAMM").
+TFD_subseq('GFAP-GFII',"TTAGCTGGGCTGGGGCCCAG","J Neurochem 55: 1180-8 (1990)","MAMM").
+TFD_subseq('GFAP-GFI',"CTCCACCCCCTCAGGCTATTCAAT","J Neurochem 55: 1180-8 (1990)","MAMM").
+TFD_subseq('IF2-FP2',"TTCCAAATTGGGGGCCGGGCCAGGCA","J Biol Chem 266: 24842-8 (1991)","MAMM").
+TFD_subseq('E6_element_(2)',"CCGAAACTGAAAAG","Mol Cell Biol 11: 75-83 (1991)","MAMM").
+TFD_subseq('AABS',"TGAGGTAATTGTTTACACAA","Mol Cell Biol 11: 93-101 (1991)","MAMM").
+TFD_subseq('GBP-ISRE',"ACTTTCAGTTTCAT","Mol Cell Biol 11: 182-191 (1991)","MAMM").
+TFD_subseq('TnI-IRE',"CGTCTGAGGAGACAGCTGCAGCTCC","Mol Cell Biol 11: 267-80 (1991)","AVIAN").
+TFD_subseq('DSE_(2)',"GGCGACTTCTATGTAGATGA","J Biol Chem 265: 17911-17920 (1990)","MAMM").
+TFD_subseq('PSE_(2)',"AAGTGACCGTGTGTGTAAAG","J Biol Chem 265: 17911-17920 (1990)","MAMM").
+TFD_subseq('HPV-fp2u',"TAAGGGCGTA","J Virol 64: 5577-5584 (1990)","MAMM").
+TFD_subseq('site_eG',"GTTTGTTCTT","Mol Cell Biol 11: 773-784 (1991)","MAMM").
+TFD_subseq('site_eH',"GTGTTTGCCTTGGCCAGTTTTCCA","Mol Cell Biol 11: 773-784 (1991)","MAMM").
+TFD_subseq('Su'x'',"GACCACCGCGTCATCCG","Mol Cell Biol 11: 1281-1294 (1991)","MAMM").
+TFD_subseq('Su1',"CAGCAGCCATCTTTGAGC","Mol Cell Biol 11: 1281-1294 (1991)","MAMM").
+TFD_subseq('Su2',"ACTTCCGGGAC","Mol Cell Biol 11: 1281-1294 (1991)","MAMM").
+TFD_subseq('Su3',"CTGCTTCCTTCCGGGA","Mol Cell Biol 11: 1281-1294 (1991)","MAMM").
+TFD_subseq('Su'y'',"TGTCTCACGTGGTGGCT","Mol Cell Biol 11: 1281-1294 (1991)","MAMM").
+TFD_subseq('Su'z'',"TCTTGCGCCAG","Mol Cell Biol 11: 1281-1294 (1991)","MAMM").
+TFD_subseq('unknown-NRE_2',"TTTTATGTTAATGG","Mol Cell Biol 11: 1334-43 (1991)","MAMM").
+TFD_subseq('OL-1',"CTTTGCAG","Biochim Biophys Acta 1261: 68-76 (1995)","AVIAN").
+TFD_subseq('PL-1',"ATGTGATGACTGGGC","Mol Cell Biol 11: 1488-1499 (1991)","AVIAN").
+TFD_subseq('PL-2',"CACTGATGAGCTGGC","Mol Cell Biol 11: 1488-1499 (1991)","AVIAN").
+TFD_subseq('OL-2',"ACTTCCAT","Mol Cell Biol 11: 1488-1499 (1991)","AVIAN").
+TFD_subseq('beta-globin-CCAAT_site_3',"GCCAATCTGC","Mol Cell Biol 11: 4324-32 (1991)","MAMM").
+TFD_subseq('CSS_(1)',"GCACCGTGACG","Mol Cell Biol 11: 1638-1646 (1991)","MAMM").
+TFD_subseq('CSS_(2)',"GGGCACA","Mol Cell Biol 11: 1638-1646 (1991)","MAMM").
+TFD_subseq('HNF4D',"TGCAAGGGTCAT","Genes Dev 4: 2353-2365 (1990)","MAMM").
+TFD_subseq('CCRU',"GGCCGGGCGCTGATTGGCC","Mol Cell Biol 11: 2296-2302 (1991)","MAMM").
+TFD_subseq('GAS_(2)',"ACTTTCAGTTTCATATTACTCTAAATCCATT","EMBO J 10: 927-932 (1991)","MAMM").
+TFD_subseq('C/EBP-intron_site',"AGGAACCTTGCCCCAGTGC","Biochem Biophys Res Commun. 174: 721-728 (1991)","MAMM").
+TFD_subseq('X2_(1)',"TGCGTCAT","Proc Natl Acad Sci U S A 89: 11518- 11522 (1992)","MAMM").
+TFD_subseq('X2_(2)',"AGCAATGACTGATACAAAGC","Nucleic Acids Res 19: 6269-6276 (1991)","MAMM").
+TFD_subseq('RIPE3a2',"CCCCTCTGGC","J Biol Chem 266: 16708-14 (1991)","MAMM").
+TFD_subseq('C/EBP-A(1)',"GGATGTTACACAAGCAAACA","Mol Cell Biol 12: 3023-3031 (1992)","MAMM").
+TFD_subseq('C/EBP-A(2)',"TCTGTGCAATAT","Mol Cell Biol 12: 3023-3031 (1992)","MAMM").
+TFD_subseq('C/EBP-E(2)',"TTTGGAAGTCAATATTTTG","Mol Cell Biol 10: 5007-5010 (1990)","MAMM").
+TFD_subseq('C/EBP-D(2)',"CCTTTTATCTGTTTTGACAGTCTGGG","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('hemopexin-IL-6RE',"TATTTGCAGTGATGTAATCAGC","Proc Natl Acad Sci USA 86: 8202-6 (1989)","MAMM").
+TFD_subseq('IVa2-Inr',"GTCTCAGAGTGGTCC","Proc Natl Acad Sci U S A 88: 8052-8056 (1991)","MAMM").
+TFD_subseq('TNF-RE',"CACTACCGCTTCCTCCAGATGAGCTCATGGGTTTCTCCACCAAG","J Biol Chem 266: 9343-9346 (1991)","MAMM").
+TFD_subseq('opsin-RET1',"AAGCTAATTAGGCCCC","Biochem Biophys Res Commun 250: 175-80 (1998)","MAMM").
+TFD_subseq('unknown-site_II',"CTGGTCAG","J Biol Chem 266: 9805-9813 (1991)","MAMM").
+TFD_subseq('transferrin-TATA',"TGGAATAAAG","J Biol Chem 266: 9876-9884 (1991)","MAMM").
+TFD_subseq('ApoB-GRE',"GACCCTAGAGGATCAGAACAGGATGTTCTAGATCGAATTCG","J Biol Chem 266: 10078-10085 (1991)","MAMM").
+TFD_subseq('PGK1-GC-box',"CCTGCTCCGCCCCTAAGT","Genes Dev 5: 1102-13 (1991)","MAMM").
+TFD_subseq('PGK1-CCAAT-box',"CTGTGGCCAATAGCGGCTGCTCAGCA","Genes Dev 5: 1102-1113 (1991)","MAMM").
+TFD_subseq('erythropoietin-site_B',"CCCCTGGCTCTGTCCCACTCCTGG","J Biol Chem 266: 15563-6 (1991)","MAMM").
+TFD_subseq('erythropoietin-site_D',"GTCCGGG","J Biol Chem 266: 15563-6 (1991)","MAMM").
+TFD_subseq('erythropoietin-site_A',"GCTGGGCCCTACGTGCTGTCTCAC","J Biol Chem 266: 15563-6 (1991)","MAMM").
+TFD_subseq('TR2RE-EPO',"TCTGACCTCTCGACCTAC","J Biol Chem 271: 10405-12 (1996)","MAMM").
+TFD_subseq('ADH2-C/EBP-A',"GGATGTTACACAAGCAAACAAAATAAATATCTGTGCAATAT","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_F_(1)',"TTTAACTTAATATTTAAA","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_F_(2)',"TTTAACTTAATATTTAAC","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH3-C/EBP-E',"TTGGAAAAGTCAAGGTTTTG","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_G_(1)',"TTGAGTGCTGGTTCGGTGCCCATTTCTT","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_D_(4)',"CCATTTCTTTATGATTTGATAGTCTGAG","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_C_(3)',"TACGACGGGTGTGGCTTAAAA","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_B_(5)',"ACCTAGATCACGTGTGTAGTTGG","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_A_(4)',"TGGGTGTTATATGAGCAAACAAAATAAATACCTGTGCAACAT","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_A_(5)',"TGGGTGTTATATGAGCAAACA","Mol Cell Biol 12: 3023-3031 (1992)","MAMM").
+TFD_subseq('ADH-site_A_(6)',"ACCTGTGCAACAT","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_F_(3)',"TTTAACTTAATATTTAAC","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_E_(2)',"TTGGAAAAATCAATGTATTG","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_D_(5)',"CCTCTTCTTTATGATTTGACAGTCTGTG","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_C_(4)',"TCTAATGGGTGTGGCTTAAAG","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-site_B_(6)',"ACCTAGATCATGTGTGGAACTGG","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH-C/EBP-A(4)',"TGGGTGTTATTCAAGCAAAAAAAATAAATAAATACCTATGCAATA","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('ADH1-C/EBP-A',"TGGGTGTTATTCAAGCA","Mol Cell Biol 12: 3023-3031 (1992)","MAMM").
+TFD_subseq('C/EBP-A(6)',"ACCTATGCAATAC","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('HB3',"GAAAAAGAAAAA","EMBO J 10: 2267-2278 (1991)","DROS").
+TFD_subseq('HB4',"ATTTTTTCAGA","EMBO J 10: 2267-2278 (1991)","DROS").
+TFD_subseq('HB5',"CGTTTTTTCGC","EMBO J 10: 2267-2278 (1991)","DROS").
+TFD_subseq('HB6',"TTGTTTTTTTTTCAG","EMBO J 10: 2267-2278 (1991)","DROS").
+TFD_subseq('HB7/HB8/HB9/HB10',"CTTAAAAACAACAAAAAATGTCAAAGTAAAAACAATGCAAAAAAG","EMBO J 10: 2267-2278 (1991)","DROS").
+TFD_subseq('ERE_(3)',"GGTCGACATGACT","EMBO J 10: 1875-1883 (1991)","MAMM").
+TFD_subseq('ISRE_(9)',"AAAGTGAAACTGAACCCCTCCAAAGTGAAACTGAACC","Genes Dev 5: 868-879 (1991)","MAMM").
+TFD_subseq('CArG',"GCTACCAAATTTGGTAGCGTAC","Nucleic Acids Res 19: 2669 (1991)","AMPHIB").
+TFD_subseq('ISRE_(10)',"TTTCACTTCC","J Biol Chem 266: 3944-3948 (1991)","MAMM").
+TFD_subseq('site_D_(6)',"CCCTGTCACCCTTGCACAACTTTTATCCATTCCT","J Biol Chem 266: 3944-3948 (1991)","MAMM").
+TFD_subseq('site_C_(5)',"TGTGTGTGTATGTGTACACGTGTA","J Biol Chem 266: 3944-3948 (1991)","MAMM").
+TFD_subseq('Site_B_(7)',"CCATTTCCCCATCCATTCCTCAGCTGATG","J Biol Chem 266: 3944-3948 (1991)","MAMM").
+TFD_subseq('insulin_receport-site_A_(7)',"GAATGTAAACATTTCTCCAACAATTTGACTTTATTTATTCGATAA","J Biol Chem 266: 3944-3948 (1991)","MAMM").
+TFD_subseq('site_E_(3)',"TGTTTGGCTTTTTTCCTT","J Biol Chem 266: 3944-3948 (1991)","MAMM").
+TFD_subseq('site_D_(7)',"GACTGTTGCAAGCCTAA","J Biol Chem 266: 3944-3948 (1991)","MAMM").
+TFD_subseq('site_C_(6)',"CTGTCAGTCAAACGT","J Biol Chem 266: 3944-3948 (1991)","MAMM").
+TFD_subseq('site_B_(8)',"GGGGGCGGAGCCGGGGCGGGGCGGG","J Biol Chem 266: 3944-3948 (1991)","MAMM").
+TFD_subseq('site_A_(8)',"GGGGCGGGG","J Biol Chem 266: 3944-3948 (1991)","MAMM").
+TFD_subseq('GRFE',"GAGAAAAGAAACTGGAGAAACTC","J Biol Chem 266: 8711-8719 (1991)","MAMM").
+TFD_subseq('HNF-1-F',"AATATGGCTGGTTG","J Biol Chem 266: 8932-8939 (1991)","MAMM").
+TFD_subseq('site_E_(4)',"GGTCCTAGAAGGAG","J Biol Chem 266: 8932-8939 (1991)","MAMM").
+TFD_subseq('site_D_(7)',"TCAGGTTTTATCG","J Biol Chem 266: 8932-8939 (1991)","MAMM").
+TFD_subseq('HNF-1-C',"AGGCTAGAGTAGA","J Biol Chem 266: 8932-8939 (1991)","MAMM").
+TFD_subseq('site_B_(9)',"AGAACCAATAG","J Biol Chem 266: 8932-8939 (1991)","MAMM").
+TFD_subseq('C/EBP-A(7)',"CTGTTGACTCTGTC","J Biol Chem 266: 9186-9193 (1991)","MAMM").
+TFD_subseq('Sp1-B',"CAGTGGGCGGA","J Biol Chem 266: 9186-9193 (1991)","MAMM").
+TFD_subseq('NF-1-B',"CAGTGGGCGGAGCCAGCTGTTGGATAAAC","J Biol Chem 266: 9186-9193 (1991)","MAMM").
+TFD_subseq('C/EBP-A(8)',"GCATGAGCTCCAAGCCAAAGC","J Biol Chem 266: 9186-9193 (1991)","MAMM").
+TFD_subseq('DE-2',"CTCATTAGTGATATTTACCTCCAAAT","J Biol Chem 266: 9186-9193 (1991)","MAMM").
+TFD_subseq('POMC-PE-1',"AAAGAGGTTAAGGAGCAGTGACTAAGAGAGGC","Mol Cell Biol 11: 3492-3503 (1991)","MAMM").
+TFD_subseq('HSTF-UASx1',"TTCTAGAA","Mol Cell Biol 11: 3676-3681 (1991)","YEAST").
+TFD_subseq('MGF-FP1',"CAGAATTTCTTGGGAAAGAAAAT","Proc Natl Acad Sci U S A 89: 3130-3134 (1992)","MAMM").
+TFD_subseq('unknown-FP2',"GAAACCATTTTCTAATCATGTG","Proc Natl Acad Sci U S A 89: 3130-3134 (1992)","MAMM").
+TFD_subseq('unknown-FP4',"TGTGGACTTCTTGGAATTAAGGAAC","Proc Natl Acad Sci U S A 89: 3130-3134 (1992)","MAMM").
+TFD_subseq('unknown-FP3',"TCTTACGAACCACAAATTAGCATGTCA","Proc Natl Acad Sci U S A 89: 3130-3134 (1992)","MAMM").
+TFD_subseq('ZIIIA',"ATGCATGAGCCACAGG","J Virol 65: 4033-4041 (1991)","MAMM").
+TFD_subseq('ZIIIB',"GGCATTGCTAATGTACC","J Virol 65: 4033-4041 (1991)","MAMM").
+TFD_subseq('Htf9-site_E_(5)',"CTTTCCTCCGCGTCTGGCGCCGG","Nucleic Acids Res 19: 4451-8 (1991)","MAMM").
+TFD_subseq('Htf9-site_G_(2)',"CCCTGACCCCTGACCCC","Nucleic Acids Res 19: 4451-4458 (1991)","MAMM").
+TFD_subseq('CAAT_site(1)',"GCCAAT","EMBO J 10: 2523-2532 (1991)","MAMM").
+TFD_subseq('Zif_(1)',"GCGGGGGCG","EMBO J 10: 2523-2532 (1991)","MAMM").
+TFD_subseq('Zif_(2)',"GCGGGGGCC","EMBO J 10: 2523-2532 (1991)","MAMM").
+TFD_subseq('TATA_(3)',"TATAAGA","EMBO J 10: 2523-2532 (1991)","MAMM").
+TFD_subseq('Zif_(3)',"GCGCGGGCG","EMBO J 10: 2523-2532 (1991)","MAMM").
+TFD_subseq('COUP-NRE_1',"CACTGACCTTTGGA","Nucleic Acids Res 19: 6107-6112 (1991)","AVIAN").
+TFD_subseq('COUP-NRE_2',"GGCCAGGGGTCAGATATCCACTGACCTTTGGA","J Virol 65: 2853-2860 (1991)","AVIAN").
+TFD_subseq('oris',"AGCGTTCGCACTTCGTCC","J Virol 65: 2829-2838 (1991)","MAMM").
+TFD_subseq('HBV-EF-C_site_(2)',"GTTGTCTCTTATCTGATTCAAC","J Virol 65: 3882-3886 (1991)","AVIAN").
+TFD_subseq('baculovirus-hr5',"CTCATAACCGAACTGGCTTTACGAGTAGAATTCTACTTGTAACGC","J Virol 65: 3676-3680 (1991)","INSECT").
+TFD_subseq('HA',"TTGTGCAAGA","Biochem Biophys Res Commun. 176: 1326-1332 (1991)","MAMM").
+TFD_subseq('decamer/octamer',"TGATGACTACTTTGCATAGATCCCTAGAGGCCAGCACAGCTGCT","Nucleic Acids Res 19: 4347-4354 (1991)","MAMM").
+TFD_subseq('pd',"TACTCTCAAACAGCTGTGTAATTTACTTCC","Nucleic Acids Res 19: 4347-4354 (1991)","MAMM").
+TFD_subseq('CAAT_site(2)',"CTTTATTGGC","Nucleic Acids Res 19: 4347-4354 (1991)","MAMM").
+TFD_subseq('OCTA_(2)',"CTAATTGCATATTTGGCAT","Nucleic Acids Res 19: 4347-4354 (1991)","MAMM").
+TFD_subseq('BB1-beta-globin',"CTGAGACGTCCTAAGCCAGTGAG","Mol Cell Biol 11: 4324-4332 (1991)","MAMM").
+TFD_subseq('BCT',"GGTAAGGGCCAATCTGCTCAC","Mol Cell Biol 11: 4324-4332 (1991)","MAMM").
+TFD_subseq('HS-40_(1)',"CTATCAGGGACCAC","Mol Cell Biol 11: 4679-4689 (1991)","MAMM").
+TFD_subseq('HS-40_(2)',"GCAGATAACTG","Mol Cell Biol 11: 4679-4689 (1991)","MAMM").
+TFD_subseq('HS-40_(3)',"GGGCCAACCATGACTCAGT","Mol Cell Biol 11: 4679-4689 (1991)","MAMM").
+TFD_subseq('HS-40_(4)',"GGACTGCTGAGTCATCCTGTG","Mol Cell Biol 11: 4679-4689 (1991)","MAMM").
+TFD_subseq('CACCC_site',"CCTGTGGGGGTGGA","Mol Cell Biol 11: 4679-4689 (1991)","MAMM").
+TFD_subseq('HS-40_(5)',"CTGATTAC","Mol Cell Biol 11: 4679-4689 (1991)","MAMM").
+TFD_subseq('HS-40_(6)',"CTGTTTATCTG","Mol Cell Biol 11: 4679-4689 (1991)","MAMM").
+TFD_subseq('HNF3-W',"TATTTGTGTAG","Nucleic Acids Res 19: 4139-4145 (1991)","MAMM").
+TFD_subseq('MREe',"TGCACAC","Nucleic Acids Res 19: 4225-4231 (1991)","MAMM").
+TFD_subseq('MREc_(3)',"TGCGCTC","Nucleic Acids Res 19: 4225-4231 (1991)","MAMM").
+TFD_subseq('TD2',"GGGCAAAACCC","Genes Dev 5: 1881-1891 (1991)","DROS").
+TFD_subseq('TD3',"GGGGAACTCC","Genes Dev 5: 1881-1891 (1991)","DROS").
+TFD_subseq('hsp70-HSE_(3)',"GCGAAACTGCTGGAAGATTCC","Genes Dev 5: 1902-1911 (1991)","MAMM").
+TFD_subseq('HSE_(4)',"CTAGAAGCTTCTAGAAGCTTCTAG","Mol Cell Biol 14: 501-508 (1994)","YEAST").
+TFD_subseq('CD4-1',"GAGCCCCAGCTGTTAGCCC","Mol Cell Biol 11: 5506-15 (1991)","MAMM").
+TFD_subseq('CD4-2',"GAACAAAGGGCCTAGATTT","Mol Cell Biol 11: 5506-5515 (1991)","MAMM").
+TFD_subseq('CD4-3',"TAACAGGTGTCAGCT","Mol Cell Biol 11: 5506-5515 (1991)","MAMM").
+TFD_subseq('NRF-2-A',"GCTCTTCCGGT","Genes Dev 7: 380-392 (1993)","MAMM").
+TFD_subseq('NRF-2-B',"GCTCTTCCGGT","Genes Dev 7: 380-392 (1993)","MAMM").
+TFD_subseq('RIPE3b',"CTTCAGCC","J Biol Chem 270: 21503-8 (1995)","MAMM").
+TFD_subseq('LH-ERE',"GCCAACCCTCACATGGACAGATGGTGTCCCGATCGGCTCCA","J Biol Chem 266: 17084-17091 (1991)","MAMM").
+TFD_subseq('Pit-1-P2',"CTTCCTGAATATGAATAAGAAATAAAA","J Biol Chem 266: 18127-18134 (1991)","MAMM").
+TFD_subseq('prolactin-site_A_(9)',"GGGGTAATCTCAATGACGGAAATAGATGA","J Biol Chem 266: 18127-18134 (1991)","MAMM").
+TFD_subseq('Pit-1-P1',"GCCTGAATCATTATATTCATGAAGATATC","J Biol Chem 266: 18127-18134 (1991)","MAMM").
+TFD_subseq('UF',"CAGTTCAGTGACCTTCGT","J Biol Chem 266: 18127-18134 (1991)","MAMM").
+TFD_subseq('aminopeptidase-N-DF',"CTGTGGGGCTCCTCCCCTTCAG","J Biol Chem 266: 18089-18096 (1991)","MAMM").
+TFD_subseq('delta-globin-PYR',"CCTTCCTTCC","Proc Natl Acad Sci U S A 88: 8953-8957 (1991)","MAMM").
+TFD_subseq('beta-globin-GT-I',"GACCACCTGAC","Proc Natl Acad Sci U S A 88: 8676-8680 (1991)","MAMM").
+TFD_subseq('alpha-actin-SRE3',"ACGCTCCTTATACGGCCCGG","Mol Cell Biol 11: 5090-5100 (1991)","AVIAN").
+TFD_subseq('alpha-actin-SRE2',"GAGCGCCTTCTTTGGGCAGC","Mol Cell Biol 11: 5090-5100 (1991)","AVIAN").
+TFD_subseq('TdT-site_E_(6)',"GTGTATGAAAAC","Mol Cell Biol 11: 5229-43 (1991)","MAMM").
+TFD_subseq('mTDT-site_D'_(1)',"TTCAGCAGG","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('mTDT-site_C_(7)',"GTCACCAGGG","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('mTDT-site_B_(10)',"TGGGTCTGCTGGTG","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('mTDT-site_A_(10)',"GAGGACATCAGAGCC","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('mTDT-site_F_(4)',"CCACCTG","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('lambda5-site_E_(7)',"GTGAGTGAAAAC","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('lambda5-site_D'_(2)',"CATCCCAAC","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('lambda5-site_D_(9)',"TTTGGGAGA","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('lambda5-site_C_(8)',"GTGACCATGG","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('lambda5-site_B_(11)',"TGTGCCTGCTGGTG","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('lambda5-site_A_(11)',"GTGGAAACTAGAGAC","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('lambda5-site_F_(5)',"CCACCTG","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('IgH-V1-undefined-site',"AAAATATAAGTATAAATATGTGCAAAACTTGTTTATTAACTTATTTATCTTAAAATC","Mol Cell Biol 11: 5197-205 (1991)","MAMM").
+TFD_subseq('VDRE_CS_(2)',"AGGTCANNNAGGTCA","J Cell Biochem 51: 140-150 (1993)","MAMM").
+TFD_subseq('GRE_(4)',"AAAGTCAGAACACAGTGTTCTGATCAAAG","Proc Natl Acad Sci U S A 87: 7560-7564 (1990)","SYNTH").
+TFD_subseq('TRE_(2)',"AGCTTGATGAGTCAGCCGGATC","Cell 62: 1205-1215 (1990)","MAMM").
+TFD_subseq('GR-intron-site-1',"AGCACAGTGCTGGGCACA","J Biol Chem 266: 22634-22644 (1991)","MAMM").
+TFD_subseq('GR-intron-site-2',"TGTGCC","J Biol Chem 266: 22634-22644 (1991)","MAMM").
+TFD_subseq('GR-intron-site-3',"TGTCCC","J Biol Chem 266: 22634-22644 (1991)","MAMM").
+TFD_subseq('GR-intron-site-4',"GACACA","J Biol Chem 266: 22634-22644 (1991)","MAMM").
+TFD_subseq('collagenase-TRE',"AAGCATGAGTCAGACAC","EMBO J 9: 2827-2834 (1990)","MAMM").
+TFD_subseq('dNRE_(1)',"CCAGAGCTAGA","Virology 264: 211-9 (1999)","MAMM").
+TFD_subseq('MMTV-dNRE_(2)',"AAGAAGAAAAAGACGACAT","J Virol 69: 7868-76 (1995)","MAMM").
+TFD_subseq('GRES4',"AGAACATCGATGTTCT","Nature 352: 497-505 (1991)","SYNTH").
+TFD_subseq('GREM2',"TGTACAGATGATCT","J Biol Chem 265: 14030-14035 (1990)","MAMM").
+TFD_subseq('GREM3',"TGTTCAGGATGTTCT","J Biol Chem 265: 14030-14035 (1990)","MAMM").
+TFD_subseq('GREM4',"TGTACAGATGTTCT","J Biol Chem 265: 14030-14035 (1990)","MAMM").
+TFD_subseq('GREM5',"TGTACAGAGATGTTCT","J Biol Chem 265: 14030-14035 (1990)","MAMM").
+TFD_subseq('GREM6',"TGTACAGGACCCTAGAGGATGTTCT","J Biol Chem 265: 14030-14035 (1990)","MAMM").
+TFD_subseq('IL-6-MREI',"CTAAAGGACGTCACATTGC","Mol Cell Biol 10: 5736-5746 (1990)","MAMM").
+TFD_subseq('GR-IL-6-Inr',"GAGGCTCATTCTGCCCTC","Mol Cell Biol 10: 5736-5746 (1990)","MAMM").
+TFD_subseq('IL-6-Inr_(1)',"AGGCTCATTCTGCCCTCGA","Mol Cell Biol 10: 5736-5746 (1990)","MAMM").
+TFD_subseq('PRE',"GTTACAAACTGTTCC","Proc Natl Acad Sci U S A 87: 7180-7184 (1990)","MAMM").
+TFD_subseq('ERE_(5)',"AGGTCATGATGACCT","J Biol Chem 266: 3101-3106 (1991)","UNDEFINED").
+TFD_subseq('mERM',"AGTGTCACAGGTCAAGGTAACCCACAAAT","Mol Endocrinol 6: 355-364 (1992)","MAMM").
+TFD_subseq('ERE_(6)',"GATCGCTAATAGGTCACAGTGACCTGATGCCGTCC","Proc Natl Acad Sci U S A 89: 5527-5531 (1992)","SYNTH").
+TFD_subseq('TRE_(4)',"GATCGCTAATCAGGTCATGACCTGGATGCCGTCC","Proc Natl Acad Sci U S A 89: 5527-5531 (1992)","SYNTH").
+TFD_subseq('ERE1',"GAAGGGGTCAAGGTGACCGGGAG","Nucleic Acids Res 19: 4091-4096 (1991)","MAMM").
+TFD_subseq('ERE2',"CTTGGGGTCAGCCTGACCTGGAT","Nucleic Acids Res 19: 4091-4096 (1991)","MAMM").
+TFD_subseq('ERE3',"ATCAAGGTCAAAGTGACCTTTTC","Nucleic Acids Res 19: 4091-4096 (1991)","MAMM").
+TFD_subseq('ERE4',"AGCTGGGTCACAGTGACCCGATG","Nucleic Acids Res 19: 4091-4096 (1991)","MAMM").
+TFD_subseq('ERE5',"TGAGAGGTCAGGGTGACCTTTCA","Nucleic Acids Res 19: 4091-4096 (1991)","MAMM").
+TFD_subseq('Elk-1-SRE',"TTACACAGGATGTCC","Mol Cell Biol 16: 3338-49 (1996)","MAMM").
+TFD_subseq('MEF-2-HF1',"GGGGTTATTTTTAACCCC","Genes Dev 6: 1783-1798 (1992)","MAMM").
+TFD_subseq('MEF-2-A/T',"CTGGTTATAATTAACCCA","Genes Dev 6: 1783-1798 (1992)","MAMM").
+TFD_subseq('Elk-1-E',"TCACACTACATGCACGAGCCTAACAACAGGAACCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('Elk-1-F',"TCAGCACCAGACATCACCGCCAACCGGAAGGTCCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('Elk-1-G',"CATTGCGAAAGCCGCCCAATGCCGGAAATTGCCCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('Elk-1-Q',"CAGCGGTGCTGCAGCCAAACCGGAAATGATGTCCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('Elk-1-H',"AACTTCACCGTCCGTGTCCCGGAAGTCGTGTTCCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('Elk-1-M',"TCTACTAGCTCCCCGGAAACGCTGCATACTGACCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('Elk-1-T',"AGGGACGCAACCGGATATAAATGGGACACTGTCCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('Elk-1-P',"CCGGAAGCTCTGACAAAGAGGTGAAGCATAAGACCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('Elk-1-D',"AATAATCTATAAATATCTAGGACTTCCGTTGACCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('Elk-1-A',"ATTTCCGGCTCACAAATATACGTCACGCTAGACCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('Elk-1-J',"CCGTGAGGTACCACTTCCGGAATGGCTTAACGCCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('Elk-1-L',"CTGATCATCCACCGGAAGAGCTAATGTAATNGCCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('Elk-1-K',"CCAGACATAATACCCGGAAGCTTCCTGTAGTACCATATAAGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('UBE',"GCCTCTGGGAGCCGAGCCAGCCAT","Mol Cell Biol 13: 3002-3014 (1993)","MAMM").
+TFD_subseq('OMP-Inr',"GCTCCAGCCCACTTGATTCCCTGACGTC","Mol Cell Biol 13: 3002-3014 (1993)","MAMM").
+TFD_subseq('hsp70B-HSE',"GAAATGGAAGCCTCGGGAAACTTCGGGTCGG","Development 110: 427-433 (1990)","AMPHIB").
+TFD_subseq('HSE_(6)',"CTAGAAGCTTCTAGAAGCTTCTAGAGGATCCCCG","Cell Struct Func 16: 263-271 (1991)","MAMM").
+TFD_subseq('TCE_(2)',"CAGGAAGTGACGCACAGC","Cell Regulation 1: 151-164 (1989)","MAMM").
+TFD_subseq('site_c_(2)',"AGCCCCCCT","EMBO J 11: 1261-1273 (1992)","PLANT").
+TFD_subseq('TGF-beta-3-DS2',"TGGTCCCTCCCTCCCCCACCCCAGG","Genes Dev 3: 1255-1266 (1989)","MAMM").
+TFD_subseq('SEF3-alpha4',"AACCCATCATGAGCCCACACATTTGTTGTTTCTAACCCA","Plant Mol Biol 16: 397-413 (1991)","PLANT").
+TFD_subseq('C/EBP-apoB-intron-enhancer',"GAGGAGGG","J Biol Chem 266: 7848-7859 (1991)","MAMM").
+TFD_subseq('apoB-intron_1-enhancer_II',"CTCCGGAGC","J Biol Chem 266: 7848-7859 (1991)","MAMM").
+TFD_subseq('apoB-intron_1-enhancer_III',"TCCCTCCTGAAAGGTGAAA","J Biol Chem 266: 7848-7859 (1991)","MAMM").
+TFD_subseq('apoB-intron_1-enhancer_IV',"TCCCCCTGTCGGG","J Biol Chem 266: 7848-7859 (1991)","MAMM").
+TFD_subseq('AP-2-apoB-intron_1-enhancer_V',"CTGGGAAGACGTGGGAG","J Biol Chem 266: 7848-7859 (1991)","MAMM").
+TFD_subseq('apoB-intron_2-enhancer_A',"CATCGTGGTGTGCCTTGCTCTGACCCCAGGAAGCAAGTTCCCTGA","J Biol Chem 266: 7848-7859 (1991)","MAMM").
+TFD_subseq('apoB-intron_2-enhancer_B',"TGCCCACACCCAAGGGATGCCAACTCTCTTCTAC","J Biol Chem 266: 7848-7859 (1991)","MAMM").
+TFD_subseq('NF-1-intron_2-enhancer_C',"GGCCTTCTGTTCTGTCCCAAAAGTT","J Biol Chem 266: 7848-7859 (1991)","MAMM").
+TFD_subseq('apoB-intron_2_enhancer_D',"GGGGGAGGGAAGGGATTGTCT","J Biol Chem 266: 7848-7859 (1991)","MAMM").
+TFD_subseq('apoB-intron_2-enhancer_E',"CTGTCCTGTTTATCAGTGACTAGTCATTGATTCGAAGCATGTGAG","J Biol Chem 266: 7848-7859 (1991)","MAMM").
+TFD_subseq('apoB-intron_2_enhancer_F',"GTTAAAGGAACTGGCCTCCAAGCGCGACCCTG","J Biol Chem 266: 7848-7859 (1991)","MAMM").
+TFD_subseq('collagenase-TRE',"TATCGATAAGCTATGACTCATCCGGGGGA","Genes Dev 11: 3351-64 (1997)","MAMM").
+TFD_subseq('MB6',"ACAGGCCCGTATTCATATCTCATTGTTGTTTGCAGGAG","Nature 364: 450-452 (1993)","MAMM").
+TFD_subseq('MB3',"TGCCTTGCAGGATGCCCACCCAGCTGACCCAGGGTG","Nature 364: 450-452 (1993)","MAMM").
+TFD_subseq('MB1a',"ACCTTCAAAGACAGGCCCTCTGAG","Nature 364: 450-452 (1993)","MAMM").
+TFD_subseq('rpe_UAS',"AAATGGGCCGGACCGGGCCGGCCCAGCAG","Plant Mol Biol 15: 865-77 (1990)","PLANT").
+TFD_subseq('PU_box',"TTCCTCTTTCAG","Mol Cell Biol 12: 4297-4304 (1992)","MAMM").
+TFD_subseq('PYK-UAS',"ACACCCAGACATC","Nucleic Acids Res 22: 1450-1455 (1994)","YEAST").
+TFD_subseq('GT_motif',"GCGGTAATT","Science 250: 1397-1399 (1990)","PLANT").
+TFD_subseq('ABRE/Em1a',"GGACACGTGGC","J Biol Chem 269: 9974-9985 (1994)","PLANT").
+TFD_subseq('ApoB-reducer_(1)',"GGTATAGACTGTATTTCCTTGCTTTATGTCACTGGAAATATTTAT","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-reducer_(2)',"CACGGTCGCTATGCATAAATATCCTGGAAAATGGGGTATAGCTGA","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-reducer_(3)',"CAGATTCATTCATTCATATTCAG","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-reducer_(4)',"TTATGTTCTAAGCACCTACTTCAGTACGTGAACAGCACTAAACTC","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-reducer_(5)',"CTGGTCGGCTGCAGATAG","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-site_a_(1)',"TGAGAAGGTTCCAGATGTCTA","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-site_b_(1)',"GAGGAACATGACGTGTC","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-site_c_(3)',"GAGGAAACCTAGAAGCTGGTGCAGGAAATCCTC","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-site_d_(1)',"AAGAACACTTTGCACAAGAGG","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-site_e_(2)',"CCTTCTCTCTCCTCCCCCAGCAC","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-site_f_(2)',"CAAATCCAAGGTCCACCAAAATGGAAAAGAAGTAAC","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-site_g_(2)',"CACAGGAA","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-site_h',"GCCGCGCCAGAGCACT","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('ApoB-site_i',"GTGGGCCCCCTCCCCGAGGCTC","J Biol Chem 266: 24161-8 (1991)","MAMM").
+TFD_subseq('transferrin-Ia/I1',"TGTTTGCTTT","J Biol Chem 266: 24220-24225 (1991)","MAMM").
+TFD_subseq('HLA-DRB1-Xbox',"ACCAGCGACTGATGATGCTA","Nucleic Acids Res 19: 6269-6276 (1991)","MAMM").
+TFD_subseq('HLA-DQB1-Xbox',"CCCAGAGACAGATGAGGTC","Nucleic Acids Res 19: 6269-6276 (1991)","MAMM").
+TFD_subseq('IL2-US1',"GGGCTAACCC","Nucleic Acids Res 19: 5929-5936 (1991)","MAMM").
+TFD_subseq('IL2-TCEp',"GGGGTTTAAA","Nucleic Acids Res 19: 5929-5936 (1991)","MAMM").
+TFD_subseq('E2-TATA/E2T',"ACCGAAAACGGTGTATATAAAAGATGTG","Genes Dev 5: 1657-1671 (1991)","MAMM").
+TFD_subseq('E2-N5-T',"ACCGAAAACGGTGATCCGTATATAAAAGATGTG","Genes Dev 5: 1657-1671 (1991)","MAMM").
+TFD_subseq('E2MT',"ACCGAAAACCCTGTATATAAAAGATGTG","Genes Dev 5: 1657-1671 (1991)","MAMM").
+TFD_subseq('E2TM',"ACCGAAAACGGTGTACCTAAAAGATGTG","Genes Dev 5: 1657-1671 (1991)","MAMM").
+TFD_subseq('SAS1_alpha',"TCTAACG","Nucleic Acids Res 22: 2930-7 (1994)","YEAST").
+TFD_subseq('SAS1_beta',"CGCTACGCTAC","Nucleic Acids Res 22: 2930-7 (1994)","YEAST").
+TFD_subseq('PE1',"GGAAATAGCAAATGTTAAAAATA","EMBO J 10: 3015-3024 (1991)","PLANT").
+TFD_subseq('PE3',"CCCATCCGCGCCGGTCA","EMBO J 10: 3015-3024 (1991)","PLANT").
+TFD_subseq('RE1',"GGGCGCGGAACAAGGATCGGCGCGCCACGCC","EMBO J 10: 3015-3024 (1991)","PLANT").
+TFD_subseq('AS-C-intron_I',"TCCCGCAGGTGTAA","EMBO J 10: 2965-2973 (1991)","DROS").
+TFD_subseq('enhancer/Tbeta2',"TGTTTATCTCTGAGTCACATCA","Proc Natl Acad Sci U S A 88: 7284-7288 (1991)","MAMM").
+TFD_subseq('PU2/MCB',"GCGACGCGTTTTA","Curr Genet 24: 185-92 (1993)","YEAST").
+TFD_subseq('PU3/MCB',"AACGCGTTTG","Curr Genet 24: 185-92 (1993)","YEAST").
+TFD_subseq('C21/MCB',"ACGCGT","Curr Genet 24: 185-92 (1993)","YEAST").
+TFD_subseq('C2/MCB',"TATTACGCGTAAC","Curr Genet 24: 185-92 (1993)","YEAST").
+TFD_subseq('C6/MCB',"GCGACGCGAGGCCTCACGCGTCGG","Curr Genet 24: 185-92 (1993)","YEAST").
+TFD_subseq('SAA1-site_IV_(1)',"CCAAAAGCTAGCCAAAAAAATTAAAGCCG","J Biol Chem 266: 15192-201 (1991)","MAMM").
+TFD_subseq('C/EBP-SAA-1',"CCTCTAGTTTTGCAATCA","J Biol Chem 266: 15192-15201 (1991)","MAMM").
+TFD_subseq('SAA-site_II_(2)',"GGTGATCTGACCTGTGAATAAAGAGTAGAGTGGAG","J Biol Chem 266: 15192-15201 (1991)","MAMM").
+TFD_subseq('C/EBP-SAA-2',"TGGTAGTCTTGCACAGGAAATGACATG","J Biol Chem 266: 15192-15201 (1991)","MAMM").
+TFD_subseq('CRE_(5)',"TATACCTACCTAACTTGGTCTCACAGG","J Biol Chem 266: 15192-15201 (1991)","MAMM").
+TFD_subseq('DHS_E_(1)',"CCCACCCTCC","J Biol Chem 266: 10562-10569 (1991)","MAMM").
+TFD_subseq('DHS_E_(2)',"CCTTATCATT","J Biol Chem 266: 10562-10569 (1991)","MAMM").
+TFD_subseq('CRE_(6)',"TGACATCA","Nucleic Acids Res 18: 5677-5683 (1990)","MAMM").
+TFD_subseq('UAS-rpg',"ACACCCATACAT","EMBO J 6: 1451-1457 (1987)","YEAST").
+TFD_subseq('URS',"GGGTAGGGTAATAAAATTAACCCTA","Nature 342: 830 (1989)","YEAST").
+TFD_subseq('CDEI_(2)',"ATCACGTG","Nucleic Acids Res 20: 4229-4236 (1992)","YEAST").
+TFD_subseq('CDEI_(3)',"TTCACGTG","Nucleic Acids Res 20: 4229-4236 (1992)","YEAST").
+TFD_subseq('CDEI_(4)',"RTCACRTG","Nucleic Acids Res 20: 4229-4236 (1992)","YEAST").
+TFD_subseq('UAST52/ORE',"CGGGGATAATAGTATTAACACCG","Eur J Biochem 200: 113-22 (1991)","YEAST").
+TFD_subseq('DDR2-site_A_(13)',"TTCTTTTCCCCTGTTTCCATTTTTGTCTTTTC","Mol Cell Biol 13: 248-56 (1993)","YEAST").
+TFD_subseq('DDR2-site_B_(12)',"TGTCTTTTCTCACCCCTTATGGGGAC","Mol Cell Biol 13: 248-56 (1993)","YEAST").
+TFD_subseq('SSP1-HSE',"GCGATTGCCACGAAGAAGGTTCTCGTTGTTAAGGTACTTG","Nucleic Acids Res 19: 5331-7 (1991)","YEAST").
+TFD_subseq('SCB_consensus',"CACGAAAA","Nucleic Acids Res 24: 558-65 (1996)","YEAST").
+TFD_subseq('35SRNA2',"ACTGGGTTACCCGGGGCACCTG","Mol Cell Biol 13: 1173-1182 (1993)","YEAST").
+TFD_subseq('URS1_(1)',"CTTAGCGGTAGCCGCCGAGGGGTCT","Mol Cell Biol 13: 5749-5761 (1993)","YEAST").
+TFD_subseq('URS1_(2)',"GAAATAGCCGCCGACAAAAAGGAA","Genes Dev 8: 796-810 (1994)","YEAST").
+TFD_subseq('ARS_(1)',"TTTATTTATGTTTTCTTCTGCA","Nucleic Acids Res 22: 32-40 (1994)","YEAST").
+TFD_subseq('ICL1-CSRE',"GTTTCCATTCATCCGAGCGA","Nucleic Acids Res 24: 2331-8 (1996)","YEAST").
+TFD_subseq('FBP1-CSRE',"CCATCCGTCCGGA","Curr Genet 22: 363-70 (1992)","YEAST").
+TFD_subseq('CEN_homology',"AAAATGGGTCACGTGATCTATA","EMBO J 13: 425-434 (1994)","YEAST").
+TFD_subseq('hsg',"GATGTAATTAATTACAT","Genes Dev 7: 1862-1870 (1993)","YEAST").
+TFD_subseq('GBS1/DASI',"GATGACGTGT","Mol Cell Biol 13: 2091-2103 (1993)","YEAST").
+TFD_subseq('DRSII_(1)',"ATTATCAA","Mol Cell Biol 13: 2091-2103 (1993)","YEAST").
+TFD_subseq('GBS2/DASI',"AAACGTCACC","Mol Cell Biol 13: 2091-2103 (1993)","YEAST").
+TFD_subseq('DRSII_(2)',"ACCTGCGT","Mol Cell Biol 13: 2091-2103 (1993)","YEAST").
+TFD_subseq('TBP-ARS-B2',"AGTAGTATTTATTTAAGTATTGTTTGTGCA","Proc Natl Acad Sci U S A 90: 8018-8022 (1993)","YEAST").
+TFD_subseq('TBP-ARS_(2)',"TTATAATCTTTTAGCATATATATATATATATTG","Proc Natl Acad Sci U S A 90: 8018-8022 (1993)","YEAST").
+TFD_subseq('TBP-ARS_(3)',"TTTAAATAAGT","Proc Natl Acad Sci U S A 90: 8018-8022 (1993)","YEAST").
+TFD_subseq('TBP-HMRE_ARS_(1)',"CAATTTAATACCTAAATATAAAAAATGTTATTATA","Proc Natl Acad Sci U S A 90: 8018-8022 (1993)","YEAST").
+TFD_subseq('TBP-HMRE_ARS_(2)',"TATAAATAGTATCAATATATATATATATATATATATTTATTTG","Proc Natl Acad Sci U S A 90: 8018-8022 (1993)","YEAST").
+TFD_subseq('TBP-ARS_domain_A',"ATACAAAACATAAAAATAAAT","Proc Natl Acad Sci U S A 90: 8018-8022 (1993)","YEAST").
+TFD_subseq('TBP-ARS_domain_B',"CCTTCTTTATTTACTTT","Proc Natl Acad Sci U S A 90: 8018-8022 (1993)","YEAST").
+TFD_subseq('UAS1CHA',"GCGGAGACATGGATTCCGC","Genes Dev 7: 1824-1835 (1993)","YEAST").
+TFD_subseq('UAS2CHA',"CCCAGCGGAAATGTAATTCC","Genes Dev 7: 1824-1835 (1993)","YEAST").
+TFD_subseq('TATA',"TATATAAA","Genes Dev 7: 1824-1835 (1993)","YEAST").
+TFD_subseq('site_P',"CTCGACTTTCCTAATTAGGAAAGTCGAG","Mol Cell Biol 13: 6866-6875 (1993)","YEAST").
+TFD_subseq('P+Q',"CTCGACTTTCCTAATTAGGAAAACAATGACAGTCGAG","Mol Cell Biol 13: 6866-6875 (1993)","YEAST").
+TFD_subseq('HSE_(8)',"CTTCTAGAAG","Mol Cell Biol 14: 501-508 (1994)","YEAST").
+TFD_subseq('HSE_(9)',"CTTCTAGAAGCTTCTAGAAG","Mol Cell Biol 14: 501-508 (1994)","YEAST").
+TFD_subseq('ARS-site_III',"GTACAATCAATCAAAAAGC","J Biol Chem 267: 1648-1654 (1992)","YEAST").
+TFD_subseq('ARS-site_I_(1)',"ATGCTTGCTTTTCAAAAGGCCTGCAGGCA","J Biol Chem 267: 1648-1654 (1992)","YEAST").
+TFD_subseq('UAS1_(2)',"GCCCGGGAATTACCGGGGGC","J Biol Chem 267: 1648-1654 (1992)","YEAST").
+TFD_subseq('URS1_(3)',"CACGAAAAACGAGACAAACGAA","J Biol Chem 267: 1648-1654 (1992)","YEAST").
+TFD_subseq('URS1_(4)',"AAACGAAACGAAACGAAACTAA","J Biol Chem 267: 1648-1654 (1992)","YEAST").
+TFD_subseq('URS2_(2)',"AAACCGATAATTGTAAAGCCATTAAGGTCGTAAACGA","J Biol Chem 267: 1648-1654 (1992)","YEAST").
+TFD_subseq('UAS2_(4)',"TTACGTACTCGCATGTATT","J Biol Chem 267: 1648-1654 (1992)","YEAST").
+TFD_subseq('site_1_(1)',"ATATTAAGCGTGCGGGTAA","Nucleic Acids Res 20: 1031-1038 (1992)","YEAST").
+TFD_subseq('HSE-p',"TTTTCTAGAAATTCTT","Nucleic Acids Res 16: 8213-31 (1988)","NEMATODE").
+TFD_subseq('J18',"GGAGTAGCATATAAATC","J Biol Chem 267: 20943-20952 (1992)","YEAST").
+TFD_subseq('J65',"GGGGGGTAAATAAAGCA","J Biol Chem 267: 20943-20952 (1992)","YEAST").
+TFD_subseq('G41',"GGGAGGTAGGTATAGTA","J Biol Chem 267: 20943-20952 (1992)","YEAST").
+TFD_subseq('G30',"GGCGGAGGGGTAATTAA","J Biol Chem 267: 20943-20952 (1992)","YEAST").
+TFD_subseq('K14',"GGGTAGTGGGCTTTAAGA","J Biol Chem 267: 20943-20952 (1992)","YEAST").
+TFD_subseq('CDE1-D1',"AGTCACATGATG","J Biol Chem 267: 20943-20952 (1992)","YEAST").
+TFD_subseq('yATF-A',"GTATTGACGTCAACG","Mol Cell Biol 14: 214-225 (1994)","YEAST").
+TFD_subseq('DRS1/ABF1-G',"TGACGTCAACGGTGATATC","Mol Cell Biol 14: 214-225 (1994)","YEAST").
+TFD_subseq('DRS1/ABF1-H',"GATATCAAAATTAACGTAG","Mol Cell Biol 14: 214-225 (1994)","YEAST").
+TFD_subseq('Hoxa-7_RS',"GAGAAAAAGCCATTAGAGGAGAAAAAGCCATTAGAGGAGAAAAAG","Mol Cell Biol 14: 238-254 (1994)","MAMM").
+TFD_subseq('UAS1_(3)',"GTGTCTCAC","Mol Cell Biol 14: 238-254 (1994)","YEAST").
+TFD_subseq('UAS1_(4)',"AGTGCCGTGCAGT","Mol Cell Biol 14: 238-254 (1994)","YEAST").
+TFD_subseq('UAS1_(5)',"CGCCCCC","Mol Cell Biol 14: 238-254 (1994)","YEAST").
+TFD_subseq('UAS1_(6)',"CGCCCACCTC","Mol Cell Biol 14: 238-254 (1994)","YEAST").
+TFD_subseq('UAS2_(5)',"GTCTTGGCGCGTCTTGGC","Mol Cell Biol 14: 238-254 (1994)","YEAST").
+TFD_subseq('UAS2_(6)',"CGTGTTTCGTGACGCAA","Mol Cell Biol 14: 238-254 (1994)","YEAST").
+TFD_subseq('CDE',"RTCACRTG","Nucleic Acids Res 18: 2769-2776 (1990)","YEAST").
+TFD_subseq('CDE1',"GATCCAAATAAGTCACATGATGATA","Nucleic Acids Res 21: 4133-4141 (1993)","YEAST").
+TFD_subseq('HO-XBS',"TTCACTCTACGGATGATCTGTGAGAAACTGA","FEBS Lett 382: 97-100 (1996)","YEAST").
+TFD_subseq('HSE-SSA4',"GAAGTACATTCTAGAAGTTCCTAGAACCTTATGGAAGC","Mol Cell Biol 13: 5637-5646 (1993)","YEAST").
+TFD_subseq('RRE',"AAAAGAACCTCAAAAAGTCCA","Genes Dev 7: 1598-1608 (1993)","YEAST").
+TFD_subseq('UIS_3'',"GGTGCGATAGAATACCGCGGATTTTGGAAAATTGCGTTTGCTTTT","Nucleic Acids Res 21: 3777-3784 (1993)","YEAST").
+TFD_subseq('UIS_5'_(1)',"GCTGAAAGTTGCGGTGCGATAGAATACCGCGGATTTTGGAA","Nucleic Acids Res 21: 3777-3784 (1993)","YEAST").
+TFD_subseq('UIS_5'_(2)',"CAATGAAAAATTTCTGCCAGGGAAAATGCGCCCGCTTTTTTTCCG","Nucleic Acids Res 21: 3777-3784 (1993)","YEAST").
+TFD_subseq('PoR',"CTTCTGCGCATGGGCCTCTTCG","Nucleic Acids Res 19: 6633-6637 (1991)","MAMM").
+TFD_subseq('ERE_(7)',"CCAGGTCACAGTGACCTGAGCTAAAATAACACATTCAG","Nucleic Acids Res 19: 6595-6602 (1991)","MAMM").
+TFD_subseq('D2',"TGGAGGAGCTGGTG","Nucleic Acids Res 19: 6603-6610 (1991)","MAMM").
+TFD_subseq('A1-1',"TGGCACTGGCAGCC","Nucleic Acids Res 19: 6603-6610 (1991)","MAMM").
+TFD_subseq('A2-1',"TGGACCCAGAGTCC","Nucleic Acids Res 19: 6603-6610 (1991)","MAMM").
+TFD_subseq('A1-2',"TGTTCCTGGCACTGGCA","Nucleic Acids Res 19: 6603-6610 (1991)","MAMM").
+TFD_subseq('A3S',"TCTACCAGGAACC","Nucleic Acids Res 19: 6603-6610 (1991)","MAMM").
+TFD_subseq('S2',"TGGAAGAAGGCCTC","Nucleic Acids Res 19: 6603-6610 (1991)","MAMM").
+TFD_subseq('StM',"GATTCCGGGAACCGCGT","Nucleic Acids Res 19: 6603-6610 (1991)","MAMM").
+TFD_subseq('TRH',"GGCTGAAGTCCAAAGTTCAGTC","Genes Dev 5: 2225-2234 (1991)","MAMM").
+TFD_subseq('core_promoter/TATA',"GATTAATATAGGGAT","Genes Dev 5: 2225-2234 (1991)","MAMM").
+TFD_subseq('NFB_site',"GACCAATCATTAAAGGTAG","J Biol Chem 266: 23226-23232 (1991)","MAMM").
+TFD_subseq('ANF-GRE',"CTGCCTGTTTGTGTTCTGAGGATG","J Biol Chem 266: 23315-23322 (1991)","MAMM").
+TFD_subseq('site_V_(1)',"CATTCGGAGCCAACTCAAAC","J Biol Chem 266: 23315-23322 (1991)","MAMM").
+TFD_subseq('site_IV_(2)',"CCACTGGCCAGCAGCCAACCAG","J Biol Chem 266: 23315-23322 (1991)","MAMM").
+TFD_subseq('site_III_(2)',"TTGACCACAGTGTCAACAATTCC","J Biol Chem 266: 23315-23322 (1991)","MAMM").
+TFD_subseq('site_II_(3)',"CCTCCACCAATCGGCAGT","J Biol Chem 266: 23315-23322 (1991)","MAMM").
+TFD_subseq('site_I_(2)',"GGAAGGC","J Biol Chem 266: 23315-23322 (1991)","MAMM").
+TFD_subseq('A-34',"CCTTATCTCTGATGG","J Biol Chem 266: 23315-23322 (1991)","MAMM").
+TFD_subseq('betaE1_(2)',"TGCTGCTTGAGGTCATGGTGGTCGTGG","J Biol Chem 266: 22678-22688 (1991)","MAMM").
+TFD_subseq('betae2',"AGCTGTGGAATGTAAGG","J Biol Chem 266: 22678-22688 (1991)","MAMM").
+TFD_subseq('C-rich_element',"TGAGCCACCCCACCCCCTGGA","J Biol Chem 266: 22678-22688 (1991)","MAMM").
+TFD_subseq('betae3',"CATACCACAACAATGACGCCCA","J Biol Chem 266: 22678-22688 (1991)","MAMM").
+TFD_subseq('betae4',"TGGGGAGGAGGGGGGAG","J Biol Chem 266: 22678-22688 (1991)","MAMM").
+TFD_subseq('betae5',"GGAAGGGGGGGAGAGTTAGGGGGGAATGCTTTTAGTGA","J Biol Chem 266: 22678-22688 (1991)","MAMM").
+TFD_subseq('betae6',"AAATCTGGCTAGGG","J Biol Chem 266: 22678-22688 (1991)","MAMM").
+TFD_subseq('CRE_(7)',"TCGTCATGGTAAAAATGACGTCATGGTAATTATCG","Nucleic Acids Res 20: 5271-5278 (1992)","YEAST").
+TFD_subseq('CRE_(8)',"TCGAGCTCCTAGCCTGACGTCAGAGAGAGAGCTCG","J Biol Chem 268: 4259-4266 (1993)","MAMM").
+TFD_subseq('TRE_(6)',"TCGAGTATAAAGCATGAGTCAGACACCTCTGCTCG","J Biol Chem 268: 4259-4266 (1993)","MAMM").
+TFD_subseq('TGF-beta-RE',"TCCACCACAGCCAGACCACAGGCCAGACA","J Immunol 149: 2914-2925 (1992)","MAMM").
+TFD_subseq('Talpha1/CRE',"CTCCCATTTCCATGACGTCATGGTTA","Proc Natl Acad Sci U S A 89: 4820-4824 (1992)","MAMM").
+TFD_subseq('Talpha2',"GCACCCTTTGAAGCTCTCCCGCAGAAGCCACATCCTCTG","Proc Natl Acad Sci U S A 89: 4820-4824 (1992)","MAMM").
+TFD_subseq('AP-1_site',"TCGACGTGACTCAGCGCGCATCGTGACTCAGCGCGC","Proc Natl Acad Sci U S A 88: 3720-3724 (1991)","MAMM").
+TFD_subseq('CARE1/CARE2',"TTTCAGTGAGCTGCACATTGATGGCAGTGATA","Cell 75: 875-886 (1993)","MAMM").
+TFD_subseq('CARE3/CARE4',"AGGCTGGTGACGTCACTGTGATGTCAGTGCTC","Cell 75: 875-886 (1993)","MAMM").
+TFD_subseq('laminin-RARE',"CCAGACAGGTTGACCCTTTTTCTAAGGGCTTAACCTAGCTCACCT","Proc Natl Acad Sci U S A 86:  9099-103 (1989)","MAMM").
+TFD_subseq('RARE/gamma2_RARE',"GGGTCAGGAGGAGGTGA","Mol Cell Biol 12: 2976-2985 (1992)","MAMM").
+TFD_subseq('beta-RARE1',"GGTTCAGAGTTCA","Cell 68: 377-395 (1992)","MAMM").
+TFD_subseq('RXRE',"CAGGTCACAGGTCACAGGTCACAGTTCA","Nature 358: 771-774 (1992)","MAMM").
+TFD_subseq('RARE_(3)',"AGGTCAAAAAGTCAG","Nature 358: 587-591 (1992)","UNDEFINED").
+TFD_subseq('DR-5',"TCAGGTCATCCTCAGGTCA","Nature 358: 587-591 (1992)","UNDEFINED").
+TFD_subseq('CRABP-II-RARE2',"GCTGTGACCTCTGCCCTTCTAGCCTC","Cell 71: 73-85 (1992)","MAMM").
+TFD_subseq('RARE1',"TCCCCAGTTCACCAGGTCAGGGCT","Cell 71: 73-85 (1992)","MAMM").
+TFD_subseq('DR-1/RXRE',"AGGTCAGAGGTCA","Nature 358: 771-774 (1992)","UNDEFINED").
+TFD_subseq('DR-2',"AGGTCAGGAGGTCA","Proc Natl Acad Sci U S A 89: 1448-1452 (1992)","UNDEFINED").
+TFD_subseq('T3RE/OP',"TGACCTGAGATCTCAGGTCA","Nature 355: 441-446 (1992)","UNDEFINED").
+TFD_subseq('T3RE/half',"TCAGGTCA","Mol Cell Biol 12: 4666-4676 (1992)","UNDEFINED").
+TFD_subseq('DR+5/RARE',"TCAGGTCACTGTCAGGTCAC","Cell 65: 1267-1279 (1991)","UNDEFINED").
+TFD_subseq('MYH6-T3RE',"GCTGTCCTCCTGTCACCTCCAGAGCCAAA","Endocrinol 129: 3331-3336 (1991)","MAMM").
+TFD_subseq('OL-4/RARE',"CAGGGTCATTTTCAGGTCATTGC","EMBO J 10: 3829-38 (1991)","MAMM/AVIAN").
+TFD_subseq('OL-1/RARE',"CAGGTTCATTTTCAGTTCATTGC","EMBO J 10: 3829-38 (1991)","MAMM/AVIAN").
+TFD_subseq('OL-3/RARE',"CAGGGTCATTTTCAGTTCATTGC","EMBO J 10: 3829-38 (1991)","MAMM/AVIAN").
+TFD_subseq('OL-8/T3RE',"CAGGTTCATTTCAGTTCATTGC","EMBO J 10: 3829-38 (1991)","MAMM/AVIAN").
+TFD_subseq('OL-9/T3RE',"CAGGTTCATTTCAGTTCCTTGC","EMBO J 10: 3829-38 (1991)","MAMM/AVIAN").
+TFD_subseq('OL-10/T3RE',"CAGGGTCATTTCAGTTCATTGC","EMBO J 10: 3829-38 (1991)","MAMM/AVIAN").
+TFD_subseq('OL-11/T3RE/RARE',"CAGGGTCATTTCAGGTCATTGC","EMBO J 10: 3829-38 (1991)","MAMM/AVIAN").
+TFD_subseq('OL-13/T3RE',"CAGGTTCATTTCAGGTCCTTGC","EMBO J 10: 3829-38 (1991)","MAMM/AVIAN").
+TFD_subseq('INV-PAL(+3)/T3RE',"TGACCTGACTGTCAGGTCA","Cell 65: 1267-1279 (1991)","UNDEFINED").
+TFD_subseq('PAL/T3RE/RARE',"TCAGGTCATGACCTGA","Cell 65: 1267-1279 (1991)","UNDEFINED").
+TFD_subseq('DR/nT3RE',"TCAGGTCATCAGGTCA","Cell 65: 1267-1279 (1991)","UNDEFINED").
+TFD_subseq('Pit-1-hCS-B',"TGGCCCCATGCATAAATGTACACAGAAA","J Biol Chem 266: 13397-13408 (1991)","MAMM").
+TFD_subseq('T3RE/TRU/TBE',"CAGGTGGGGTCAAGCAGGGA","J Biol Chem 266: 13397-13408 (1991)","MAMM").
+TFD_subseq('GLYCA-nTRE',"GCAGGTGAGGACTTCA","Proc Natl Acad Sci U S A 86: 9114-9118 (1989)","MAMM").
+TFD_subseq('somatotropin-nT3RE',"TAGGGTATAAAAAGGGCATGCAAGGGACCAA","J Biol Chem 265: 10851-10856 (1990)","MAMM").
+TFD_subseq('RARE_(4)',"TTTAGTAGGTCAAAAGGTCAGACAC","EMBO J 10: 2223-2230 (1991)","MAMM").
+TFD_subseq('RARE_(5)',"AGTGACCCTTTTAACCAGGTCAGTGA","Genes Dev 7: 295-307 (1993)","MAMM").
+TFD_subseq('DR+2_(1)',"TAAGGTCAACGGGTGGGCACTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+2_(2)',"TAAGGTCAAGAGTTCAATCCTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+2_(3)',"TAAGGTCAAAAGGTCGTTGCTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+2_(4)',"TAAGGTCAAAAGTTGACGCCTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+5_(1)',"TAAGGTCAATCCGAAGTCACTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+5_(2)',"TAAGGTCAAGCAGTGGTCCCTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+5_(3)',"TAAGGTCAATAAGGGGTGACTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+5_(4)',"TAAGGTCAACAAGAGGCCGCTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+5_(5)',"TAAGGTCAAGGAAAGGACACTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+5_(6)',"TAAGGTCAACGATAGGGCACTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+5_(7)',"TAAGGTCAACATAGGGTCTCTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+5_(8)',"TAAGGTCAAAGGGCGGACACTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('PAL+0',"TAAGGTCAGCACCATGTCACTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('PAL+1',"TAAGGTAACCGACCCCTCCCTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+1',"TAAGGTCAAGGGTCGACNGCTC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+4',"CGGGTAAGGTCAAATAAGGTCACGAAGATC","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('DR+5',"CGGGTAAGGTCACCGAAAGGTCACACGAA","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('INV-PAL+4',"TGACCTGATCAGGTCA","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('INV-PAL+5',"TGACCTGACTCAGGTCA","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('INV-PAL+6',"TGACCTGACGTCAGGTCA","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('ACOA-PPRE',"GGGGACCAGGACAAAGGTCACGTTC","J Biol Chem 272: 25252-9 (1997)","MAMM").
+TFD_subseq('PPRE',"GAACGTGACCTTTGTCCTGGTCC","Nature 358: 771-774 (1992)","MAMM").
+TFD_subseq('EcRE_(2)',"CTAGAAGGTTCAATGCACTTAGATC","Nature 362: 471-475 (1993)","DROS").
+TFD_subseq('enhancer_I/2c',"TTTCTAAGTAAACAG","J Virol 65: 6705-6713 (1991)","MAMM").
+TFD_subseq('TAF',"TCGAGAAGGCCCTGACGTCTCCCCCAGATCTGGGCGTTGACGACA","Proc Natl Acad Sci U S A 88: 11445-11449 (1991)","MAMM").
+TFD_subseq('RRE-M',"CTGCGCCATGATAGAGGGACATCTGGG","J Virol 66: 46-52 (1992)","MAMM").
+TFD_subseq('E-pal',"GCCACCTGCAGGTGCGTCCC","Proc Natl Acad Sci U S A 88: 11495-11499 (1991)","MAMM").
+TFD_subseq('TFIIIA-UAS',"CTCAACCACTAAGAACGAGGGGAGTGTCCAGAA","Proc Natl Acad Sci U S A 88: 11495-11499 (1991)","AMPHIB").
+TFD_subseq('mADA-site_A',"GGGGGGGGGGGCGGGGC","J Biol Chem 264: 14561-5 (1989)","MAMM").
+TFD_subseq('mADA-Sp1-site_B',"TCCGGAAGGCGGGGTCT","J Biol Chem 266: 21765-21772 (1991)","MAMM").
+TFD_subseq('mADA-Sp1-site_C',"GGGCGTAGCGTGGGCGGGGCTGTG","J Biol Chem 266: 21765-21772 (1991)","MAMM").
+TFD_subseq('apoB-reducer-E',"GAAATTCCTCTAGTCAGGTGGCTTTCTAATGGGTACCCAGAGCCCTATGACTACCCAGATTGATGGTGCACCCAAACAGGAC","J Biol Chem 266: 21956-61 (1991)","MAMM").
+TFD_subseq('apoB-reducer-F',"GCATTTATGAGCTG","J Biol Chem 266: 21956-61 (1991)","MAMM").
+TFD_subseq('apoB-reducer-G',"AAGTCACAGTCACTAGCTGAGATTAATCTGTGTGA","J Biol Chem 266: 21956-61 (1991)","MAMM").
+TFD_subseq('apoB-reducer-site_a',"ATAAAAATTACATTCTCCCAGCACTTTGGGAGCCAAGGCGGGGAGATCATGAGGTCAGGAGTTCAAGACCAG","J Biol Chem 266: 21956-61 (1991)","MAMM").
+TFD_subseq('apoB-reducer-site_b',"ATCAACATGGTGAAACACCGTCTCT","J Biol Chem 266: 21956-61 (1991)","MAMM").
+TFD_subseq('apoB-reducer-site_c',"AAAAATACAAAAATTACTGGGCATAGTGGCACTCAC","J Biol Chem 266: 21956-61 (1991)","MAMM").
+TFD_subseq('apoB-reducer-site_d',"TGTTATCTCAGTTACT","J Biol Chem 266: 21956-61 (1991)","MAMM").
+TFD_subseq('PEPCK-T3RE',"CCTGTCCTTGACCCCCA","J Biol Chem 266: 21991-21996 (1991)","MAMM").
+TFD_subseq('AFP-Ib/Ia',"CATATGTTTGCTCACTGAAGGTTACTA","J Biol Chem 266: 21179-21185 (1991)","MAMM").
+TFD_subseq('AchR-distal_E-box',"ACCCATCTGTCCTTGGCCATTTGCTGAGTC","J Biol Chem 266: 19871-19874 (1991)","MAMM").
+TFD_subseq('AchR-proximal_E-box',"TTGTACATATCCTGGGAACAGCTGACAATGCAG","J Biol Chem 266: 19871-19874 (1991)","MAMM").
+TFD_subseq('GCRE1',"TTGACTCTT","J Biol Chem 266: 20453-20456 (1991)","YEAST").
+TFD_subseq('GCRE2',"ATGAATAAT","J Biol Chem 266: 20453-20456 (1991)","YEAST").
+TFD_subseq('GCRE3',"ATGACTGCT","J Biol Chem 266: 20453-20456 (1991)","YEAST").
+TFD_subseq('GC_box_(3)',"GTGGGCGTGGT","J Virol 65: 6661-6670 (1991)","MAMM").
+TFD_subseq('35SRNA1-Site-1',"CTATGATCCGGGTAAAAACATGT","J Biol Chem 270: 28723-32 (1995)","YEAST").
+TFD_subseq('CRE_(9)',"AATGACATCACGGC","Genes Dev 4: 503-514 (1990)","YEAST").
+TFD_subseq('TAT-BIII',"CTGCTGCTCTTTGATCTG","Proc Natl Acad Sci USA 90: 5479-83 (1993)","MAMM").
+TFD_subseq('DCRE',"AACATGATTGGTTAGATAGATT","J Biol Chem 265: 18219-18226 (1990)","MAMM").
+TFD_subseq('CRE_(11)',"AGGACACACC","J Biol Chem 265: 18219-18226 (1990)","MAMM").
+TFD_subseq('CRE_(12)',"CTGCGGGCCTATTCAA","J Biol Chem 265: 18219-18226 (1990)","MAMM").
+TFD_subseq('CRE_(13)',"TCCGGGGACCGCTCCGGGCATCCTG","J Biol Chem 265: 18219-18226 (1990)","MAMM").
+TFD_subseq('CRE_(10)',"AATTGCGTCATTTCGAA","J Biol Chem 266: 15525-15531 (1991)","MAMM").
+TFD_subseq('CRE-like',"TGACGCAA","Science 252: 842-844 (1991)","MAMM").
+TFD_subseq('c-fos-DSE-E_box',"CAGGATGTCCATATTAGGACATCTGCG","Oncogene 6: 2165-2178 (1991)","MAMM").
+TFD_subseq('site_A_(12)',"GCAGGAAGCA","Science 261: 82-86 (1993)","UNDEFINED").
+TFD_subseq('NRF-2-A/B',"GCAGGAAGCGGAAGAC","Genes Dev 7: 380-392 (1993)","MAMM").
+TFD_subseq('site_C_(10)',"AACGGAAGTC","Genes Dev 7: 380-392 (1993)","MAMM").
+TFD_subseq('site_D_(10)',"CCCGGAAGTG","Genes Dev 7: 380-392 (1993)","MAMM").
+TFD_subseq('UAS_(3)',"AGCTTCCTCTAT","Mol Cell Biol 12: 2690-2700 (1992)","YEAST").
+TFD_subseq('UAS_(4)',"TTACACCTGGACACCCCTTTTCTGGCATCCAGTT","Proc Natl Acad Sci U S A 88: 9443-9447 (1991)","YEAST").
+TFD_subseq('alpha2-RARE',"CAGGCGAGTTCAGCAAGAGTTCAGCCGAAT","Proc Natl Acad Sci U S A 88: 10138-10142 (1991)","MAMM").
+TFD_subseq('myc-TCE',"GCAGAGGGCGTGGGGGAAAAGAA","Proc Natl Acad Sci U S A 88: 10138-10142 (1991)","MAMM").
+TFD_subseq('IL5-CLE0',"ATTATTCATTTCCTC","J Biol Chem 270: 24548-55 (1995)","MAMM").
+TFD_subseq('CLE0_(2)',"TAAACTCATTTTCCC","Mol Cell Biol 11: 5894-5901 (1991)","MAMM").
+TFD_subseq('GGTGG',"GCCCCACCCCCGCC","Mol Cell Biol 11: 6166-6176 (1991)","UNDEFINED").
+TFD_subseq('site_IV_(3)',"ACTCACCTGGAG","Mol Cell Biol 11: 6166-6176 (1991)","MAMM").
+TFD_subseq('site_IV_(4)',"AATCACGTGGAG","Mol Cell Biol 11: 6166-6176 (1991)","MAMM").
+TFD_subseq('ME1/TR_box',"TAACTTCTTTGTTCTCTAATTACTGTATCTC","Genes Dev 5: 1990-1999 (1991)","YEAST").
+TFD_subseq('MP1/TR_box',"ATCACTAATGCTTTGTTCCCTCTTTCTTTGTTCCTTATGCG","Genes Dev 5: 1990-1999 (1991)","YEAST").
+TFD_subseq('HCR_(1)',"GTTTTATT","EMBO J 10: 4177-4187 (1991)","MAMM").
+TFD_subseq('HCR_(2)',"GACACATTAATCTAT","EMBO J 10: 4177-4187 (1991)","MAMM").
+TFD_subseq('HCR_(3)',"CATTAATCTATAATC","EMBO J 10: 4177-4187 (1991)","MAMM").
+TFD_subseq('HCR_(4)',"ACACCTCATAAAATTTTTATT","EMBO J 10: 4177-4187 (1991)","MAMM").
+TFD_subseq('HCR_(5)',"AGGCATAATATCATTA","EMBO J 10: 4177-4187 (1991)","MAMM").
+TFD_subseq('HCR_(6)',"GCATAATATCATTA","EMBO J 10: 4177-4187 (1991)","MAMM").
+TFD_subseq('sim-Sna-1',"CCCACCTGATAGGA","Proc Natl Acad Sci U S A 89: 3414-3418 (1992)","DROS").
+TFD_subseq('sim-Sna-2',"ATCCTACCTGTTTCA","Proc Natl Acad Sci U S A 89: 3414-3418 (1992)","DROS").
+TFD_subseq('sim-Sna-3',"TCAACCTGTTGAAT","Proc Natl Acad Sci U S A 89: 3414-3418 (1992)","DROS").
+TFD_subseq('sim-Sna-4a/Sna-4b',"GCAGGTTGTTTTCCCCAGGATCAGGTAACAGATCCT","Proc Natl Acad Sci U S A 89: 3414-3418 (1992)","DROS").
+TFD_subseq('sim-Sna-5b',"GCAAACAGGTGATTGCAG","Proc Natl Acad Sci U S A 89: 3414-3418 (1992)","DROS").
+TFD_subseq('sim-Sna-5d',"AGCAAGTGCTGAGAA","Proc Natl Acad Sci U S A 89: 3414-3418 (1992)","DROS").
+TFD_subseq('Sox-5-BS12',"GCACTAAAACAATTCAAGCCCG","EMBO J 11: 3705-3712 (1992)","MAMM").
+TFD_subseq('enhancer/BS-1',"GGGAGGATAAACAAAATGAAGGCTT","Gene 58: 167-75 (1987)","AVIAN").
+TFD_subseq('enhancer_(1)',"CTGGCATAAAGCCTACCAGAAA","Gene 58: 167-75 (1987)","AVIAN").
+TFD_subseq('enhancer_(2)',"CATACAGGCCTAGCAGCCAGCTGGGTGGGGACAGGTTTGAGATAA","Gene 58: 167-75 (1987)","AVIAN").
+TFD_subseq('enhancer/BS-2',"GACCTTGTTTAT","Gene 58: 167-75 (1987)","AVIAN").
+TFD_subseq('IRS-CS',"TRTTTTG","Physiol Rev 76: 1109-61 (1996)","MAMM").
+TFD_subseq('gfa-region_A-fp',"TTGGGCTGGCCGCCCCCCAGGGC","J Biol Chem 266: 18877-18883 (1991)","MAMM").
+TFD_subseq('gfa-region_B-fp',"TGAATGACTCACCTTGGCACAGACACAATGTTCGGGGTGGGCACAGTGCCTGCT","J Biol Chem 266: 18877-18883 (1991)","MAMM").
+TFD_subseq('gpa-region_D-fp',"TAGCTGGGCTGCGGCCCAACCCCACCCCCTCA","J Biol Chem 266: 18877-18883 (1991)","MAMM").
+TFD_subseq('PRP_box_1',"CATCCTGCTAGGCTAAAGTCCCA","Nucleic Acids Res 19: 5205-5211 (1991)","MAMM").
+TFD_subseq('UAS_II',"CGGAATTCTGTTCACCG","Nucleic Acids Res 19: 5351-5358 (1991)","YEAST").
+TFD_subseq('UAS_IV',"CGGCCCACTGACTCCCG","Nucleic Acids Res 19: 5351-5358 (1991)","YEAST").
+TFD_subseq('UAS_V',"CGGGATTCTTCCCTCCG","Nucleic Acids Res 19: 5351-5358 (1991)","YEAST").
+TFD_subseq('HS4_18C',"CTCATTGACTGGCAAGAT","Nucleic Acids Res 19: 5385-5393 (1991)","MAMM").
+TFD_subseq('GCR1-UASTPI',"TCTGGCATCCAGTTT","Mol Cell Biol 12: 2690-2700 (1992)","YEAST").
+TFD_subseq('delta_repressing_elements',"CCWTNTTNNNW","Nucleic Acids Res 22: 5151-5155 (1994)","MAMM").
+TFD_subseq('delta-activating-CS',"SSGCCATCTTSNCTS","Nucleic Acids Res 22: 5151-5155 (1994)","MAMM").
+TFD_subseq('SBE',"GGATGACAGGTGCATAG","Nucleic Acids Res 21: 3951-3957 (1993)","DROS").
+TFD_subseq('mu-E5_(2)',"GAACCAGAACACCTGCAGCA","Mol Cell Biol 14: 1256-1265 (1994)","MAMM").
+TFD_subseq('h/E-1',"GGCACGCGAC","Genes Dev 8: 2729-2742 (1994)","DROS").
+TFD_subseq('GC-box_(4)',"CCAAGCTCCGCCCTACTACA","Mol Cell Biol 12: 4994-5003 (1992)","MAMM").
+TFD_subseq('MC',"TACACTCCTATTGGCTTGAGG","Mol Cell Biol 12: 4994-5003 (1992)","MAMM").
+TFD_subseq('CCAC_box',"ACGCACAACCACCCCACCCCCTGTG","Mol Cell Biol 12: 5024-32 (1992)","MAMM").
+TFD_subseq('kappaE3-CRE',"GTCATAGCTACCGTCAC","J Biol Chem 270: 10304-13 (1995)","MAMM").
+TFD_subseq('kappa-E3prime-enhancer/DS',"TTTGATCAAG","J Biol Chem 270: 10304-13 (1995)","MAMM").
+TFD_subseq('kappa-E3prime-enhancer/PU_box',"GGGAACTGTTGCTTTC","Mol Cell Biol 12: 4994-5003 (1992)","MAMM").
+TFD_subseq('3'_enhancer/HM',"CATCTG","Mol Cell Biol 12: 4994-5003 (1992)","MAMM").
+TFD_subseq('MRE_J',"TGGTGAGTGGAGAAGG","Proc Natl Acad Sci U S A 89: 11683-11687 (1992)","AVIAN").
+TFD_subseq('MRE_E',"AGCCAAGCTGTCAACTTCCAGTTC","Proc Natl Acad Sci U S A 89: 11683-11687 (1992)","AVIAN").
+TFD_subseq('MRE_C',"ACCGGCAGTTAGGATACTCCTAAG","Proc Natl Acad Sci U S A 89: 11683-11687 (1992)","AVIAN").
+TFD_subseq('MRE_I',"CAAAAAAGGGGCGTGAACTTGGA","Proc Natl Acad Sci U S A 89: 11683-11687 (1992)","AVIAN").
+TFD_subseq('MRE_H',"CGGAAAAAGCGTTTCGC","Proc Natl Acad Sci U S A 89: 11683-11687 (1992)","AVIAN").
+TFD_subseq('MRE_B',"CTTTCCAACTGCCCGCTAATTCCG","Proc Natl Acad Sci U S A 89: 11683-11687 (1992)","AVIAN").
+TFD_subseq('MRE_G',"GGGGCGGGGCGCGCGGCAGGGTCGTTACGAAG","Proc Natl Acad Sci U S A 89: 11683-11687 (1992)","AVIAN").
+TFD_subseq('MRE_F',"GAGCGATATAAACGGGCGC","Proc Natl Acad Sci U S A 89: 11683-11687 (1992)","AVIAN").
+TFD_subseq('MRE_A',"GCCCAGTTGTTACTT","Proc Natl Acad Sci U S A 89: 11683-11687 (1992)","AVIAN").
+TFD_subseq('MRE_E',"AAGGCAACTGCCTGAGAGG","Proc Natl Acad Sci U S A 89: 11683-11687 (1992)","AVIAN").
+TFD_subseq('MRE_D',"GCCGGCGCCAGTTCGC","Proc Natl Acad Sci U S A 89: 11683-11687 (1992)","AVIAN").
+TFD_subseq('EFIII',"CGATCGTGCCTTATTAGGAAGGCAAC","Mol Cell Biol 12: 4769-4783 (1992)","AVIAN").
+TFD_subseq('IPE',"TCAGGGAGTGACACG","Mol Cell Biol 17: 677-86 (1997)","MAMM").
+TFD_subseq('F3',"TGCAAACTTGGCATAGCTC","Mol Cell Biol 12: 4906-4918 (1992)","MAMM").
+TFD_subseq('F12',"GGAAGTTGCG","Mol Cell Biol 12: 4906-4918 (1992)","MAMM").
+TFD_subseq('F4',"CAAGATTACAATCTAAACGATTC","Mol Cell Biol 12: 4906-4918 (1992)","MAMM").
+TFD_subseq('F5',"ACTCGA","Mol Cell Biol 12: 4906-4918 (1992)","MAMM").
+TFD_subseq('F1b',"GATTATTAGTCACTATGT","Mol Cell Biol 12: 4906-4918 (1992)","MAMM").
+TFD_subseq('IK-BS1',"TCAGCTTTTGGGAATACCCTGTCA","Mol Cell Biol 14: 8292-8303 (1994)","MAMM").
+TFD_subseq('IK-BS2',"TCAGCTTTTGGGAATCTCCTGTCA","Mol Cell Biol 14: 8292-8303 (1994)","MAMM").
+TFD_subseq('IK-BS3',"TCAGCTTTTGGGAATTCCCTGTCA","Mol Cell Biol 14: 8292-8303 (1994)","MAMM").
+TFD_subseq('IK-BS4',"TCAGCTTTTGGGAATGTATTCCCTGTCA","Mol Cell Biol 14: 8292-8303 (1994)","MAMM").
+TFD_subseq('IK-BS6',"TCAGCTTTTGGGATTACCCTGTCA","Mol Cell Biol 14: 8292-8303 (1994)","MAMM").
+TFD_subseq('IK-BS7',"TCAGCTTTTGGGAAAAACCTGTCA","Mol Cell Biol 14: 8292-8303 (1994)","MAMM").
+TFD_subseq('IK-BS8',"TCAGCGGGGGGGAATACCCTGTCA","Mol Cell Biol 14: 8292-8303 (1994)","MAMM").
+TFD_subseq('deltaA',"GTTTCCATGACATCATGATGGGGGT","Mol Cell Biol 14: 8292-8303 (1994)","MAMM").
+TFD_subseq('region_I/AccI_repeat',"ATAGTGTATA","Mol Cell Biol 12: 4384-4390 (1992)","UNDEFINED").
+TFD_subseq('MEF2D-c-jun',"GGGCTATTTTTAGGG","Mol Cell Biol 15: 2907-2915 (1995)","MAMM").
+TFD_subseq('histone-H2B-CCAAT',"AGCCAGCCAATGGGAAT","Mol Cell Biol 12: 4384-4390 (1992)","AMPHIB").
+TFD_subseq('H2B-variant-octa',"CTTTACAT","Mol Cell Biol 12: 4400-11 (1992)","AMPHIB").
+TFD_subseq('C13',"AAGTGAAAGTGAAAGTGA","Gene Expr 2: 329-37 (1992)","YEAST").
+TFD_subseq('STAT1-IRF-1',"CTGATTTCCCCGAAATGACGG","Mol Cell Biol 14: 1500-9 (1994)","MAMM").
+TFD_subseq('DR-4',"TCAGGTCATCTCAGGTCA","Mol Cell Biol 12: 4666-4676 (1992)","UNDEFINED").
+TFD_subseq('UPE1',"AGGTGGTAATGTCTA","Mol Cell Biol 12: 4578-4589 (1992)","MAMM").
+TFD_subseq('UPE2',"CCTTTGGCCATCAGTC","Mol Cell Biol 12: 4578-4589 (1992)","MAMM").
+TFD_subseq('UPE3',"ATGGTGGCTCTAATGA","Mol Cell Biol 12: 4578-4589 (1992)","MAMM").
+TFD_subseq('region_I_enhancer',"TGGGGATTCCCCA","Mol Cell Biol 12: 4578-4589 (1992)","UNDEFINED").
+TFD_subseq('ICS_(3)',"GAGTTTCAC","J Biol Chem 267: 25589-96 (1992)","MAMM").
+TFD_subseq('MHC-class-I-site_alpha',"GGATACTCGTGACG","Immunity 6: 601-11 (1997)","MAMM").
+TFD_subseq('LP-alpha',"TCTTTCACTTATCATAACTCAATAC","Mol Cell Biol 12: 4622-33 (1992)","MAMM").
+TFD_subseq('LP-beta',"GGACGCAATGTGTGTCCCTCTATCCCTACATTGACTTTG","Mol Cell Biol 12: 4622-33 (1992)","MAMM").
+TFD_subseq('Oct-1-lyn-T',"CGCCCTCCGGGCTCAATATGCAAATCCGAGCACCAGGAAGTAGCTGGG","Mol Cell Biol 12: 3784-3795 (1992)","MAMM").
+TFD_subseq('site_A_(15)',"AAACTCAGGCTTACATTTGAATGTTGGCTACATATG","Mol Cell Biol 12: 3653-62 (1992)","MAMM").
+TFD_subseq('site_E_(8)',"TTGGCTACATATGTATGAGTTTTCAA","Mol Cell Biol 12: 3653-62 (1992)","MAMM").
+TFD_subseq('SIF3',"CAATTACTAATTAACTTAG","Mol Cell Biol 12: 3784-3795 (1992)","MAMM").
+TFD_subseq('SIF2',"AAGATTATTAAAC","J Biol Chem 269: 17080-5 (1994)","MAMM").
+TFD_subseq('SIF1',"GGTGCAATAAAACTTTATGAGTA","Nucleic Acids Res 25: 2293-300 (1997)","MAMM").
+TFD_subseq('JC',"GATCTGAAAAGTTGACGCATACAAAACCG","Mol Cell Biol 14: 456-462 (1994)","UNDEFINED").
+TFD_subseq('C6',"GATCTATGACGCATATCCCCCCATGG","Mol Cell Biol 14: 456-462 (1994)","UNDEFINED").
+TFD_subseq('G10',"CATGGGGGGGGGGTTGACGTAGATCC","Mol Cell Biol 14: 456-462 (1994)","UNDEFINED").
+TFD_subseq('V-beta-8.1-CACCC',"GATCCCCCACCCCCACCCACCCCCACCCCACCCCCA","Mol Cell Biol 13: 5691-5701 (1993)","MAMM").
+TFD_subseq('HEN1-site1',"AGGACGCAGCTGATCCCC","Mol Cell Biol 14: 1245-55 (1994)","MAMM").
+TFD_subseq('Adf-1-CS',"GCYGYYGYCGY","J Biol Chem 265: 5086-5094 (1990)","DROS").
+TFD_subseq('DBP-CS',"RTTAYGTAAR","Liver Gene Expression, F. Tronche and M. Yaniv (eds.), R. G","MAMM").
+TFD_subseq('enhancer_E_box',"CAAGAACAGATGGTCCCCAG","Mol Cell Biol 12: 3449-3459 (1992)","MAMM").
+TFD_subseq('TB1',"TTCTGGGAA","Mol Cell Biol 12: 2282-2294 (1992)","MAMM").
+TFD_subseq('TFE3-S-Adh-2',"AGATCACGTGTGGGATC","Mol Cell Biol 12: 817-827 (1992)","MAMM").
+TFD_subseq('HNF-1-ApoB-E',"GTTTATCAGTGACTAGTCATTGAT","Mol Cell Biol 12: 1134-1148 (1992)","MAMM").
+TFD_subseq('c/ebp-ApoB-E',"GTGAGGGTGAGGAAATACTGACTTT","Mol Cell Biol 12: 1134-1148 (1992)","MAMM").
+TFD_subseq('ABF-2-MLC2-P',"TTAACCTTGAAGGC","Mol Cell Biol 12: 1107-1116 (1992)","AVIAN").
+TFD_subseq('MLC-2-site-S',"GCTGGTTTACCTATTACAGC","Mol Cell Biol 12: 1107-1116 (1992)","AVIAN").
+TFD_subseq('ABF-1-MLC-2-site-A',"GCCAAAAGTGG","Mol Cell Biol 12: 1107-1116 (1992)","AVIAN").
+TFD_subseq('MLC-2-site-B',"GTTATTTTTA","Mol Cell Biol 12: 1107-1116 (1992)","AVIAN").
+TFD_subseq('MLC2-site-C',"TATTTATTGTTT","Mol Cell Biol 12: 1107-1116 (1992)","AVIAN").
+TFD_subseq('Zta-BMRF1',"GTGGTAGATGACCTTTGAGTCAG","Mol Cell Biol 12: 136-146 (1992)","MAMM").
+TFD_subseq('IGLL-Elambda2-4-A',"ACAAGCTAAAATTAGATCTGTGA","Mol Cell Biol 12: 309-20 (1992)","MAMM").
+TFD_subseq('IGLL-Elambda2-4-B',"GAAAAAGAGAAATAAAAGGAAGTGAAACCAAG","Mol Cell Biol 12: 309-20 (1992)","MAMM").
+TFD_subseq('IGLL_Elambda2-4-C',"GGGCAGGTGTGTCATTGGAG","Mol Cell Biol 12: 309-20 (1992)","MAMM").
+TFD_subseq('IGLL-Elambda3-1-A',"ACAAGCTAAAATTAAATCTGTGA","Mol Cell Biol 12: 309-20 (1992)","MAMM").
+TFD_subseq('IGLL-Elambda3-1-B',"AAAAAGAGAAATAATAGGAACTGAAACCAAGTCCAT","Mol Cell Biol 12: 309-20 (1992)","MAMM").
+TFD_subseq('IGLL-Elambda3-1-C',"GGGCAGGTGTGTCATTGGAG","Mol Cell Biol 12: 309-20 (1992)","MAMM").
+TFD_subseq('catalase-silencer-element',"TGGGGGGAG","Nucleic Acids Res 22: 53-8 (1994)","MAMM").
+TFD_subseq('vimentin-antisilencer_element',"TGCCAAGAGCA","Mol Cell Biol 12: 2230-40 (1992)","AVIAN").
+TFD_subseq('DBP-CYP26',"TAGTCAATTATGCAATATTGATTCAG","Mol Cell Biol 12: 2847-2854 (1992)","MAMM").
+TFD_subseq('RVL-3-1R',"TGATAGGACATGACTCCTTAGTTACGTAGGTTCCT","Mol Cell Biol 12: 2847-2854 (1992)","MAMM").
+TFD_subseq('neu-GTG',"GGTGGGGGGG","Mol Cell Biol 12: 2847-2854 (1992)","MAMM").
+TFD_subseq('TEF-prolactin-BTE',"ACTTCTGCTTTTGA","Mol Cell Biol 12: 2847-2854 (1992)","MAMM").
+TFD_subseq('PTF-7SK-RNA-PSE',"ACCTGTT","Mol Cell Biol 12: 2847-2854 (1992)","MAMM").
+TFD_subseq('ADA-NF1-ADA',"CATGGCAGTTGGTG","Mol Cell Biol 12: 4170-4185 (1992)","MAMM").
+TFD_subseq('TCF-1alpha-ADA',"GAACAAAGGAG","Mol Cell Biol 12: 4170-4185 (1992)","MAMM").
+TFD_subseq('ADA-undefined-site-1',"AGGATCAGAGAGAG","Mol Cell Biol 12: 4170-4185 (1992)","MAMM").
+TFD_subseq('FTZ-F1-ADH',"CACAAGGTC","Mol Cell Biol 12: 661- 673 (1992)","DROS").
+TFD_subseq('DEP3-ADH',"CCTACACTGTAAG","Mol Cell Biol 12: 661- 673 (1992)","DROS").
+TFD_subseq('Sp1-ATP1A1',"GGCGGAGGCGGAGGC","Mol Cell Biol 12: 4046-4055 (1992)","MAMM").
+TFD_subseq('ATP1A1-undefined-site-1',"AGGTTGCTCCGGTAACGG","Mol Cell Biol 12: 4046-4055 (1992)","MAMM").
+TFD_subseq('mMDH-undefined-site-1',"TTCTAGTACCGGGTTGCTAGGGGCGGTCCCAAGATTCC","J Mol Biol 202: 355-64 (1988)","MAMM").
+TFD_subseq('BSAP-CD19-site_1',"GACACCCATGGTTGAGTGCCCTCCAG","Mol Cell Biol 12: 2662-2672 (1992)","MAMM").
+TFD_subseq('BSAP-CD19-site_2',"AATGGGGCCTGAGGCGTGACCACC","Mol Cell Biol 12: 2662-2672 (1992)","MAMM").
+TFD_subseq('HSF1-hsp70A-HSE-distal',"GTGAATCCCAGAAGACTCTGGAGAGTTC","Mol Cell Biol 12: 4104-4111 (1992)","MAMM").
+TFD_subseq('GATA-1-beta-globin-HS-3_(1)',"TCTATC","Proc Natl Acad Sci U S A 89: 5809-5813 (1992)","MAMM").
+TFD_subseq('CAC-bp-beta-globin-HS-3_(1)',"GGTGGGG","Proc Natl Acad Sci U S A 89: 5809-5813 (1992)","MAMM").
+TFD_subseq('GATA-1-beta-globin-HS-3_(2)',"AGATAG","Proc Natl Acad Sci U S A 89: 5809-5813 (1992)","MAMM").
+TFD_subseq('GATA-1-beta-globin-HS-3_(3)',"GATAGA","Proc Natl Acad Sci U S A 89: 5809-5813 (1992)","MAMM").
+TFD_subseq('SRY-CD3-epsilon',"TTCAAAG","EMBO J 11: 3039-3044 (1992)","MAMM").
+TFD_subseq('IL2-EBS2',"AAAGAGTCATCAGAAGAGGAAAAATGAAGGT","Mol Cell Biol 12: 1043-1053 (1992)","MAMM").
+TFD_subseq('rice-actin-site-1',"GCCCAACCCAACCCAAC","Mol Cell Biol 12: 1043-1053 (1992)","PLANT").
+TFD_subseq('rice-actin-MPE',"AAAAAAAAAAAAAGAAAGAAAAAAAAGAAAAAGAAAAA","Mol Cell Biol 12: 1043-1053 (1992)","PLANT").
+TFD_subseq('c-myc-PUR',"GGTGGTGGAGGGAGA","Mol Cell Biol 12: 1257-1265 (1992)","MAMM").
+TFD_subseq('peripherin-PER3',"GCCAGTGGGAGG","EMBO J 11: 2971-80 (1992)","MAMM").
+TFD_subseq('peripherin-PER2-site-1',"CCCCACCCCC","EMBO J 11: 2971-80 (1992)","MAMM").
+TFD_subseq('peripherin-PER1',"TATAAAGCCGCCCCGCATCGGTCTG","EMBO J 11: 2971-80 (1992)","MAMM").
+TFD_subseq('snail-PLA',"AAAGGGTTTTCCCCAA","Genes Dev 6: 1518-1530 (1992)","DROS").
+TFD_subseq('snail-PLA-2_(1)',"AAGCGGAAAACACTGG","Genes Dev 6: 1518-1530 (1992)","DROS").
+TFD_subseq('snail-PLA-2_(2)',"AGCGGGCCAACCCGAC","Genes Dev 6: 1518-1530 (1992)","DROS").
+TFD_subseq('snail-PLA-4',"GTGCGGATTTTCCCGCG","Genes Dev 6: 1518-1530 (1992)","DROS").
+TFD_subseq('snail-VA-1',"TCCGGGATGACCCACC","Genes Dev 6: 1518-1530 (1992)","DROS").
+TFD_subseq('snail-VA-2',"TGGGGGTTTTCATTAT","Genes Dev 6: 1518-1530 (1992)","DROS").
+TFD_subseq('snail-VA-3',"GATGGGAAATTACTTT","Genes Dev 6: 1518-1530 (1992)","DROS").
+TFD_subseq('snail-VA-4',"GCAGGGAAATACGAAA","Genes Dev 6: 1518-1530 (1992)","DROS").
+TFD_subseq('snail-undefined-site-1',"AATTGGAATTCCGCGC","Genes Dev 6: 1518-1530 (1992)","DROS").
+TFD_subseq('snail-undefined-site-2',"GTTGGGAAAGTTTCCCATC","Genes Dev 6: 1518-1530 (1992)","DROS").
+TFD_subseq('twist-snail-AE',"CGCACACGTGCGAG","Genes Dev 6: 1518-1530 (1992)","DROS").
+TFD_subseq('twist-snail-AE-2',"CCACCAAATGGCGA","Genes Dev 6: 1518-1530 (1992)","DROS").
+TFD_subseq('TTF-1-TPO-A',"CTATGAGTGGCACCT","Mol Cell Biol 12: 576-588 (1992)","MAMM").
+TFD_subseq('TTF-1-TPO-B'',"CACACAAGCACTTGGC","Mol Cell Biol 12: 576-588 (1992)","MAMM").
+TFD_subseq('TTF-1-TPO-B',"CAAGCACTTGGCAGAAAC","Mol Cell Biol 12: 576-588 (1992)","MAMM").
+TFD_subseq('TTF-2-TPO-Z',"TACTAAACAAACAGAA","Mol Cell Biol 12: 576-588 (1992)","MAMM").
+TFD_subseq('TTF-1-TPO-C',"CTAAGCTTGAGTGGGCAT","Mol Cell Biol 12: 576-588 (1992)","MAMM").
+TFD_subseq('HNF-3-HNF-3-1',"GCCCTACCCCCACC","Mol Cell Biol 12: 552-62 (1992)","MAMM").
+TFD_subseq('HNF-3-HNF-3-2',"GTTTGTTTT","Mol Cell Biol 12: 552-62 (1992)","MAMM").
+TFD_subseq('LF-H3beta-HNF-3',"GTTACGAA","Mol Cell Biol 12: 552-62 (1992)","MAMM").
+TFD_subseq('UF2-H3beta-HNF-3',"AGTAACCTTGAA","Mol Cell Biol 12: 552-62 (1992)","MAMM").
+TFD_subseq('N-Oct-3-CS',"MATWAAT","Genes Dev 7: 2483-2496 (1993)","MAMM").
+TFD_subseq('Brachyury-CS',"TSACACCTAGGTGTGAAATT","Genes Dev 7: 2483-2496 (1993)","MAMM").
+TFD_subseq('Agamous-CS',"TTWCCWWWWNNGGHWW","Genes Dev 7: 2483-2496 (1993)","PLANT").
+TFD_subseq('AP-1-ANF',"GGGAGCCTCTTGAGTCAAATCAGT","Mol Cell Biol 12: 292-301 (1992)","MAMM").
+TFD_subseq('core-bf-SIV',"GCTAGCCGCAAGAGG","Mol Cell Biol 12: 89-102 (1992)","MAMM").
+TFD_subseq('core-bf-Igh',"AAACCACTA","Mol Cell Biol 12: 89-102 (1992)","MAMM").
+TFD_subseq('core-bf-Igh-2',"GCTGTGGTTTGAAGAAGTGGTTTT","Mol Cell Biol 12: 89-102 (1992)","MAMM").
+TFD_subseq('core-bf-TCRG',"TAAACCACAGC","Mol Cell Biol 12: 89-102 (1992)","MAMM").
+TFD_subseq('core-bf-TCRG-2',"AGACCACAGC","Mol Cell Biol 12: 89-102 (1992)","MAMM").
+TFD_subseq('CAC-bf-HS-40',"AAGGGGTG","Mol Cell Biol 12: 2135- 2142 (1992)","MAMM").
+TFD_subseq('undefined',"CGTGACGCAGCGGTTGCTACGGGCCGCCCTTATAAATA","Mol Cell Biol 12: 2135- 2142 (1992)","MAMM").
+TFD_subseq('NF-4FA-4F2HC',"CTCCTTTCTTTGAAG","Mol Cell Biol 9: 2588-2597 (1989)","MAMM").
+TFD_subseq('NF-4FC-4F2HC',"CTCCGTCACGAGGGTGG","Mol Cell Biol 9: 2588-2597 (1989)","MAMM").
+TFD_subseq('NF-4FB-4F2HC',"AGAAGCCAGTTGCAACCGGTTTCTG","Mol Cell Biol 9: 2588-2597 (1989)","MAMM").
+TFD_subseq('A4_amyloid_protein-undefined-s',"GGGCGCGGG","J Biol Chem 265: 9909-9913 (1990)","UNDEFINED").
+TFD_subseq('MyoD-acetylcholine_receptor',"CCACCAGCACCTGTC","Nature 341: 716-720 (1989)","MAMM").
+TFD_subseq('REB1-ACT1',"ATTTCTCTGTCACCGGCCTC","Mol Microbiol 18: 605-14 (1995)","YEAST").
+TFD_subseq('CBF-alpha-actin',"CCATGAATGG","Mol Cell Biol 8: 4120-3 (1988)","MAMM").
+TFD_subseq('alpha-actin-undefined-site',"TAGCGGGTG","Mol Cell Biol 9: 3269-3283 (1989)","UNDEFINED").
+TFD_subseq('MRE/SRE1',"GCCCGACACCCAAATATGGCG","Mol Cell Biol 11: 3735-44 (1991)","MAMM").
+TFD_subseq('MAPF1-alpha-actin',"CCAAATATGGCGACGGCCGGGG","Mol Cell Biol 11: 3735-3744 (1991)","MAMM").
+TFD_subseq('SRF-alpha-actin_(1)',"ACACCCAAATATGGCTCGAG","Proc Natl Acad Sci U S A 86: 2162-2166 (1989)","MAMM").
+TFD_subseq('SRF-beta-actin',"CCTTATATGG","Nucleic Acids Res 17: 253-270 (1989)","MAMM").
+TFD_subseq('Elk-1-beta-actin',"GTTCCGAAAGTTGCCTTTTATGG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('ETF-beta-actin_(1)',"CTCCCCCCCCTCCCCACCCCC","J Biol Chem 264: 15508-15514 (1989)","AVIAN").
+TFD_subseq('ETF-beta-actin_(2)',"CGGGGGGGGGGGGGGCG","J Biol Chem 264: 15508-15514 (1989)","AVIAN").
+TFD_subseq('ETF-beta-actin_(3)',"CGGGGCGGGGCGGGGCG","J Biol Chem 264: 15508-15514 (1989)","AVIAN").
+TFD_subseq('ETF-beta-actin_(4)',"AGGGGCGGGGCGGGGCG","J Biol Chem 264: 15508-15514 (1989)","AVIAN").
+TFD_subseq('CArG-actin',"CCATACATGG","EMBO J 10: 933-940 (1991)","AMPHIB").
+TFD_subseq('Adf-1-Adh_(2)',"GCCGCTGCTGCTGCA","J Biol Chem 265: 5086-5094 (1990)","DROS").
+TFD_subseq('Adf-1-Adh_(3)',"CCGTCGACGTCGAC","J Biol Chem 265: 5086-5094 (1990)","DROS").
+TFD_subseq('HNF-1-albumin_(2)',"TGGTTAGTAATTACTAA","Mol Cell Biol 10: 991-999 (1990)","MAMM").
+TFD_subseq('HNF-1-albumin_(3)',"TCTAGTTAATAATCTACAAT","EMBO J 9: 4467-4475 (1990)","MAMM").
+TFD_subseq('C/EBP-albumin_(1)',"CTGCGTTACAGCATCCACTC","Proc Natl Acad Sci U S A 86: 1553-1557 (1989)","MAMM").
+TFD_subseq('C/EBP-albumin_(2)',"TGACACTACTTAACATAGG","Proc Natl Acad Sci U S A 86: 1553-1557 (1989)","MAMM").
+TFD_subseq('NLS1-albumin',"CTTGGCCAGTTTTCCATGTACATGCAGAAAGAAGTTTGG","Proc Natl Acad Sci U S A 86: 1553-1557 (1989)","MAMM").
+TFD_subseq('NF-1-albumin',"CTGGCTTTGTGACATT","Proc Natl Acad Sci U S A 86: 1553-1557 (1989)","MAMM").
+TFD_subseq('HNF-3-albumin',"TATTGACTTAG","Proc Natl Acad Sci U S A 86: 1553-1557 (1989)","MAMM").
+TFD_subseq('CBF-albumin',"AACCAATGAAATG","Genes Dev 6: 991-1004 (1992)","MAMM").
+TFD_subseq('HNF-1-pB',"AGTATGGTTAATGATCTACAGTT","J Mol Biol 222: 31-43 (1991)","MAMM").
+TFD_subseq('C/EBP-albumin_(3)',"ATTGGTTAAAGAA","Science 244: 343-346 (1989)","MAMM").
+TFD_subseq('DE-I',"TGGTATGATTTTGTAATGGGGTAGGA","Cell 50: 627-638 (1987)","MAMM").
+TFD_subseq('HP1_site',"GAATAATTTTC","Nucleic Acids Res 17: 939-953 (1989)","MAMM").
+TFD_subseq('PTF1-beta-alpha-amylase',"CTCCATGGGAGTTTCTGAAGAACCTTCAGCTGTGCAC","Cell 67: 987-994 (1991)","MAMM").
+TFD_subseq('Tf-LF1-antithrombin_III',"CCTTTGACCT","Nucleic Acids Res 17: 119-133 (1989)","MAMM").
+TFD_subseq('HNF-4-alpha1-antitrypsin',"CTCAGATCCCAGCCAGTGGACTTAGCCCCTGTTTGC","Genes Dev 4: 2353-2365 (1990)","MAMM").
+TFD_subseq('HNF-1-alpha1-antitrypsin_(1)',"ACCTTGGTTAATATTCACCAGCAG","EMBO J 7: 2075-2087 (1988)","MAMM").
+TFD_subseq('HNF-1-alpha1-antitrypsin_(2)',"GGGTGACCTTGGTTAATATTCACCAGCAG","J Biol Chem 265: 8874-8879 (1990)","MAMM").
+TFD_subseq('Antp-Antp',"ATAATATAATAATAAAAATAATAATAATAATAATATAAT","Science 242: 925-927 (1988)","DROS").
+TFD_subseq('RARE/site_A',"CCCCCACTGAACCCTTGACCCCTGCCC","Nature 358: 587-591 (1992)","MAMM").
+TFD_subseq('distal_region_I/_M',"CTCTCCCCCTCCCCCACCCC","Nucleic Acids Res 17: 2283-2300 (1989)","MAMM").
+TFD_subseq('C/EBP-apoAII',"CCCCTGCTGACTCAATATTGGCTAATCAC","Nucleic Acids Res 17: 2283-2300 (1989)","MAMM").
+TFD_subseq('distal_region_I/_K',"GTGATCAAATG","Nucleic Acids Res 17: 2283-2300 (1989)","MAMM").
+TFD_subseq('distal_region_I/_J',"CTTCAACCTTTACCCTGGT","J Biol Chem 266: 11676-11685 (1991)","MAMM").
+TFD_subseq('distal_region_I/_I',"TCACCTCTTTTCCTGCCAGAGCCC","J Biol Chem 266: 11676-11685 (1991)","MAMM").
+TFD_subseq('apoE-B2-V',"GCCCCCAGAATC","J Biol Chem 263: 8300-8308 (1988)","MAMM").
+TFD_subseq('apoE-ERE',"TGGTCAAAAGACCTCT","J Biol Chem 263: 8300-8308 (1988)","MAMM").
+TFD_subseq('apoE-B1-III',"GCCCCACCTCCT","J Biol Chem 263: 8300-8308 (1988)","MAMM").
+TFD_subseq('apoE-B1-II',"CCCCACCTC","J Biol Chem 263: 8300-8308 (1988)","MAMM").
+TFD_subseq('apoE-B2-II',"GTGACTGGGGGC","J Biol Chem 263: 8300-8308 (1988)","MAMM").
+TFD_subseq('Sp1-apoE',"GCCCGCCC","J Biol Chem 263: 13340-13349 (1988)","MAMM").
+TFD_subseq('apoE-undefined-site-5',"GAGCTCAGGGGCC","J Biol Chem 263: 13340-13349 (1988)","MAMM").
+TFD_subseq('apoE-undefined-site-6',"CGGGGGTGAGGCAAGCAGC","J Biol Chem 263: 13340-13349 (1988)","MAMM").
+TFD_subseq('E2',"GGGGCTCAGTGACCC","Nucleic Acids Res 19: 5371-5377 (1991)","AVIAN").
+TFD_subseq('E1',"AGGTCAGACTGACCT","Nucleic Acids Res 19: 5371-5377 (1991)","AVIAN").
+TFD_subseq('site_C_(11)',"GGTCCAGAGTCC","Nucleic Acids Res 19: 5371-5377 (1991)","MAMM").
+TFD_subseq('ANF-undefined-site',"GGGCACCAGCAAGCGTCA","Mol Cell Biol 12: 292-301 (1992)","MAMM").
+TFD_subseq('OAS-undefined-site',"CTCCTCCCTTCTGAGGAAACGAAACCAACAGCAGT","EMBO J 7: 751-9 (1988)","MAMM").
+TFD_subseq('ME12-element_B',"TGAGGAAACGAAACCA","Proc Natl Acad Sci U S A 88: 144-148 (1991)","MAMM").
+TFD_subseq('ISRE/IRE/B_region',"CTTCTCGGGAAATGGAAACTGAAAATC","J Biol Chem 266: 8765-8770 (1991)","MAMM").
+TFD_subseq('RAP1-BCY',"AACAAAGCACCCAATCACCACCCTTG","Mol Cell Biol 8: 5086-5099 (1988)","YEAST").
+TFD_subseq('BK_virus-undefined-site-1',"ATGACTGGGCAGCCAGCCAGTGGC","Mol Cell Biol 8: 3448-3457 (1988)","MAMM").
+TFD_subseq('NF-1-BK_virus',"TACCCATGGAATGCAGCCAAACCATG","Mol Cell Biol 9: 3821-3828 (1989)","MAMM").
+TFD_subseq('BK_virus-undefined-site-2',"CATGACTGGGCAGCCAGCCAGTG","Mol Cell Biol 9: 3821-3828 (1989)","MAMM").
+TFD_subseq('E2-BPV-1-1',"ACCGGCGGCGGTAGA","EMBO J 7: 525-531 (1988)","MAMM").
+TFD_subseq('E2-BPV-1-2',"CTCCACCCCTCCTGGTAA","Cell 65: 493-505 (1991)","MAMM").
+TFD_subseq('RII',"CCCTGACCATCACATGGGGCATT","J Virol 64: 1217-1226 (1990)","MAMM").
+TFD_subseq('Zta-BSLF2+BMLF1/BC-R2',"GAAGCACTGACTCATGAA","J Virol 66: 70-77 (1992)","MAMM").
+TFD_subseq('TAF-CIII-sub_II',"CTGATCATTCCCAACGAACCAATAG","Nucleic Acids Res 18: 2769-2776 (1990)","YEAST").
+TFD_subseq('TAF-CIII-sub_VI',"ACCGTTCCACGTGACTAG","Nucleic Acids Res 16: 7287-7301 (1988)","YEAST").
+TFD_subseq('PTF1-beta-carboxypeptidase_A',"CCCCATGGGACTTGATCCAGATGTGAGG","Mol Cell Biol 9: 2464-2476 (1989)","MAMM").
+TFD_subseq('REB1-CDC9/_DNA_ligase',"TTCATCATTACCCGGATGAT","Mol Cell Biol 10: 1743-1753 (1990)","YEAST").
+TFD_subseq('AGP/EBP-artificial_sequence',"TGCAGATTGCGCAATCTGCA","Genes Dev 7: 1047-1058 (1993)","UNDEFINED").
+TFD_subseq('CHS-box-II',"TCCACGTGGC","EMBO J 10: 1777-1786 (1991)","PLANT").
+TFD_subseq('chalcone_synthase-undefined-si',"AACCTAACCT","EMBO J 10: 1777-1786 (1991)","PLANT").
+TFD_subseq('site_1.4-1',"AGAAAAATTAGTATTTTT","Nucleic Acids Res 18: 1739-1747 (1990)","AVIAN").
+TFD_subseq('site_1.4-2',"AATTAATGACCA","Nucleic Acids Res 18: 1739-1747 (1990)","AVIAN").
+TFD_subseq('site_a-1',"AACCCAATTAGAA","Nucleic Acids Res 18: 1739-1747 (1990)","AVIAN").
+TFD_subseq('site_a-1'',"AGTGCAATTGGCT","Nucleic Acids Res 18: 1739-1747 (1990)","AVIAN").
+TFD_subseq('site_a-1''',"TTCTCGTTATCT","Nucleic Acids Res 18: 1739-1747 (1990)","AVIAN").
+TFD_subseq('site_a-2',"ACTGATTGCCTAATTTTA","Nucleic Acids Res 18: 1739-1747 (1990)","AVIAN").
+TFD_subseq('site_a-3',"AGAAAAATTAGTATTTTC","Nucleic Acids Res 18: 1739-1747 (1990)","AVIAN").
+TFD_subseq('site_a-4',"AATTAATGGCCA","Nucleic Acids Res 18: 1739-1747 (1990)","AVIAN").
+TFD_subseq('alpha1-undefined-site-1',"GTGGTTAGC","Proc Natl Acad Sci U S A 84: 8869-8873 (1987)","MAMM").
+TFD_subseq('CBF-alpha1',"CAGGCAGTTCTGATTGGCTGGGGGCCGGG","J Biol Chem 265: 9934-9942 (1990)","MAMM").
+TFD_subseq('NF-1-alpha2',"TTGGCAAGGCCGA","Cell 52: 405-414 (1988)","MAMM").
+TFD_subseq('EFI-alpha2',"GCCCAGCCCTCCCATTGGTGGAGACG","J Biol Chem 265: 22243-22254 (1990)","AVIAN").
+TFD_subseq('GBF-CP1',"AAAGGAATGGGGGTTC","Genes Dev 4: 419-432 (1990)","UNDEFINED").
+TFD_subseq('HNF-1-CRP',"TTTGTAATAAATAACTCA","EMBO J 9: 457-465 (1990)","MAMM").
+TFD_subseq('AGP/EBP-CRP',"CAATGTTGGAAAATTATTTACAT","EMBO J 9: 457-465 (1990)","MAMM").
+TFD_subseq('C/EBP-CRP',"AGTGGCGCAA","Cell 63: 643-653 (1990)","MAMM").
+TFD_subseq('MEF-2-mck',"GGAGGAGAAGCTCGCTCTAAAAATAACCCT","Genes Dev 6: 1783-1798 (1992)","MAMM").
+TFD_subseq('E1_site',"CCTGGACACGTGGTTGC","Genes Dev 6: 1783-1798 (1992)","MAMM").
+TFD_subseq('E3_site',"CTTGCTCTAAAAATAACTC","Genes Dev 5: 2327-2341 (1991)","MAMM").
+TFD_subseq('alphaA-crystallin-undefined-s1',"GGTGCAGCCTCTCC","Genes Dev 5: 2327-2341 (1991)","UNDEFINED").
+TFD_subseq('alphaA-crystallin-undefined-s2',"GCCTCTC","Genes Dev 5: 2327-2341 (1991)","UNDEFINED").
+TFD_subseq('alphaA-crystallin-undefined-s3',"GCATAGAC","Genes Dev 5: 2327-2341 (1991)","UNDEFINED").
+TFD_subseq('HAP1-delta1-crystallin',"AGAACCTCCGTTATCTCCATTCC","EMBO J 7: 1799-1804 (1988)","UNDEFINED").
+TFD_subseq('TAF-CYC1',"TCCGTGTGAGACGACATC","Nucleic Acids Res 16: 7287-7301 (1988)","YEAST").
+TFD_subseq('XRE2',"CTAGCGTGACA","Mol Cell Biol 11: 4314-4323 (1991)","MAMM").
+TFD_subseq('cytochrome_P-450c-undefined-si',"CCCGACCTCTGCCCCC","Mol Cell Biol 10: 5098-105 (1990)","MAMM").
+TFD_subseq('DHFR-undefined-site-1',"GGATTGGC","Mol Cell Biol 10: 1390-1398 (1990)","MAMM").
+TFD_subseq('DHFR-undefined-site-2',"GGTATTGGC","Mol Cell Biol 10: 1390-1398 (1990)","MAMM").
+TFD_subseq('Adf-1-Ddc',"CAGCGGCTGCGGA","J Biol Chem 265: 5086-5094 (1990)","DROS").
+TFD_subseq('element_I',"TGAACCGGTCCTGCGG","J Biol Chem 265: 5086-5094 (1990)","DROS").
+TFD_subseq('Oct-3-RS',"TTAAAATTCA","Cell 60: 461-472 (1990)","MAMM").
+TFD_subseq('NF-1-E1a',"TACTGGACTAGTGCCAATATT","Biochim Biophys Acta 1048: 85-92 (1990)","MAMM").
+TFD_subseq('NF-1-E1a',"TACTGGACTAGTGCCAATATTAAAATGAAGTGG","Biochim Biophys Acta 1048: 85-92 (1990)","MAMM").
+TFD_subseq('E1a-undefined-site',"TGGAGGTGTGGCTTTGG","Biochim Biophys Acta 1048: 85-92 (1990)","MAMM").
+TFD_subseq('element_C',"AGCGCCATTATGAG","Mol Cell Biol 7: 3806-3817 (1987)","MAMM").
+TFD_subseq('E2-early_promoter-undefined-s1',"GACGTAGTTTTCGCGCTTAAATTTGAGAAAGGGCGCGAAACTAGT","Proc Natl Acad Sci U S A 85: 2484-2488 (1988)","MAMM").
+TFD_subseq('DRTF1-E2-early_promoter_(1)',"AATTTAAGCGCGAAAACTA","Mol Cell Biol 12: 4327-4333 (1992)","MAMM").
+TFD_subseq('E2-early_promoter-undefined-s2',"ACTCTTAAGG","Proc Natl Acad Sci U S A 84: 6112-6116 (1987)","MAMM").
+TFD_subseq('element_T1',"CTGACTCTTAAGGAC","Proc Natl Acad Sci U S A 84: 6112-6116 (1987)","MAMM").
+TFD_subseq('CTF-E3',"TAGTTGGCCCGCTGCCCTGGTGTA","EMBO J 9: 4435-4442 (1990)","MAMM").
+TFD_subseq('TFIID-E3',"GGGCAGGGTATAACTCACCTGA","EMBO J 9: 4435-4442 (1990)","MAMM").
+TFD_subseq('CAP-E4',"AAAAAATGACGTAACGGTTAAAGTCCACAAAAAACA","Nature 340: 656-659 (1989)","MAMM").
+TFD_subseq('RAP1-E8',"AACACCCAAGCACAG","J Biol Chem 265: 14669-14674 (1990)","YEAST").
+TFD_subseq('RAP1-RPG_box',"ACCTCCGTACATTCATGTTGCACCCACACATTTATACACCCAGAC","Genes Dev 5: 616-628 (1991)","YEAST").
+TFD_subseq('Sp1-EGF_receptor_(1)',"GCGCCGCCCCACTC","J Biol Chem 263: 5693-5699 (1988)","MAMM").
+TFD_subseq('EGF_receptor-undefined-site-1',"ACCGCTGTCCACCGCC","J Biol Chem 263: 5693-5699 (1988)","MAMM").
+TFD_subseq('EGF_receptor-undefined-site-2',"TTCTCCTCCCTCCTCCTCGCATTCTCCTCCTCCTC","J Biol Chem 263: 5693-5699 (1988)","MAMM").
+TFD_subseq('Sp1-EGF_receptor_(2)',"ATCCCTCCTC","J Biol Chem 263: 5693-5699 (1988)","MAMM").
+TFD_subseq('Sp1-EGF_receptor_(3)',"GTCCCTCCTCCTCCCGCCC","J Biol Chem 263: 5693-5699 (1988)","MAMM").
+TFD_subseq('ETF-EGF_receptor_(1)',"GCCCTGCCTCCCC","J Biol Chem 264: 15508-15514 (1989)","MAMM").
+TFD_subseq('Sp1-EGF_receptor_(4)',"TCCGCCCCCCGCACGG","J Biol Chem 263: 5693-5699 (1988)","MAMM").
+TFD_subseq('ETF-EGF_receptor_(2)',"GCCCCCCGCAC","J Biol Chem 264: 15508-15514 (1989)","MAMM").
+TFD_subseq('EGF_receptor-undefined-site-3',"CGCCGAGGCGGCCGGAGTCCCGAGC","J Biol Chem 264: 15508-15514 (1989)","MAMM").
+TFD_subseq('EGF_receptor-undefined-site-4',"CCAGACCGGACGAC","J Biol Chem 264: 15508-15514 (1989)","MAMM").
+TFD_subseq('RPF1-EGF_receptor',"TCCGCCCGAGTCCCCGCCTCGCCGCC","J Biol Chem 268: 16065-16073 (1993)","MAMM").
+TFD_subseq('EGF_receptor-undefined-site-5',"TGATCGGGAGAGCCGGAGCGA","J Biol Chem 268: 16065-16073 (1993)","MAMM").
+TFD_subseq('windows_1-3',"TTACAATATTGCCAAAT","J Biol Chem 268: 16065-16073 (1993)","MAMM").
+TFD_subseq('windows_6/7',"GAAGGAACTGGT","J Biol Chem 268: 16065-16073 (1993)","MAMM").
+TFD_subseq('window_8',"TTCTTCTC","J Biol Chem 268: 16065-16073 (1993)","MAMM").
+TFD_subseq('elastase_I-undefined-site-1',"GGGTTAACTG","Mol Cell Biol 8: 893-902 (1988)","MAMM").
+TFD_subseq('elastase_I-undefined-site-2',"CTGTCTTTGA","Mol Cell Biol 8: 893-902 (1988)","MAMM").
+TFD_subseq('elastase_I-B-element',"AATATCAGATAAATGAGTTGACTT","Mol Cell Biol 18: 5109-20 (1998)","MAMM").
+TFD_subseq('elastase_I-undefined-site-4',"TCATTTGTA","Mol Cell Biol 8: 893-902 (1988)","MAMM").
+TFD_subseq('PTF1-beta-elastase_I',"CATGTCACCTGTGCTTTTCCCTGCCTT","J Biol Chem 276: 44018-26 (2001)","MAMM").
+TFD_subseq('elastase_I-undefined-site-5',"TGTCACCTGT","Mol Cell Biol 11: 4985-4997 (1991)","MAMM").
+TFD_subseq('XPF-1-elastase_I',"CCCTGCCCAGCTGGC","Mol Cell Biol 11: 4985-4997 (1991)","MAMM").
+TFD_subseq('elastase_I-undefined-site-6',"TGCTGATAAGAGCC","Mol Cell Biol 11: 4985-4997 (1991)","MAMM").
+TFD_subseq('elastase_I-undefined-site-7',"TCCGCTCATGGCAAGGGGC","Mol Cell Biol 11: 4985-4997 (1991)","MAMM").
+TFD_subseq('elastase_II-site_I',"GACTTTGGGAAAATCTCCACCTTGCATA","Mol Cell Biol 9: 2464-2476 (1989)","MAMM").
+TFD_subseq('ENKTF-1-factor-IX',"GCCATTGGAAATAGTCCAAAGACC","Nature 345: 444-446 (1990)","MAMM").
+TFD_subseq('C/EBP-factor_IX',"ACCACTTTCACAATCTGCTA","Nature 345: 444-446 (1990)","MAMM").
+TFD_subseq('ICSBP-complement_factor_B',"TGCAGTTTCTGTTTCCTT","Proc Natl Acad Sci U S A 87: 3743-3747 (1990)","MAMM").
+TFD_subseq('HNF-1-alpha-fetoprotein_(1)',"TGTTAATTATTGGCAAATTGCCTAACTTCA","Mol Cell Biol 9: 4204-4212 (1989)","MAMM").
+TFD_subseq('HNF-1-alpha-fetoprotein_(2)',"GAAGGTTACTAGTTAACAGA","J Biol Chem 263: 10865-10871 (1988)","MAMM").
+TFD_subseq('NF-1-FIB2',"GCTCTTGGCCCAAAGCCAGACCGG","EMBO J 8: 1841-1848 (1989)","MAMM").
+TFD_subseq('YMRF_site',"GGCCACGTGACC","Mol Cell Biol 9: 820-822 (1989)","YEAST").
+TFD_subseq('Sp1-gamma-fibrinogen',"GTCCCGCCCA","Mol Cell Biol 8: 2628-2637 (1988)","MAMM").
+TFD_subseq('SGF-2-fibroin_(1)',"TAAGAACAATAAGATCAATTAAATCATAATTAATCACATTGTTC","J Mol Biol 213: 651-670 (1990)","INSECT").
+TFD_subseq('SGF-2-fibroin_(2)',"TCACAATTTAATTTACTTCATACGTTGTATT","J Mol Biol 213: 651-670 (1990)","INSECT").
+TFD_subseq('SGF-2-fibroin_(3)',"TAAATAAAAAGATTAATTTCTATGTAATTGT","J Mol Biol 213: 651-670 (1990)","INSECT").
+TFD_subseq('CREB-fibronectin',"GTGACGCAAT","J Biol Chem 266: 1122-1127 (1991)","MAMM").
+TFD_subseq('NF-1-fibronectin',"CGGAGCCCGGGCCAAT","J Biol Chem 265: 18219-18226 (1990)","MAMM").
+TFD_subseq('DSE',"CCCCCCTTACACAGGATGTCCATATTAGGACATCTGCGTC","Nature 340: 68-70 (1989)","MAMM").
+TFD_subseq('undefined-c-fos-US',"AGAGGGCCTTGGGGCGCGCT","Mol Cell Biol 6: 4305-4316 (1986)","MAMM").
+TFD_subseq('GAL4-artificial_sequence_(1)',"CGGAGGACAGTACTCCG","Genes Dev 5: 1285-1298 (1991)","YEAST").
+TFD_subseq('GAL4-GAL7_(1)',"ATACTTCGGAGCACTGTTGAGCG","EMBO J 5: 603-608 (1986)","YEAST").
+TFD_subseq('GAL4-GAL7_(2)',"AGCGCTCGGACAACTGTTGACC","EMBO J 5: 603-608 (1986)","YEAST").
+TFD_subseq('CTF-alpha-globin',"CGGGCTCCGCGCCAGCCAATGAGCGCCGCC","J Biol Chem 265: 13362-9 (1990)","MAMM").
+TFD_subseq('EFgammaa-alphaA-globin',"GCAACTGATAAGGAT","Mol Cell Biol 8: 3215-26 (1988)","MAMM").
+TFD_subseq('alpha-CP2a/-alphaA-globin',"CAAGTTTTACTGGGTAGAGCAAGCACAAACCAGCCAAT","Mol Cell Biol 8: 3215-3226 (1988)","MAMM").
+TFD_subseq('GATA-1-3'-site',"CCTGTGATAAGGA","Mol Cell Biol 9: 2606-2614 (1989)","UNDEFINED").
+TFD_subseq('GATA-1-alphaA-globin_(1)',"TCTTATCACG","Mol Cell Biol 9: 893-901 (1989)","UNDEFINED").
+TFD_subseq('GATA-1-alphaA-globin_(2)',"GTGGGCAGCAGATAG","Mol Cell Biol 9: 893-901 (1989)","UNDEFINED").
+TFD_subseq('GATA-1-beta-globin_(1)',"ACTATCAC","Genes Dev 2: 1089-1100 (1989)","MAMM").
+TFD_subseq('GATA-1-beta-globin_(2)',"CCTATCAT","Genes Dev 2: 1089-1100 (1989)","MAMM").
+TFD_subseq('GATA-1-beta-globin_(3)',"AAGATTAG","Genes Dev 2: 1089-1100 (1989)","MAMM").
+TFD_subseq('betaH-globin-undefined-site',"CTTGGGGCTGTGGCTACGAGAT","Nature 343: 92-96 (1990)","AVIAN").
+TFD_subseq('GATA-1-betaH-globin_(1)',"TGTGAGATGAAG","Nucleic Acids Res 17: 1299-1314 (1989)","UNDEFINED").
+TFD_subseq('TGGCA-binding-betaH-globin',"CTTTTCCCCTTGGACAG","Nucleic Acids Res 17: 1299-1314 (1989)","AVIAN").
+TFD_subseq('GATA-1-betaH-globin_(2)',"GATCCAAATTTGCTATCTTTCCT","Nucleic Acids Res 17: 1299-1314 (1989)","AVIAN").
+TFD_subseq('GATA-1-betaH-globin_(3)',"CTGAGATTAGG","Nucleic Acids Res 17: 1299-1314 (1989)","AVIAN").
+TFD_subseq('GATA-1-betaM-globin_(1)',"CAGTAGTTGATTGAGCA","Mol Cell Biol 9: 2606-2614 (1989)","MAMM").
+TFD_subseq('GATA-1-betaM-globin_(2)',"GCACAGATAAGGAC","Mol Cell Biol 11: 4324-4332 (1991)","MAMM").
+TFD_subseq('betaM-globin-undefined-site',"TCCTCACCGAAGC","Mol Cell Biol 11: 4324-4332 (1991)","UNDEFINED").
+TFD_subseq('EFgammaa-betaM-globin',"CCTTCCTATCAGA","Mol Cell Biol 9: 2606-2614 (1989)","UNDEFINED").
+TFD_subseq('Spi-1-betaM-globin_(1)',"AAAAAAAGGGGAAGCGATTC","Mol Cell Biol 13: 2929-41 (1993)","MAMM").
+TFD_subseq('Spi-1-betaM-globin_(2)',"TTGTCATTTCCTCTTTCTTT","Mol Cell Biol 13: 2929-41 (1993)","MAMM").
+TFD_subseq('gamma-globin-undefined-site-1',"AGAATAAATTA","Mol Cell Biol 8: 381-392 (1988)","UNDEFINED").
+TFD_subseq('GATA-1-gamma-globin_(1)',"TATCTCAATGCAAATATCT","Nucleic Acids Res 18: 6863 (1990)","UNDEFINED").
+TFD_subseq('GATA-1-gamma-globin_(2)',"ACTATCTCAATGCAAATATCTGTC","J Biol Chem 266: 11965-11974 (1991)","UNDEFINED").
+TFD_subseq('GATA-1-gamma-globin_(3)',"ACTATCTCAATGCAAAT","Nucleic Acids Res 18: 1977 (1990)","UNDEFINED").
+TFD_subseq('EFgammaa-gamma-globin',"CTATCTCAATG","Mol Cell Biol 8: 5310-5322 (1988)","UNDEFINED").
+TFD_subseq('Sp1-zeta-globin_(1)',"GGGAGGGTGGGG","Mol Cell Biol 10: 282-294 (1990)","MAMM").
+TFD_subseq('GATA-1-zeta-globin',"CTATCT","Mol Cell Biol 10: 282-294 (1990)","MAMM").
+TFD_subseq('ZF1-zeta-globin',"GACTCTGTGGTCAGACTCTGGCCAACAC","Mol Cell Biol 10: 282-294 (1990)","MAMM").
+TFD_subseq('ZF2-zeta-globin',"AGGAGTGACAGCCCCCAAACCC","Mol Cell Biol 10: 282-294 (1990)","MAMM").
+TFD_subseq('Sp1-zeta-globin_(2)',"CACCACCCCTGCAGCCCCCTCCCC","Mol Cell Biol 10: 282-294 (1990)","MAMM").
+TFD_subseq('alpha2uNF3-alpha-2u_globulin',"TGTTTTGCGAAATGTATGAGTGATAGAAT","J Biol Chem 264: 21891-21895 (1989)","MAMM").
+TFD_subseq('alpha2uNF2-alpha-2u_globulin',"GATGACATCGCCAAGTTTCAA","J Biol Chem 264: 21891-21895 (1989)","MAMM").
+TFD_subseq('alpha2uNF1-alpha-2u_globulin',"ACAATCCTTGGCTTCACATCAG","J Biol Chem 264: 21891-21895 (1989)","MAMM").
+TFD_subseq('Sp1-alpha-2u_globulin',"ATACTGCC","J Biol Chem 264: 1754-1759 (1989)","MAMM").
+TFD_subseq('CBF-alpha-2u_globulin',"CCATGTGAGAAGG","J Biol Chem 264: 1754-1759 (1989)","MAMM").
+TFD_subseq('AP-1-alpha-2u_globulin',"ACTGCAGTGGCTAAG","J Biol Chem 264: 1754-1759 (1989)","UNDEFINED").
+TFD_subseq('glucagon-IRE',"TAGTTTTTCACGCCTGACTGAGATTGAAGGGT","J Biol Chem 275: 32708-15 (2000)","MAMM").
+TFD_subseq('glucagon-G2-element',"CAAGAGTAAATAAAAAGTTTCCG","Mol Cell Biol 14: 3514-23 (1994)","MAMM").
+TFD_subseq('glucagon-G1-element',"ACAAAACCCCATTATTTACAGATGAGAAATTTATATTG","Endocrinol 127: 2217-22 (1990)","MAMM").
+TFD_subseq('TSH-alpha-URE',"CAAAAATGACCTAAGGGTTGAAACAAGATAAGATCAAATTG","J Biol Chem 263: 9879-86 (1988)","MAMM").
+TFD_subseq('NF-1-glycoprotein_hormone_alph',"AAGTACCCTTCAATCATTGG","J Biol Chem 263: 9879-9886 (1988)","MAMM").
+TFD_subseq('GPIIb_-undefined-site',"TTCCTGTGGAGGAA","Nature 344: 447-449 (1990)","UNDEFINED").
+TFD_subseq('CK-1/_CK-2',"GAGATTCCACAGTTCAGGTA","Mol Cell Biol 12: 4357-4363 (1992)","MAMM").
+TFD_subseq('NF-kappaB-GM-CSF_(1)',"GGAGATTCCAC","Mol Cell Biol 10: 1281-1286 (1990)","MAMM").
+TFD_subseq('NF-kappaB-GM-CSF_(2)',"GGTAGTTCCC","Mol Cell Biol 10: 1281-1286 (1990)","MAMM").
+TFD_subseq('Sp1-growth_hormone',"TGTGTGGGAGGAGCTTCTAAATTAT","J Biol Chem 266: 9805-9813 (1991)","MAMM").
+TFD_subseq('GHF3_binding_site',"GATCTTGCGTAACCATTGC","J Biol Chem 35: 21484-9 (1996)","MAMM").
+TFD_subseq('T3RE_(3)',"AGGTAAGATCAGGGACGTGACCGCA","Endocrinology 129: 3331-3336 (1991)","MAMM").
+TFD_subseq('GH-PRE',"GACCGCAGGAGAGCAGT","J Biol Chem 265: 7022-7028 (1990)","MAMM").
+TFD_subseq('T3R-growth_hormone',"CTTGGGAGTCCCAGGCAGAGGTCACT","EMBO J 9: 887-896 (1990)","MAMM").
+TFD_subseq('su(Hw)-gypsy',"AAAAAATAAGTGCTGCATACTTTTTAG","Genes Dev 4: 1505-1515 (1990)","DROS").
+TFD_subseq('su(f)-gypsy',"GTTGTGTATCTGGCCACGTAATAAGT","EMBO J 8: 903-911 (1989)","DROS").
+TFD_subseq('haptoglobin-undefined-site',"TTACTGGAAAAGATAGTGACC","Cell 63: 643-653 (1990)","MAMM").
+TFD_subseq('C/EBP-haptoglobin',"AATTACGAAATGGA","Cell 63: 643-653 (1990)","MAMM").
+TFD_subseq('HBV-enhancer_II',"GCCCAAGGTCTTACATAAGAGGACTCTTGGA","J Biol Chem 265: 20731-20734 (1990)","MAMM").
+TFD_subseq('BAS1-HIS4',"TAATAGTGACTCCGGTAAATT","Science 246: 931-935 (1989)","YEAST").
+TFD_subseq('PHO2-HIS4_(1)',"TAATAGTGACTCCGGTAAATTAGTTAATTAA","Science 246: 931-935 (1989)","YEAST").
+TFD_subseq('PHO2-HIS4_(2)',"GGTAAATTAGTTAATTAATT","Science 246: 931-935 (1989)","YEAST").
+TFD_subseq('HiNF-B-histone_H1',"GATTGGACGCTCCACCAATCA","Genes Dev 3: 1982-1990 (1990)","MAMM").
+TFD_subseq('histone_H1-beta-undefined-site',"CAAGTTTTAAATCTGATTCTGTA","Genes Dev 3: 1982-1990 (1990)","UNDEFINED").
+TFD_subseq('histone_H3-undefined-site',"TCCACAGTGGATATAGCAGCTAAGGGGTTAACAAAATGACGTCA","Cell 50: 347-359 (1987)","MAMM").
+TFD_subseq('HiNF-D3-histone_H3',"CACAGAGATGGACCAATGCAGGAAGGG","Nucleic Acids Res 17: 2333-2350 (1989)","MAMM").
+TFD_subseq('histone_H3.2_site_X',"CGAGTCAG","Nucleic Acids Res 23: 475-84 (1995)","MAMM").
+TFD_subseq('ASF-1-histone_H3',"TTCGGCCACGTCACCAATCCG","J Biol Chem 269: 9974-9985 (1994)","PLANT").
+TFD_subseq('histone_H4-site_II',"CTTTCGGTTTTCAATCTGGTCCGATACTCTTGTATATCAGG","Proc Natl Acad Sci U S A 88: 2573-2577 (1991)","MAMM").
+TFD_subseq('AP-1-HIV-1',"GGAGTCAGATATCCACTGAC","Science 239: 1150-1153 (1988)","MAMM").
+TFD_subseq('NRE/_site_1',"TGCTACAAGCTAGTACCAGTTGAGCC","Science 239: 1150-1153 (1988)","MAMM").
+TFD_subseq('c-Rel-HIV-1',"GGGACTTTCCGCTGGGGACTTTCCAG","Proc Natl Acad Sci U S A 88: 9426-9430 (1991)","MAMM").
+TFD_subseq('EBP-1-HIV-1',"GGGACTTTCCGCTGGGGACTTTCC","EMBO J 8: 765-778 (1989)","MAMM").
+TFD_subseq('FP2',"TGCTGGAACTCGACCAGCTATTGGTTGGCTCGGCCGTGGTGAGAG","J Biol Chem 261: 3717-24 (1996)","MAMM").
+TFD_subseq('HMRE_ARS_(3)',"ATCAATACATCATAAAATACGAACGATC","Mol Cell Biol 11: 5648-5659 (1991)","YEAST").
+TFD_subseq('RAP1-HMR',"TATTGCAAAAACCCATCAACCTTG","Mol Cell Biol 11: 5648-5659 (1991)","YEAST").
+TFD_subseq('CCBF-HO',"GATCCACGAAAA","Mol Cell Biol 13: 1069-1077 (1993)","YEAST").
+TFD_subseq('F_region',"CGCGGGGCGCGGGGGCGGGGCGCG","Mol Cell Biol 10: 3456-3467 (1990)","MAMM").
+TFD_subseq('E-region',"AGCGCGCGCGGGCGGGGGAG","Mol Cell Biol 10: 3456-3467 (1990)","MAMM").
+TFD_subseq('NF-1-Hox-1.5',"GGTGAGTAGTTGCCAAA","Nucleic Acids Res 17: 3519-3533 (1989)","UNDEFINED").
+TFD_subseq('NF-1-HPV-8_(1)',"CTCAGTTTAGTGCCAGA","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-8_(2)',"TTAGGTCGCCTGCCAAG","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-8_(3)',"GTATTGATCTTGCCAAT","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-8_(4)',"TTTGGCAGCGCTTTTGGCA","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-11_(1)',"ATATGTTGTGTGCCAAG","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-11_(2)',"TGCCAAGTATCTTGCCAAC","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-11_(3)',"TGTGGATTGCAGCCAAA","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-11_(4)',"TTTGGCTTCTAGCTGAA","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-16_(1)',"TTTGGCACAAAATGTGT","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-16_(2)',"TTGCCATGCGTGCCAAA","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-16_(3)',"CTGCACTGCTTGCCAAC","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-16_(4)',"AATCACTATGCGCCAAC","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-16_(5)',"TTTGGCTTGTTTTAACT","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-16_(6)',"TTTGGCATAAGGTTTAA","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-16_(7)',"AAACTTCTAAGGCCAAC","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-18_(1)',"GCTGGCACTATTGCAAA","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-18_(2)',"ATGGCGCGCCTCTTTGGC","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('NF-1-HPV-18_(3)',"CTTGGCTTGTACAACTA","Nucleic Acids Res 17: 3519-3533 (1989)","MAMM").
+TFD_subseq('EcR-hsp27',"GACAAGGGTTCAATGCACTTGTC","Cell 67: 59-77 (1991)","DROS").
+TFD_subseq('HSTF-hsp70',"CGAGAAATTTCTCTGGCCGT","Cell 42: 527-537 (1985)","DROS").
+TFD_subseq('HSF-hsp70_(1)',"GCCTCGAATGTTCGCGAAGTTTCG","J Cell Physiol 149: 560-566 (1991)","DROS").
+TFD_subseq('HSF-hsp70_(2)',"CTGGAATATTCCCGACCTGGCAGCCTCATC","Proc Natl Acad Sci U S A 87: 6263-6267 (1990)","MAMM").
+TFD_subseq('HSF-hsp83',"GAAGCCTCTAGAAGTTTCTAGAGACTTC","Mol Cell Biol 10: 752-759 (1990)","DROS").
+TFD_subseq('NF-1-CMV-IE1',"TTGGACATGAGCCAA","Virology 174: 18-25 (1990)","MAMM").
+TFD_subseq('CMV-IE-1-undefined-site',"GTAAGTTATGTAACGCGGAACT","Virology 174: 18-25 (1990)","MAMM").
+TFD_subseq('CMV-enhancer/_19_bp_repeat_(1)',"GCCCATTGACGTCAATAAT","Differentiation 56: 119-29 (1994)","MAMM").
+TFD_subseq('CMV-enhancer/_19_bp_repeat_(2)',"GTCATTGACGTCAATAGGG","Differentiation 56: 119-29 (1994)","MAMM").
+TFD_subseq('enhancer/_18_bp_repeat_(1)',"TTTGACTCACGGGGATTTCCAAG","Nucleic Acids Res 19: 3715-3721 (1991)","MAMM").
+TFD_subseq('AP-1-IE-1',"CTTGGAAATCCCCGTGAGTCAAA","EMBO J 8: 4251-4258 (1989)","MAMM").
+TFD_subseq('NF-kappaB-IE-1',"GATCCATCAACGGGACTTTCCAAGATC","EMBO J 8: 4251-4258 (1989)","MAMM").
+TFD_subseq('Oct-1-IE-1',"TGCATGCTAATGAGAT","Nucleic Acids Res 19: 4531-4535 (1991)","MAMM").
+TFD_subseq('alphaH2-alphaH3-IE-2',"ATATGCTAATTAAATACATGCCACG","J Virol 65: 3504-3513 (1991)","MAMM").
+TFD_subseq('Oct-1-IE-3',"CCCTGCCCGTTCCTCGTTAGCATGC","Proc Natl Acad Sci U S A 84: 71-75 (1987)","MAMM").
+TFD_subseq('Oct-1-IE-3',"GGTAATGAGATGCC","Virus Res 19: 199-208 (1991)","MAMM").
+TFD_subseq('Oct-1-IE-3',"TAATGGAAT","Cell 52: 435-445 (1988)","MAMM").
+TFD_subseq('Oct-1-IE-4/5',"GGTAATGAGATACG","Cell 52: 425-434 (1988)","MAMM").
+TFD_subseq('IFI-56K-undefined-site',"TTTATCTGTTTTAAA","Nature 317: 179-182 (1985)","UNDEFINED").
+TFD_subseq('C/EBP-V1/VH-III',"TGCATTTTGTAATAATAAC","Genes Dev 4: 1404-1415 (1990)","MAMM").
+TFD_subseq('muEBP-E-IgHC-site',"AAAAGCCTTGCCTCATGA","Mol Cell Biol 8: 4972-4980 (1988)","MAMM").
+TFD_subseq('Oct-1-IgH-1',"CTCATGAATATGCAAAT","Mol Cell Biol 10: 982-990 (1990)","MAMM").
+TFD_subseq('IgM-enhancer_site_E',"AATGAATTGAGCAATGTTGA","Eur J Immunol 30: 174-84 (2000)","MAMM").
+TFD_subseq('96K-protein-immunoglobulin_hea',"TTTTAGGAAGCAAAAAAA","Mol Cell Biol 11: 5229-5243 (1991)","UNDEFINED").
+TFD_subseq('IgHC-undefined-site-2',"ATTTTCAT","Mol Cell Biol 11: 5229-5243 (1991)","UNDEFINED").
+TFD_subseq('kBF-A-immunoglobulin_kappa_lig',"TTTTCGTTTTTAC","Nucleic Acids Res 18: 1037-1043 (1990)","UNDEFINED").
+TFD_subseq('muEBP-E-Igklc-site',"TCTGGCAGTTGCTTAAGATCAGAA","Mol Cell Biol 8: 4972-4980 (1988)","MAMM").
+TFD_subseq('Isl-1-insulin',"TTAATAATCTAATTA","Nature 344: 879-882 (1990)","MAMM").
+TFD_subseq('Far_box',"GGCCATCTGG","Mol Cell Biol 8: 2620-2627 (1988)","MAMM").
+TFD_subseq('AP-1-insulin',"TTAATAATCTAATTACC","Mol Cell Biol 8: 982-987 (1988)","MAMM").
+TFD_subseq('insulin-undefined-site',"GTTGTTGACGTCCAA","Mol Cell Biol 8: 982-987 (1988)","MAMM").
+TFD_subseq('Nir_box_(2)',"CTCGCCATCTGC","Mol Cell Biol 8: 2620-7 (1988)","MAMM").
+TFD_subseq('ARP-1-insulin',"GTCCAGGGGTCAGGGGGGGGGTGCTT","Science 251: 561-565 (1991)","MAMM").
+TFD_subseq('LTU-undefined-site',"TAGGTGTAGGCCACGTGACCGGGTGTTC","Ann NY Acad Sci 354: 466-71 (1980)","MAMM").
+TFD_subseq('IRF-1-IFN-alpha1',"AACAGAAATGGAAAGTGG","Cell 58: 729-739 (1989)","MAMM").
+TFD_subseq('IFN-beta-undefined-site',"ATAGGAAAACTGAAAGGG","Cell 58: 729-739 (1989)","MAMM").
+TFD_subseq('EBS1',"AGAAAGGAGGAAAAACTGTTTCATACAGAAGGCG","J Clin Invest 91: 1481-1489 (1993)","MAMM").
+TFD_subseq('NF-IL-2A-IL-2',"TTAATTGCATGAATTAGAG","Mol Cell Biol 10: 5464-5472 (1990)","MAMM").
+TFD_subseq('IL-2kappaB',"AGGGATTTCACCT","J Clin Invest 91: 1481-1489 (1993)","MAMM").
+TFD_subseq('CD28RE',"AGAAATTCCA","J Biol Chem 266: 14179-14182 (1991)","MAMM").
+TFD_subseq('NF-kappaB-IL-2Ralpha',"TCTCCCTCTCCTT","Proc Natl Acad Sci U S A 85: 4468-4472 (1988)","MAMM").
+TFD_subseq('50-55K-IL-2Ralpha',"GGGGAATCTCCCGGGGACTTTCC","Cell 63: 803-814 (1990)","MAMM").
+TFD_subseq('ISG-ISRE',"AAAGGGAAACCGAAACTG","J Biol Chem 269: 7013-7018 (1994)","MAMM").
+TFD_subseq('NF-1-JCV',"GGATGGCTGCCAGCCAAG","J Biol Chem 264: 7025-7032 (1989)","MAMM").
+TFD_subseq('NF-1-JCV-site-B',"AGTGGAAAGCAGCCAAG","J Neurosci Res 27: 461-471 (1990)","MAMM").
+TFD_subseq('AP-1-JE',"CCTGACTCCACCC","Nucleic Acids Res 18: 23-34 (1990)","UNDEFINED").
+TFD_subseq('Sp1-c-jun_(1)',"GCCCGCCCCCC","Cell 55: 875-885 (1988)","MAMM").
+TFD_subseq('AP-2-c-jun_(1)',"CGCCTGCGGA","Cell 55: 875-885 (1988)","MAMM").
+TFD_subseq('AP-2-c-jun_(2)',"CCCGCCGCCGGCC","Cell 55: 875-885 (1988)","MAMM").
+TFD_subseq('AP-1-c-jun',"CTCAGTGAGTGAC","Cell 55: 875-885 (1988)","MAMM").
+TFD_subseq('krox20-SRE-1',"TGTTCCTCAGTCCATATATGGGCAGCG","EMBO J 11: 4631-4640 (1992)","MAMM").
+TFD_subseq('leghaemoglobin_glb3-undefined-',"GATATATTAATATTTTATTTTATA","Nature 328: 734-737 (1987)","PLANT").
+TFD_subseq('leghaemoglobin_lbc3-undefined-',"CTTAAATTATTTATTT","Nature 328: 734-737 (1987)","PLANT").
+TFD_subseq('RAP1-LSR1',"GGTGTATGGGTGT","Mol Cell Biol 8: 5086-5099 (1988)","YEAST").
+TFD_subseq('lysozyme-undefined-site',"GCATCAAG","Proc Natl Acad Sci U S A 83: 2817-2821 (1986)","AVIAN").
+TFD_subseq('MLP-undefined-site-1',"GTGTAGGCCACGTGACCGGGT","Mol Cell Biol 12: 5094-5101 (1992)","MAMM").
+TFD_subseq('CBF-MLP',"ACTCTCTTCCGCATCGCTGTCTGCGA","Proc Natl Acad Sci U S A 88: 8052-8056 (1991)","MAMM").
+TFD_subseq('R1-MLP',"TGGGGTGAGTACTCCCTCTCAAAAGCGGGCA","J Virol 64: 51-60 (1990)","MAMM").
+TFD_subseq('R2-MLP',"CTAAGATTGTCAGTTTCCAAAAACGA","J Virol 64: 51-60 (1990)","MAMM").
+TFD_subseq('MLP-undefined-site-2',"AGGAGGATTTGATATTCACCT","Nucleic Acids Res 19: 3221 (1991)","MAMM").
+TFD_subseq('DEF-MLP',"TTGATATTC","Nucleic Acids Res 19: 3221-8 (1991)","MAMM").
+TFD_subseq('DTF-MLP',"GGTGGCCGCGTCCATCTGGT","J Biol Chem 263: 10377-10385 (1988)","MAMM").
+TFD_subseq('MLP-undefined-site-3',"AGGCATTTCCAGGTGGGGAAAATGGTGGTGCGC","J Biol Chem 263: 10377-10385 (1988)","MAMM").
+TFD_subseq('UAS/_d',"GATGTCTGGGTTTT","Mol Cell Biol 11: 5648-5659 (1991)","YEAST").
+TFD_subseq('MTII-distal_BLE',"GCGCGAGGCGTCCCCGAGGCGC","Nucleic Acids Res 19: 3221 (1991)","MAMM").
+TFD_subseq('MTII-proximal_BLE_(1)',"GCGGCCGGGTGTTTCGCTTGG","Genes Dev 2: 1557-1569 (1988)","MAMM").
+TFD_subseq('MTII-proximal_BLE_(2)',"GAGCCGCAAGTGACTTCTAGCGCGGGGCGTG","Cell 50: 847-861 (1987)","MAMM").
+TFD_subseq('CUP2-CUP1_(1)',"TTGCTGTCAGTC","Mol Cell Biol 10: 426-429 (1990)","YEAST").
+TFD_subseq('CUP2-CUP1_(2)',"AAGAGATTCTTTTGCTGGCATTTCTT","Mol Cell Biol 10: 426-429 (1990)","YEAST").
+TFD_subseq('CUP2-CUP1_(3)',"CGATGCGTCTTTTCCGCTGAACCGTT","Mol Cell Biol 11: 1232-1238 (1991)","YEAST").
+TFD_subseq('P_box_(1)',"TTTCCGAATTAGGAAT","Cell 50: 681-691 (1987)","YEAST").
+TFD_subseq('P+Q_boxes_(1)',"TTTCCTAATTAGTCCTTCAATAGAAC","Genes Dev 4: 299-312 (1990)","YEAST").
+TFD_subseq('P+Q_boxes_(2)',"CTTCCTAATTAGGCCATCAACGACAG","EMBO J 10: 4209-4218 (1991)","YEAST").
+TFD_subseq('MATalpha1-MFalpha2',"TTTCTTCATTGGTACATCAATGCCAG","Cell 50: 681-691 (1987)","YEAST").
+TFD_subseq('AP-1-MHC_class_I_H-2Dd',"GACACTGATGACGCGCTGG","Science 239: 1302-1306 (1988)","MAMM").
+TFD_subseq('H-2K-ICS_(4)',"TCCACAGTTTCACTTCTGCACCT","Mol Cell Biol 12: 3590- 3599 (1992)","MAMM").
+TFD_subseq('site_alpha_(2)',"TTGACGCGCA","EMBO J 8: 3793-3800 (1989)","UNDEFINED").
+TFD_subseq('PU-MHC_class_II_I-Abeta',"TCCAATGCTGATTGGTTCCTCACTTGG","Mol Cell Biol 11: 578-581 (1991)","MAMM").
+TFD_subseq('NF-MHCIIA-MHC_class_II_Dbeta',"CCCAGCGAGTGATGACTCACGTCAAG","Mol Cell Biol 8: 2034-2041 (1988)","MAMM").
+TFD_subseq('NF-MHCIIB-MHC_class_II_Dbeta',"CTCGGTGCCCATTGGTTCT","Mol Cell Biol 8: 2034-2041 (1988)","MAMM").
+TFD_subseq('NF-W2-MHC_class_II_Ealphad',"GTTGCATG","Mol Cell Biol 9: 312-320 (1989)","UNDEFINED").
+TFD_subseq('MHC_class_II_Ekalpha-undefined',"CCTGTGTCATGTGGTGAGCAAG","Mol Cell Biol 9: 312-320 (1989)","MAMM").
+TFD_subseq('box_Y'',"AGAACCAATCAGCA","Mol Cell Biol 8: 3975-3987 (1988)","UNDEFINED").
+TFD_subseq('Pu_motif',"TTGGCTCTGAAAAAGGAGGCCA","Mol Cell Biol 8: 3975-3987 (1988)","MAMM").
+TFD_subseq('W_box',"TCAGAAGGGGACCTGCAAA","Cell 50: 863-872 (1987)","MAMM").
+TFD_subseq('X_box',"ACTAGCAACTGATG","Cell 50: 863-872 (1987)","MAMM").
+TFD_subseq('Y_box_(3)',"CTTTGATGCTGATTGGCTCC","Cell 50: 863-872 (1987)","MAMM").
+TFD_subseq('MHC_class_I_HLA-A3-undefined-s',"GCAGTTTCTTTTCTCCCC","Cell 50: 863-872 (1987)","MAMM").
+TFD_subseq('MHC_class_II_HLA-DRA_-undefine',"AGTGTTGAGAGTGTTGAACCTCAGAGTTTCTCCTCTCATTTT","Cell 50: 863-872 (1987)","MAMM").
+TFD_subseq('ICSBP-beta2-microglobulin',"TAAGAACATGAAACTGAA","Proc Natl Acad Sci U S A 87: 3743-3747 (1990)","MAMM").
+TFD_subseq('PR-MMTV',"ACAGACTGTTCT","J Steroid Biochem Mol Biol 43: 365-378 (1992)","MAMM").
+TFD_subseq('GR-MMTV_(2)',"AGATCAGTAGATCAGA","Cell 35: 381-392 (1983)","MAMM").
+TFD_subseq('C/EBP-MSV',"TCCCAAACAGGATATCTGTGGTAAGCAGTT","Genes Dev 6: 975-990 (1992)","MAMM").
+TFD_subseq('MIF-c-myc',"AGAGTAGTTATCGTAACTGG","J Biol Chem 265: 4547-4551 (1990)","MAMM").
+TFD_subseq('myc-CF1-c-myc_(1)',"AGAGAAAATGG","Mol Cell Biol 11: 1765-1769 (1991)","UNDEFINED").
+TFD_subseq('Sp1-MBP',"CCGCCCCCACTT","Biochem Biophys Res Commun 167: 648-653 (1990)","UNDEFINED").
+TFD_subseq('myosin_light_chain_2-A_-undef1',"AAAAGTGGACA","Biochem Biophys Res Commun 167: 648-653 (1990)","UNDEFINED").
+TFD_subseq('myosin_light_chain_2-A_-undef2',"GGTTATTTTTAG","Biochem Biophys Res Commun 167: 648-653 (1990)","UNDEFINED").
+TFD_subseq('alphaMHCBF1-alpha-myosin_heavy',"TCAAAGGGAAACT","J Biol Chem 262: 12856-12862 (1987)","UNDEFINED").
+TFD_subseq('EBNA-1-EBV_oriP',"CCCGGGGTAGCATATGCTATCCTAGATC","Mol Cell Biol 9: 2738-2742 (1989)","MAMM").
+TFD_subseq('EBNA1-enhancer-I',"GTTAGATGAACTTTAAACCTTTGTGAT","Mol Cell Biol 9: 2738-2742 (1989)","MAMM").
+TFD_subseq('EBNA1-enhancer-II',"TTCCTTGTTTGCTTAAAGCC","Mol Cell Biol 9: 2738-2742 (1989)","MAMM").
+TFD_subseq('EBNA1-enhancer-III',"CCTTTGGTGTGCTAATAAAGC","Mol Cell Biol 9: 2738-2742 (1989)","MAMM").
+TFD_subseq('EBNA1-enhancer-IV',"CAGCTTAACCTCTGAACTTCTAAGG","Mol Cell Biol 9: 2738-2742 (1989)","MAMM").
+TFD_subseq('RAR-alpha1-osteocalcin',"GGTGACTCACCGGGTGAACGGG","J Biol Chem 268: 11534-11541 (1993)","MAMM").
+TFD_subseq('osteocalcin-VDRE',"GCACTGGGTGAATGAGGACATTACTGAC","Proc Natl Acad Sci U S A 89: 10282-10286 (1992)","MAMM").
+TFD_subseq('SIS-distal-element',"CCTCCTGGCGC","J Biol Chem 269: 28648-54 (1994)","MAMM").
+TFD_subseq('phaseolin-undefined-site',"TCCACCT","Nucleic Acids Res 18: 7331 (1990)","UNDEFINED").
+TFD_subseq('PAL-ELREF',"CTCCAACAAACCCCTTC","EMBO J 8 1641-8 (1989)","PLANT").
+TFD_subseq('PAL-undefined-site-2',"ATTCTCACCTACCA","EMBO J 8: 1641-8 (1989)","PLANT").
+TFD_subseq('PHO4-PHO5_(1)',"AATTAGCACGTTTTCGCATA","Oncogene 6: 1099-1104 (1991)","YEAST").
+TFD_subseq('PHO2-PHO5',"GAATAGGCAATCTCTAAA","Mol Cell Biol 9: 2050-2057 (1989)","YEAST").
+TFD_subseq('PHO4-PHO5_(2)',"GCACTCACACGTGGGA","Oncogene 6: 1099-1104 (1991)","YEAST").
+TFD_subseq('RAP1-PHO5',"GAACCCATACACT","Mol Cell Biol 8: 5086-5099 (1988)","YEAST").
+TFD_subseq('TAF-PHO5',"ATACGTCATTAACGATGC","Nucleic Acids Res 16: 7287-7301 (1988)","YEAST").
+TFD_subseq('A_enhancer/_alpha',"AGTGACTAACTGA","Nucleic Acids Res 19: 4279-4287 (1991)","UNDEFINED").
+TFD_subseq('c-Ets-1-polyoma_virus',"GCAGGAAGTG","Genes Dev 8: 1502-1513 (1994)","MAMM").
+TFD_subseq('GATA-1-PBGD_(1)',"AGATAATGAATC","Nucleic Acids Res 17: 37-54 (1989)","MAMM").
+TFD_subseq('NF-E2-PBGD',"TGTGGTCCTGGCT","Nucleic Acids Res 17: 37-54 (1989)","MAMM").
+TFD_subseq('CAC-binding-PBGD_(1)',"CTGCCCC","Nucleic Acids Res 17: 37-54 (1989)","MAMM").
+TFD_subseq('GATA-1-PBGD_(2)',"CCTTATCTCTT","Nature 344: 447-449 (1990)","MAMM").
+TFD_subseq('GATA-1-PBGD_(3)',"CTATCGCC","Nucleic Acids Res 17: 37-54 (1989)","MAMM").
+TFD_subseq('CAC-binding-PBGD_(2)',"TCGCCTCCCTCT","Nucleic Acids Res 17: 37-54 (1989)","MAMM").
+TFD_subseq('AP-4-proenkephalin',"TGCGTCAGCTGCAG","Nucleic Acids Res 19: 2721 (1991)","MAMM").
+TFD_subseq('AP-2-proenkephalin',"AGCCCGCCGGC","Nucleic Acids Res 19: 2721 (1991)","MAMM").
+TFD_subseq('Pit-1-prl',"ATGAATGAAT","Science 239: 1400-1405 (1988)","MAMM").
+TFD_subseq('prolactin-ERE',"TGTCACTATGTCCT","Proc Natl Acad Sci U S A 86: 863-867 (1989)","MAMM").
+TFD_subseq('region_III',"AACATTAAAGTAAATGTAATCTATTTCA","Mol Cell Biol 10: 872-879 (1990)","DROS").
+TFD_subseq('region_II',"GTGGAATGATTAAAGCT","Mol Cell Biol 10: 872-879 (1990)","DROS").
+TFD_subseq('region_I',"GCGTTAATGTATTGTCATTTTGTAATAATTTATTAATTTTAATTT","Mol Cell Biol 10: 872-879 (1990)","DROS").
+TFD_subseq('proliferin-Sph-element',"TGTTTTAGTCAGAGCATGAACATGAGATGAAT","Mol Cell Biol 14: 6013-20 (1994)","MAMM").
+TFD_subseq('GBF-CP2',"AGCGGGTGTGTTAAGTTAGGGGTGGGTTT","Genes Dev 8: 502-514 (1994)","UNDEFINED").
+TFD_subseq('RAP1-PYK1',"ACACCCAGACATCGGGCTTCCAG","Mol Cell Biol 8: 5086-5099 (1988)","YEAST").
+TFD_subseq('REB1-RAP1',"CAATGGCCGCTACCCGCCTCTT","Genes Dev 4: 503-514 (1990)","YEAST").
+TFD_subseq('CTF-1-ras1',"TGGCGCGCAGCCAA","Nature 334: 218-224 (1988)","MAMM").
+TFD_subseq('G_box',"CTTCCACGTGGCA","EMBO J 11: 1261-1273 (1992)","UNDEFINED").
+TFD_subseq('GT-1-rbcS-3A',"ATCATTTTCACT","EMBO J 6: 2543-2549 (1987)","PLANT").
+TFD_subseq('GBF-rbcS-3A',"TGACACGTGGCA","EMBO J 11: 1261-1273 (1992)","PLANT").
+TFD_subseq('CF1-RAR-beta',"AGGGTTCACCGAAAGTTCACTCGCA","Genes Dev 7: 1423-1435 (1993)","MAMM").
+TFD_subseq('f(alpha)-f(epsilon)-REV-T',"AGCCGGAAGT","FEBS Lett 286: 163-166 (1991)","UNDEFINED").
+TFD_subseq('delta-rpL32',"GCGGCCATC","Mol Cell Biol 9: 2067-2074 (1989)","UNDEFINED").
+TFD_subseq('TAF-rpS33',"CGTCTAGAGTGAC","Nucleic Acids Res 17: 4917 (1989)","UNDEFINED").
+TFD_subseq('P1-S14',"AAAAGAGCTATTGATTGCCTGCA","J Biol Chem 268: 19431-5 (1993)","MAMM").
+TFD_subseq('NF-1-SL3-3',"CTAGGGCCCCGGCCCAGGGCCAAGAACAGAT","Nucleic Acids Res 17: 4061-4075 (1989)","MAMM").
+TFD_subseq('P_box_(2)',"TTCCTAATTGGGTAA","Mol Cell Biol 13: 57-62 (1993)","YEAST").
+TFD_subseq('Q+P_box',"CTGTCATTGTGACACTAATTAGGAAA","Mol Cell Biol 13: 6866-6875 (1993)","YEAST").
+TFD_subseq('MATalpha2-STE6',"GTCGACATGTAATTACCTAATAGGGAAATTTACACGCTC","EMBO J 13: 2378-2387 (1994)","YEAST").
+TFD_subseq('T-Ag-origin_of_replication',"GCCTCCTCACTACTTCTGGAATAGCTCAGAGGCCGAGGC","J Virol 65: 3167-3174 (1991)","MAMM").
+TFD_subseq('LSF-SV40_(2)',"GAGAATGGGCGGAACTGGGCGGAGTTAGGG","Genes Dev 4: 287-298 (1990)","MAMM").
+TFD_subseq('TC-I/TC-II',"TGCTGGGGAGCCTGGGGACTTT","EMBO J 8: 4215-4227 (1989)","MAMM").
+TFD_subseq('NF-kappaB-SV40',"TGGGGACTTTCC","Mol Cell Biol 12: 5217-5227 (1992)","MAMM").
+TFD_subseq('AP-4-SV40',"CCACAGCTGG","Nature 332: 557-561 (1988)","MAMM").
+TFD_subseq('LSF-SV40_(3)',"GCTGGTTCTTTCCGCCTCAG","Mol Cell Biol 10: 653-661 (1990)","MAMM").
+TFD_subseq('NFalpha2-T_cell_receptor_alpha',"ACTGCAGTGCCG","EMBO J 8: 729-733 (1989)","MAMM").
+TFD_subseq('NFalpha3-T_cell_receptor_alpha',"CAGGGGGAAACTTC","EMBO J 8: 729-733 (1989)","MAMM").
+TFD_subseq('NFalpha4-T_cell_receptor_alpha',"AGGAGACCTTTC","EMBO J 8: 729-733 (1989)","MAMM").
+TFD_subseq('Tg-undefined-site-1',"ACTCAAGT","Mol Cell Biol 11: 412-424 (1991)","AMPHIB").
+TFD_subseq('Tg-undefined-site-2',"TTCCTGTGACTAG","Mol Cell Biol 11: 412-424 (1991)","AMPHIB").
+TFD_subseq('TNF-alpha-undefined-site',"CGTGAATTCCC","Cell 50: 863-872 (1987)","UNDEFINED").
+TFD_subseq('NF-kappaB-TNF-alpha',"GGGGGCTTTCC","J Exp Med 171: 35-47 (1990)","UNDEFINED").
+TFD_subseq('Y_box_(4)',"CTGATTGGCCCC","J Exp Med 171: 35-47 (1990)","UNDEFINED").
+TFD_subseq('transferrin-Ia/Ib',"CTCTTTGTTTGCTTTGCTTCTGTGTCAACTGGGCAACATTTGGAA","J Exp Med 171: 35-47 (1990)","MAMM").
+TFD_subseq('transferrin-undefined-site',"GAGGGCGGGAAGTTTTCCAGCCCA","J Exp Med 171: 35-47 (1990)","MAMM").
+TFD_subseq('PR_I',"AACACGGGAGGTCAAAGATTGCGCCC","J Biol Chem 266: 9876-9884 (1991)","MAMM").
+TFD_subseq('AP-1-TGF-beta1',"GAGTTGGTGA","Cell 61: 267-278 (1990)","UNDEFINED").
+TFD_subseq('AP-1-TTR',"CTACCTCGTGATCGCCCGGCC","Mol Cell Biol 8: 81-90 (1988)","MAMM").
+TFD_subseq('REB1-TRP5',"TATACCTTTATTACCCGAAAGG","Genes Dev 4: 503-514 (1990)","YEAST").
+TFD_subseq('REB1-TRP1',"ACGCGCCGCTCACCCGCACGG","Genes Dev 4: 503-514 (1990)","UNDEFINED").
+TFD_subseq('PTF1-beta-trypsina-1',"GACTCTGGGAAAGAGAAACCTGCAGCTATGTTT","Mol Cell Biol 9: 2464-2476 (1989)","UNDEFINED").
+TFD_subseq('PTF1-beta-trypsina-2',"GGCACTTGGAAGGAGAAAACCACAGGTGTGCTT","Mol Cell Biol 9: 2464-2476 (1989)","UNDEFINED").
+TFD_subseq('site_2/_P-site',"TGACTTTCCAAATTGGGTTAAAA","Mol Cell Biol 13: 63-71 (1993)","YEAST").
+TFD_subseq('site_1_(2)',"ATCTCGGTGGTATTATTCCGACAGTAAACGGAAAA","Mol Cell Biol 13: 57-62 (1993)","YEAST").
+TFD_subseq('TyBF-Ty917',"CGTCTATGATGAC","Mol Cell Biol 8: 2572-2580 (1988)","YEAST").
+TFD_subseq('STE12-Ty917',"GTTAGACGTTTCAGCTTCCAAAACAGAAGAATGTGAGAA","Mol Cell Biol 8: 2545-2554 (1988)","YEAST").
+TFD_subseq('GR-TAT',"CGGTTTCTGGGTGTGG","Nucleic Acids Res 19: 131-139 (1991)","MAMM").
+TFD_subseq('TAT-undefined-site-1',"CTGCACATGCGCAG","Nucleic Acids Res 19: 131-139 (1991)","MAMM").
+TFD_subseq('TAT-undefined-site-2',"CTAGCGCCTC","Nucleic Acids Res 19: 131-139 (1991)","MAMM").
+TFD_subseq('TAT-undefined-site-3',"ATTGGTATTT","Nucleic Acids Res 19: 131-139 (1991)","MAMM").
+TFD_subseq('U2_snRNA-octamer',"GAGGCGGGGCTATGCAAATAGGGTGTG","Mol Cell Biol 9: 1682-1690 (1989)","AMPHIB").
+TFD_subseq('SPH_motif',"CTTTGCATAGCGCTTCCCAGCATGCCTCGCG","Nucleic Acids Res 18: 7323 (1990)","UNDEFINED").
+TFD_subseq('CRE/octamer',"TGACGTCACGTTGATTTGCAT","Genes Dev 2: 1389-1399 (1988)","MAMM").
+TFD_subseq('U7_snRNA-undefined-site-1',"CTAAAATATAC","Genes Dev 2: 1389-1399 (1988)","UNDEFINED").
+TFD_subseq('U7_snRNA-undefined-site-2',"CCATTTATCTTT","Genes Dev 2: 1389-1399 (1988)","UNDEFINED").
+TFD_subseq('GAGA-Ubx_(2)',"ATGAACGAGAGGCGC","Cell 53: 699-711 (1988)","DROS").
+TFD_subseq('Zeste-Ubx_(1)',"GAACACTCAAGAGAGA","Cell 53: 699-711 (1988)","DROS").
+TFD_subseq('GAGA-Ubx_(3)',"AAGAGAGAGCGCAAGAGC","Cell 53: 699-711 (1988)","DROS").
+TFD_subseq('Zeste-Ubx_(2)',"AGAGCGCTCAAAAAC","Cell 53: 699-711 (1988)","DROS").
+TFD_subseq('Elf-1-Ubx',"AACAATCTGGTTTTGAGCG","Genes Dev 3: 1677-1688 (1989)","DROS").
+TFD_subseq('Zeste-Ubx_(3)',"TTTGAGCGTTTCGCT","Cell 53: 699-711 (1988)","DROS").
+TFD_subseq('GAGA-Ubx_(4)',"CTGGCTCTCTGTTTCT","Cell 53: 699-711 (1988)","DROS").
+TFD_subseq('Zeste-Ubx_(4)',"TTTTCCACTCGTTTTTAGG","Cell 53: 699-711 (1988)","DROS").
+TFD_subseq('GAGA-Ubx_(5)',"GAGTGAGTTGAGTCGG","Cell 53: 699-711 (1988)","DROS").
+TFD_subseq('Zeste-Ubx_(5)',"GAGTGAGTTGAGTCGGCAGAG","Cell 53: 699-711 (1988)","DROS").
+TFD_subseq('En-Ubx',"GCAACGGATTGGATAACAGGC","Cell 53: 699-711 (1988)","DROS").
+TFD_subseq('Ubx-undefined-site',"CGCTCGCCCACGCGTCCGCC","Cell 53: 699-711 (1988)","DROS").
+TFD_subseq('GBF-UDPGPP',"TACACCCCAAATGGGGTAGT","Genes Dev 4: 419-432 (1990)","UNDEFINED").
+TFD_subseq('uPA-undefined-site-1',"GTTTACAAACAAGGTTCATTCTTG","Nucleic Acids Res 16: 7527-44 (1988)","MAMM").
+TFD_subseq('CREB-uPA',"CTGTGCCTGACGCACAGGAG","Nucleic Acids Res 18: 1991-1999 (1990)","MAMM").
+TFD_subseq('CRE',"GGCCCATGACGAACACTGGGT","EMBO J 11: 3337-3346 (1992)","MAMM").
+TFD_subseq('uPA-undefined-site-2',"GGTGAATGAATAAAGGAATAAATGAATGATTTCA","Nucleic Acids Res 16: 7527-44 (1988)","MAMM").
+TFD_subseq('uPA-undefined-site-3',"ACGCATGATCTCA","Nucleic Acids Res 16: 7527-44 (1988)","MAMM").
+TFD_subseq('uPA-undefined-site-4',"GTCCGAATCACT","Nucleic Acids Res 16: 7527-44 (1988)","MAMM").
+TFD_subseq('uPA-undefined-site-5',"TGAGAAAGAG","Nucleic Acids Res 16: 7527-44 (1988)","MAMM").
+TFD_subseq('uPA-undefined-site-6',"GGGCGGTCCGAGTCAGAG","Nucleic Acids Res 16: 7527-44 (1988)","MAMM").
+TFD_subseq('AP-2-vasopressin',"TCCCCAGGTC","FEBS Lett 260: 305-308 (1990)","MAMM").
+TFD_subseq('AP-1-vimentin',"GTGAGTCACCGCCGGTGACTAAG","Nucleic Acids Res 17: 1619 (1989)","MAMM").
+TFD_subseq('Visna-undefined-site',"AAATGTAACCGCAAGTTCT","Nucleic Acids Res 17: 1619 (1989)","MAMM").
+TFD_subseq('AP-1-Visna',"CAGCTGATGCTTGAGTCATAACCGC","Mol Cell Biol 9: 2728-2733 (1989)","MAMM").
+TFD_subseq('NF-1-vitellogenin_II',"TTGGCTGCAAGCCT","Nucleic Acids Res 16: 9663-9676 (1988)","AVIAN").
+TFD_subseq('NHP-2-vitellogenin_II',"AGCTGAAAGAACACATTGAT","Nucleic Acids Res 17: 8511-20 (1989)","AVIAN").
+TFD_subseq('PR-vitellogenin_II',"GCTGAAAGAACACATTGATCC","Mol Cell Biol 8: 5323-5330 (1988)","AVIAN").
+TFD_subseq('GR-vitellogenin_II',"AAGAACACATTGATCCCGTG","Proc Natl Acad Sci U S A 83: 7167-7171 (1986)","AVIAN").
+TFD_subseq('ER-vitellogenin_II_(1)',"GGTCAACATAACC","Nucleic Acids Res 16: 9663-9676 (1988)","AVIAN").
+TFD_subseq('vitellogenin_II-undefined-site',"TGGGCAAAACCAGTCTC","Nucleic Acids Res 16: 9663-9676 (1988)","AVIAN").
+TFD_subseq('ER-vitellogenin_II_(2)',"GCCAGCCGTGACC","Nucleic Acids Res 16: 9663-9676 (1988)","AVIAN").
+TFD_subseq('C/EBP-vitellogenin_II',"AGAATTTATGATTGCAAAA","Mol Cell Biol 11: 2704-2717 (1991)","AVIAN").
+TFD_subseq('TF-Vbeta-vitellogenin_II',"AACTGATAAAAAAC","Mol Cell Biol 11: 2704-2717 (1991)","AVIAN").
+TFD_subseq('USF-vitellogenin_II',"GCCACGTGTTCCTGAACATTC","Mol Cell Biol 11: 2704-2717 (1991)","AVIAN").
+TFD_subseq('NHP4-vitellogenin_II',"TATTCACCTTCGCTATGAGGGGGATCATACTGGCA","Nucleic Acids Res 19: 5771-5775 (1991)","AVIAN").
+TFD_subseq('C/_NRE',"CTATGAGCATTGTGCAAAC","J Steroid Biochem 34: 17-32 (1989)","AMPHIB").
+TFD_subseq('vitellogenin-B1-B/_BPE',"ATATTTGGGTGGATGCCTATAATTGG","Mol Cell Biol 9: 5548-5562 (1989)","AMBPHIB").
+TFD_subseq('vitellogenin-B1-BPE/_B-ABS',"CACTTCTGTGTGCACATGCGCCAGATCTTTC","Nucleic Acids Res 18: 6943-51 (1990)","AMPHIB").
+TFD_subseq('vitellogenin-B2-left-hand_ERE',"TAAAGTCACTTTGACCCAAC","EMBO J 9: 1859-1866 (1990)","AMPHIB").
+TFD_subseq('vitellogenin-B2-2-ERE',"TAAAGTCACTTTGACCCAACCCAAGTTATCATGACCTCTT","EMBO J 9: 1859-1866 (1990)","AMPHIB").
+TFD_subseq('WAP_-undefined-site',"CCCATCTAG","Mol Cell Biol 12: 4906-4918 (1992)","MAMM").
+TFD_subseq('REB1-X40',"TCACTGCACTTACCCTGCCATTACCCTACCATC","Nucleic Acids Res 25: 668-74 (1997)","YEAST").
+TFD_subseq('REB1-Y30',"TGTTGTCTCTTACCCGGATGTTCA","Nucleic Acids Res 25: 668-74 (1997)","YEAST").
+TFD_subseq('zein_storage_protein_pMS1-unde',"TGCAAATTC","Genes Dev 4: 503-514 (1990)","PLANT").
+TFD_subseq('(NF-kappaB)-MLP',"AAGTCCGGGTTTTCCCCAACC","Mol Cell Biol 11: 4943-4951 (1991)","MAMM").
+TFD_subseq('HBP-1-nos',"TGAGCTAAGCACATACGTCAG","EMBO J 10: 1459-1467 (1991)","PLANT").
+TFD_subseq('Egr-1-Egr-1_(1)',"GTCCCCGAGGTGGGCGGGTGAGCCCAGG","Mol Cell Biol 10: 1931-1939 (1990)","MAMM").
+TFD_subseq('Egr-1-Egr-1_(2)',"CGCCCTCGCCCCCGCGCCGGG","Mol Cell Biol 10: 1931-1939 (1990)","MAMM").
+TFD_subseq('Egr-1-Egr-1_(3)',"GTTGGGGCGGGGGCAAGCTGG","Mol Cell Biol 10: 1931-1939 (1990)","MAMM").
+TFD_subseq('T3R-alpha-malic_enzyme',"AGGACGTTGGGGTTAGGGGAGGACAGT","J Biol Chem 266: 1008-1013 (1991)","MAMM").
+TFD_subseq('LBP-1-sTnI_(1)',"CCCGGCCAGCTGCTT","Mol Cell Biol 10: 3468-3482 (1990)","AVIAN").
+TFD_subseq('LBP-1-sTnI_(2)',"CGGCTTGCCAGTCAGTCAGTCC","Mol Cell Biol 10: 3468-3482 (1990)","AVIAN").
+TFD_subseq('LBP-1-sTnI_(3)',"GCCGGCCAGCGGGGCT","Mol Cell Biol 10: 3468-3482 (1990)","AVIAN").
+TFD_subseq('NF-1-alpha1I3',"CCCTGGCACATTTCGTGCAACTG","Mol Cell Biol 10: 3483-3491 (1990)","MAMM").
+TFD_subseq('AFP1-alpha1I3',"GGTGTAATTTATTTG","Mol Cell Biol 10: 3483-3491 (1990)","MAMM").
+TFD_subseq('alpha1I3_-undefined-site',"TGAGTTGTGCTCAGGCCAGCACTGA","Mol Cell Biol 10: 3483-3491 (1990)","MAMM").
+TFD_subseq('DAP-MLP',"CCGGCTGTCACGCCAGGCC","Mol Cell Biol 10: 3635-3645 (1990)","MAMM").
+TFD_subseq('MAL63-PEPCK',"TCTTGCAACTCGCTTAAACTCTCGCTTTTAGATAATATTTCT","Mol Cell Biol 10: 3797-3800 (1990)","YEAST").
+TFD_subseq('MAL63-MAL61-62',"GATTTATCCGGAAATTTTCGCGGAC","Mol Cell Biol 10: 3797-3800 (1990)","YEAST").
+TFD_subseq('NF-kappaB-IL-6',"AAATGTGGGATTTTCCC","Mol Cell Biol 10: 5736-5746 (1990)","MAMM").
+TFD_subseq('RadLV-core',"TGTGGTCA","J Virol 64: 1566-1572 (1990)","MAMM").
+TFD_subseq('RadLV-undefined-site-1',"TCTCACAAGTTACAAAGAAGTTTA","J Virol 64: 1566-1572 (1990)","MAMM").
+TFD_subseq('RadLV-undefined-site-2',"AAGGCTGGATAATACTGA","J Virol 64: 1566-1572 (1990)","MAMM").
+TFD_subseq('RadLV-undefined-site-3',"GAACTAACCAATCAGCTCGCTTCTCGCTT","J Virol 64: 1566-1572 (1990)","MAMM").
+TFD_subseq('MuLV-undefined-site',"CTAACCAATCAGCTCGCTTCTCGCTTCT","J Virol 64: 1566-1572 (1990)","MAMM").
+TFD_subseq('LPV-Pu_box/_core_sequence',"ATCAACTGAAAGAGGAAGCTGTGGTTAGACT","J Virol 64: 1657-1666 (1990)","MAMM").
+TFD_subseq('LPV-T_element',"GACTTCAATAACAGGT","J Virol 64: 1657-1666 (1990)","MAMM").
+TFD_subseq('LPV-core',"CTGTGGTTAAG","J Virol 64: 1675-1682 (1990)","MAMM").
+TFD_subseq('NF-1-FeLV',"CCGGCTTGAGGCCAA","J Virol 64: 1675-1682 (1990)","MAMM").
+TFD_subseq('FLV-1-FeLV',"CGCTGCCAGCAG","J Virol 64: 1675-1682 (1990)","MAMM").
+TFD_subseq('BSAP-histone_H2B-2.1',"CGCGGAGCACTGATGCAGCGCGGAT","Genes Dev 4: 849-859 (1990)","UNDEFINED").
+TFD_subseq('TSAP-histone_H2B-2.2',"CAATACGCAACGAAGCGAAGACGGA","Genes Dev 4: 849-859 (1990)","UNDEFINED").
+TFD_subseq('BSAP-histone_H2A-2.1',"GTTGACACGCTTGAAGAAATAGTTG","Genes Dev 4: 849-859 (1990)","UNDEFINED").
+TFD_subseq('TSAP-histone_H2A-2.2',"TGTGACGCAGCGGTGGGTGACGACT","Genes Dev 4: 849-859 (1990)","UNDEFINED").
+TFD_subseq('c-fos-undefined-site',"CGCCTCCCCGGCCGGGGA","Cell 61: 475-484 (1990)","MAMM").
+TFD_subseq('NeP1-lysozyme',"ACCTCTACTGGATAGCTATGGTATTTAC","Cell 61: 505-514 (1990)","AVIAN").
+TFD_subseq('lysozyme-silencer/_F2_TRE',"TTGACCCCAGCTGAGGTCAA","Cell 61: 505-514 (1990)","AVIAN").
+TFD_subseq('NCAM-C-CG_box',"CTCACCTCCGCCCCCCGCCCGTCGCT","Mol Cell Biol 10: 1959-1968 (1990)","MAMM").
+TFD_subseq('Oct-1-IgH-2',"ACCTCCCCCAATGCAAAGCAGCCCTCAG","Mol Cell Biol 10: 2145-2153 (1990)","MAMM").
+TFD_subseq('vimentin-negative-element',"CAGGAGCGCTGTGCCC","Mol Cell Biol 10: 2349-58 (1990)","AVIAN").
+TFD_subseq('RARE',"TCTCATGACCTTTGGCCGTGGGAG","Mol Cell Biol 11: 5164-5170 (1991)","UNDEFINED").
+TFD_subseq('BAF1-rpL2_(1)',"TAATATCACGTCACACGAC","Mol Cell Biol 10: 2437-2441 (1990)","YEAST").
+TFD_subseq('BAF1-rpL2_(2)',"GAAATATAATTATTTACGAAA","Mol Cell Biol 10: 2437-2441 (1990)","YEAST").
+TFD_subseq('IAP_LTR_-undefined-site',"GTGTTCTAAGTGGTAAACAAATAATCTGCGC","Mol Cell Biol 10: 2437-2441 (1990)","MAMM").
+TFD_subseq('GR-alpha-fetoprotein',"ACACAAAGTCATGTGGCAGATAACCCGGAGGCAAAATTCA","J Biol Chem 265: 2137-2141 (1990)","MAMM").
+TFD_subseq('alpha-fetoprotein-undefined-si',"AACGGTGACCCTGTGCACCTTTCTGATCACATGCTTTGGAATTGC","J Biol Chem 265: 2137-2141 (1990)","MAMM").
+TFD_subseq('C/EBP-GLUT4',"TTCAGAAAT","Proc Natl Acad Sci U S A 87: 251-255 (1990)","UNDEFINED").
+TFD_subseq('motifs_I/IIa',"TACGTGGCGCCACCGCCGCGCCT","Proc Natl Acad Sci U S A 87: 251-255 (1990)","UNDEFINED").
+TFD_subseq('motif_IIb',"CCGCCGCGCT","Proc Natl Acad Sci U S A 87: 251-255 (1990)","UNDEFINED").
+TFD_subseq('c-Ets-1-GPIIb',"AAAGACTTCCTGTGGAGGAATCTGA","Oncogene 8: 1621-1630 (1993)","UNDEFINED").
+TFD_subseq('dl-GPIIb',"CGAGAAAATCG","Cell 65: 1191-1201 (1991)","DROS").
+TFD_subseq('dl-twi_(1)',"CGATTTTCTCG","Cell 65: 1191-1201 (1991)","DROS").
+TFD_subseq('dl-twi_(2)',"GACTTTTCGCT","Cell 65: 1191-1201 (1991)","DROS").
+TFD_subseq('dl-twi_(3)',"ACAGAAAAATC","EMBO J 11: 1837-1842 (1992)","DROS").
+TFD_subseq('dl-twi_(4)',"TATTTTTCTGGCGATTTTCGGA","Cell 65: 1191-1201 (1991)","DROS").
+TFD_subseq('dl-zen-fragment-1',"TGGTTTTCCCG","Cell 64: 439-446 (1991)","DROS").
+TFD_subseq('chymotrypsinogen_B-undefined-s',"ATTACAGGCCAAGAGCCAAGCA","Nature 306: 557-61 (1983)","MAMM").
+TFD_subseq('alpha-PAL-eIF-2alpha',"GCGCTTGCGCATGCG","J Biol Chem 264: 20372-20384 (1989)","UNDEFINED").
+TFD_subseq('GM-PBP-1-GM-CSF',"AGGTAGTTCCCC","Proc Natl Acad Sci U S A 86: 7392-7396 (1989)","UNDEFINED").
+TFD_subseq('c-myb-undefined-site-1',"GTCGAAATTAATCAT","Proc Natl Acad Sci U S A 86: 7341-7345 (1989)","UNDEFINED").
+TFD_subseq('AP-1-c-myb',"TGATCCCAGTTCTCCCTCACCTGACTATTGACTGCCCCCTGTGGG","Proc Natl Acad Sci U S A 86: 7326-7330 (1989)","UNDEFINED").
+TFD_subseq('c-myb-undefined-site-2',"CTCCTAGACCCCCTGGTCC","Proc Natl Acad Sci U S A 86: 7326-7330 (1989)","UNDEFINED").
+TFD_subseq('CG-1-chs_(1)',"CATGTCACGTGCCAACTG","Proc Natl Acad Sci U S A 86: 6930-6934 (1989)","PLANT").
+TFD_subseq('CG-1-chs_(2)',"TATTCCACGTGGCCATCC","Proc Natl Acad Sci U S A 86: 6930-6934 (1989)","PLANT").
+TFD_subseq('CG-1-rbcS',"TCTTACACGTGGCACCTC","Proc Natl Acad Sci U S A 86: 6930-6934 (1989)","PLANT").
+TFD_subseq('histone_H2A-undefined-site-1',"CACCGTGTC","Proc Natl Acad Sci U S A 86: 6930-6934 (1989)","UNDEFINED").
+TFD_subseq('histone_H2A-undefined-site-2',"CCAACAGAGGGAG","Proc Natl Acad Sci U S A 86: 6930-6934 (1989)","UNDEFINED").
+TFD_subseq('IFN-alpha1-undefined-site',"GAGTGCATGAAGGAAAGCAAAAACAGAAATGGAAAGTGGCCCAGA","Proc Natl Acad Sci U S A 86: 6930-6934 (1989)","UNDEFINED").
+TFD_subseq('NF-kappaB1-IRF-1',"GGGCCGGGGAATCCCGCTAAG","EMBO J 10: 3805-3817 (1991)","UNDEFINED").
+TFD_subseq('MHC_class_II_Ia_Aalphak-undefi',"AAACTGGTCACTATTACTATCTAAAGGGAATTTTCCCTTATTCCA","Cell 63: 803-814 (1990)","UNDEFINED").
+TFD_subseq('actin_-undefined-site',"GCCATTCATGGC","Cell 63: 803-814 (1990)","UNDEFINED").
+TFD_subseq('CTF-alpha-actin',"GAGGGCAGGGCGC","Mol Cell Biol 9: 3269-3283 (1989)","UNDEFINED").
+TFD_subseq('Sp1-alpha-actin_(1)',"GGCAGGGCGCC","Mol Cell Biol 9: 3269-3283 (1989)","UNDEFINED").
+TFD_subseq('Sp1-alpha-actin_(2)',"GGGGGAGGGG","Mol Cell Biol 9: 3269-3283 (1989)","UNDEFINED").
+TFD_subseq('Sp1-alpha-actin_(3)',"TGCCCCCTACCC","Mol Cell Biol 9: 3269-3283 (1989)","UNDEFINED").
+TFD_subseq('Sp1-alpha-actin_(4)',"GCCCCTCCCCA","Mol Cell Biol 9: 3269-3283 (1989)","UNDEFINED").
+TFD_subseq('SRF-alpha-actin_(2)',"CCTTACATGG","Mol Cell Biol 9: 3269-3283 (1989)","UNDEFINED").
+TFD_subseq('Sp1-alpha-actin_(5)',"GCGGCCCTCC","Mol Cell Biol 9: 3269-3283 (1989)","MAMM").
+TFD_subseq('Sp1-alpha-actin_(6)',"GCCCCCCACCCCTGCCCCC","Genes Dev 4: 1811-1822 (1990)","MAMM").
+TFD_subseq('Sp1-alpha-actin_(7)',"GACCCGCCCC","Mol Cell Biol 9: 3269-3283 (1989)","MAMM").
+TFD_subseq('KBF1-E1B',"CAGAGGGGACTTTCCCAGAG","Mol Cell Biol 9: 3548-3552 (1989)","MAMM").
+TFD_subseq('USF-TS',"TGTCACGTGGGGGCGG","Nucleic Acids Res 19: 2267 (1991)","MAMM").
+TFD_subseq('Sp1-TS_(1)',"GTGGGGGCGGGGTCTGC","Nucleic Acids Res 19: 2267 (1991)","MAMM").
+TFD_subseq('Sp1-hsp70_(2)',"GGGGCGGCAC","Mol Cell Biol 9: 4099-4104 (1989)","MAMM").
+TFD_subseq('HSF-artificial_sequence',"CTAGAACGTTCTAGAAGCTTCGAG","Proc Natl Acad Sci U S A 87: 6550-6554 (1990)","SYNTH").
+TFD_subseq('BK_virus-undefined-site-3',"AACCATGACCTCA","Mol Cell Biol 9: 3821-3828 (1989)","MAMM").
+TFD_subseq('Oct-1-Igk-1',"GAAACTACTTTAGAGTCATTAAGTTATTTAACCA","Mol Cell Biol 9: 4239-4247 (1989)","MAMM").
+TFD_subseq('Oct-1-Igk-2',"TTACTTTAAAATGATGTCAAT","Mol Cell Biol 9: 4239-4247 (1989)","MAMM").
+TFD_subseq('Oct-1-Igk-3',"TCCCTTTTAACTATTAATTTATTTTAAGGGGGGAAAGGC","Mol Cell Biol 9: 4239-4247 (1989)","MAMM").
+TFD_subseq('En-en-1',"GGTCAATTAAATTATAATT","Mol Cell Biol 9: 4304-4311 (1989)","DROS").
+TFD_subseq('En-en-2',"CCAATTAGCC","Mol Cell Biol 9: 4304-4311 (1989)","DROS").
+TFD_subseq('En-en-3',"CTAATTAGAG","Mol Cell Biol 9: 4304-4311 (1989)","DROS").
+TFD_subseq('En-en-4',"GAGCAATTAAAT","Mol Cell Biol 9: 4304-4311 (1989)","DROS").
+TFD_subseq('En-en-5',"CCAATTAGCT","Mol Cell Biol 9: 4304-4311 (1989)","DROS").
+TFD_subseq('En-en-6',"TCAATTAGCT","Mol Cell Biol 9: 4304-4311 (1989)","DROS").
+TFD_subseq('GAL4-CYC1',"CGGGTGACAGCCCTCCGACGGGTGACAGCCCTCCGACGGGTGACA","Mol Cell Biol 9: 4746-4749 (1989)","YEAST").
+TFD_subseq('SV40-DUE',"TCCTCACTACTTCTGGAAT","J Virol 275: 3887-93 (1996)","MAMM").
+TFD_subseq('SRF-zif268_(1)',"TGCTTCCCATATATGGCCATGT","Proc Natl Acad Sci USA 85: 7857-61 (1988)_","MAMM").
+TFD_subseq('SRF-zif268_(2)',"CCAGCGCCTTATATGGAGTGGC","Proc Natl Acad Sci USA 85: 7857-61 (1988)","MAMM").
+TFD_subseq('SRF-zif268_(3)',"GAAACGCCATATAAGGAGCAGG","Proc Natl Acad Sci USA 85: 7857-61 (1988)","MAMM").
+TFD_subseq('C/Ebp-DBP-aldolase-B',"GCCTGATTACAAAGATTGG","Nucleic Acids Res 21: 897-903 (1993)","MAMM").
+TFD_subseq('CBF-aldolase_B',"GCGCCAATCAG","J Mol Biol 222: 31-43 (1991)","MAMM").
+TFD_subseq('HNF-1-aldolase_B',"GTTATTGAATAAAC","Mol Cell Biol 9: 4923-4931 (1989)","MAMM").
+TFD_subseq('E2F-DHFR',"TTTCGCGCCAAA","Mol Cell Biol 12: 4364-4374 (1992)","MAMM").
+TFD_subseq('DHFR-GC_box_I',"TTGAGGGCGTGGCCTCCGAT","Mol Cell Biol 10: 6632-6641 (1990)","MAMM").
+TFD_subseq('NHE',"CCCCACCCTCCCCACCC","Science 261: 478-480 (1993)","MAMM").
+TFD_subseq('E1A-enhancer-site_A_(1)',"ACAGGAAGT","Mol Cell Biol 9: 5143-5153 (1989)","MAMM").
+TFD_subseq('E1A-enhancer-site_A_(2)',"TTAGGCGGATGT","Mol Cell Biol 9: 5143-5153 (1989)","MAMM").
+TFD_subseq('HNF-1-HBV-SPI',"TAGTTAATCATTACTTC","Mol Cell Biol 9: 5189-5197 (1989)","MAMM").
+TFD_subseq('X'_box',"CTTCTGTTGCTAG","Mol Cell Biol 9: 5189-5197 (1989)","MAMM").
+TFD_subseq('GR-non-functional_site',"GAGACAGACTGTACA","Mol Cell Biol 9: 5305-5314 (1989)","UNDEFINED").
+TFD_subseq('EFII-RNR2',"AAATGTAGTCTTATGCAATACTC","Mol Cell Biol 9: 5660-5668 (1989)","UNDEFINED").
+TFD_subseq('EFII-ALV_LTR_(1)',"TGTAGTCTTGC","Mol Cell Biol 9: 5660-5668 (1989)","AVIAN").
+TFD_subseq('EFII-ALV_LTR_(2)',"TTGCAACATGCTTATGTAAC","Mol Cell Biol 9: 5660-5668 (1989)","AVIAN").
+TFD_subseq('ALV_LTR_-undefined-site',"ATGTAACACGATGAGC","Mol Cell Biol 9: 5660-5668 (1989)","AVIAN").
+TFD_subseq('f(alpha)-f(epsilon)-rpL30',"CGCTTCCGG","Genes Dev 3: 1789-1800 (1989)","MAMM").
+TFD_subseq('gamma-factor-prL30',"GCTTTGCATTG","Genes Dev 3: 1789-1800 (1989)","MAMM").
+TFD_subseq('delta-rpL30',"CCGGCCATC","Proc Natl Acad Sci U S A 88: 9799-9803 (1991)","UNDEFINED").
+TFD_subseq('Oct-2-immunoglobulin_heavy_cha',"CTCATGAGTATGCAAAT","Genes Dev 3: 1625-1638 (1989)","UNDEFINED").
+TFD_subseq('GABP-IE3',"GGAACGGAAGCGGAAA","Science 253: 789-792 (1991)","UNDEFINED").
+TFD_subseq('STE12-PIE/_HinfI',"ATGAAACC","Proc Natl Acad Sci U S A 86: 5703-5707 (1989)","YEAST").
+TFD_subseq('PIE/_PRE',"TGTTTTCATTTGAAACA","Genes Dev 5: 741-750 (1991)","YEAST").
+TFD_subseq('CUP2-CUP1_(4)',"GATGCGTCTTTTCCGCTGAACCGTTC","Mol Cell Biol 10: 4778-4787 (1990)","YEAST").
+TFD_subseq('c-Myb-SV40',"ACACCCTAACTGACACACA","J Biol Chem 265: 3479-3483 (1990)","MAMM").
+TFD_subseq('ocs_-undefined-site',"ACGTAAGCGCTTACGT","J Biol Chem 265: 3479-3483 (1990)","UNDEFINED").
+TFD_subseq('site_I_(2)',"GATCGCGC","Proc Natl Acad Sci U S A 86: 3594-3598 (1989)","UNDEFINED").
+TFD_subseq('CP1-gamma-globin_(1)',"GGCCAGCCTTGCCTTGACCAATAGCCTTGACAAGGCAAACTT","Nature 358: 499-502 (1992)","MAMM").
+TFD_subseq('theta1-globin-undefined-site',"GCCGGTCCGCGCAGGCGCAGC","Nucleic Acids Res 18: 5245 (1990)","UNDEFINED").
+TFD_subseq('GAGA-E74_(1)',"GCTCCCTACTCTCTTTGGCTCTCCCT","Genes Dev 3: 782-792 (1989)","DROS").
+TFD_subseq('GAGA-E74_(2)',"GCATTCCGCTCTCTTA","Genes Dev 3: 782-792 (1989)","DROS").
+TFD_subseq('GAGA-E74_(3)',"CGCTTGCGCTCTCTAC","Genes Dev 3: 782-792 (1989)","DROS").
+TFD_subseq('GAGA-E74_(4)',"TGAAGTTCAGAGCGTGAA","Genes Dev 3: 782-792 (1989)","DROS").
+TFD_subseq('GAGA-E74_(5)',"GCGTTTCTCTG","Genes Dev 3: 782-792 (1989)","DROS").
+TFD_subseq('GAGA-E74_(6)',"GTGTGCGTGAGCGGGTCT","Genes Dev 3: 782-792 (1989)","DROS").
+TFD_subseq('pos._elem._A_(1)',"TAAAAAAATACTTA","Genes Dev 3: 782-792 (1989)","DROS").
+TFD_subseq('pos._elem._A_(2)',"GCGTTCTCCAGCCGGCGAGAGTGTGTGTGTGCTTGC","Genes Dev 3: 782-792 (1989)","DROS").
+TFD_subseq('positive_element_A',"CGTGTTGC","Genes Dev 2: 1615-1626 (1988)","DROS").
+TFD_subseq('negative_element_B',"GGCTCATTGTGATTCACTGGCGTT","Genes Dev 2: 1615-1626 (1988)","DROS").
+TFD_subseq('positive_element_C',"AAATAGACGTGCCGC","Genes Dev 2: 1615-1626 (1988)","DROS").
+TFD_subseq('Tg-undefined-site-3',"GGAGTGGTCACCCTACT","Genes Dev 2: 1615-1626 (1988)","DROS").
+TFD_subseq('TTF-1-Tg',"GCAGACTCAAGTAGAGGGAGT","Eur J Biochem 193: 311-318 (1990)","UNDEFINED").
+TFD_subseq('site_K',"GACTAGCAGAGAAAACAAAGTG","Mol Cell Biol 12: 576-588 (1992)","UNDEFINED").
+TFD_subseq('TgF1-Tg',"CCCAGTCAAGTGTTCTTGAACAGTA","Genes Dev 5: 22-28 (1991)","UNDEFINED").
+TFD_subseq('UFA-Tg',"ATTACTCAAGTATTCTTAGC","Eur J Biochem 193: 311-318 (1990)","UNDEFINED").
+TFD_subseq('P_box_(3)',"ACTAATTAGG","Mol Cell Biol 13: 6866-6875 (1993)","YEAST").
+TFD_subseq('NFH3-4-histone_H3',"TTGCCATGTAACCCATGTT","Genes Dev 3: 973-985 (1989)","ECHINO").
+TFD_subseq('NFH3-3-histone_H3',"CATTTTATTGACTTTGCAC","Genes Dev 3: 973-985 (1989)","ECHINO").
+TFD_subseq('NFH3-2-histone_H3',"CCTTCCCGTCA","Genes Dev 3: 973-985 (1989)","ECHINO").
+TFD_subseq('NFH3-1-histone_H3',"AAACAAAAGAG","Genes Dev 3: 973-985 (1989)","ECHINO").
+TFD_subseq('P_box_(4)',"ACACTAATTAGGAA","Genes Dev 3: 936-945 (1989)","YEAST").
+TFD_subseq('BP1-beta-globin_(1)',"ATACACATATATATATATATT","Nucleic Acids Res 17: 8833- (1989)","UNDEFINED").
+TFD_subseq('BP1-beta-globin_(2)',"ATATTACGTAAATAC","Nucleic Acids Res 17: 8833- (1989)","UNDEFINED").
+TFD_subseq('NHP-1-vitellogenin_II',"ATGTCTTGTTCCAAACGC","Nucleic Acids Res 17: 8511- (1989)","UNDEFINED").
+TFD_subseq('TB3',"AACTGGAAA","Mol Cell Biol 12: 2282-2294 (1992)","MAMM").
+TFD_subseq('GC_boxes_IV/III',"CTGGGCGGGGCCGGCCTGGTGGAGGCGGAGTCT","Mol Cell Biol 10: 6632-6641 (1990)","UNDEFINED").
+TFD_subseq('GC_box_II',"GTGGAGGCGGGGCCTCT","Mol Cell Biol 10: 6632-6641 (1990)","UNDEFINED").
+TFD_subseq('AP-1-IE',"TATACATTGAATCAATATG","Nucleic Acids Res 17: 9165-71 (1989)","MAMM").
+TFD_subseq('MBF1-IE',"GATTTTTGGGCATACG","Nucleic Acids Res 17: 9165-71 (1989)","MAMM").
+TFD_subseq('MBF2-IE',"CTGATATCGCCATTTTT","Nucleic Acids Res 17: 9165-71 (1989)","MAMM").
+TFD_subseq('AFP1-surface_antigen',"GTTAATCATTAC","Mol Cell Biol 11: 1353-1359 (1991)","UNDEFINED").
+TFD_subseq('HBP-1-35S_RNA',"AGACGTTCCAACCACGTCT","Nucleic Acids Res 17: 9707- (1989)","UNDEFINED").
+TFD_subseq('OCSTF-ocs',"AAACGTAAGCGCTTACGTAC","EMBO J 8: 4197-4204 (1989)","UNDEFINED").
+TFD_subseq('BAF1-YPT1-TUB2_intergenic_regi',"CCTAGGTCACTGTACACGTATA","EMBO J 8: 4265-4272 (1989)","YEAST").
+TFD_subseq('BAF1-ARS1',"TCCCCATTAACG","EMBO J 8: 4265-4272 (1989)","YEAST").
+TFD_subseq('Sp1-DHFR',"GTGGGGGCGGGGCCTA","Mol Cell Biol 10: 653-661 (1990)","UNDEFINED").
+TFD_subseq('HIP1-DHFR',"ATTTCGCGCCAAA","Mol Cell Biol 12: 2250-2259 (1992)","MAMM").
+TFD_subseq('HIP1-SV40',"AGAGGTTATTTCAGGCC","Mol Cell Biol 10: 653-661 (1990)","MAMM").
+TFD_subseq('GLI-consensus_of_genomic_targe',"CCRAAGACCACCCACAATGATGGT","Mol Cell Biol 10: 634-642 (1990)","UNDEFINED").
+TFD_subseq('NF-H2-MHC_class_II_I-Aalpha',"GGCCTCGTAATAC","Mol Cell Biol 10: 593-604 (1990)","MAMM").
+TFD_subseq('RF-X-MHC_class_II_I-Aalpha',"GCAGCTGGCAAC","Mol Cell Biol 10: 593-604 (1990)","MAMM").
+TFD_subseq('NF-Y-MHC_class_II_I-Aalpha',"CTGATTGGTTCTGG","Mol Cell Biol 10: 593-604 (1990)","MAMM").
+TFD_subseq('betaE-F1',"TGGCATTCAGCCTC","Genes Dev 3: 1845-1859 (1989)","UNDEFINED").
+TFD_subseq('BAF1-ARS1-domain_B',"ATTTCTTAGCATTTTTGACGAAATTTG","Genes Dev 3: 1926-1939 (1989)","YEAST").
+TFD_subseq('Adh-undefined-site',"CTCAATTAAT","Mol Cell Biol 10: 539-548 (1990)","UNDEFINED").
+TFD_subseq('PPYR-betaA-globin',"CTCCCCCGG","Cell 57: 1189-1200 (1989)","AVIAN").
+TFD_subseq('Sp1-betaA-globin',"GGGGAAGAGGAGGGGCCCGG","Cell 57: 1189-1200 (1989)","AVIAN").
+TFD_subseq('TFIID-betaA-globin',"AGGCGATAAAA","Cell 57: 1189-1200 (1989)","AVIAN").
+TFD_subseq('USF-IVa2',"GTGTGAAGACACATGTCGCCCTC","Nucleic Acids Res 18: 4817-4823 (1990)","MAMM").
+TFD_subseq('ICP4-IE3',"ATCGTC","Nucleic Acids Res 18: 4579-4585 (1990)","MAMM").
+TFD_subseq('v-ErbA-artificial_sequence',"TCAGGTCAGGGACGTGACCTGA","Nucleic Acids Res 18: 4489-4497 (1990)","SYNTH").
+TFD_subseq('GCN4-TRP4_(1)',"TTGACTCTCTAAAAAATGATTCAT","EMBO J 9: 2951-2957 (1990)","YEAST").
+TFD_subseq('GCN4-TRP4_(2)',"ATGACTAAT","EMBO J 9: 2951-2957 (1990)","YEAST").
+TFD_subseq('MIG1-SUC2_(1)',"CCCCGCATTTTT","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('MIG1-SUC2_(2)',"AATTATCCGGGGGCG","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('AP-1-NPY',"CCAAGCGTGACTGC","J Biol Chem 265: 12933-12939 (1990)","MAMM").
+TFD_subseq('Sp1-NPY',"CCCCTCC","J Biol Chem 265: 12933-12939 (1990)","MAMM").
+TFD_subseq('gastrin-negative-element',"ATTCCTCT","J Biol Chem 265: 8908-14 (1990)","MAMM").
+TFD_subseq('S14-site-A',"TTGGCGTCCTGTCAAT","Biochem J 280: 761-7 (1991)","MAMM").
+TFD_subseq('AFP-site_V_(2)',"GCAGCATTTGCAAGATTTTTTTCCACTC","J Biol Chem 266: 21179-21185 (1991)","MAMM").
+TFD_subseq('AFP-site_III_(3)',"ACAAGTGACCCCTGCT","J Biol Chem 266: 21179-21185 (1991)","MAMM").
+TFD_subseq('AFP-site_II',"GTTAATTATTGGCAAATTGCCT","J Biol Chem 266: 21179-21185 (1991)","MAMM").
+TFD_subseq('BGP1-artificial_sequence-1',"AATTGCAGAGCTGGGAATCATTGGGGGGGGGGGGAAATTTGGTGG","Nucleic Acids Res 18: 5119 (1990)","SYNTH").
+TFD_subseq('BGP1-artificial_sequence-2',"AATTGCAGAGCTGGGAATCATTGGGGGGGTTAAATTTGGTGGTGT","Nucleic Acids Res 18: 5119 (1990)","SYNTH").
+TFD_subseq('C/EBP-HBV-secondary_site',"GCCTGGTCTGTGCC","Mol Cell Biol 10: 4427-4430 (1990)","MAMM").
+TFD_subseq('Ttk-eve_(1)',"GCTCCTGC","Mol Cell Biol 10: 4334-4344 (1990)","DROS").
+TFD_subseq('GAGA-eve_(1)',"TTCGTTCGCTCATCG","Mol Cell Biol 10: 4334-4344 (1990)","DROS").
+TFD_subseq('GAGA-eve_(2)',"CTCTCTCTCTCTC","Mol Cell Biol 10: 4334-4344 (1990)","DROS").
+TFD_subseq('Ttk-eve_(2)',"CCAGGACC","Mol Cell Biol 10: 4334-4344 (1990)","DROS").
+TFD_subseq('Ttk-eve_(3)',"GGTCCTGC","Mol Cell Biol 10: 4334-4344 (1990)","DROS").
+TFD_subseq('GAGA-eve_(3)',"CGCTCAGCACCGAGAG","Mol Cell Biol 10: 4334-4344 (1990)","DROS").
+TFD_subseq('GAGA-eve_(4)',"TAACTCTCAGCACC","Mol Cell Biol 10: 4334-4344 (1990)","DROS").
+TFD_subseq('GAGA-eve_(5)',"CGCTCAGGCTGTCCCGCTCGC","Mol Cell Biol 10: 4334-4344 (1990)","DROS").
+TFD_subseq('GAGA-eve_(6)',"CGCTCCC","Mol Cell Biol 10: 4334-4344 (1990)","DROS").
+TFD_subseq('GAGA-eve_(7)',"CTGCCAGAGCGCAGC","Mol Cell Biol 10: 4334-4344 (1990)","DROS").
+TFD_subseq('GAGA-eve_(8)',"GCTGAGAGCAGCAC","Mol Cell Biol 10: 4334-4344 (1990)","DROS").
+TFD_subseq('eve-undefined-site',"ACTAACTGCCTTCGTTAATATCCTC","Mol Cell Biol 10: 4334-4344 (1990)","DROS").
+TFD_subseq('CArG_box',"TGCTGCCAAAATAGC","Mol Cell Biol 10: 4256-4265 (1990)","UNDEFINED").
+TFD_subseq('cTNT-M-CAT_1',"GTGTTGCATTCCTC","Mol Cell Biol 10: 4271-4283 (1990)","AVIAN").
+TFD_subseq('cTNT-M-CAT_2',"GGCACATTCCTGC","Mol Cell Biol 10: 4271-4283 (1990)","AVIAN").
+TFD_subseq('AP-4-SV40',"TCACCAGCTGTGGAATGTGTGT","J Virol 73: 1990-7 (1999)","MAMM").
+TFD_subseq('EUSF-histone_H5',"GTGCCCCGTGTT","J Mol Biol 223: 885-898 (1992)","AVIAN").
+TFD_subseq('USF-ADH',"GATCTGGGCTAGATCACATGTGGGATCAGCTG","J Biol Chem 266: 15457-15463 (1991)","MAMM").
+TFD_subseq('USF-Spec1',"GCGTATGGTCACGTGCTTTAT","Dev Biol 148: 625-630 (1991)","ECHINO").
+TFD_subseq('Hox-2.3-undefined-site-1',"GGGGGGAGGGAGGGCTAAT","Nature 354: 245-248 (1991)","MAMM").
+TFD_subseq('Hox-2.3-undefined-site-2',"GGGGGTGGGGGGGAG","Nature 354: 245-248 (1991)","MAMM").
+TFD_subseq('Krox-20-Hox-2.3',"GAGGAGGGGGCGGGGGCGGGGG","Mech Dev 33: 179-190 (1991)","MAMM").
+TFD_subseq('Hox-2.3-undefined-site-3',"GCGCAGGGGGTGAGGG","Mech Dev 33: 179-190 (1991)","MAMM").
+TFD_subseq('Hox-2.3-undefined-site-4',"GGAGGCCGTCATACCATTGGCCGAGG","Mech Dev 33: 179-190 (1991)","MAMM").
+TFD_subseq('Hox-2.3-undefined-site-5',"GGATATCACGTGG","Mech Dev 33: 179-190 (1991)","MAMM").
+TFD_subseq('USF-Hox-2.3',"GCCGGGGTCACTGGTCAG","Mech Dev 33: 179-190 (1991)","MAMM").
+TFD_subseq('Hox-2.3-undefined-site-6',"ACTACAAATCATCCGGCCAAATT","Mech Dev 33: 179-190 (1991)","MAMM").
+TFD_subseq('PEA3-uPA',"AGGAAA","Nucleic Acids Res 18: 5009-5017 (1990)","MAMM").
+TFD_subseq('c-Ets-1-transin/stromelysin',"GCAGGAAGCATTTCCTGG","EMBO J 10: 1127-1134 (1991)","MAMM").
+TFD_subseq('Talpha2_site',"TAGGGCACCCTTTGAAGCTCTCCCGCAGAAGCCACATCCTCTG","Genes Dev 5: 880-894 (1991)","MAMM").
+TFD_subseq('c-Ets-1-HTLV-I',"CCTCCGGGAAGCCACCAAGAACCACCCATTTCCTCCCCATGTTTG","EMBO J 9: 3137-3144 (1990)","MAMM").
+TFD_subseq('Sp1-mim-1',"TTGGGGCGGGGCTT","Biochem Biophys Res Commun 176: 551-557 (1991)","UNDEFINED").
+TFD_subseq('Sp1-artificial_sequence-1',"GAGGCGCGGA","Nucleic Acids Res 18: 3203-9 (1990)","SYNTH").
+TFD_subseq('Sp1-artificial_sequence-2',"GAGGGGTGGT","Nucleic Acids Res 18: 3203-9 (1990)","SYNTH").
+TFD_subseq('Sp1-artificial_sequence-3',"TCGGGGTGGT","Nucleic Acids Res 18: 3203-9 (1990)","SYNTH").
+TFD_subseq('Sp1-artificial_sequence-4',"AGGGCAGGCT","Nucleic Acids Res 18: 3203-9 (1990)","SYNTH").
+TFD_subseq('Sp1-artificial_sequence-5',"AGGGCGTATA","Nucleic Acids Res 18: 3203-9 (1990)","SYNTH").
+TFD_subseq('Sp1-artificial_sequence-6',"GTGGCGGTGT","Nucleic Acids Res 18: 3203-9 (1990)","SYNTH").
+TFD_subseq('Sp1-artificial_sequence-7',"TGGGTAGGGA","Nucleic Acids Res 18: 3203-9 (1990)","SYNTH").
+TFD_subseq('Sp1-artificial_sequence-8',"GAGGCGGGCC","Nucleic Acids Res 18: 3203-9 (1990)","SYNTH").
+TFD_subseq('Sp1-artificial_sequence-9',"CGGGCTGGAT","Nucleic Acids Res 18: 3203-9 (1990)","SYNTH").
+TFD_subseq('Sp1-artificial_sequence-10',"GGGGCTGTGT","Nucleic Acids Res 18: 3203-9 (1990)","SYNTH").
+TFD_subseq('Sp1-artificial_sequence-11',"GGGGCAGGGC","Nucleic Acids Res 18: 3203-9 (1990)","SYNTH").
+TFD_subseq('SWI5-HO',"AAAAACCAGCATGCTATAATGCT","Mol Cell Biol 13: 5524-5537 (1993)","YEAST").
+TFD_subseq('BSAP-consensus',"GACGCANYGRWNNNMG","Genes Dev 4: 849-859 (1990)","MAMM").
+TFD_subseq('SRF-consensus',"ACACCCAAATATGGGCGAC","Mol Cell Biol 9: 515-522 (1989)","MAMM").
+TFD_subseq('GAF-consensus',"TTCATATTACTCT","EMBO J 10: 927-932 (1991)","MAMM").
+TFD_subseq('HSF-consensus',"NGAANNGAANNGAAN","Mol Cell Biol 11: 586-592 (1991)","MAMM").
+TFD_subseq('LF-A1-consensus',"TGGACYYTGGCCC","Nucleic Acids Res 19: 1139-1146 (1991)","MAMM").
+TFD_subseq('LyF-1-consensus',"YYTGGGAGR","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('MEF-2-consensus',"YTWWAAATAR","Genes Dev 6: 1783-1798 (1992)","MAMM").
+TFD_subseq('CTF-consensus',"YGGMNNNNNGCCAA","Nucleic Acids Res 18: 57-64 (1990)","MAMM").
+TFD_subseq('NF-E2-consensus_(1)',"TGACTCAG","EMBO J 10: 1391-1398 (1991)","MAMM").
+TFD_subseq('Oct-4-consensus',"ATGCWAAT","Cell 64: 1103-1110 (1991)","UNDEFINED").
+TFD_subseq('PPAR-consensus',"AGGTCA","Nature 347: 645-650 (1990)","MAMM").
+TFD_subseq('PTF1-beta-consensus',"ATGGGA","Mol Cell Biol 10: 254-264 (1990)","UNDEFINED").
+TFD_subseq('SIF-consensus',"CCCGTM","EMBO J 9: 4477-4484 (1990)","MAMM").
+TFD_subseq('p67-consensus',"GGATGTCCATATTAGGACATCT","Mol Cell Biol 11: 3652-3659 (1991)","MAMM").
+TFD_subseq('TIN-1-consensus',"AGGAAGTTC","Nucleic Acids Res 19: 3959-3963 (1991)","MAMM").
+TFD_subseq('XPF-1-consensus',"CACCTGNNNNTTCCC","Mol Cell Biol 11: 4985-4997 (1991)","MAMM").
+TFD_subseq('GAGA-Kr',"CGTGTGAGCGGGAGA","J Biol Chem 266: 574-582 (1991)","DROS").
+TFD_subseq('Ttk-en',"TGGAAGGGTGGAAGT","EMBO J 11: 1035-1044 (1992)","DROS").
+TFD_subseq('Ttk-consensus',"AGGGYGG","EMBO J 11: 1035-1044 (1992)","DROS").
+TFD_subseq('Tll-Kr_(1)',"CTGCTTTAACTTAATC","Science 256: 94-97 (1992)","DROS").
+TFD_subseq('Tll-Kr_(2)',"ATTAAATTTTT","Science 256: 94-97 (1992)","DROS").
+TFD_subseq('Tll-Kr_(3)',"AATAATCC","Science 256: 94-97 (1992)","DROS").
+TFD_subseq('BCD2/BCD3',"AATAATCCAGCCTTAAGCATGGTGATTAA","Science 256: 94-97 (1992)","DROS").
+TFD_subseq('Tll-Kr_(4)',"GTAATATTGA","Science 256: 94-97 (1992)","DROS").
+TFD_subseq('BCD4/BCD5',"TTAAATCCGTCTGTTAATCTC","Science 256: 94-97 (1992)","DROS").
+TFD_subseq('Tll-Kr_(5)',"GTTAATCTCCGG","Science 256: 94-97 (1992)","DROS").
+TFD_subseq('Tll-Kr_(6)',"GCAATTAAGAAGTCAAATT","Science 256: 94-97 (1992)","DROS").
+TFD_subseq('Kni-Kr',"ACTGAACTAAATCCGG","Science 256: 94-97 (1992)","DROS").
+TFD_subseq('Tll-Kr_(7)',"GATTCTTGC","Science 256: 94-97 (1992)","DROS").
+TFD_subseq('USE_(1)',"TTATCCTTATTAGATGTTGAT","EMBO J 9: 207-216 (1990)","DROS").
+TFD_subseq('USE_(2)',"GACGTTATCCTTATTAGAT","EMBO J 9: 207-216 (1990)","DROS").
+TFD_subseq('CF2-II-s15_(2)',"TAGTGTATATAGGTCACGT","Science 257: 1951-1954 (1992)","DROS").
+TFD_subseq('CF1-s15',"GTGTATATAGGTCACGTAAATG","Proc Natl Acad Sci U S A 89: 11503-11507 (1992)","DROS").
+TFD_subseq('CF2-II-s15_(3)',"AAAATTTGCGTATAAAAGCGAGCG","Genes Dev 4: 1128-1140 (1990)","DROS").
+TFD_subseq('opaque-2-zein_storage_prot_(1)',"TCATTCCACGTAGA","Plant Cell 4: 689-700 (1992)","PLANT").
+TFD_subseq('opaque-2-zein_storage_prot_(2)',"TCCACATAGA","Plant Cell 4: 689-700 (1992)","PLANT").
+TFD_subseq('opaque-2-zein_storage_prot_(3)',"TCCAAGTATA","Plant Cell 4: 689-700 (1992)","PLANT").
+TFD_subseq('opaque-2-zein_storage_prot_(4)',"TCCACGTAGA","Plant Cell 4: 689-700 (1992)","PLANT").
+TFD_subseq('MAZ-c-myc-ME1a2',"GCCTCCTGAAGGGCA","J Biol Chem 274: 19498-506 (1999)","MAMM").
+TFD_subseq('WT1-selected_genomic_sequence1',"GTGAGGCTG","Science 257: 235-237 (1992)","MAMM").
+TFD_subseq('WT1-selected_genomic_sequence2',"CTCCCTCCCAGGAGAGGGAGGAT","Science 257: 235-237 (1992)","MAMM").
+TFD_subseq('WT1-selected_genomic_sequence3',"TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGCATA","Science 257: 235-237 (1992)","MAMM").
+TFD_subseq('WT1-selected_genomic_sequence4',"TGTATGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT","Science 257: 235-237 (1992)","MAMM").
+TFD_subseq('WT1-selected_genomic_sequence5',"AAGAGGGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG","Science 257: 235-237 (1992)","MAMM").
+TFD_subseq('WT1-selected_genomic_sequence6',"AAAAATCACTCCAGGATTTGTTGATCTTTTTAATGATGTGGTTGT","Science 257: 235-237 (1992)","MAMM").
+TFD_subseq('CF2-I-CF2',"TATATTATA","Science 257: 1946-1950 (1992)","DROS").
+TFD_subseq('CF2-I-artificial_sequence',"GTATATTAT","Science 257: 1946-1950 (1992)","DROS").
+TFD_subseq('CF2-II-artificial_sequence',"GTATATATA","Science 257: 1946-1950 (1992)","DROS").
+TFD_subseq('URS1',"AGCCGCCGA","Nucleic Acids Res 20: 1909-1915 (1992)","YEAST").
+TFD_subseq('repressor-MES1',"TGTTAGCCGCCGAAACG","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('HSE2_(2)',"TCCATCGGCGGCAAAAG","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('repressor-TOP1',"CTCTAGCCGCCGACGAC","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('repressor-PYK1',"AAATAGCCGCCATGACC","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('repressor-CTA1',"AATTAGCCGCGCAAGTT","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('repressor-G3PDH',"TATCCCTGCGCGGCTAAGT","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('repressor-CAR2',"GGCTAGCCGCCGACGCC","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('repressor-ILV2',"GCCTAGCCGCCGGAGCC","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('repressor-CYB2',"CAAGAACCGCCAAGAAC","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('repressor-ARG4',"TCTTGTGGTGGTTACTC","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('repressor-ENO1',"TCCTAGCCACCTCAAGG","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('repressor-CTT1',"CTCTGGCTGCAGGCTAG","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('repressor-HSF1',"TTGGAGCCGCCAAAAAA","Mol Cell Biol 10: 3884-3895 (1990)","YEAST").
+TFD_subseq('ANF-albumin-1',"GTTTTCTTTATCTGGAAAAA","Mol Cell Biol 10: 3896-3905 (1990)","MAMM").
+TFD_subseq('ANF-albumin-2',"CTTGGCTTGAACTCGTTCTCCAGC","Mol Cell Biol 10: 3896-3905 (1990)","MAMM").
+TFD_subseq('MuLV-RBS',"TGGGGGCTCGTCCGGGATCGGGAGACCCC","J Virol 69: 1142-9 (1995)","MAMM").
+TFD_subseq('KBF1-MHC_class_I_H-2Kk',"AGATGGGGAATCCCCAGCCC","Mol Cell Biol 10: 4100-4109 (1990)","MAMM").
+TFD_subseq('MHC_class_I_H-2Kk-undefined-si',"CACCCCTGACCTCACCGCCT","Mol Cell Biol 10: 4100-4109 (1990)","MAMM").
+TFD_subseq('Ii-NBLS',"GGGGTATTTCC","Mol Cell Biol 10: 4146-4154 (1990)","MAMM").
+TFD_subseq('SF-3-SCC',"TCTGAGTTTGGGAG","J Biol Chem 265: 11713-11720 (1990)","MAMM").
+TFD_subseq('SF-2-SCC',"GGGGAGGTCACCGCTCCA","J Biol Chem 265: 11713-11720 (1990)","MAMM").
+TFD_subseq('SF-1-SCC',"CTCTTAGCCTTGAGCTG","J Biol Chem 265: 11713-11720 (1990)","MAMM").
+TFD_subseq('CYS3-cys-14_(1)',"TTGAGAACATTGCGCCATGAAACCCCTGGGATGTCGTCATGTTAA","J Biol Chem 265: 11942-11947 (1990)","YEAST").
+TFD_subseq('CYS3-cys-14_(2)',"TTTTCGCTTGGGGATGACGTGC","J Biol Chem 265: 11942-11947 (1990)","YEAST").
+TFD_subseq('CYS3-cys-14_(3)',"TGTTCGCTGATGCCATTCATT","Mol Cell Biol 11: 4356-4362 (1991)","YEAST").
+TFD_subseq('CYS3-cys-3',"CCGAGAATGGTGTCATTTCTCGTGACTTTGGGGGGATTGCACCAT","J Biol Chem 265: 11942-11947 (1990)","YEAST").
+TFD_subseq('Pu-box',"AAGAGGAAAA","Nucleic Acids Res 19: 61-67 (1991)","MAMM").
+TFD_subseq('PEPCK-AF2',"TGGTGTTTTGACAAC","Mol Endocrinol 10: 794-800 (1996)","MAMM").
+TFD_subseq('Ftz-ftz_(1)',"GAAACATTACTGCCATTACAG","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(2)',"TCTCGCATTAGACTGATGTTCT","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(3)',"GTTTATGGATAGTAAATGCA","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(4)',"GGGTCCTTAAGCGTCTTAATTGCCCGCATA","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(5)',"AGCGCAATTGGTTTCCAAGGCGGAAATATTATTGGCACATCATAA","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(6)',"ATTGTTAATGGACGTTATCCTTATTAGA","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(7)',"TTAGGTATTAAGATCTGA","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(8)',"CTTCATTATATTATAGATTA","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(9)',"TTGTTATAGTGCTCGGA","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(10)',"CACAAGGTACAAGGT","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(11)',"ACATGACATTAT","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(12)',"AAAAAGCCATCAA","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(13)',"TAGGGGCCATAAGCAG","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(14)',"ACGGGGTCATCATTGCTATTTAAAAG","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(15)',"CAGGACAATTCGAATAAGT","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(16)',"GACAGGAGCAATTACAG","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(17)',"CAGGCAATTCAAGGA","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(18)',"GACTTTGATTGGTGCC","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(19)',"ATATCCACCCATTGAG","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Ftz-ftz_(20)',"GAAGATTACTTCATTTA","Genes Dev 4: 1224-1239 (1990)","DROS").
+TFD_subseq('Adh-1-undefined-site_(1)',"TCTGTCCACTCT","Genes Dev 4: 1224-1239 (1990)","UNDEFINED").
+TFD_subseq('Adh-1-undefined-site_(2)',"TCCGTCCACTCT","Genes Dev 4: 1224-1239 (1990)","UNDEFINED").
+TFD_subseq('Adh-1-undefined-site_(3)',"GCCAGATCACGTG","Genes Dev 4: 1224-1239 (1990)","UNDEFINED").
+TFD_subseq('BAF1-RPC160',"ATCACTATATACGTGAA","J Biol Chem 265: 15168-15175 (1990)","YEAST").
+TFD_subseq('BAF1-RPC40',"CGTTTATAGTGAC","J Biol Chem 265: 15168-15175 (1990)","YEAST").
+TFD_subseq('BAF1-consensus_(2)',"RTCRYYNNNNACG","Mol Cell Biol 10: 4872-4885 (1990)","YEAST").
+TFD_subseq('AP-1-CCK',"CCTCTGAGCACGTGTCCTGCCGGACTGCGTCAGCACTG","J Biol Chem 265: 15455-15463 (1990)","MAMM").
+TFD_subseq('CCK-1b-CCK',"CTGGGTAAACAGATGA","J Biol Chem 265: 15455-15463 (1990)","MAMM").
+TFD_subseq('NF-lambda2-immunoglobulin_lamb',"TAGATCTCACGTGACATCTT","Mol Cell Biol 10: 5894-5902 (1990)","MAMM").
+TFD_subseq('Sp1-t-PA',"ACCCCGCCC","Mol Cell Biol 11: 3139-3147 (1991)","MAMM").
+TFD_subseq('Oct-1-Ocr',"ATTTGCATATGCAAAT","Nucleic Acids Res 18: 5781 (1990)","AMPHIB").
+TFD_subseq('HrpF-rpL14',"ACTTCCGGTT","Nucleic Acids Res 18: 5811 (1990)","AMPHIB").
+TFD_subseq('su(Hw)-MHC_class_II_DPA',"YRYTGCATAYYY","EMBO J 8: 903-911 (1989)","DROS").
+TFD_subseq('Ets-site_A_(17)',"AATAACCGGAAGTAACT","Oncogene 8: 1621-1630 (1993)","DROS").
+TFD_subseq('site_B_(14)',"TGATCAGGAATTATG","Cell 63: 47-61 (1990)","DROS").
+TFD_subseq('site_C_(12)',"CAGTAGGAACAACAGCAAT","Cell 63: 47-61 (1990)","DROS").
+TFD_subseq('E74A-consensus',"AAYCMGGAAGT","Cell 63: 47-61 (1990)","DROS").
+TFD_subseq('DRA-W-element',"ATCTTGTGTCCTGGA","Mol Cell Biol 16: 4683-90 (1996)","MAMM").
+TFD_subseq('V21_element',"TTGTTGTTGTCCTGTT","Proc Natl Acad Sci U S A 87: 7703-7707 (1990)","MAMM").
+TFD_subseq('RAP1-CS',"RTRCACCCANNCMCC","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('ISGF-3-IFI-56K',"TAGTTTCACTTTCCC","Mol Cell Biol 10: 5055-5063 (1990)","MAMM").
+TFD_subseq('ATF-E4_(1)',"TGACGATTT","Mol Cell Biol 10: 5138-5149 (1990)","MAMM").
+TFD_subseq('Ly6E/A-CCAAT',"TTAACCAATAAA","Mol Cell Biol 10: 5150-5159 (1990)","MAMM").
+TFD_subseq('Ly6E_differentiation_antigen-2',"GTGGCCTGGAAAAGGTTAAGTACTGA","Mol Cell Biol 10: 5138-5149 (1990)","MAMM").
+TFD_subseq('PPR1-dependent-REB1',"TTCGGTAATCTCCGAA","Mol Cell Biol 10: 5257-5270 (1990)","YEAST").
+TFD_subseq('GA-BF-URA3',"AGAAACATGAAATTGCCCAGTATTCTT","Mol Cell Biol 10: 5257-5270 (1990)","YEAST").
+TFD_subseq('SV40-undefined-site-1',"ACCCTAACTGACA","Mol Cell Biol 10: 5257-5270 (1990)","MAMM").
+TFD_subseq('T-cell_receptor_beta-_site1',"CTCCATCAAAAAGG","Mol Cell Biol 10: 5257-5270 (1990)","MAMM").
+TFD_subseq('AP-1-T-cell_receptor_beta-chai',"GTTTATCTCTGAGTCACATCAGCA","Mol Cell Biol 10: 5486-5495 (1990)","MAMM").
+TFD_subseq('TCR-betaE2',"AACAGGATGTGGTTTGAC","Proc Natl Acad Sci U S A 89: 9934-9938 (1992)","MAMM").
+TFD_subseq('TCR-betaE3',"CCTTCAGAGCATCATGAGAACCACACTCACCGCATCCGGCACCCA","Proc Natl Acad Sci U S A 89: 9934-9938 (1992)","MAMM").
+TFD_subseq('T-cell_receptor_beta-_site2',"ACTTCAGAGGGGAG","Proc Natl Acad Sci U S A 89: 9934-9938 (1992)","MAMM").
+TFD_subseq('BAF1-PYK1',"ATCTCTCGCAACG","Nucleic Acids Res 18: 5393 (1990)","YEAST").
+TFD_subseq('MLC-3'-enhancer-1',"TCAAGTAACAGCAGGTGCAAAATAAAGT","Nucleic Acids Res 18: 6239 (1990)","MAMM").
+TFD_subseq('Myf-3-MLC',"CATCTACACCAGCTGGCAAAAATGAC","Nucleic Acids Res 18: 6239-46 (1990)","MAMM").
+TFD_subseq('globin-HSII_enhancer',"TGAGTCATGATGAGTCA","Proc Natl Acad Sci U S A 88: 8676-8680 (1991)","MAMM").
+TFD_subseq('Sp1-CRE-BP1_(1)',"GGAGGGGAGGGATGGGC","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('Sp1-CRE-BP1_(2)',"GCAAACTCCGCCTCCCCCAA","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('AP-2-CRE-BP1',"CCCCGCCTCAGGCTCCCGGGG","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('Sp1-CRE-BP1_(3)',"GCCAAGGGGTGGGCTGAGGAAC","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('CRE-BP1-CRE-BP1_(1)',"TGGGAAGTGACGGAAACGGAGAC","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('Sp1-CRE-BP1_(4)',"GCTCCTGGGGCTGGACTCGG","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('CRE-BP1-undefined-site_(1)',"CATCCTGCTTTCCCTCTAGCAG","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('CRE-BP1-undefined-site_(2)',"ACACCGCCAAAGCCCTGC","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('Sp1-CRE-BP1_(5)',"CCCTCTGGTCCCGCCCCCTCCAG","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('Sp1-CRE-BP1_(6)',"ACTGCTTCCCGCCCTTCG","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('Sp1-CRE-BP1_(7)',"TTTGATGCCCGTCCCCTCTACCC","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('Sp1-CRE-BP1_(8)',"TGCCGAAGACCCGCCTTCTTCTC","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('CRE-BP1-CRE-BP1_(2)',"AAGCCTGACGGAATCACC","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('Sp1-CRE-BP1_(9)',"CAAGAAGGGGCGTGTG","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('Sp1-CRE-BP1_(10)',"GGTGAAGGGGAGGGGCGC","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('Sp1-CRE-BP1_(11)',"GCGAGCGGGCGGGGGTTGTCA","J Biol Chem 265: 17300-17306 (1990)","MAMM").
+TFD_subseq('NFE-6-GPC',"GCACTCCAGGGGGAATTCTCAA","J Biol Chem 265: 16729-16732 (1990)","MAMM").
+TFD_subseq('GATA-1-GPC_(1)',"TATCCGGT","J Biol Chem 265: 16729-16732 (1990)","MAMM").
+TFD_subseq('GATA-1-GPC_(2)',"GCAGATGGAAA","J Biol Chem 265: 16729-16732 (1990)","MAMM").
+TFD_subseq('Sp1-GPC_(1)',"GTTCAGAAGTGGGCGGGTGTG","J Biol Chem 265: 16729-16732 (1990)","MAMM").
+TFD_subseq('GPC_-undefined-site',"AGGGGTGGAAA","J Biol Chem 265: 16729-16732 (1990)","MAMM").
+TFD_subseq('Sp1-GPC_(2)',"CCCCTCCCCTC","J Biol Chem 265: 16729-16732 (1990)","MAMM").
+TFD_subseq('GATA-1-GPC_(3)',"AAGTCTGCCTATCTC","J Biol Chem 265: 16729-16732 (1990)","MAMM").
+TFD_subseq('Sp1-TGF-alpha',"GGGAGGCGCGGTC","Oncogene 7: 1805-1815 (1992)","MAMM").
+TFD_subseq('Ftz-artificial_sequence_(1)',"AACACATTACGC","EMBO J 9: 3967-3974 (1990)","DROS").
+TFD_subseq('MyoD1-alpha-actin',"TCCAACTGAC","Genes Dev 4: 1811-1822 (1990)","MAMM").
+TFD_subseq('c-Fos-beta-globin',"GCTGAGTCATGATGAGTCA","Proc Natl Acad Sci U S A 88: 8676-8680 (1991)","MAMM").
+TFD_subseq('F1a',"ACTATGTTAAGAAATGAATCATTATCTTTT","Mol Cell Biol 12: 4906-4918 (1992)","MAMM").
+TFD_subseq('H2B-abp-1-H2B',"AAGCTGCCAATCATA","Mol Cell Biol 10: 6730-6741 (1990)","ECHINO").
+TFD_subseq('CREB-glucagon',"TCATTTGACGTCAAAATTCATT","Mol Cell Biol 13: 7080-7090 (1993)","MAMM").
+TFD_subseq('C/EBP-SAA3',"AGGGATTGCTCCATTAGTGGA","Mol Cell Biol 10: 6624-6631 (1990)","MAMM").
+TFD_subseq('C/EBP-albumin_(4)',"CACACTTGGAATTAGCAATAGATGCAATTTGGGACTTG","Mol Cell Biol 10: 6624-6631 (1990)","MAMM").
+TFD_subseq('AGP-site_B_',"GGAACATTTTGCGCAAGACATTTCCCAAG","Mol Cell Biol 10: 6642-6653 (1990)","MAMM").
+TFD_subseq('AGP-site_A',"AGATTGTGCCACAGCT","Mol Cell Biol 10: 6642-6653 (1990)","MAMM").
+TFD_subseq('AP-2-type_IV_collagenase',"ACACCCACCAGACAAGCCTGAACTTGTCTGAAG","Mol Cell Biol 10: 6524-6532 (1990)","MAMM").
+TFD_subseq('(NF-kappaB)-complement_C4',"AGGGGAAGTCCCTG","Mol Cell Biol 10: 6283-6289 (1990)","MAMM").
+TFD_subseq('XF1-cytochrome_P-450c',"GCTCTTCTCACGCAACTCCGG","Mol Cell Biol 10: 6408-6416 (1990)","MAMM").
+TFD_subseq('A5CE-2_element',"AAAATGTG","Mol Cell Biol 10: 6408-6416 (1990)","UNDEFINED").
+TFD_subseq('C/EBP-complement_C3',"ACTGAAAAGCTTAGGAAATGGTATTGAGAAATCTGGGGC","Mol Cell Biol 10: 6216-6224 (1990)","MAMM").
+TFD_subseq('complement_C3-undefined-site',"CAAAAGG","Mol Cell Biol 10: 6216-6224 (1990)","MAMM").
+TFD_subseq('Zmhox1a-Sh_(1)',"CCTCTCCCGTC","EMBO J 11: 3367-3374 (1992)","PLANT").
+TFD_subseq('Zmhox1a-Sh_(2)',"GCTGCCCGTC","EMBO J 11: 3367-3374 (1992)","PLANT").
+TFD_subseq('Zmhox1a-Sh_(3)',"TAGGAGCAGCT","EMBO J 11: 3367-3374 (1992)","PLANT").
+TFD_subseq('Ubx-artificial_sequence-1',"CGAGTTAATGGCTTTAATGGCTATGTTAATGGCTTTAATGGCTA","EMBO J 11: 4059-4072 (1992)","DROS").
+TFD_subseq('Ubx-artificial_sequence-2',"GATAATGCGATT","EMBO J 11: 4059-4072 (1992)","DROS").
+TFD_subseq('Ubx-artificial_sequence-3',"GAGTTAATCGACTTAATCGACGTTTTAATCGACTTAATCGAC","EMBO J 11: 4059-4072 (1992)","DROS").
+TFD_subseq('Ubx-consensus',"TTAATKRCC","EMBO J 11: 4059-4072 (1992)","DROS").
+TFD_subseq('Dfd-consensus',"YTAATKRAC","EMBO J 11: 4059-4072 (1992)","DROS").
+TFD_subseq('hsg_operator',"CCCAATGTAGAAAAGTACATCATATG","EMBO J 13: 1434-1442 (1994)","YEAST").
+TFD_subseq('En-artificial_sequence',"TGCCATGTAATTACCTA","Cell 63: 579-590 (1990)","DROS").
+TFD_subseq('Prd-artificial_sequence-1',"TTTGACGT","Cell 59: 553-562 (1989)","SYNTH").
+TFD_subseq('gt2',"GACTTTATTGCAGCATCTTGAACAATCGTCGCAGTTTGGTAACAC","Genes Dev 5: 827-839 (1991)","DROS").
+TFD_subseq('Gt-eve',"ATAAAAACACATAATAATGA","Genes Dev 5: 827-839 (1991)","DROS").
+TFD_subseq('Bcd-eve',"GAAGGGATTAGGG","Genes Dev 5: 827-839 (1991)","DROS").
+TFD_subseq('Cad-ftz',"TTTAGGGAACCATAAA","Genes Dev 5: 855-867 (1991)","DROS").
+TFD_subseq('Ubx-artificial_sequence-4',"AGAGTCCATTAAGAT","EMBO J 10: 1179-1186 (1991)","DROS").
+TFD_subseq('Ubx-dpp_(2)',"CCATTACCATTACCATTATCATTACCGTTACTATTACCATTA","EMBO J 10: 1179-1186 (1991)","DROS").
+TFD_subseq('Ftz-Antp',"CGTATATAATATATAAGCAATTAAGGTAAACAGT","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(2)',"CAGCAATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(3)',"GAGCAATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(4)',"TAGCAATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(5)',"ACGCAATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(6)',"AGGCAATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(7)',"ATGCAATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(8)',"AAACAATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(9)',"AACCAATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(10)',"AATCAATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(11)',"AAGAAATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(12)',"AAGGAATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(13)',"AAGTAATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(14)',"AAGCCATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(15)',"AAGCGATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(16)',"AAGCTATTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(17)',"AAGCACTTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(18)',"AAGCAGTTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(19)',"AAGCATTTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(20)',"AAGCAAATAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(21)',"AAGCAACTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(22)',"AAGCAAGTAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(23)',"AAGCAATAAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(24)',"AAGCAATCAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(25)',"AAGCAATGAAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(26)',"AAGCAATTCAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(27)',"AAGCAATTTAG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(28)',"AAGCAATTACG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(29)',"AAGCAATTAGG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(30)',"AAGCAATTATG","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(31)',"AAGCAATTAAC","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Ftz-artificial_sequence_(32)',"AAGCAATTAAT","Mol Cell Biol 11: 3613-3623 (1991)","DROS").
+TFD_subseq('Hb-BRE_1',"CACACATAAAAAACGGTTCCCTAAA","EMBO J 10: 1415-1425 (1991)","DROS").
+TFD_subseq('Hb-BRE_2',"GGAACGATTTTTTAATGTTTCTC","EMBO J 10: 1415-1425 (1991)","DROS").
+TFD_subseq('Hb-BRE_3',"TGCACTTTTTATGACCTCGTAAAAAAACT","EMBO J 10: 1415-1425 (1991)","DROS").
+TFD_subseq('fAE2B/_CDRE',"TTTATGTCTTTATG","Genes Dev 5: 855-867 (1991)","UNDEFINED").
+TFD_subseq('fAE3/_A-R_region',"CGGCTGAGAGTCGCGCCCTCTCGCTCTG","Genes Dev 5: 855-867 (1991)","DROS").
+TFD_subseq('fRE1/_A-R_region',"GGCCGTAATTACTGC","Genes Dev 5: 855-867 (1991)","DROS").
+TFD_subseq('fDE1/_A-R_region',"TCAAGGTCGCCG","Genes Dev 5: 855-867 (1991)","DROS").
+TFD_subseq('C/EBP-CPSI',"GTTGCAACTTG","Mol Cell Biol 9: 2928-2933 (1989)","MAMM").
+TFD_subseq('CPSI-A1-3',"CATTCATCTCTC","Mol Cell Biol 9: 2928-2933 (1989)","MAMM").
+TFD_subseq('CPSI-A2-2',"CATTCAACCTTAC","Mol Cell Biol 9: 2928-2933 (1989)","MAMM").
+TFD_subseq('CPSI-B1',"TCTCCCA","Mol Cell Biol 9: 2928-2933 (1989)","MAMM").
+TFD_subseq('EF-C-HBV',"GTTGCCCGGCAAC","Virology 182: 857-860 (1991)","MAMM").
+TFD_subseq('Sp1-malic_enzyme',"GCCCCGCCCC","J Biol Chem 264: 11483-11490 (1989)","UNDEFINED").
+TFD_subseq('DRE/MPE-2',"CTCGCCACCCCCTCTCGCCACCC","J Biol Chem 264: 11483-11490 (1989)","UNDEFINED").
+TFD_subseq('TAF-malic_enzyme',"ATCGTTTTGTACG","Nucleic Acids Res 17: 4917 (1989)","YEAST").
+TFD_subseq('TAF-consensus',"RTCRYNNNNNACG","Nucleic Acids Res 17: 4917 (1989)","YEAST").
+TFD_subseq('lysozyme-E-2.7_kb_(1)',"TGACTATGACTAC","Nucleic Acids Res 17: 4975-91(1989)","AVIAN").
+TFD_subseq('lysozyme-E-2.7_kb_(2)',"GAATGAGGAACT","J Biol Chem 272: 29527-37 (1997)","AVIAN").
+TFD_subseq('lysozyme-E-2.7_kb_(3)',"GGAGTCA","Nucleic Acids Res 17: 4975-91 (1989)","AVIAN").
+TFD_subseq('lysozyme-E-2.7_kb_(4)',"TTTGGAAAT","Nucleic Acids Res 17: 4975-91 (1989)","AVIAN").
+TFD_subseq('lysozyme-E-2.7_kb_(5)',"AATTGCAAAG","Nucleic Acids Res 17: 4975-91 (1989)","AVIAN").
+TFD_subseq('lysozyme-E-0.2_kb_(1)',"ATTGCAACA","Nucleic Acids Res 17: 4975-91 (1989)","AVIAN").
+TFD_subseq('lysozyme-E-0.2_kb_(2)',"AAATTCCTCTG","Nucleic Acids Res 17: 4975-91 (1989)","AVIAN").
+TFD_subseq('lysozyme-E-0.2_kb_(3)',"TGTGGCTTAGCCAATGTGGT","Nucleic Acids Res 10: 4163-78 (1987)","AVIAN").
+TFD_subseq('lysozyme-E-0.2_kb_(4)',"TTTGGCAAG","Nucleic Acids Res 17: 4975-91 (1989)","AVIAN").
+TFD_subseq('lysozyme-E-0.2_kb_(5)',"TTGGGAAATTT","Nucleic Acids Res 17: 4975-91 (1989)","AVIAN").
+TFD_subseq('lysozyme-E-0.2_kb_(6)',"GAGGGCGT","Nucleic Acids Res 17: 4975-91 (1989)","AVIAN").
+TFD_subseq('KBF1-artificial_sequence',"TGGGGAATCCCCT","Nucleic Acids Res 17: 5245-57 (1989)","MAMM").
+TFD_subseq('KBF2-artificial_sequence',"TGGGGATTCCGGA","Nucleic Acids Res 17: 5245-57 (1989)","MAMM").
+TFD_subseq('Sp1-rpS16',"GCTCCGCCCC","Nucleic Acids Res 17: 5323 (1989)","MAMM").
+TFD_subseq('rpS16_-undefined-site',"GTCGTGACGT","Nucleic Acids Res 17: 5323 (1989)","MAMM").
+TFD_subseq('T3RE_within_LTR',"CAAGGACCTGAAATGACCCTG","Endocrinol 129: 3331-3336 (1991)","MAMM").
+TFD_subseq('SBF-U1_snRNA',"CCGCGCGCTGCATGCCGGGAGCAC","Mol Cell Biol 10: 341-352 (1990)","AVIAN").
+TFD_subseq('actin_5C-undefined-site',"TCAAAGTTGTAGTTGCA","Mol Cell Biol 10: 341-352 (1990)","DROS").
+TFD_subseq('C/EBP-apoVLDL_II',"CCGGTTTTGG","Mol Cell Biol 10: 154-164 (1990)","AVIAN").
+TFD_subseq('Sp1-gamma-globin_(1)',"CTCTTGGGGGCGCCTTC","Mol Cell Biol 12: 4919-4929 (1992)","MAMM").
+TFD_subseq('adipsin-undefined-site-1',"CTCCCCTTCCCTAGTTGG","Mol Cell Biol 12: 4919-4929 (1992)","MAMM").
+TFD_subseq('adipsin-undefined-site-2',"CCCACCAGGCAAGGGGCAG","Mol Cell Biol 12: 4919-4929 (1992)","MAMM").
+TFD_subseq('MHC_class_I_H-2Kbm1_-undefined',"TCATGATGGACTAAATCCTGAAACTGTAAGCCAGACCCTATTAAA","Mol Cell Biol 12: 4919-4929 (1992)","MAMM").
+TFD_subseq('c-Myb-artificial_sequence-1',"CAGTTAATAGCAGTTA","EMBO J 9: 161-169 (1990)","SYNTH").
+TFD_subseq('c-Myb-artificial_sequence-2',"CAGTTAATAGTAACTG","EMBO J 9: 161-169 (1990)","SYNTH").
+TFD_subseq('Kr-consensus_(2)',"AACGGGTTAA","Nature 341: 331-335 (1989)","DROS").
+TFD_subseq('Hb-consensus-1',"SMATAAAAAA","Nature 341: 331-335 (1989)","DROS").
+TFD_subseq('Hb-consensus-2',"ACNCAAAAAANTA","Nature 341: 335-337 (1989)","DROS").
+TFD_subseq('Kr-consensus_(1)',"AAGGGGTTAA","Nature 341: 335-337 (1989)","DROS").
+TFD_subseq('Kr-hb',"AAGGGGCATTTA","Nature 341: 335-337 (1989)","DROS").
+TFD_subseq('Sp1-gamma-globin_(2)',"GGGGGCCCCTCCCCCACAC","Nucleic Acids Res 17: 10231-10241 (1989)","MAMM").
+TFD_subseq('Antp-Ubx_(2)',"TAATAATCGTTCAAATCGTTAAAACCATAAAAATAATAATAATTG","Cell 57: 1017-1030 (1989)","DROS").
+TFD_subseq('Hox-1-HIV-2',"ACTCCCCCATTAGTG","Genes Dev 3: 158-172 (1989)","MAMM").
+TFD_subseq('Hox-1-Hox-1.3',"CTAGAGGTCATCAGGCAGGATTTACGACTG","Genes Dev 3: 158-172 (1989)","MAMM").
+TFD_subseq('Hox-1-Hox-1.3',"AACAAAAGCACGTGATTCGAA","Genes Dev 3: 158-172 (1989)","MAMM").
+TFD_subseq('Hox-1-consensus',"CYYNATTAKY","Genes Dev 3: 158-172 (1989)","MAMM").
+TFD_subseq('GCF-beta-actin_(1)',"GGGCGGGGCG","Cell 59: 815-825 (1989)","MAMM").
+TFD_subseq('GCF-beta-actin_(2)',"GCGCGGGCCG","Cell 59: 815-825 (1989)","MAMM").
+TFD_subseq('GCF-EGF_receptor',"CAGCGCGGCC","Cell 59: 815-825 (1989)","MAMM").
+TFD_subseq('GCF-CANP',"TCCCGGCGCT","Cell 59: 815-825 (1989)","MAMM").
+TFD_subseq('GCF-consensus',"GCGGGGC","Cell 59: 815-825 (1989)","MAMM").
+TFD_subseq('AhR-CYP1A1_(1)',"CCTTTGCACGTGGCGTGTCTTGTCGCG","J Biol Chem 264: 16478-16482 (1989)","MAMM").
+TFD_subseq('AhR-CYP1A1_(2)',"CTCCCCCAGCTAGCGTGACAGCACTGG","J Biol Chem 264: 16478-16482 (1989)","MAMM").
+TFD_subseq('AhRE3',"AGGCTCTTCTCACGCAACTCCGAGCTC","Mol Cell Biol 12: 1856-1863 (1992)","MAMM").
+TFD_subseq('AhR-CYP1A1_(3)',"CAGGCTTACGCACGCTAGCCTCAGGAA","J Biol Chem 264: 16478-16482 (1989)","MAMM").
+TFD_subseq('AhR-CYP1A1_(4)',"TCCTGCTGTCTCGCGTGGATCCTTCCT","J Biol Chem 264: 16478-16482 (1989)","MAMM").
+TFD_subseq('AhR-CYP1A1_(5)',"TTGCGCTTCTCACGCGAGCTTGGACTC","J Biol Chem 264: 16478-16482 (1989)","MAMM").
+TFD_subseq('glycoprotein_hormone_alpha-sub',"GACCTAAGGG","J Biol Chem 264: 16478-16482 (1989)","UNDEFINED").
+TFD_subseq('AhR-consensus_(1)',"YNSNRNSTNGCGTGNNW","J Biol Chem 264: 16478-16482 (1989)","UNDEFINED").
+TFD_subseq('AF-1-apoCIII',"CAGGTGACCTTTGCCC","Mol Cell Biol 12: 1708-1718 (1992)","MAMM").
+TFD_subseq('ATF-cytochrome_C',"GGAGGGTGACGTCATCCACG","Genes Dev 4: 1023-1034 (1990)","MAMM").
+TFD_subseq('NRF-1-cytochrome_C',"CCCGCATGCGCG","Genes Dev 4: 1023-1034 (1990)","MAMM").
+TFD_subseq('Sp1-cytochrome_C',"GGGGCGGGAAGAGGGCGAGGA","J Biol Chem 264: 14361-14368 (1989)","MAMM").
+TFD_subseq('URTF-steroid_11beta-hydroxylas',"TGACGTGA","J Biol Chem 264: 14011-14015 (1989)","UNDEFINED").
+TFD_subseq('CREB-alphaA-crystallin',"GCGCTGGTTCCCACCAGACTGTCATC","Mol Cell Biol 14:  7363-76 (1994)","AVIAN").
+TFD_subseq('Sgs3-undefined-site',"GCGTACCTATA","J Biol Chem 264: 14011-14015 (1989)","UNDEFINED").
+TFD_subseq('ER-vitellogenin_B1',"AGTCACTGTGACCCAACCCAAGTTATCATGACC","EMBO J 8: 3781-3791 (1989)","UNDEFINED").
+TFD_subseq('c-Fos-artificial_sequence',"ATGACGTCAT","EMBO J 8: 3833-3841 (1989)","SYNTH").
+TFD_subseq('NF-kappaB-Ig-kappa',"CTCTCGGAAAGTCCCCTCTGTTG","Proc Natl Acad Sci U S A 88: 1783-1787 (1991)","MAMM").
+TFD_subseq('NRF-1-COX-VIc-2',"CTCCTGCGCATGCGTG","Genes Dev 4: 1023-1034 (1990)","MAMM").
+TFD_subseq('NRF-1-ubiquinone-binding_prote',"TGCGCCTGCGCA","Genes Dev 4: 1023-1034 (1990)","MAMM").
+TFD_subseq('NRF-1-mitochondrial_RNA_proces',"TGCGCACGCGCA","Genes Dev 4: 1023-1034 (1990)","MAMM").
+TFD_subseq('MLC-undefined-site',"TTTCTTCCTTTTATAG","Nucleic Acids Res 19:  1497-504 (1991)","MAMM").
+TFD_subseq('AP-1-alpha1-protease_inhibitor',"CTAACCACGTGATCAGCC","Mol Cell Biol 10: 2625-2637 (1990)","MAMM").
+TFD_subseq('NE/_negative_element',"GACGCGCTTTGGACACCGGATGTTGTGTTT","Mol Cell Biol 10: 2625-2637 (1990)","MAMM").
+TFD_subseq('C/EBP-alpha1-protease_inhibito',"CTTTGCTTAAGACTCCATTGATTTAGGAGC","Mol Cell Biol 10: 2625-2637 (1990)","MAMM").
+TFD_subseq('apoB-100_-undefined-site',"TCTCGGTTGCTGCCGCTGAG","J Biol Chem 266: 24149-24160 (1991)","MAMM").
+TFD_subseq('CD28RC-IL-3',"GAGGTTCCATGTCAGATA","Mol Cell Biol 12: 4357-4363 (1992)","MAMM").
+TFD_subseq('NF-GMa-IL-5',"AAGATTCTTC","Mol Cell Biol 10: 2950-2959 (1990)","UNDEFINED").
+TFD_subseq('TF68-E2-early_promoter',"CCGCTGGAGATGACG","Mol Cell Biol 11: 5534-5540 (1991)","UNDEFINED").
+TFD_subseq('DRTF1-E2-early_promoter_(2)',"GTAGTTTTCGCG","Mol Cell Biol 11: 5534-5540 (1991)","UNDEFINED").
+TFD_subseq('DRTF2-E2-early_promoter',"CTTAAATTTGA","Nucleic Acids Res 21: 2737-2746 (1993)","UNDEFINED").
+TFD_subseq('T-cell_receptor_beta-_site3',"ACACACATGGATATT","Nucleic Acids Res 21: 2737-2746 (1993)","UNDEFINED").
+TFD_subseq('T-cell_receptor_beta-_site4',"TGCCCCCCCCCCCCCCCGTTTTCCCATTGAATTAT","Nucleic Acids Res 21: 2737-2746 (1993)","UNDEFINED").
+TFD_subseq('T-cell_receptor_beta-_site5',"TATTTGTCCTGACAGTGGTGTTGAT","Nucleic Acids Res 21: 2737-2746 (1993)","UNDEFINED").
+TFD_subseq('T-cell_receptor_beta-_site6',"AATACAA","Nucleic Acids Res 21: 2737-2746 (1993)","UNDEFINED").
+TFD_subseq('HEF-1T-S14',"AGGCTCTGACGTCTCCC","J Biol Chem 265: 8230-8236 (1990)","UNDEFINED").
+TFD_subseq('AP-2-HTLV-I_(1)',"GACGTCTCCCCCCGGAGGGCAGCTCA","J Biol Chem 265: 8230-8236 (1990)","MAMM").
+TFD_subseq('HEF-1B-HTLV-I',"GACGTCTCCCCCCGGAG","J Biol Chem 265: 8230-8236 (1990)","MAMM").
+TFD_subseq('HEF-1T-HTLV-I_(1)',"CTAGGCCCTGACGTGTCCCCCT","J Biol Chem 265: 8230-8236 (1990)","MAMM").
+TFD_subseq('AP-2-HTLV-I_(2)',"AGGCCCTGACGTGTCCCCCTGAAGACAAAT","J Biol Chem 265: 8230-8236 (1990)","MAMM").
+TFD_subseq('AP-2-HTLV-I_(3)',"AAGCCGTCCTCAGGCGTTGACG","J Biol Chem 265: 8230-8236 (1990)","MAMM").
+TFD_subseq('HEF-1T-HTLV-I_(2)',"CAGGCGTTGACGACAACCCCTCA","J Biol Chem 265: 8230-8236 (1990)","MAMM").
+TFD_subseq('Sp1-HTLV-I',"GAACCACCCA","J Biol Chem 265: 8237-8242 (1990)","MAMM").
+TFD_subseq('NF-1-HTLV-I',"CTTTTCATGGCACGCATATGG","J Biol Chem 265: 8237-8242 (1990)","MAMM").
+TFD_subseq('HEF-4C-HTLV-I',"CACGCATATGGCTCAATAAA","J Biol Chem 265: 8237-8242 (1990)","MAMM").
+TFD_subseq('GG-II/GG-I',"GGAAAT","J Biol Chem 265: 8285-8296 (1990)","UNDEFINED").
+TFD_subseq('SGF-1-fibroin',"GTGTAGATGTTTATTC","J Mol Biol 213: 651-670 (1990)","UNDEFINED").
+TFD_subseq('FBF-A1-fibroin',"CGAAAGTAAATACG","J Mol Biol 213: 651-670 (1990)","UNDEFINED").
+TFD_subseq('AhR-consensus_(2)',"CNWNWCACGCWW","J Biol Chem 265: 9251-9258 (1990)","UNDEFINED").
+TFD_subseq('SRY-IRE-A',"CCCGCCTCTCAGCCTTTGAAAGAAAGAAAGGGG","Nature 354: 317-320 (1991)","UNDEFINED").
+TFD_subseq('NIT2-nit-3_(1)',"TATCACA","Proc Natl Acad Sci U S A 87: 5331-5335 (1990)","YEAST").
+TFD_subseq('NIT2-nit-3_(2)',"TATCATGTACGTAGATA","Proc Natl Acad Sci U S A 87: 5331-5335 (1990)","YEAST").
+TFD_subseq('NIT2-nit-3_(3)',"TATCAAACCTTATCAA","Proc Natl Acad Sci U S A 87: 5331-5335 (1990)","YEAST").
+TFD_subseq('NIT2-niaD-niiA_(1)',"TATCTA","Proc Natl Acad Sci U S A 87: 5331-5335 (1990)","YEAST").
+TFD_subseq('NIT2-niaD-niiA_(2)',"TAGTAGAGATA","Proc Natl Acad Sci U S A 87: 5331-5335 (1990)","YEAST").
+TFD_subseq('NIT2-niaD-niiA_(3)',"TATCGCCGGCTCATTATCGT","Proc Natl Acad Sci U S A 87: 5331-5335 (1990)","YEAST").
+TFD_subseq('Oct-1-IE-2',"GATTGGTCCTTG","Proc Natl Acad Sci U S A 87: 5268-5272 (1990)","MAMM").
+TFD_subseq('AP-1-IL-3',"TGAGTCA","Proc Natl Acad Sci U S A 87: 5046-5050 (1990)","MAMM").
+TFD_subseq('NIP-IL-3',"GCTGCCATG","Proc Natl Acad Sci U S A 87: 5046-5050 (1990)","MAMM").
+TFD_subseq('Oct-1-IL-3',"ATGAATAATTACGTCT","Proc Natl Acad Sci U S A 87: 5046-5050 (1990)","MAMM").
+TFD_subseq('C/EBP-HBV_(1)',"CTGCACGTTGCATGGAG","Proc Natl Acad Sci U S A 87: 5069-5073 (1990)","MAMM").
+TFD_subseq('HBV-undefined-site-1',"ACCGTGAACGCCCA","Proc Natl Acad Sci U S A 87: 5069-5073 (1990)","MAMM").
+TFD_subseq('HBV-enhancer-II-box-alpha',"TCTTACATAAGA","Mol Cell Biol 11: 5044-5052 (1991)","MAMM").
+TFD_subseq('C/EBP-HBV_(2)',"CCCAGCAATGTCAACG","Proc Natl Acad Sci U S A 87: 5069-5073 (1990)","MAMM").
+TFD_subseq('HBV-box-beta',"CTTCAAAGACTGTGTGTTTATGGACTGGGAGGAGCT","Mol Cell Biol 11: 5044-5052 (1991)","MAMM").
+TFD_subseq('C/EBP-HBV_(3)',"AGGAGATTAGGTTAAAG","Proc Natl Acad Sci U S A 87: 5069-5073 (1990)","MAMM").
+TFD_subseq('C/EBP-HBV_(4)',"ACCAGCACCATGCAACTTTTT","Proc Natl Acad Sci U S A 87: 5069-5073 (1990)","MAMM").
+TFD_subseq('C/EBP-HBV_(5)',"CCTAATCATCTCTT","Proc Natl Acad Sci U S A 87: 5069-5073 (1990)","MAMM").
+TFD_subseq('HBV-undefined-site-2',"TGTTTAAGGACTGGGAGGAGCTGGGGGAGGAGATTAGGTT","Proc Natl Acad Sci U S A 87: 5069-5073 (1990)","MAMM").
+TFD_subseq('Pln-II-undefined-site',"GAGGGTATTTTCGTAA","Proc Natl Acad Sci U S A 87: 7205-9 (1990)","PLANT").
+TFD_subseq('TFIID-MBP',"TTCAAA","EMBO J 9: 3101-3108 (1990)","UNDEFINED").
+TFD_subseq('kappaY',"CTTCCTTA","EMBO J 9: 3109-3117 (1990)","MAMM").
+TFD_subseq('3'_enhancer/_CD2E1',"GATTAAAAGG","EMBO J 9: 3109-3117 (1990)","MAMM").
+TFD_subseq('3'_enhancer/_CD2E2',"TCTAAAAC","EMBO J 9: 3109-3117 (1990)","MAMM").
+TFD_subseq('3'_enhancer/_CD2E3',"GCTAAACCTTGT","EMBO J 9: 3109-3117 (1990)","MAMM").
+TFD_subseq('3'_enhancer/_CD2E4',"ACTTTTTCCT","EMBO J 9: 3109-3117 (1990)","MAMM").
+TFD_subseq('3'_enhancer/_CD2E5',"AAAGCAGGTAG","EMBO J 9: 3109-3117 (1990)","MAMM").
+TFD_subseq('3'_enhancer/_CD2E6',"TGAGGTCA","EMBO J 9: 3109-3117 (1990)","MAMM").
+TFD_subseq('PTF1-IDE',"GCGTGAGAGTTTCTAAAA","Genes Dev 4: 1316-1321 (1990)","UNDEFINED").
+TFD_subseq('CTE/_common_transcription_elem',"CAGAGGACAAAGGGCA","Genes Dev 4: 1316-1321 (1990)","UNDEFINED").
+TFD_subseq('RAP1-artificial_sequence-2',"ACACCCATACATTT","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('RAP1-artificial_sequence-3',"CCACCCATACATTT","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('RAP1-artificial_sequence-4',"TCACCCATACATTT","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('RAP1-artificial_sequence-5',"AAACCCATACATTT","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('RAP1-artificial_sequence-6',"ACACCCAAACATTT","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('RAP1-artificial_sequence-7',"ACACCCACTCATTT","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('RAP1-artificial_sequence-8',"ACACCCATGCATTT","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('RAP1-artificial_sequence-9',"ACACCCATTCATTT","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('RAP1-artificial_sequence-10',"ACACCCATACACTT","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('RAP1-artificial_sequence-11',"ACACCCATACATCT","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('RAP1-artificial_sequence-12',"ACACCCATACATTA","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('RAP1-artificial_sequence-13',"ACACCCATACATTC","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('RAP1-artificial_sequence-14',"ACACCCATACATTG","Nucleic Acids Res 22: 124-30 (1994)","YEAST").
+TFD_subseq('GF1-JCVE',"GAGCTCATGCTGGCTGGCAGCCATCCCT","J Biol Chem 266: 15876-15881 (1991)","MAMM").
+TFD_subseq('JCVE-undefined-site_(1)',"TTCCCTTTTTTTTATATATACAG","J Biol Chem 266: 15876-15881 (1991)","MAMM").
+TFD_subseq('negative_element',"GTATGCAAAT","J Biol Chem 265: 13986-13994 (1990)","UNDEFINED").
+TFD_subseq('HNF-1-CYP2E1',"TGATAGCCAACTGCAGCTAATAATAAACCA","Mol Cell Biol 10: 4495-4505 (1990)","UNDEFINED").
+TFD_subseq('CYP2E1-undefined-site',"CTTAGGCCAAGG","Mol Cell Biol 10: 4495-4505 (1990)","UNDEFINED").
+TFD_subseq('CBF-CYP2E1',"AGTGATTATTGGCT","Mol Cell Biol 10: 4495-4505 (1990)","UNDEFINED").
+TFD_subseq('Talpha1_site',"CCCATTTCCATGACGTCATGGTTA","Mol Cell Biol 10: 4712-4719 (1990)","UNDEFINED").
+TFD_subseq('Talpha3_site',"GAGATAGCATCGCCCCAGGCCACGTGCCGAG","EMBO J 10: 1187-1192 (1991)","MAMM").
+TFD_subseq('Talpha4_site',"CCCCAACCGCAGGTGC","EMBO J 10: 1187-1192 (1991)","MAMM").
+TFD_subseq('ET-1-undefined-site',"TGGCCTTATCTCCGG","EMBO J 10: 1187-1192 (1991)","MAMM").
+TFD_subseq('RAP1-ENO2',"GGCGTTATGTCACTAACGACGTGCACCA","Mol Cell Biol 13: 2623-2633 (1993)","UNDEFINED").
+TFD_subseq('Pax-1-artificial_sequence-1',"GATTAGCACCGTTCCGCTCTAGATATCTCGA","Cell 66: 873-884 (1991)","MAMM").
+TFD_subseq('Pax-1-artificial_sequence-2',"TGGGCTCACCGTTCCGCTCTAGATATCTCGA","Cell 66: 873-884 (1991)","MAMM").
+TFD_subseq('Pax-1-artificial_sequence-3',"GATTGGAACCGTTCCGCTCTAGATATCTCGA","Cell 66: 873-884 (1991)","MAMM").
+TFD_subseq('Pax-1-artificial_sequence-4',"GATTAGCACCGTTACGGTCTAGATATCTCGA","Cell 66: 873-884 (1991)","MAMM").
+TFD_subseq('Pax-1-artificial_sequence-5',"GTAGTACAACGTTCCGCTCTAGATATCTCGA","Cell 66: 873-884 (1991)","MAMM").
+TFD_subseq('Pax-1-artificial_sequence-6',"CTAGTACAACGTTCCGCTCTAGATATATCGA","Cell 66: 873-884 (1991)","MAMM").
+TFD_subseq('Pax-1-artificial_sequence-7',"CTAGTACAACGTTCCGCTCTAGGAACCGGGA","Cell 66: 873-884 (1991)","MAMM").
+TFD_subseq('Prd-artificial_sequence-2',"AGCACCGTTCCGCTCCC","Genes Dev 5: 594-604 (1991)","SYNTH").
+TFD_subseq('Prd-artificial_sequence-3',"CACCGCACGATTAGGG","Genes Dev 5: 594-604 (1991)","SYNTH").
+TFD_subseq('ATF-7S_L_RNA',"CCAATGACGTAACT","Nucleic Acids Res 18: 6779 (1990)","MAMM").
+TFD_subseq('IR4-undefined-site-1',"TCCTAAAGGCGGGGCTCATG","Nucleic Acids Res 18: 6835 (1990)","MAMM").
+TFD_subseq('IR4-undefined-site-2',"CTTAGTGTGTCATGGTGAGGCA","Nucleic Acids Res 18: 6835 (1990)","MAMM").
+TFD_subseq('IR4-undefined-site-3',"GCGAGCAACGGGGGCTT","Nucleic Acids Res 18: 6835 (1990)","MAMM").
+TFD_subseq('R-IR4_(1)',"AAGTGATGCATCCCAAAGGCAGCCACCACGCTGGAGGGAC","Nucleic Acids Res 18: 6835 (1990)","MAMM").
+TFD_subseq('R-IR4_(2)',"AAGTGATGCATCCCAAAGGCAGCCACCACGCTGGAGGGACATTGT","Nucleic Acids Res 18: 6835 (1990)","MAMM").
+TFD_subseq('glutelin-undefined-site-1',"TAAGTCATAACTGA","Plant Cell Physiol 36: 1657-67 (1995)","PLANT").
+TFD_subseq('glutelin-undefined-site-2',"CATCCATGTCATATT","Plant Cell Physiol 36: 1657-67 (1995)","PLANT").
+TFD_subseq('glutelin-undefined-site-3',"AATGATGTGTCAAT","Plant Cell Physiol 36: 1657-67 (1995)","PLANT").
+TFD_subseq('glutelin-undefined-site-4',"TTCCGTGTACCAC","Plant Cell Physiol 36: 1657-67 (1995)","PLANT").
+TFD_subseq('glutelin-undefined-site-5',"ATATCATGAGTCACTTCA","Plant Cell Physiol 36: 1657-67 (1995)","PLANT").
+TFD_subseq('Oct-1-c-abl/type_I',"GAGAGGAATTTGCATTTCCACCGACCTTCC","Nucleic Acids Res 18: 7357 (1990)","MAMM").
+TFD_subseq('3'-enhancer-2',"TTAGGAGGAATACTATTTCTAATGGCA","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('3'-enhancer-3',"GCAGATTGGT","Proc Natl Acad Sci U S A 88: 10188-10192 (1991)","UNDEFINED").
+TFD_subseq('3'-enhancer-4',"GGGGAGGTGGGGAC","Proc Natl Acad Sci U S A 88: 10188-10192 (1991)","UNDEFINED").
+TFD_subseq('A-gamma-globin-3'-enhancer-5',"TGGAAGGTTTACTTAATGGAA","Nucleic Acids Res 18: 7407 (1990)","MAMM").
+TFD_subseq('A-gamma-globin-3'-enhancer-6',"TGACCTTATCTGT","Nucleic Acids Res 18: 7407 (1990)","MAMM").
+TFD_subseq('A-gamma-globin-3'-enhancer-7',"AAAAGTAATTAGGTT","Nucleic Acids Res 18: 7407 (1990)","MAMM").
+TFD_subseq('A-gamma-globin-3'-enhancer-8',"AAAATTATTTTCCTTATCAGAAG","Nucleic Acids Res 18: 7407 (1990)","MAMM").
+TFD_subseq('A-gamma-globin-3'-enhancer-9',"AAGTCCGCCATCTGCAATCC","Nucleic Acids Res 18: 7407 (1990)","MAMM").
+TFD_subseq('JCVE-undefined-site_(2)',"CTGGGTGACAAGCCAAAACAGCTCTGGCTCG","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('BCR-undefined-site-1',"ATTGACCTGTGGAGC","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('BCR-undefined-site-2',"AAACACATGGCTC","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('BCR-undefined-site-3',"CAGGTGTGGGTATTG","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('BCR-undefined-site-4',"CATCCATCATGTGGTCCTGC","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('BCR-undefined-site-5',"CCCGTGTGGCAGCC","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('BCR-undefined-site-6',"GTGAGAGGCCC","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('BCR-undefined-site-7',"CACGATGGTGGCCTCTGACACGA","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('BCR-undefined-site-8',"TAGGGCCTCAGTTTCCCAAAAGGCA","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('BCR-undefined-site-9',"CCCCCCCGCCTGTG","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('BCR-undefined-site-10',"GCGGCGGCGGCGGCAG","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('BCR-undefined-site-11',"TCGTGTCCGAGGCCACCATCGTG","Nucleic Acids Res 18: 7407 (1990)","UNDEFINED").
+TFD_subseq('Sp1-5-lipoxygenase',"CGAGTCTTGTCTTCGTCCCGCCCC","Proc Natl Acad Sci U S A 88: 1157-1161 (1991)","UNDEFINED").
+TFD_subseq('CRE+JRE',"TGACGTCATGGTAATTAC","J Biol Chem 265: 21874-21880 (1990)","MAMM").
+TFD_subseq('dl-zen-fragment-5',"TGGATTTCCC","Cell 64: 439-446 (1991)","DROS").
+TFD_subseq('dl-zen-fragment-6',"GGGTTTCTCCC","Cell 64: 439-446 (1991)","DROS").
+TFD_subseq('dl-zen-fragment-7',"TGGTTTTCCC","Cell 64: 439-446 (1991)","DROS").
+TFD_subseq('GH_responsive_element',"CGCTTCTACTAATCCATGTTCTGAGAAATCATCCAGTCTGCCCAC","Cell 64: 439-446 (1991)","UNDEFINED").
+TFD_subseq('RAR-beta-complement_factor_H',"CAATCCAGCAGGTCACTGACAGGGC","J Biol Chem 265: 20065-20068 (1990)","UNDEFINED").
+TFD_subseq('Sp1-TPI_(1)',"GGGGCGGCGGC","J Biol Chem 265: 20524-20532 (1990)","MAMM").
+TFD_subseq('Sp1-TPI_(2)',"AGGGCGGGCGG","J Biol Chem 265: 20524-20532 (1990)","MAMM").
+TFD_subseq('Sp1-TPI_(3)',"TGGGCGGGCC","J Biol Chem 265: 20524-20532 (1990)","MAMM").
+TFD_subseq('Sp1-TPI_(4)',"AGGCGG","J Biol Chem 265: 20524-20532 (1990)","MAMM").
+TFD_subseq('CP2-artificial_sequence',"CAAGTTTTACTCGGTAGAGCAAGCACAAACCAG","Mol Cell Biol 12: 828-835 (1992)","SYNTH").
+TFD_subseq('FRG-hsp70',"AGACGTGGGAATCCTACTGATTGGCCAAGGTGCTGGTGGTGTGTG","New Biol 4: 349-359 (1992)","UNDEFINED").
+TFD_subseq('UAS2UP1_(2)',"CTCATTTGGCGAGCATTGGT","EMBO J 12: 4647-4655 (1993)","YEAST").
+TFD_subseq('EFI-MHC_class_I_H-2Kb',"AGCTCTTACCCCCATTGGGTGGCGCG","J Biol Chem 265: 22243-22254 (1990)","AVIAN").
+TFD_subseq('IF1-alpha1_(1)',"TTGCGGGAGGGGGGGCGCGCTGGGTGG","J Biol Chem 265: 9934-9942 (1990)","MAMM").
+TFD_subseq('IF1-alpha1_(2)',"CCTTCCTTTCCCTCCTCCCCCTCTTC","J Biol Chem 265: 9934-9942 (1990)","MAMM").
+TFD_subseq('alpha-CP1-alpha-globin',"CAGCCAATGAGTAACTGCTCCAAGGGC","J Biol Chem 265: 13362-13369 (1990)","MAMM").
+TFD_subseq('alpha-CP1-artificial_sequence2',"CACAAACCCTCCAATGAGTAACTGCTCCAAGGGC","J Biol Chem 265: 13362-13369 (1990)","MAMM").
+TFD_subseq('alpha-CP1-artificial_sequence3',"CACAAACCAGCCAATGAGTACATGCTCCAAGGGC","J Biol Chem 265: 13362-13369 (1990)","MAMM").
+TFD_subseq('alpha-CP1-artificial_sequence4',"CACAAACCAGCCAATGAGTAACTGAGAAAAGGGC","J Biol Chem 265: 13362-13369 (1990)","MAMM").
+TFD_subseq('alpha-CP1-artificial_sequence5',"CACAAACCAGCCAATGAGTAACTGCTCCAATCGC","J Biol Chem 265: 13362-13369 (1990)","MAMM").
+TFD_subseq('alpha-CP1-artificial_sequence6',"CACAAACCAGCCAATGAGTAACTGAGAAAATCGC","J Biol Chem 265: 13362-13369 (1990)","MAMM").
+TFD_subseq('alpha-CP1-artificial_sequence7',"AATTCCCCACAAACCCTCATTGGCTTAACTGCTCCAAGGGC","J Biol Chem 265: 13362-13369 (1990)","MAMM").
+TFD_subseq('alpha-CP1-artificial_sequence8',"TCCAAATTAACCAATCAGCGCACTCTCGAAGGCC","J Biol Chem 265: 13362-13369 (1990)","MAMM").
+TFD_subseq('GATA-1-alpha-globin_(1)',"GTTTATCTGTT","Acta Haematol 87: 136-144 (1992)","MAMM").
+TFD_subseq('GATA-1-alpha-globin_(2)',"TCAGATAGCA","Acta Haematol 87: 136-144 (1992)","MAMM").
+TFD_subseq('GATA-1-alpha-globin_(3)',"AACTGATAGGAA","Acta Haematol 87: 136-144 (1992)","MAMM").
+TFD_subseq('GATA-1-alpha-globin_(4)',"AATTGATCAGA","Acta Haematol 87: 136-144 (1992)","MAMM").
+TFD_subseq('GATA-1-alpha-globin_(5)',"AATTTATCATT","Acta Haematol 87: 136-144 (1992)","MAMM").
+TFD_subseq('AP-1-alpha-globin',"GATGACTCAT","Acta Haematol 87: 136-144 (1992)","MAMM").
+TFD_subseq('CP1-gamma-globin_(2)',"GGCCAGCCTTGCCTTAACCAATAGCCTTGACAAGGCAAACTT","Nature 358: 499-502 (1992)","UNDEFINED").
+TFD_subseq('GATA-1-delta-globin_(1)',"ATGAAACCCTGCTTATCTTAAACCAACCTG","Blood 80: 1347-1351 (1992)","UNDEFINED").
+TFD_subseq('GATA-1-EpoR_(1)',"TTATCT","Br J Haematol 80: 561-563 (1992)","UNDEFINED").
+TFD_subseq('GATA-1-artificial_sequence',"AGCTTCGGTTGCAGATAAACATTGAATTCA","Cell 58: 877-885 (1989)","SYNTH").
+TFD_subseq('c-myc_responsive_region',"CAGTTG","Mol Cell Biol 11: 354-362 (1991)","UNDEFINED").
+TFD_subseq('EBP-80-IAP_LTR',"GAGGGTGGTTCTCTACT","Mol Cell Biol 11: 117-125 (1991)","MAMM").
+TFD_subseq('IRE_site_I',"TGCAGCTCCCCAGCCATTTT","Mol Cell Biol 12: 4334-4346 (1992)","UNDEFINED").
+TFD_subseq('sTnI_-undefined-site',"CCCCCCCCACCCCCTTGCTCTT","Mol Cell Biol 12: 4334-4346 (1992)","UNDEFINED").
+TFD_subseq('GEBF-I-Sgs3_(1)',"ATTTGTAAAGCTAAATTAAGCTAAATTTA","Mol Cell Biol 11: 523-532 (1991)","DROS").
+TFD_subseq('GEBF-I-Sgs3_(2)',"TCCTTATATATATTATATT","Mol Cell Biol 11: 523-532 (1991)","DROS").
+TFD_subseq('CREB-PUT1',"GCCGAAAGTTCCCGTACGTCACGGCGAGGGCAGT","J Biol Chem 265: 19330-19335 (1990)","MAMM").
+TFD_subseq('IL-8-undefined-site',"CAGTTGCAAATCGT","J Biol Chem 265: 19271-19278 (1990)","UNDEFINED").
+TFD_subseq('NF-kappaB(-like)-IL-8',"GGAATTTCCT","J Biol Chem 265: 21128-21133 (1990)","UNDEFINED").
+TFD_subseq('HNF-1-IGFBP-1',"TGCGGCGCTGCCAATCATTAAC","J Biol Chem 265: 21185-21193 (1990)","MAMM").
+TFD_subseq('NF-kappaB(-like)-E3_(1)',"CCAGGAAAGTCCCGCTCCC","EMBO J 9: 4435-4442 (1990)","UNDEFINED").
+TFD_subseq('NF-kappaB(-like)-E3_(2)',"CACTGTGGTACTTCCCAGAGAC","EMBO J 9: 4435-4442 (1990)","UNDEFINED").
+TFD_subseq('NF-kappaB-artificial_sequence',"GGGACGTCCC","Genes Dev 4: 1975-1984 (1990)","SYNTH").
+TFD_subseq('NF-kappaB-artificial_sequence2',"GGAAATTTCC","Genes Dev 4: 1975-1984 (1990)","SYNTH").
+TFD_subseq('RAP1-PDC1',"TGCACCCATACCTT","Mol Gen Genet 223: 449-456 (1990)","YEAST").
+TFD_subseq('SV40-undefined-site-2',"TCAGTGTCCTGGTTACT","Mol Gen Genet 223: 449-456 (1990)","UNDEFINED").
+TFD_subseq('NF-kappaB-TNF-beta',"TGGGGGCTTCCCC","J Virol 64: 5412-5419 (1990)","UNDEFINED").
+TFD_subseq('PEBP5-A_enhancer',"CAGGAAGTGAC","J Virol 64: 5927-5938 (1990)","MAMM").
+TFD_subseq('BAF1-ARS120',"AAGTGCCGTGCATAATGATGTGGG","Proc Natl Acad Sci U S A 87: 6689-6692 (1990)","YEAST").
+TFD_subseq('ER-calbindin_D-9K',"AGGTCAGGGTGATCT","J Biol Chem 266: 551-558 (1991)","UNDEFINED").
+TFD_subseq('PEBP2-fibronectin',"ATGACCGCAA","J Biol Chem 266: 1122-1127 (1991)","UNDEFINED").
+TFD_subseq('BC-R2_promoter-undefined-site1',"AACGTGTTCGATTTCGGGGTCACTTCCCCTTTTATAAGTGTGTGA","J Biol Chem 266: 1122-1127 (1991)","MAMM").
+TFD_subseq('BC-R2_promoter-undefined-site2',"GTCACTTCCGC","J Biol Chem 266: 1122-1127 (1991)","MAMM").
+TFD_subseq('ICP4-glycoprotein_gD_(1)',"CTATCGTCCATACCGAC","Nucleic Acids Res 19: 477 (1991)","MAMM").
+TFD_subseq('ICP4-glycoprotein_gD_(2)',"GACCACACCGACGAAT","Nucleic Acids Res 19: 477 (1991)","MAMM").
+TFD_subseq('ISRE_(12)',"AGTAGAGGAGAAAC","Nucleic Acids Res 19: 477 (1991)","UNDEFINED").
+TFD_subseq('opaque-2-albumin_b-32_(1)',"GTTGACGTGA","EMBO J 10: 617-624 (1991)","PLANT").
+TFD_subseq('opaque-2-albumin_b-32_(2)',"GATGACATGA","EMBO J 10: 617-624 (1991)","PLANT").
+TFD_subseq('opaque-2-albumin_b-32_(3)',"GATGATGTGG","EMBO J 10: 617-624 (1991)","PLANT").
+TFD_subseq('opaque-2-albumin_b-32_(4)',"GATGATATGG","EMBO J 10: 617-624 (1991)","PLANT").
+TFD_subseq('opaque-2-albumin_b-32_(5)',"GATGACATGG","EMBO J 10: 617-624 (1991)","PLANT").
+TFD_subseq('opaque-2-consensus',"GATGAYRTGR","EMBO J 10: 617-624 (1991)","PLANT").
+TFD_subseq('GST-P-undefined-site-1',"TTTTCTGGCTGCTCCTGGCGAAGG","EMBO J 10: 617-624 (1991)","PLANT").
+TFD_subseq('GST-P-undefined-site-2',"GCTCTTGGAGCAGGAGAAAGAAGTT","EMBO J 10: 617-624 (1991)","PLANT").
+TFD_subseq('GST-P-undefined-site-3',"AGAGGTTGGTAAATAGGGATGG","EMBO J 10: 617-624 (1991)","PLANT").
+TFD_subseq('GST-P-undefined-site-4',"AATAGGGATGGGCAGAAGGCAGACAGA","EMBO J 10: 617-624 (1991)","PLANT").
+TFD_subseq('GST-P-undefined-site-5',"ACAGAGTTGCACACGCTCCAGA","EMBO J 10: 617-624 (1991)","PLANT").
+TFD_subseq('SF-A-GST-P',"TTTCTTGGAGCAGGACCCAAAAAT","Nucleic Acids Res 19: 5 (1991)","MAMM").
+TFD_subseq('GST-P-undefined-site-6',"AGACTCCGGTCCAGCTGCTGAG","Nucleic Acids Res 19: 5 (1991)","MAMM").
+TFD_subseq('GST-P-undefined-site-7',"TGTGTTGACTCAGCATCCGGGGCGGGGCGC","Nucleic Acids Res 19: 5 (1991)","MAMM").
+TFD_subseq('GST-P-undefined-site-8',"CTGGCGGCTCTGGGGCCTTT","Nucleic Acids Res 19: 5 (1991)","MAMM").
+TFD_subseq('apoVLDLII-site_F_(6)',"GGAATTTGGTCAGTTTATGAAAGGGGCCTCTATGACATGGTT","Nucleic Acids Res 19: 5 (1991)","AVIAN").
+TFD_subseq('apoVLDLII-site_D_(11)',"TCCATTACCAAATCCGAAC","Nucleic Acids Res 19: 5371-5377 (1991)","AVIAN").
+TFD_subseq('IL2-TCEd',"GACCAAGAGGGATTTCACCTAAATC","Nucleic Acids Res 19: 61-67 (1991)","MAMM").
+TFD_subseq('AP-1-IL-2_(1)',"CCAGAGAGTCATCAG","Nucleic Acids Res 19: 61-67 (1991)","MAMM").
+TFD_subseq('AP-1-IL-2_(2)',"TTGAAAATATGTGTAATATGTAAAACATCGTGA","Mol Cell Biol 12: 3149-3154 (1992)","MAMM").
+TFD_subseq('histone_H2A/_testis-specific',"TGACGTAT","Mol Cell Biol 12: 3149-3154 (1992)","UNDEFINED").
+TFD_subseq('Apo-I-site_B_(15)',"TTGCTGTTTGCCCACTCTATTTGCCCAG","Mol Cell Biol 11: 677-687 (1991)","MAMM").
+TFD_subseq('Apo-I-site_C_(13)',"TGATCCTTGAACTCTT","Mol Cell Biol 11: 677-687 (1991)","MAMM").
+TFD_subseq('ADR1-MMTV',"TCCCCACAGTGACAGAATTGGAGAAA","Mol Cell Biol 11: 699-704 (1991)","UNDEFINED").
+TFD_subseq('AP-1-artificial_sequence',"ATTAGCATGACTCATTGT","Mol Cell Biol 11: 765-772 (1991)","UNDEFINED").
+TFD_subseq('albumin_-undefined-site-1',"AACTTTTGGAAATTACCCAT","Mol Cell Biol 11: 773-84 (1991)","MAMM").
+TFD_subseq('albumin_-undefined-site-2',"CTCATTCCACTTTTCCAGCTGA","Mol Cell Biol 11: 773-84 (1991)","MAMM").
+TFD_subseq('albumin_-undefined-site-3',"CAACATTGCTCCACAAGT","Mol Cell Biol 11: 773-84 (1991)","MAMM").
+TFD_subseq('albumin_-undefined-site-4',"TTAATTACTTTCATTTTCT","Mol Cell Biol 11: 773-84 (1991)","MAMM").
+TFD_subseq('eE-TF-albumin',"TGCGTTACAGCATCC","Mol Cell Biol 11: 773-84 (1991)","MAMM").
+TFD_subseq('albumin_-undefined-site-5',"TGTACTTGCTGATACCAGGG","Mol Cell Biol 11: 773-84 (1991)","MAMM").
+TFD_subseq('albumin_-undefined-site-6',"GGGTATAGATATAAAAA","Mol Cell Biol 11: 773-84 (1991)","MAMM").
+TFD_subseq('albumin_-undefined-site-7',"TGAAATGG","Mol Cell Biol 11: 773-84 (1991)","MAMM").
+TFD_subseq('albumin_-undefined-site-8',"TTTTTGGCAGCT","Mol Cell Biol 11: 773-84 (1991)","MAMM").
+TFD_subseq('site_2',"CCACGTGCAGCG","Nucleic Acids Res 20: 1031-1038 (1992)","UNDEFINED").
+TFD_subseq('CPC1-cpc-1',"GTGACTCAT","Mol Cell Biol 11: 928-934 (1991)","UNDEFINED").
+TFD_subseq('cpc-1-undefined-site',"GCGGCAACCAATAAGAACGCACAGT","Mol Cell Biol 11: 928-934 (1991)","UNDEFINED").
+TFD_subseq('CPC1-trp3',"GTGAGTCAA","Mol Cell Biol 11: 928-934 (1991)","UNDEFINED").
+TFD_subseq('NF-kappaB(-like)-proenkephalin',"GGGGACGTCCCC","Mol Cell Biol 11: 1017-1022 (1991)","UNDEFINED").
+TFD_subseq('IgLC-undefined-site',"AGCAACTGTCATAGCTACCGTCACA","Mol Cell Biol 11: 1017-1022 (1991)","UNDEFINED").
+TFD_subseq('LyF-1-Ig-kappa',"CTTTGAGGAACTGAAAACAGAACCT","Science 259: 1622-1625 (1993)","MAMM").
+TFD_subseq('UHF-1-histone_H4_(1)',"AGGGGGCGCACTC","Mol Cell Biol 11: 1048-1061 (1991)","ECHINO").
+TFD_subseq('UHF-1-histone_H4_(2)',"GTAGGCGGCTCACTC","Mol Cell Biol 11: 1048-1061 (1991)","ECHINO").
+TFD_subseq('PFK-2/FBPase-2-undefined-site1',"TTTGTGGTTTTGTTGTGGGGGGGGGGG","Mol Cell Biol 11: 1048-1061 (1991)","UNDEFINED").
+TFD_subseq('PFK-2/FBPase-2-undefined-site2',"GTGGGGGGGGGGG","Mol Cell Biol 11: 1048-1061 (1991)","UNDEFINED").
+TFD_subseq('DBP-PFK-2/FBPase-2',"GTTCTAA","Mol Cell Biol 11: 1099-1106 (1991)","UNDEFINED").
+TFD_subseq('Tf-LF2-PFK-2/FBPase-2',"TTGAAATCAATTTC","Mol Cell Biol 11: 1099-1106 (1991)","UNDEFINED").
+TFD_subseq('PFK-2/FBPase-2-undefined-site3',"TTTATTTGCATACTC","Mol Cell Biol 11: 1099-1106 (1991)","UNDEFINED").
+TFD_subseq('NF-1-PFK-2/FBPase-2',"CATTGGCGAGAAGTAACTGG","Mol Cell Biol 11: 1099-1106 (1991)","UNDEFINED").
+TFD_subseq('NF-1/L-PFK-2/FBPase-2',"CTTGCTGGCTGCCTTCCTTGC","Mol Cell Biol 11: 1099-1106 (1991)","UNDEFINED").
+TFD_subseq('MHC_class_II_Ebeta-undefined-s',"GGGATCCCC","Mol Cell Biol 11: 1099-1106 (1991)","UNDEFINED").
+TFD_subseq('PR-progesterone_receptor_(1)',"CCTCAAAGCTGTCCT","J Biol Chem 266: 2582-2589 (1991)","AVIAN").
+TFD_subseq('PR-progesterone_receptor_(2)',"TGAGAAAGATGTCCT","J Biol Chem 266: 2582-2589 (1991)","AVIAN").
+TFD_subseq('PR-progesterone_receptor_(3)',"ACAGAAGCATGTTCT","J Biol Chem 266: 2582-2589 (1991)","AVIAN").
+TFD_subseq('PR-progesterone_receptor_(4)',"AGGACATATCTTCCT","J Biol Chem 266: 2582-2589 (1991)","AVIAN").
+TFD_subseq('mitochondrial-D-loop-site',"TGCCAAACCCCAAAAACAAAGAACCCTAACACCAGCCTAACCAGA","Mol Cell Biol 14: 7717-30 (1994)","MAMM").
+TFD_subseq('myc-CF1-c-myc_(2)',"CCAGGGTACATGGCGTATTG","Mol Cell Biol 11: 1765-1769 (1991)","MAMM").
+TFD_subseq('myc-CF1-alpha-actin',"CACCCAAATATGGCTTGGGA","Mol Cell Biol 11: 1765-1769 (1991)","MAMM").
+TFD_subseq('Oct-1-N-ras',"CATTATTTACAT","Mol Cell Biol 11: 1353-1359 (1991)","UNDEFINED").
+TFD_subseq('gammaF-crystallin-undefined-si',"GGCCCCTTTTGTGCTGTTCCTGCCAACACAGCAGACCTCCTGC","Mol Cell Biol 11: 1488-1499 (1991)","AVIAN").
+TFD_subseq('RAR-beta-ADH3',"GAATTCTGAATGACCCCAAAGGGAAAACTGAACTCTGAATGACCC","Mol Cell Biol 11: 1638-1646 (1991)","MAMM").
+TFD_subseq('MLC-2-undefined-site',"AGATAACC","Mol Cell Biol 11: 1676-85 (1991)","AVIAN").
+TFD_subseq('EcR-consensus_(1)',"RGKTCANTGAMCY","Genes Dev 5: 120-131 (1991)","DROS").
+TFD_subseq('Hb-en_(1)',"CAAATAAATAA","Genes Dev 5: 254-264 (1991)","DROS").
+TFD_subseq('Hb-en_(2)',"TTTTTCAAGG","Genes Dev 5: 254-264 (1991)","DROS").
+TFD_subseq('Dfd-zein_storage_protein_22Z-1',"CTATCATTAG","Genes Dev 5: 278-286 (1991)","DROS").
+TFD_subseq('Dfd-Dfd_(1)',"CAATTATC","Genes Dev 5: 278-286 (1991)","DROS").
+TFD_subseq('Dfd-Dfd_(2)',"GATGACTTAATTAC","Genes Dev 5: 278-286 (1991)","DROS").
+TFD_subseq('Dfd-Dfd_(3)',"AACATCATTAAGC","Genes Dev 5: 278-286 (1991)","DROS").
+TFD_subseq('MAS/EVE-D',"AAAATATTATGGTGTGCCCCGCT","Genes Dev 5: 265-277 (1991)","DROS").
+TFD_subseq('DENF1-eve',"TGTTCTCGCA","Genes Dev 5: 265-277 (1991)","DROS").
+TFD_subseq('Eve-eve',"CACAGTCAGCGCGAATTTGCTGCGGTGAGTCGATGCT","Genes Dev 5: 265-277 (1991)","DROS").
+TFD_subseq('DENF2-eve',"CGCAGGACCTTC","Genes Dev 5: 265-277 (1991)","DROS").
+TFD_subseq('DENF3-eve',"CTCTTGCTCAGCCTGTCCCTGTTCCTCTG","Genes Dev 5: 265-277 (1991)","DROS").
+TFD_subseq('AP-1-DNA_polymerase_alpha',"CTAAGGGGTCA","Mol Cell Biol 11: 2081-2095 (1991)","MAMM").
+TFD_subseq('EIIaE-A-DNA_polymerase_alpha',"AGGGCGCCAAACG","Mol Cell Biol 11: 2081-2095 (1991)","MAMM").
+TFD_subseq('CP1-DNA_polymerase_alpha',"CCCGAGCCGCTGATTGGCTTTCAGG","Mol Cell Biol 11: 2081-2095 (1991)","MAMM").
+TFD_subseq('R1-Thy-1_(1)',"CCCCACCCCCTCCATCCTTT","Mol Cell Biol 11: 2216-2228 (1991)","MAMM").
+TFD_subseq('Sp1-Thy-1',"CTCAGCCTCCGATT","Mol Cell Biol 11: 2216-2228 (1991)","MAMM").
+TFD_subseq('CP1-Thy-1',"CTCCGATTGG","Mol Cell Biol 11: 2216-2228 (1991)","MAMM").
+TFD_subseq('R1-Thy-1_(2)',"TCCCTCCCTGCTCCCCCCTC","Mol Cell Biol 11: 2216-2228 (1991)","MAMM").
+TFD_subseq('Thy-1-undefined-site-1',"CCACCCCTG","Mol Cell Biol 11: 2216-2228 (1991)","MAMM").
+TFD_subseq('Thy-1-undefined-site-2',"CAGCAA","Mol Cell Biol 11: 2216-2228 (1991)","MAMM").
+TFD_subseq('MBP-1-c-myc',"AGGGTCGCGTGAGTATAAAAGCCGGTTTTCGGGG","Mol Cell Biol 11: 2154-2161 (1991)","MAMM").
+TFD_subseq('BCFII-chorion_genes',"CATTGTTTCTCAACTA","Mol Cell Biol 11: 1954-1964 (1991)","INSECT").
+TFD_subseq('BCFI-chorion_genes',"GTTTCTTATCTCAAGGT","Mol Cell Biol 11: 1954-1964 (1991)","INSECT").
+TFD_subseq('Sp1-AS_(1)',"GGGGCCGGGC","Mol Cell Biol 11: 1935-1943 (1991)","MAMM").
+TFD_subseq('Sp1-AS_(2)',"GCCCTGCCCC","Mol Cell Biol 11: 1935-1943 (1991)","MAMM").
+TFD_subseq('RVF-neu',"CAAGATAAAACCGG","Mol Cell Biol 11: 1875-1882 (1991)","MAMM").
+TFD_subseq('cUAS/_consensus_UAS',"CGGAATACTGTATTCCG","Mol Cell Biol 11: 1777-1784 (1991)","YEAST").
+TFD_subseq('NIP-ARG5/6',"GTCCTGCTGCCATTTGGATGAAA","Nucleic Acids Res 19: 335-341 (1991)","UNDEFINED").
+TFD_subseq('stromelysin-TRE/nRARE',"GCAAGGATGAGTCAAGCTGCGGG","Nucleic Acids Res 19: 3723-3731 (1991)","MAMM").
+TFD_subseq('c-jun-undefined-site-1',"GAGCCCGCCTCCGACAG","Nucleic Acids Res 19: 3723-3731 (1991)","MAMM").
+TFD_subseq('c-jun-undefined-site-2',"AAGACGTCAGCCCACAATGCACCGGGCGGGCCGGGAA","Nucleic Acids Res 19: 3723-3731 (1991)","MAMM").
+TFD_subseq('ssARS-T-ARS307',"ATTTATGTTTT","EMBO J 10: 981-985 (1991)","YEAST").
+TFD_subseq('NF-1-artificial_sequence',"GATCATTTTGGCTTGAAGCCAATATGA","DNA Cell Biol 9: 777-781 (1991)","SYNTH").
+TFD_subseq('C/EBP-proliferation-associated',"TCTCCTGCAGTAAGGTAGGT","Biochem Biophys Res Commun 174: 721-728 (1991)","MAMM").
+TFD_subseq('CEBF-cTNT',"TCGGGCACTCACGTATCTCCGTCCGACGGGTTT","J Biol Chem 266: 3309-3316 (1991)","UNDEFINED").
+TFD_subseq('glutelin-undefined-site-6',"ATCCACCTTTCGTGTACC","Plant Cell Physiol 36: 1657-67 (1995)","PLANT").
+TFD_subseq('Yi-tk_(1)',"AGTTCGCGGGCAAAT","Proc Natl Acad Sci U S A 88: 1157-1161 (1991)","UNDEFINED").
+TFD_subseq('Yi-tk_(2)',"CCCACGGACTCT","Proc Natl Acad Sci U S A 88: 1157-1161 (1991)","UNDEFINED").
+TFD_subseq('3'-enhancer-10',"GCAGCAGGTGC","Mol Cell Biol 12: 1031-1042 (1992)","UNDEFINED").
+TFD_subseq('MyoD-MLC_(1)',"CCAGCTGGC","Mol Cell Biol 12: 1031-1042 (1992)","UNDEFINED").
+TFD_subseq('MyoD-MLC_(2)',"GCAACAGGTGCC","Proc Natl Acad Sci U S A 88: 1242-1246 (1991)","UNDEFINED").
+TFD_subseq('silencer/_1',"ATTAAAAGTTAAAAACACA","Proc Natl Acad Sci U S A 88: 2515-2519 (1991)","UNDEFINED").
+TFD_subseq('silencer/_2',"GGACGCACTGTGATTAAATAT","Proc Natl Acad Sci U S A 88: 2515-2519 (1991)","UNDEFINED").
+TFD_subseq('silencer/_3',"ACCAATTATTGGTTACTAAATTTAACAG","Proc Natl Acad Sci U S A 88: 2515-2519 (1991)","UNDEFINED").
+TFD_subseq('TBP-P-element',"TACCGAAGTATACACTTAAATTCAGTG","Proc Natl Acad Sci U S A 88: 2613-2317 (1991)","UNDEFINED").
+TFD_subseq('P-element_-undefined-site',"ATACACTTAA","Proc Natl Acad Sci U S A 88: 2613-2317 (1991)","UNDEFINED").
+TFD_subseq('AP-1-artificial_sequence',"CTAGTGATGAGTCAGCCG","J Biol Chem 266: 5670 (1991)","MAMM").
+TFD_subseq('site_D_(12)',"CCTTGAACTCTTAAGTTCCACATTGCCAGGACCAGTGAGCAGCAA","J Biol Chem 266: 5670 (1991)","MAMM").
+TFD_subseq('apoAI_-undefined-site',"CCCTGCAAGAGCTGGCTGCTTAGAGACTGCGAGAAGGAG","J Biol Chem 266: 5670 (1991)","MAMM").
+TFD_subseq('histone_H4t-undefined-site',"TCATCCTTGTTGCCCCACCCCCTTTCAAGGACCTGATT","J Biol Chem 266: 5670 (1991)","MAMM").
+TFD_subseq('VITF-RS',"TTCTCAAAT","EMBO J 10: 2553-2558 (1991)","MAMM").
+TFD_subseq('GATA-1-GATA-1_(2)',"CTGATAAG","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('GATA-1-undefined-site-1',"GGGGGGGTGGGGGGGGG","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('GATA-1-undefined-site-2',"ACCATGACCCA","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('GATA-1-undefined-site-3',"CCCCCCCCCAAT","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('GATA-1-undefined-site-4',"AGCAAGGGGGGGGG","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('GATA-1-undefined-site-5',"TGTCCCCCCCCCCCGTT","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('GATA-1-GATA-1_(3)',"GCTATCAGATAAGGCCTTATCAG","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('GATA-1-undefined-site-6',"GGGGGGGGGGGGGTG","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('GATA-1-undefined-site-7',"GCGGGCGGGG","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('GATA-1-undefined-site-8',"TGCAGGTCAGTGACCCCCC","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('GATA-1-undefined-site-9',"CCGGGGGGGGGGGGG","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('GATA-1-undefined-site-10',"GGGGGGGGAGGGGG","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('GATA-1-undefined-site-11',"TGATAGAT","Proc Natl Acad Sci U S A 88: 3004-3008 (1991)","AVIAN").
+TFD_subseq('Pit-1-TSHB_(1)',"ATGAATTTTCAATAGATGCTTTTCAGATAAG","Proc Natl Acad Sci U S A 88: 3130-3134 (1991)","UNDEFINED").
+TFD_subseq('Pit-1-TSHB_(2)',"ATGCAATTGTATAAAC","Proc Natl Acad Sci U S A 88: 3130-3134 (1991)","UNDEFINED").
+TFD_subseq('nT3RE_(3)',"TTGGGTCACCACAGCATCTGC","Endocrinology 129: 3331-3336 (1991)","MAMM").
+TFD_subseq('p53-MARE',"TCCTGACTCTGCA","J Biol Chem 275: 17991-9 (2000)","MAMM").
+TFD_subseq('NF-1-aP2',"TTGGCAAGCCATG","Genes Dev 5: 428-437 (1991)","UNDEFINED").
+TFD_subseq('TCF-1alpha-TCR-alpha',"GGCACCCTTTGAA","Genes Dev 5: 880-894 (1991)","UNDEFINED").
+TFD_subseq('mdg1_retrotransposon-undefined',"TCAGTTATAAATCAGGAATAGATCTGGAATGTACACTCGCTTAA","Genes Dev 5: 880-894 (1991)","UNDEFINED").
+TFD_subseq('E-box+CArG3_box',"CACCTGCCTTAGATGG","Mol Cell Biol 11: 2439-2450 (1991)","UNDEFINED").
+TFD_subseq('MP4-MMTV',"CCATCAGACAAAGACATTCAT","Mol Cell Biol 11: 2529-2537 (1991)","MAMM").
+TFD_subseq('F2',"AGGACCACAGCCAA","Mol Cell Biol 12: 4906-4918 (1992)","MAMM").
+TFD_subseq('MMTV-undefined-site',"ATCATTTT","Mol Cell Biol 12: 4906-4918 (1992)","MAMM").
+TFD_subseq('epsilon-globin-undefined-site1',"AAGGGTACAAA","Mol Cell Biol 12: 4906-4918 (1992)","UNDEFINED").
+TFD_subseq('GATA-1-epsilon-globin_(1)',"GTTGCAGATAGTATGAGG","Mol Cell Biol 11: 2558-2566 (1991)","MAMM").
+TFD_subseq('GATA-1-epsilon-globin_(2)',"ACACATTATCA","J Biol Chem 266: 8907-8915 (1991)","MAMM").
+TFD_subseq('epsilonF1-epsilon-globin',"CATCCATCACTGC","J Biol Chem 266: 8907-8915 (1991)","MAMM").
+TFD_subseq('Sp1-epsilon-globin',"CCTGACTCCACCCCTG","J Biol Chem 266: 8907-8915 (1991)","MAMM").
+TFD_subseq('CP1-epsilon-globin',"ACCAATGACTTTTAAGTACC","J Biol Chem 266: 8907-8915 (1991)","MAMM").
+TFD_subseq('epsilon-globin-undefined-site2',"GAATAAA","J Biol Chem 266: 8907-8915 (1991)","MAMM").
+TFD_subseq('epsilon-globin-undefined-site3',"ACATATC","J Biol Chem 266: 8907-8915 (1991)","MAMM").
+TFD_subseq('gERE/_gastrin_EGF-reponse_elem',"GGCGGGGTGG","J Biol Chem 266: 8907-8915 (1991)","UNDEFINED").
+TFD_subseq('Sp1-vitellogenin_II',"AGGAGTGTT","Mol Cell Biol 11: 2704-2717 (1991)","UNDEFINED").
+TFD_subseq('RAP1-rpL16',"ACATCCGTACAACGAGAACCCATACATTA","Mol Cell Biol 11: 2723-2735 (1991)","YEAST").
+TFD_subseq('IRF-1-IL-7R',"AGAAATGGAAGAGT","Mol Cell Biol 11: 3052-3059 (1991)","MAMM").
+TFD_subseq('NF-1-tPA',"ACTGGCGGCAAGCCAAG","Mol Cell Biol 11: 3139-3147 (1991)","UNDEFINED").
+TFD_subseq('NGFI-A-C/EBP-site',"CACGTGTGTGCGGGGGCG","J Biol Chem 266: 11594-11603 (1991)","MAMM").
+TFD_subseq('Sp1-C/EBP',"TGGGCGTTGC","Mol Cell Biol 19: 4855-65 (1999)","MAMM").
+TFD_subseq('C/EBP-C/EBP-alpha',"TCAGTGGGCGTTGCGCCACGATC","J Biol Chem 30: 18123-32 (1995)","MAMM").
+TFD_subseq('C/EBP-p21waf1/cip1',"ATCCTCTGCAATTT","J Biol Chem 273: 2008-14 (1998)","MAMM").
+TFD_subseq('NF-IL6-IL-6',"ACGTCACATTGCACAATCTTAATAA","J Biol Chem 269: 10341-10351 (1994)","MAMM").
+TFD_subseq('TAT-undefined-site-4',"CTGGCCTGTGTTCAGAACGCTCAGAATGACTCCTCTGGCTTT","J Biol Chem 269: 10341-10351 (1994)","UNDEFINED").
+TFD_subseq('TAT-undefined-site-5',"CAACCCAGTCATGGCAAACTTATTTCCTG","J Biol Chem 269: 10341-10351 (1994)","UNDEFINED").
+TFD_subseq('C/EBP-TAT_(1)',"AGGACTGGATTGCAGATGCGGCCA","Cell 67: 977-986 (1991)","MAMM").
+TFD_subseq('HNF-3-TAT_(1)',"GGCCACAAATAAAAGA","Nucleic Acids Res 19: 131-139 (1991)","UNDEFINED").
+TFD_subseq('C/EBP-TAT_(2)',"GTAAGAGTCATGGTTG","Nucleic Acids Res 19: 131-139 (1991)","UNDEFINED").
+TFD_subseq('C/EBP-TAT_(3)',"GCCACAGTTATGCAAAACACAAAACAAATAAG","Cell 67: 977-986 (1991)","UNDEFINED").
+TFD_subseq('C/EBP-TAT_(4)',"TGCTATTTGCTAAACTCC","Cell 67: 977-986 (1991)","UNDEFINED").
+TFD_subseq('HNF-3-TAT_(3)',"CAGTCTGCAAACAGATGAAGATTTT","Cell 67: 977-986 (1991)","UNDEFINED").
+TFD_subseq('TAT-undefined-site-6',"CCTGGAATGTG","Cell 67: 977-986 (1991)","UNDEFINED").
+TFD_subseq('TAT-undefined-site-7',"ATAAATAA","Cell 67: 977-986 (1991)","UNDEFINED").
+TFD_subseq('C/EBP-TAT_(5)',"AAGGTTTACCAATCTCT","Nucleic Acids Res 19: 131-139 (1991)","MAMM").
+TFD_subseq('C/EBP-TAT_(6)',"ACTTTATTTGCAATAGAAAATC","Cell 67: 977-986 (1991)","MAMM").
+TFD_subseq('C/EBP-TAT_(7)',"TGAAAGTTTCCCCATGTCCAAC","Cell 67: 977-986 (1991)","MAMM").
+TFD_subseq('HNF-3-TAT_(2)',"TAGAACAAACAAGTCCTGCGT","Nucleic Acids Res 19: 131-139 (1991)","MAMM").
+TFD_subseq('C/EBP-TAT_(8)',"ATAGCCCTGTAATCCCAGCATTTGG","Nucleic Acids Res 19: 131-139 (1991)","UNDEFINED").
+TFD_subseq('C/EBP-E4',"AAGCTCCGTTACGTCATTTT","Nucleic Acids Res 19: 1213 (1991)","UNDEFINED").
+TFD_subseq('Yi-consensus',"CCCNCNNNCT","Proc Natl Acad Sci U S A 88: 1157-1161 (1991)","UNDEFINED").
+TFD_subseq('TBP-MLP',"CAGAAGGTACCTAACCAAGT","Proc Natl Acad Sci U S A 89: 5814-5818 (1992)","MAMM").
+TFD_subseq('TBP-DHFR',"GCCTGCACAAATAGGGACGA","Proc Natl Acad Sci U S A 89: 5814-5818 (1992)","MAMM").
+TFD_subseq('TBP-rpL32',"CCATCATACCCTGCGCGCCG","Proc Natl Acad Sci U S A 89: 5814-5818 (1992)","UNDEFINED").
+TFD_subseq('TBP-IRF-1',"AAGTGTTTAGATTTCTTCGC","Proc Natl Acad Sci U S A 89: 5814-5818 (1992)","MAMM").
+TFD_subseq('TBP-CYC1',"TTATACATT","Proc Natl Acad Sci U S A 86: 5718-5722 (1989)","YEAST").
+TFD_subseq('TBP-IVa2',"TATAGAAA","Mol Cell Biol 12: 2884-2897 (1992)","MAMM").
+TFD_subseq('TATA_box_(1)',"TTCATAAA","Nature 348: 86-88 (1990)","UNDEFINED").
+TFD_subseq('site_II/_TATA_box',"AGATGCTGCATATAAGCAGCTG","Science 251: 1476-1479 (1991)","MAMM").
+TFD_subseq('site_I_(3)',"CTTTTTGCCTGTACTGGGTCTCTCTGGTTAGACCAGATCTGAG","Science 251: 1476-1479 (1991)","MAMM").
+TFD_subseq('TATA_box_(2)',"GGCTTTATATATCTT","Genes Dev 5: 1477-1489 (1991)","UNDEFINED").
+TFD_subseq('YY1-P5_(2)',"GTTTTGCGACATTTTGCGACAC","Cell 67: 377-388 (1991)","MAMM").
+TFD_subseq('YY1-P5_(3)',"AGGGTCTCCATTTTGAAGCGGG","Cell 67: 377-388 (1991)","MAMM").
+TFD_subseq('c-Myb-pseudorabies_virus',"YGRCNGTTGG","Nucleic Acids Res 19: 3913-3919 (1991)","MAMM").
+TFD_subseq('apoC-III-proximal_region/_B',"GTCACCTG","J Biol Chem 266: 9640-9646 (1991)","MAMM").
+TFD_subseq('Pit-1-CS-1_(1)',"TGTGTGGGAGGAGCTTCTAAATTATCCACT","J Biol Chem 266: 9805-9813 (1991)","MAMM").
+TFD_subseq('Pit-1-CS-1_(2)',"ATGCATAAAT","J Biol Chem 266: 9805-9813 (1991)","MAMM").
+TFD_subseq('T3R-CS-1',"GTGGGGTCAAGCAGGGAGAGA","J Biol Chem 266: 9805-9813 (1991)","MAMM").
+TFD_subseq('DR_0',"TCCTCCCCCAAAAGGG","J Biol Chem 266: 9805-9813 (1991)","UNDEFINED").
+TFD_subseq('MRE-d/_MRE-c',"TGCGCCCGGCCCTTCTGCTGCACACAGCCC","J Biol Chem 266: 9876-9884 (1991)","UNDEFINED").
+TFD_subseq('MRE-e/_MRE-d/_MRE-c',"TGTGCGCCCAGCTG","J Biol Chem 266: 9876-9884 (1991)","UNDEFINED").
+TFD_subseq('MRE-b/_MRE-a',"CGGGCTGGGTGCA","J Biol Chem 266: 9876-9884 (1991)","UNDEFINED").
+TFD_subseq('ovalbumin-SDRE-region',"CTGAATTTCACAATTCCTCTG","J Biol Chem 265: 7590-5 (1990)","AVIAN").
+TFD_subseq('DHS_E_(3)',"CACCCTCAC","J Biol Chem 266: 10562-10569 (1991)","MAMM").
+TFD_subseq('DHS_B_(1)',"TAATAAAAATTGAAAAG","J Biol Chem 266: 10562-10569 (1991)","MAMM").
+TFD_subseq('porphobilinogen-DHS_B_(2)',"TAATTCCCGCCCAGAGGAAGGCACCGCCCCGTTGAGGGAGGGCAG","J Biol Chem 266: 10562-10569 (1991)","MAMM").
+TFD_subseq('DHS_C_(1)',"TTGCCCTAAGGCAGGGA","J Biol Chem 266: 10562-10569 (1991)","MAMM").
+TFD_subseq('DHS_C_(2)',"GTGGGGGCGGGGT","J Biol Chem 266: 10562-10569 (1991)","MAMM").
+TFD_subseq('DHS_D_(1)',"TGCCTGAGATAAGG","J Biol Chem 266: 10562-10569 (1991)","MAMM").
+TFD_subseq('DHS_D_(2)',"TTATCTCC","J Biol Chem 266: 10562-10569 (1991)","MAMM").
+TFD_subseq('PGK-1-undefined-site',"CGGTTCGCGGCGTGCCGGACG","J Biol Chem 266: 10562-10569 (1991)","MAMM").
+TFD_subseq('ENKTF-1-PGK-1',"AGACGGACAGCGCCAGGGAGCAATGGCAGCGCGCCGAC","Genes Dev 5: 1102-1113 (1991)","MAMM").
+TFD_subseq('GATA-1-undefined-site-12',"CACACCC","Genes Dev 5: 919-931 (1991)","MAMM").
+TFD_subseq('GATA-1-undefined-site-13',"CCCACCCAC","Genes Dev 5: 919-931 (1991)","MAMM").
+TFD_subseq('erythropoietin-undefined-site1',"GCAGCAGTGCAGCAGGTCCAGGTCC","Mol Cell Biol 15:  2135-44 (1995)","MAMM").
+TFD_subseq('erythropoietin-undefined-site2',"AAACGAGGGGTGGAGGGGG","Proc Natl Acad Sci U S A 88: 5680-5684 (1991)","UNDEFINED").
+TFD_subseq('c-Myc-artificial_sequence-1',"GAGCACGTGCTC","Proc Natl Acad Sci U S A 88: 6162-6166 (1991)","SYNTH").
+TFD_subseq('c-Myc-artificial_sequence-2',"TAGCACGTGCTA","Proc Natl Acad Sci U S A 88: 6162-6166 (1991)","SYNTH").
+TFD_subseq('c-Myc-artificial_sequence-3',"GAACACGTGTTC","Proc Natl Acad Sci U S A 88: 6162-6166 (1991)","SYNTH").
+TFD_subseq('c-Myc-artificial_sequence-4',"AACCACGTGGTT","Proc Natl Acad Sci U S A 88: 6162-6166 (1991)","SYNTH").
+TFD_subseq('c-Myc-artificial_sequence-5',"CACCACGTGGTG","Proc Natl Acad Sci U S A 88: 6162-6166 (1991)","SYNTH").
+TFD_subseq('c-Myc-artificial_sequence-6',"GGCCACGTGGCC","Proc Natl Acad Sci U S A 88: 6162-6166 (1991)","SYNTH").
+TFD_subseq('c-Myc-artificial_sequence-7',"GTCCACGTGGAC","Proc Natl Acad Sci U S A 88: 6162-6166 (1991)","SYNTH").
+TFD_subseq('c-Myc-artificial_sequence-8',"TACCACGTGGTA","Proc Natl Acad Sci U S A 88: 6162-6166 (1991)","SYNTH").
+TFD_subseq('c-Myc-artificial_sequence-9',"GCCCACGTGGGC","Proc Natl Acad Sci U S A 88: 6162-6166 (1991)","SYNTH").
+TFD_subseq('TFEB-artificial_sequence-1',"GCGCACGTGCGC","Proc Natl Acad Sci U S A 88: 6162-6166 (1991)","SYNTH").
+TFD_subseq('TFEB-artificial_sequence-2',"GGTCACGTGACC","Proc Natl Acad Sci U S A 88: 6162-6166 (1991)","SYNTH").
+TFD_subseq('TFEB-artificial_sequence-3',"GATCACGTGATC","Proc Natl Acad Sci U S A 88: 6162-6166 (1991)","SYNTH").
+TFD_subseq('distal_region_II/_H',"CGTCTCATTACACATTAACT","J Biol Chem 266: 11676-11685 (1991)","MAMM").
+TFD_subseq('distal_region_II/_G',"TTCAATTCCTTTCT","J Biol Chem 266: 11676-11685 (1991)","MAMM").
+TFD_subseq('distal_region_II/_F',"TAAGGTTGAGAGATGAGATCT","J Biol Chem 266: 11676-11685 (1991)","MAMM").
+TFD_subseq('distal_region_II/_E',"AATGGAATAAAGAC","J Biol Chem 266: 11676-11685 (1991)","MAMM").
+TFD_subseq('distal_region_II/_D',"CTTCCTGTTGCATTCAAGTCCA","J Biol Chem 266: 11676-11685 (1991)","MAMM").
+TFD_subseq('proximal_region/_C',"CCCCCATTTCTCCAACT","J Biol Chem 266: 11676-11685 (1991)","MAMM").
+TFD_subseq('proximal_region/_A',"AAACAGAC","J Biol Chem 266: 11676-11685 (1991)","MAMM").
+TFD_subseq('distal_region_I/_N',"GATATCTATTTAACTGATTTCACCC","J Biol Chem 266: 11676-11685 (1991)","MAMM").
+TFD_subseq('GATA-1-gamma-globin_(4)',"TTAAGCAGCAGTATCCT","J Biol Chem 266: 11965-11974 (1991)","UNDEFINED").
+TFD_subseq('HB1/_HB2',"ATCATAAAAAG","EMBO J 10: 2267-2278 (1991)","DROS").
+TFD_subseq('GATA-1-GPB',"GGGCCTGGAAGATAACAGCTA","EMBO J 10: 1809-1816 (1991)","UNDEFINED").
+TFD_subseq('ER-progesterone_receptor_(1)',"GTACAAGATGACC","EMBO J 10: 1875-1883 (1991)","UNDEFINED").
+TFD_subseq('PR-progesterone_receptor_(5)',"GGAACATAAATGCAA","EMBO J 10: 1875-1883 (1991)","UNDEFINED").
+TFD_subseq('PR-progesterone_receptor_(6)',"GGAACAATCAGTTCC","EMBO J 10: 1875-1883 (1991)","UNDEFINED").
+TFD_subseq('ER-progesterone_receptor_(2)',"GGTCATGTCGATT","EMBO J 10: 1875-1883 (1991)","UNDEFINED").
+TFD_subseq('NF-kappaB-ELAM-1',"ATTGGGGATTTCCTC","Nucleic Acids Res 19: 2645 (1991)","UNDEFINED").
+TFD_subseq('AmdR-amdS',"AAAATTCGGCGAAGCCAGCCAATCA","Nucleic Acids Res 19: 2655-2660 (1991)","UNDEFINED").
+TFD_subseq('AnCF-amdS',"GCCAGCCAATCACCAGCTAGGCACCAGCTAAACCC","Nucleic Acids Res 19: 2655-2660 (1991)","UNDEFINED").
+TFD_subseq('TS-undefined-site-1',"GGCGGCCGGAAG","Nucleic Acids Res 19: 2669 (1991)","UNDEFINED").
+TFD_subseq('TS-undefined-site-2',"AGTTTCCCA","Nucleic Acids Res 19: 2669 (1991)","UNDEFINED").
+TFD_subseq('Sp1-TS_(2)',"AAGAGGCGGG","Nucleic Acids Res 19: 2267 (1991)","UNDEFINED").
+TFD_subseq('Sp1-BPV-1',"GGGTGGTAGAGGTGG","Cell 65: 493-505 (1991)","MAMM").
+TFD_subseq('HBP-1a-dbp',"ACAGAGGTGACGTGGCATCA","EMBO J 10: 1459-1467 (1991)","PLANT").
+TFD_subseq('HBP-1a-nitrate_reductase',"TTTTGCCACGTCACATGCTG","EMBO J 10: 1459-1467 (1991)","PLANT").
+TFD_subseq('HBP-1a-legumin_A',"CTTTCAATGACGTGTCCAAC","EMBO J 10: 1459-1467 (1991)","PLANT").
+TFD_subseq('AR-prostatein_C3',"AGTACGTGATGTTCT","J Biol Chem 266: 3439-3443 (1991)","MAMM").
+TFD_subseq('Sp1-insulin_receptor',"GGGCGGGGCGGGGCGGGGCCGGGCGG","J Biol Chem 266: 3944-3948 (1991)","MAMM").
+TFD_subseq('alpha1-undefined-site-2',"AGGACCTTTTCCCAATTATTC","J Biol Chem 266: 3944-3948 (1991)","UNDEFINED").
+TFD_subseq('alpha1-undefined-site-3',"TGTTTCCCAACTCAGATTCTCAG","J Biol Chem 266: 3944-3948 (1991)","MAMM").
+TFD_subseq('AP-1-TIMP',"GTGGGTGGATGAGTA","J Biol Chem 266: 7199-7206 (1991)","MAMM").
+TFD_subseq('EcR-hsp23',"CTCACTTTCAATGGCAGATAATGCGTAATTG","Mol Cell Biol 11: 3660-3675 (1991)","DROS").
+TFD_subseq('MAPF1-MLC',"AAAAATGGAGCTGC","Mol Cell Biol 11: 3735-3744 (1991)","UNDEFINED").
+TFD_subseq('HAP1-CYB2',"CCTGCCGATATCTCCTTGCCCC","Mol Cell Biol 11: 3762-3772 (1991)","YEAST").
+TFD_subseq('HAP1-consensus',"AACTTCCGWTAWCTCCNTNCNNNNT","Mol Cell Biol 11: 3762-3772 (1991)","YEAST").
+TFD_subseq('EcR-consensus_(2)',"KNTCANTNNMM","Mol Cell Biol 11: 3660-3675 (1991)","DROS").
+TFD_subseq('EMF1-XActin',"CCCCTGCACAATTGTGCTGCACCTGTCTACTCCATTTGCAGACCC","Genes Dev 5: 1149-1160 (1991)","AMPHIB").
+TFD_subseq('Oct-1-artificial_sequence',"ATGCAAATGATAT","Mol Cell Biol 11: 3925-3930 (1991)","UNDEFINED").
+TFD_subseq('PD1-enhancer_E1',"GGTCCACATTCAAAATAACCTTTGAGAAATTACCAT","Mol Cell Biol 11: 4065-4073 (1991)","MAMM").
+TFD_subseq('PD1-silencer_S1/_S2',"CCAAAATTATCTCGAAAAAGGTTATTAAAA","Mol Cell Biol 11: 4065-4073 (1991)","MAMM").
+TFD_subseq('NF-kappaB-gro-gamma',"TCCGGGAATTTCCCTG","J Immunol 147: 520-527 (1991)","MAMM").
+TFD_subseq('E1B-undefined-site',"CCATTTTCGCGGGAAAACTGAATAAG","J Virol 65: 4033-4041 (1991)","MAMM").
+TFD_subseq('GATA-1-EpoR_(2)',"CTTATCTGT","Nucleic Acids Res 19: 3843-3848 (1991)","UNDEFINED").
+TFD_subseq('Sp1-EpoR',"CCCCGCCCCCTGGAA","Nucleic Acids Res 19: 3843-3848 (1991)","UNDEFINED").
+TFD_subseq('PAI-2-undefined-site-1',"GATATTGACAA","Nucleic Acids Res 19: 3843-3848 (1991)","UNDEFINED").
+TFD_subseq('PAI-2-undefined-site-2',"TGACCTCA","Nucleic Acids Res 19: 3843-3848 (1991)","UNDEFINED").
+TFD_subseq('PAI-2-undefined-site-3',"GTATTTCATATTCT","Nucleic Acids Res 19: 3843-3848 (1991)","UNDEFINED").
+TFD_subseq('AP-1-PAI-2',"TGAATCA","Nucleic Acids Res 19: 3881-3886 (1991)","MAMM").
+TFD_subseq('PAI-2-undefined-site-4',"CAAAAGAC","Nucleic Acids Res 19: 3881-3886 (1991)","MAMM").
+TFD_subseq('Sp1-PAI-2',"GAGAAAAAAAAATGCCATGTGGGAGG","Nucleic Acids Res 19: 3881-3886 (1991)","MAMM").
+TFD_subseq('PAI-2-undefined-site-5',"AAGCTGTATAAAACCAGT","Nucleic Acids Res 19: 3881-3886 (1991)","MAMM").
+TFD_subseq('NBF-INO1_(1)',"ATGTGAAAT","Nucleic Acids Res 19: 3987-3994 (1991)","UNDEFINED").
+TFD_subseq('NBF-INO1',"ATGTGAAAA","J Biol Chem 269: 7402-7411 (1994)","UNDEFINED").
+TFD_subseq('NBF-INO1_(2)',"ATGCGGAAT","Nucleic Acids Res 19: 3987-3994 (1991)","UNDEFINED").
+TFD_subseq('Sp1-HTF9',"CCCTCCGCCCCCCGA","Nucleic Acids Res 19: 4451-4458 (1991)","MAMM").
+TFD_subseq('uteroglobin-undefined-site-1',"GTCACAGCCACTTGGG","Nucleic Acids Res 11: 2257-71 (1983)","MAMM").
+TFD_subseq('uteroglobin-undefined-site-2',"GACAGGAGACACACTTGC","Nucleic Acids Res 11: 2257-71 (1983)","MAMM").
+TFD_subseq('uteroglobin-undefined-site-3',"CTGTTGGTCTGGGCTGCCCAAAT","Nucleic Acids Res 11: 2257-71 (1983)","MAMM").
+TFD_subseq('uteroglobin-undefined-site-4',"GTGGCCAGGTCACCATGCCCTCGGGGGCAGGCACC","Nucleic Acids Res 11: 2257-71 (1983)","MAMM").
+TFD_subseq('uteroglobin-element-VI',"GCCACACCCCTGCA","J Biol Chem 270: 12737-44 (1995)","MAMM").
+TFD_subseq('uteroglobin-undefined-site-6',"CTCTCCCTCCCCCCGAGGGACC","Nucleic Acids Res 11: 2257-71 (1983)","MAMM").
+TFD_subseq('uteroglobin-undefined-site-7',"AATAGGGATGGAAACTGGATT","Nucleic Acids Res 11: 2257-71 (1983)","MAMM").
+TFD_subseq('uteroglobin-element-IV',"AGAAAAGGGAATATTTA","J Biol Chem 273: 9821-8 (1998)","MAMM").
+TFD_subseq('uteroglobin-element-III',"AGTCAATGCCCAAGTAAATAATGC","J Biol Chem 273: 9821-8 (1998)","MAMM").
+TFD_subseq('uteroglobin-undefined-site-10',"GCCCAAGTAAATAATGC","Nucleic Acids Res 11: 2257-71 (1983)","MAMM").
+TFD_subseq('uteroglobin-element-II',"GGCCCTGCCCTCTTCT","J Biol Chem 270: 12737-44 (1995)","MAMM").
+TFD_subseq('uteroglobin-element-I',"GAATACAAAAAGGCA","Mol Cell Biol 14: 6208-18 (1994)","MAMM").
+TFD_subseq('SRF-cyr61',"ATACCCAAATATGGAAATATTGT","Nucleic Acids Res 19: 3261 (1991)","MAMM").
+TFD_subseq('crystallin-HN_segment',"AGTCAGCCACTAAGCACTTTTTCTGAAATATTCATTGTTGTTGCT","Nucleic Acids Res 19: 3543-3547 (1991)","AVIAN").
+TFD_subseq('HCMV-18_bp_repeat_(2',"CCAATAGGGACTTTCCAT","Nucleic Acids Res 19: 3543-3547 (1991)","MAMM").
+TFD_subseq('HCMV-18_bp_repeat_(3',"ATCAACGGGACTTTCCAA","Nucleic Acids Res 19: 3543-3547 (1991)","MAMM").
+TFD_subseq('HCMV-18_bp_repeat_(4',"CCTTATGGGACTTTCCTA","Nucleic Acids Res 19: 3543-3547 (1991)","MAMM").
+TFD_subseq('Sp1-junD',"CCCGCCCC","EMBO J 10: 2523-2532 (1991)","UNDEFINED").
+TFD_subseq('TRE',"TGAGCTCA","EMBO J 10: 2523-2532 (1991)","UNDEFINED").
+TFD_subseq('Sry-beta-genomic-1',"TCAGAGATGCGCA","EMBO J 10: 2533-2541 (1991)","DROS").
+TFD_subseq('Sry-beta-genomic-2',"CCAGTGCTGCGCA","EMBO J 10: 2533-2541 (1991)","DROS").
+TFD_subseq('Sry-beta-genomic-3',"GTAGAGATGCGAA","EMBO J 10: 2533-2541 (1991)","DROS").
+TFD_subseq('Sry-beta-genomic-4',"TCAGAGATGCGTC","EMBO J 10: 2533-2541 (1991)","DROS").
+TFD_subseq('Sry-beta-consensus',"YCAGAGATGCGCA","EMBO J 10: 2533-2541 (1991)","DROS").
+TFD_subseq('Sry-delta-genomic-1',"CTAGAGATGGGGT","EMBO J 10: 2533-2541 (1991)","DROS").
+TFD_subseq('Sry-delta-genomic-2',"CTAGAGATGAGAA","EMBO J 10: 2533-2541 (1991)","DROS").
+TFD_subseq('Sry-delta-genomic-3',"TTAGAGATGGAAA","EMBO J 10: 2533-2541 (1991)","DROS").
+TFD_subseq('Sry-delta-genomic-4',"TTAGAGATGGGAC","EMBO J 10: 2533-2541 (1991)","DROS").
+TFD_subseq('Sry-beta-genomic-5',"CCAGTGATGAGCG","EMBO J 10: 2533-2541 (1991)","DROS").
+TFD_subseq('Sry-delta-consensus',"YTAGAGATGGRAA","EMBO J 10: 2533-2541 (1991)","DROS").
+TFD_subseq('CRE/enhancer_B_domain/BI',"CTGCGTCAGCG","EMBO J 11: 3337-3346 (1992)","MAMM").
+TFD_subseq('DSXF-FBE/_A',"CTACAATGT","Genes Dev 7: 42-54 (1993)","DROS").
+TFD_subseq('DSXF-FBE/_B_(1)',"CTACAAAGTGATTACAAATT","Genes Dev 7: 42-54 (1993)","DROS").
+TFD_subseq('DSXF-FBE/_B_(2)',"CTGCTAAGT","Genes Dev 7: 42-54 (1993)","DROS").
+TFD_subseq('BRLF1-negative-element-1',"GAAAGAGTGACATCTTGTCCTG","J Virol 71: 3268-74 (1997)","MAMM").
+TFD_subseq('BZLF1-negative_element',"AAGCAGCCATATGTGGACA","J Virol 65: 3647-3655 (1991)","MAMM").
+TFD_subseq('alpha1-AGP-Ybox/Zbox',"CTGGTGAGATTGTGCCACAGCTCTGCA","Mol Cell Biol 11: 4959-4965 (1991)","MAMM").
+TFD_subseq('ssDBP-1-histone_H4',"CCACGTCACCG","Biochem Biophys Res Commun 176: 1593-1600 (1991)","UNDEFINED").
+TFD_subseq('NF-muE1-IE_(1)',"CAAGATGGCCGCA","Virology 182: 239-249 (1991)","MAMM").
+TFD_subseq('Oct-1-IE',"GGGCATGCAA","Virology 182: 239-249 (1991)","MAMM").
+TFD_subseq('NF-muE1-IE_(2)',"CCGAGATGGCCGCCGCGGGGGCCGGACATGCAAAGTAGACGC","Virology 182: 239-249 (1991)","MAMM").
+TFD_subseq('NF-muE1-IE_(3)',"TCGAGGGGCCAAGATGGCGCCCTCGGGGCCGGACATGCAAAGTAG","Virology 182: 239-249 (1991)","MAMM").
+TFD_subseq('NF-muE1-IE_(4)',"TCGAGTGGGCAAGATGGCCGCCGCGGGGGCCGGGCATGCAAATG","Virology 182: 239-249 (1991)","MAMM").
+TFD_subseq('NF-muE1-IE_(5)',"GCGGCCGCCATCTTGGGCCGG","Virology 182: 239-249 (1991)","MAMM").
+TFD_subseq('NF-muE1-IE_(6)',"CCATTGGTCCGCTTACCTGGGGGCGGGCTCTCC","Virology 182: 239-249 (1991)","MAMM").
+TFD_subseq('IE-undefined-site',"CAGCATCGTTCTCTGCCAA","Virology 182: 239-249 (1991)","MAMM").
+TFD_subseq('EF-C-IE1',"ATTACCATGGTGAT","Virology 182: 865-869 (1991)","UNDEFINED").
+TFD_subseq('c-fos-undefined_site',"GAGCAACTGAGAAGCCAAGACT","J Biol Chem 271: 4597-600 (1996)","MAMM").
+TFD_subseq('ATF-E4_(2)',"TTAACCGTTACGTCATTTTTTAGT","Mol Cell Biol 11: 4297-4305 (1991)","MAMM").
+TFD_subseq('ATF-artificial_sequence_(1)',"TTAACCGATACGTCATTTTTTAGT","Mol Cell Biol 11: 4297-4305 (1991)","SYNTH").
+TFD_subseq('ATF-artificial_sequence_(2)',"TTAACCGTTACATCATTTTTTAGT","Mol Cell Biol 11: 4297-4305 (1991)","SYNTH").
+TFD_subseq('ATF-artificial_sequence_(3)',"TTAACCGTTACGTTATTTTTTAGT","Mol Cell Biol 11: 4297-4305 (1991)","SYNTH").
+TFD_subseq('NF-1-betaM-globin',"TCGCCAA","Mol Cell Biol 11: 4324-4332 (1991)","UNDEFINED").
+TFD_subseq('AP-1-aldolase_A',"CGTTCCGCCCTCCCCCATTGCCAACATTCTGGCTGAGTCACGGCG","Nucleic Acids Res 19: 4173-4180 (1991)","MAMM").
+TFD_subseq('aldolase_A-undefined-site-1',"GTCCGAGGGGGGTGGGGAGGGATCGT","Nucleic Acids Res 19: 4173-4180 (1991)","MAMM").
+TFD_subseq('aldolase_A-undefined-site-2',"GGCGCCCGCCCCTTCCTAGC","Nucleic Acids Res 19: 4173-4180 (1991)","MAMM").
+TFD_subseq('Sp1-aldolase_A',"CTGGGCTGGCCTCTCGGGGGCGGCCCGT","Nucleic Acids Res 19: 4173-4180 (1991)","MAMM").
+TFD_subseq('GHF1-undefined-site',"ATATATGCACATATATATGTGTGACGAC","Genes Dev 5: 1490-1503 (1991)","UNDEFINED").
+TFD_subseq('sevenless-undefined-site-1',"AAAATACTAAATGCTTTCACATTTTCATTGTAATTA","Proc Natl Acad Sci USA 88: 6853-7 (1991)","DROS").
+TFD_subseq('sevenless-undefined-site-2',"GCGCTTTGGATTAACCACTCCAGTTACCAG","Proc Natl Acad Sci USA 88: 6853-7 (1991)","DROS").
+TFD_subseq('sevenless-undefined-site-3',"CGAACTCAAAGTGCAT","Proc Natl Acad Sci U S A 88: 6853-7 (1991)","DROS").
+TFD_subseq('sevenless-undefined-site-4',"CGTTCTCCTTCTCCAAGCAA","Proc Natl Acad Sci U S A 88: 6853-7 (1991)","DROS").
+TFD_subseq('sevenless-undefined-site-5',"TCCCTCTTG","Proc Natl Acad Sci U S A 88: 6853-7 (1991)","DROS").
+TFD_subseq('dl-twi_(5)',"GAATAACCCAAGAGAAA","EMBO J 11: 1837-1842 (1992)","DROS").
+TFD_subseq('dl-consensus_(1)',"GGGARAWMCM","Cell 64: 439-446 (1991)","DROS").
+TFD_subseq('Gus-undefined-site',"TTAACTAGTTAA","Mol Cell Biol 14: 501-508 (1994)","UNDEFINED").
+TFD_subseq('NRF-2-ATP_synthase_beta-subuni',"GACCTTCCGGT","Mol Cell Biol 11: 5631-5638 (1991)","UNDEFINED").
+TFD_subseq('c-Ets-1-mb-1',"GCTGAACAGGAAGTGAGGCGGAGTTTGG","Proc Natl Acad Sci U S A 89: 8889-8893 (1992)","UNDEFINED").
+TFD_subseq('BAF1-artificial_sequence',"TCGTTATTAACGATA","Mol Cell Biol 11: 5648-5659 (1991)","SYNTH").
+TFD_subseq('CDP-gp91-phox',"GACCAATGATTATTAGCCAAT","Proc Natl Acad Sci U S A 91: 7757-7761 (1994)","MAMM").
+TFD_subseq('LF-B1-APN',"CCTGGTTAATTTTTGCCCAGT","J Biol Chem 266: 18089-18096 (1991)","MAMM").
+TFD_subseq('GATA-1-delta-globin_(2)',"TTATCTCT","Blood 80: 1347-51 (1992)","MAMM").
+TFD_subseq('C_enhancer/_FPI',"TATTAGTCATTTTC","Proc Natl Acad Sci U S A 88: 9102-9106 (1991)","MAMM").
+TFD_subseq('C_enhancer/_FPII',"TGCATAACTATATCCACTCCCTA","Proc Natl Acad Sci U S A 88: 9102-9106 (1991)","MAMM").
+TFD_subseq('GATA-1-beta-globin_(4)',"CTCCTATCT","Proc Natl Acad Sci U S A 88: 8676-8680 (1991)","MAMM").
+TFD_subseq('CUP2-SOD1',"GACAGCGCAAATGCCGC","Proc Natl Acad Sci U S A 88: 8558-8562 (1991)","YEAST").
+TFD_subseq('HAP1-CYT1',"GCGGCCGGTATTTCCGGCGGC","Mol Cell Biol 11: 4934-4942 (1991)","YEAST").
+TFD_subseq('XPF-1-amylase_2A_(1)',"TCCATGAGAGTTTCT","Mol Cell Biol 11: 4985-4997 (1991)","MAMM").
+TFD_subseq('XPF-1-amylase_2A_(2)',"ACCTTCAGCTGTGCAC","Mol Cell Biol 11: 4985-4997 (1991)","MAMM").
+TFD_subseq('USF-MLP',"CACATG","Mol Cell Biol 11: 5125-5136 (1991)","UNDEFINED").
+TFD_subseq('LyF-1-Ig-lambda-1',"TCAGGGAGA","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('LyF-1-Ig-lambda-2',"CCTCCCAGA","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('LyF-1-lck-1',"TCTCCCAGG","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('LyF-1-lck-2',"CCTCCCAAC","Mol Cell Biol 11: 5229-5243 (1991)","MAMM").
+TFD_subseq('IgHV1-undefined-site-1',"ATCACAATAAAATATTGAAGTGTTATCACATACACATACTAAACA","Mol Cell Biol 11: 5197-205 (1991)","MAMM").
+TFD_subseq('AP-1-IL-2_(3)',"TTCCAAAGAGTCATCAG","J Clin Invest 91: 1481-1489 (1993)","MAMM").
+TFD_subseq('PR-artificial_sequence-1',"GGGACACAGTGTCCT","J Steroid Biochem Mol Biol 43: 365-378 (1992)","MAMM").
+TFD_subseq('GR-artificial_sequence_(1)',"CAGAACAGGATGTTCTAGCTACG","New Biol 4: 527-540 (1992)","SYNTH").
+TFD_subseq('box_5',"GCAACAC","New Biol 4: 527-540 (1992)","UNDEFINED").
+TFD_subseq('box_1',"CTGGCTTTCT","New Biol 4: 527-540 (1992)","UNDEFINED").
+TFD_subseq('GR-artificial_sequence_(2)',"AGAACACAGTGTTCTCTAGAG","EMBO J 11: 2241-2246 (1992)","SYNTH").
+TFD_subseq('GR-alpha-2u_globulin_(1)',"GGCAGAACAAAGGATCTGAGTTCAGAC","J Biol Chem 266: 22634-22644 (1991)","MAMM").
+TFD_subseq('GR-alpha-2u_globulin_(2)',"TGTGGCACA","J Biol Chem 266: 22634-22644 (1991)","MAMM").
+TFD_subseq('GR-HIV-1',"AGAACACCAGCTTGT","J Virol 66: 586-590 (1992)","MAMM").
+TFD_subseq('artificial_sequence-undefined-',"ACAGCTGCGGTCACGTGGCCAGGAATTCGG","J Biol Chem 265: 14030-14035 (1990)","MAMM").
+TFD_subseq('GR-IL-6',"ACCTAAGCTG","Mol Cell Biol 10: 5736-5746 (1990)","MAMM").
+TFD_subseq('TATA_box_(4)',"CAATAAATA","Mol Cell Biol 10: 5736-5746 (1990)","MAMM").
+TFD_subseq('TATA_box_(5)',"ATATAGGA","Mol Cell Biol 10: 5736-5746 (1990)","MAMM").
+TFD_subseq('GR-osteocalcin',"GGGTATAAACAGTGCTG","Mol Cell Biol 11: 3379-3383 (1991)","MAMM").
+TFD_subseq('PR-artificial_sequence-2',"TGCTCTGTTACAAAC","Proc Natl Acad Sci U S A 87: 7180-7184 (1990)","SYNTH").
+TFD_subseq('ovalbumin-box_D',"GCAGCAGAGCCTTAGCTGACCTTTTCTTGGGACAAG","Cell 68: 731-742 (1992)","AVIAN").
+TFD_subseq('ovalbumin-box_A',"GACTATGAACTCACATCCAAAGGAGCTTGACCTGATAC","Cell 68: 731-742 (1992)","AVIAN").
+TFD_subseq('ovalbumin-box_B',"ATTCGACATTCATCTGTGACCTGAGCAAAATGATTTA","Cell 68: 731-742 (1992)","AVIAN").
+TFD_subseq('ovalbumin-box_C',"AAGAGGCTTTGACCTGTGAGCTCACCTGGACTTCATA","Cell 68: 731-742 (1992)","AVIAN").
+TFD_subseq('LEF-1-PS2',"ACTGAGAACAAAGCGCTCTCACAC","J Biol Chem 268: 24813-24817 (1993)","UNDEFINED").
+TFD_subseq('SRY-SRY_(1)',"GTGCTTGTAACAAAGATTTTA","Science 255: 453-456 (1992)","MAMM").
+TFD_subseq('SRY-SRY_(2)',"GTTAACGTAACAAAGAATCTGGTAGA","Science 255: 453-456 (1992)","MAMM").
+TFD_subseq('SRY-artificial_sequence-1',"GTTAACGTCACAAAGAATCTGGTAGA","Science 255: 453-456 (1992)","MAMM").
+TFD_subseq('SRY-artificial_sequence-2',"GTTAACGTAAGAAAGAATCTGGTAGA","Science 255: 453-456 (1992)","MAMM").
+TFD_subseq('SRY-artificial_sequence-3',"GTTAACGTAACAAATAATCTGGTAGA","Science 255: 453-456 (1992)","MAMM").
+TFD_subseq('MEF-2-artificial_sequence',"CGCTCTATAAATAACCCT","Genes Dev 6: 1783-1798 (1992)","MAMM").
+TFD_subseq('MEF-2-cTNT',"CGGGTTTAAAATAGCAAA","Genes Dev 6: 1783-1798 (1992)","MAMM").
+TFD_subseq('MEF-2-alpha-myosin_hc1',"CAGATTAAAAATAACTAA","Genes Dev 6: 1783-1798 (1992)","MAMM").
+TFD_subseq('MEF-2-alpha-myosin_hc2',"AGGACTAAAAAAGGCC","Genes Dev 6: 1783-1798 (1992)","MAMM").
+TFD_subseq('MEF-2-myosin_heavy_chain',"ATTTCTATATATACTTTC","Genes Dev 6: 1783-1798 (1992)","MAMM").
+TFD_subseq('Elk-1-gamma-actin/_type_5_cyto',"MRMMGGAWRY","EMBO J 11: 4631-4640 (1992)","UNDEFINED").
+TFD_subseq('SRF-artificial_sequence-1',"TCGAAGGAAAACCATTTATGGATCAAAT","Nucleic Acids Res 21: 215-221 (1993)","SYNTH").
+TFD_subseq('SRF-artificial_sequence-2',"TCGAAGGAAAACTATTTATAGATCAAAT","Nucleic Acids Res 21: 215-221 (1993)","SYNTH").
+TFD_subseq('RSRFC4-consensus',"RCKCTAWWWWTAGRWY","Genes Dev 5: 2327-2341 (1991)","UNDEFINED").
+TFD_subseq('STE2*',"CAGAATTTCCATATTAGGTAAGGACATGATGAAACA","EMBO J 10: 4219-4229 (1991)","YEAST").
+TFD_subseq('Olf-1-OMP_(1)',"ACATCTCCCAGGGGAGGT","Mol Cell Biol 13: 3002-3014 (1993)","MAMM").
+TFD_subseq('Olf-1-OMP_(2)',"GGTCCCCAAGGAGCCT","Mol Cell Biol 13: 3002-3014 (1993)","MAMM").
+TFD_subseq('Sp1-OMP_(1)',"TGGGTGGGGC","Mol Cell Biol 13: 3002-3014 (1993)","MAMM").
+TFD_subseq('Sp1-OMP_(2)',"AAGGCTGGA","Mol Cell Biol 13: 3002-3014 (1993)","MAMM").
+TFD_subseq('Sp1-OMP_(3)',"AAAGGGAGGCGGGCCT","Mol Cell Biol 13: 3002-3014 (1993)","MAMM").
+TFD_subseq('OMP-undefined-site',"TGGCAC","Mol Cell Biol 13: 3002-3014 (1993)","MAMM").
+TFD_subseq('Olf-1-consensus',"TCCCCWNGGAG","Mol Cell Biol 13: 3002-3014 (1993)","MAMM").
+TFD_subseq('Olf-1-OcNC',"AAGGGAGAGTCCCTAGGGAG","Nature 364: 121-126 (1993)","UNDEFINED").
+TFD_subseq('U_box',"TGTCTGGAACTCTGCCAGCATTTAA","Nature 364: 121-126 (1993)","UNDEFINED").
+TFD_subseq('Olf-1-AC-III',"CTGTATATTCCCTTGAGGAGAGATC","Nature 364: 121-126 (1993)","UNDEFINED").
+TFD_subseq('Olf-1-olfactory_gene_50.06',"TCTCAGGATTCCCCAGGGAGGGGAC","Nature 364: 121-126 (1993)","UNDEFINED").
+TFD_subseq('Olf-1-Golf',"AAGACCAATTCCCCCAAGAATTCCT","Nature 364: 121-126 (1993)","UNDEFINED").
+TFD_subseq('HNF-3gamma-artificial_sequence',"GACTAAGTCAACC","Nature 364: 412-420 (1993)","SYNTH").
+TFD_subseq('MNF1-35S_RNA',"TTCATCAAAAGGACAGTAGAAAAGG","J Biol Chem 268: 16028-16036 (1993)","UNDEFINED").
+TFD_subseq('MNB1b-35S_RNA',"ACAGTAGAAAAGGAAGGTGGCACTA","J Biol Chem 268: 16028-16036 (1993)","UNDEFINED").
+TFD_subseq('MNF1-PEPCK',"TACGGTGCCCTTGGTAGAACAACATCCTTATCCCTATA","J Biol Chem 268: 16028-16036 (1993)","UNDEFINED").
+TFD_subseq('GBF1-adh',"AGAAATGCCACGTGGACGAATAC","EMBO J 11: 1261-1273 (1992)","UNDEFINED").
+TFD_subseq('IF1-LpS1beta',"TGGGGGGCG","Development 113: 1345-1355 (1991)","UNDEFINED").
+TFD_subseq('NF-muNR-prot_1',"CCAAAATTTTTGTCAATCAATTTGA","Genes Dev 3: 1255-1266 (1989)","MAMM").
+TFD_subseq('NF-muNR-prot_2',"CTTTTAACAATAATAAATTAAGTTTAAAATATTTTTAAATGAATT","Genes Dev 3: 1255-1266 (1989)","MAMM").
+TFD_subseq('NF-muNR-prot_3',"TCTTTAATTTCTAATATATTTA","Genes Dev 3: 1255-1266 (1989)","MAMM").
+TFD_subseq('NF-muNR-prot_4',"TCTGATTATTGGTCTCCATTCAATTATTTTCCAATACCC","Genes Dev 3: 1255-1266 (1989)","MAMM").
+TFD_subseq('NF-muNR-consensus',"TNTAAAATATTTNNNAATNNNNTNA","Genes Dev 3: 1255-1266 (1989)","MAMM").
+TFD_subseq('beta-1-beta-zein_gZ15A',"TGCAACGCAACATTCCAAAACCAT","Plant Mol Biol 17: 309-319 (1991)","UNDEFINED").
+TFD_subseq('SEF1-DNA_polymerase_beta',"TGTAATAATATATTTATATT","Plant Mol Biol 16: 397-413 (1991)","UNDEFINED").
+TFD_subseq('SEF4-beta-conglycinin_alpha's1',"GCATTTTTATCA","Plant Mol Biol 16: 397-413 (1991)","UNDEFINED").
+TFD_subseq('SEF1-beta-conglycinin_alpha's1',"TTTCTTGCGTTTTTTGGCATAT","Plant Mol Biol 16: 397-413 (1991)","UNDEFINED").
+TFD_subseq('SEF4-beta-conglycinin_alpha's2',"CATTTTTGT","Plant Mol Biol 16: 397-413 (1991)","UNDEFINED").
+TFD_subseq('SEF4-consensus',"RTTTTTR","Plant Mol Biol 16: 397-413 (1991)","UNDEFINED").
+TFD_subseq('SBF-1-consensus',"GGTTAAWWW","Plant Mol Biol 16: 235-249 (1991)","PLANT").
+TFD_subseq('motif_I',"GGTACGTGGCG","EMBO J 10: 1793-1802 (1991)","UNDEFINED").
+TFD_subseq('TAF-1-artificial_sequence',"GCAACGTGGC","EMBO J 10: 1793-1802 (1991)","SYNTH").
+TFD_subseq('TAF-1-rbcS-611',"GCCACGTGGC","EMBO J 10: 1793-1802 (1991)","UNDEFINED").
+TFD_subseq('DSC1-CDC9/_DNA_ligase',"ACGCGAAAACGCGT","Nature 350: 247-250 (1991)","UNDEFINED").
+TFD_subseq('CD28RC-IL-2',"AAAGAAATTCCAAAGAGTCATCAGA","Mol Cell Biol 12: 4357-4363 (1992)","UNDEFINED").
+TFD_subseq('EBF-IL-2',"GAGAGAGACTCAAGGGAATTGTGGCCACCC","Mol Cell Biol 12: 1126-1133 (1992)","UNDEFINED").
+TFD_subseq('EBF-MHC_class_II_Ia_Aalphad',"GGTGACGTCACCACAAGGGAATTTTCTGAT","EMBO J 10: 3409-3417 (1991)","UNDEFINED").
+TFD_subseq('ICP4-consensus',"ATCGTNNNNNYSG","Nucleic Acids Res 19: 4901-4908 (1991)","MAMM").
+TFD_subseq('phyA3-undefined-site-1',"GTCATTATCGG","EMBO J 10: 3015-24 (1991)","PLANT").
+TFD_subseq('phyA3-undefined-site-2',"GAAAGAA","EMBO J 10: 3015-3024 (1991)","PLANT").
+TFD_subseq('phyA3-undefined-site-3',"ACTAGCAGAA","EMBO J 10: 3015-3024 (1991)","PLANT").
+TFD_subseq('phyA3-undefined-site-4',"GGTAAGAA","EMBO J 10: 3015-3024 (1991)","PLANT").
+TFD_subseq('phyA3-undefined-site-5',"CACGGGTCGATCAGCCCG","EMBO J 10: 3015-3024 (1991)","PLANT").
+TFD_subseq('phyA3-undefined-site-6',"GGTAAAGAAA","EMBO J 10: 3015-3024 (1991)","PLANT").
+TFD_subseq('phyA3-undefined-site-7',"GGTTAAT","EMBO J 10: 3015-3024 (1991)","PLANT").
+TFD_subseq('AS-C-ac',"GGTAGTCACGCAGGTGGGATCCC","EMBO J 10: 2965-2973 (1991)","UNDEFINED").
+TFD_subseq('pF13-artificial-sequence',"ACCGAAAACGGTGTGCAGGTCGACTCTAGAGGATCTAAACCCCGCCC","EMBO J 10: 2931-2940 (1991)","MAMM").
+TFD_subseq('Egr-1-ADA',"GCGTGGGCG","Proc Natl Acad Sci U S A 88: 7523-7527 (1991)","MAMM").
+TFD_subseq('C/EBP-SAA1',"TGGTAGTCTTGCACAGGAAATGACATGGTGGGACTTTCCCCA","J Biol Chem 266: 15192-15201 (1991)","UNDEFINED").
+TFD_subseq('CCBF-CLN2',"CGCGAAA","Cell 66: 995-1013 (1991)","UNDEFINED").
+TFD_subseq('TBF1-REB1',"TTAGGG","Mol Cell Biol 13: 1306-1314 (1993)","UNDEFINED").
+TFD_subseq('BUF-HO',"CTGCCGGTGCCTGCGATGAGATAC","Mol Cell Biol 13: 5749-5761 (1993)","YEAST").
+TFD_subseq('abaA-yA_(1)',"GTACATTCCAATCA","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-abaA_(1)',"CTTTCACATTCCAGTCG","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-abaA_(2)',"CCTCAGCATTCCAAACA","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-abaA_(3)',"CTTCCACATTCTCTTTC","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-abaA_(4)',"CTCTTACATTCTCTCTT","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-abaA_(5)',"TGTTCTCATTCTTGGGA","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-brlA_(1)',"AGCCTACATTCCTGG","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-brlA_(2)',"CTCCATTCCGGCT","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-brlA_(3)',"TTCATTCTTTT","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-brlA_(4)',"TTTCATTCCTTCACT","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-wetA_(1)',"TTGCATTCCGGCGG","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-wetA_(2)',"AGTCCGCATTCCTCT","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-wetA_(3)',"TTTGCATTCCAGTCGT","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-wetA_(4)',"CGCTGCATTCCATCT","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-yA_(2)',"TGCAAGAATGTGAAA","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-rodA_(1)',"CGAGGAATGTGAACT","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-rodA_(2)',"TTTTGGAATGGCAAGAA","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-rodA_(3)',"CAGGGGAATGAGACAG","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-rodA_(4)',"GTGGTGCATTCCAAAG","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-rodA_(5)',"GTCCCTCATTCTCAAGC","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-consensus',"CATTCY","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-TMP1',"ACGCTGCATTCCTCTGA","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('abaA-brlA_(5)',"CTTCATTCTCTCTCT","Mol Cell Biol 14: 2503-2515 (1994)","FUNGI").
+TFD_subseq('MLS1-undefined-site',"GTTCGGATAAATTTT","Nucleic Acids Res 22: 32-40 (1994)","YEAST").
+TFD_subseq('YAP1-TRX2_(1)',"ACTCTTAGTAAAGGA","EMBO J 13: 655-664 (1994)","YEAST").
+TFD_subseq('YAP1-TRX2_(2)',"TCTTTTCTTACTAAGCGC","EMBO J 13: 655-664 (1994)","YEAST").
+TFD_subseq('cdt1-undefined-site-1',"AATAATATC","EMBO J 13: 425-434 (1994)","YEAST").
+TFD_subseq('CDC10-cdt1',"CAAAATTTATATAACGATGCATCCTG","EMBO J 13: 425-434 (1994)","YEAST").
+TFD_subseq('cdt1-undefined-site-2',"ACTCGTATAAGAGA","EMBO J 13: 425-434 (1994)","YEAST").
+TFD_subseq('GAL2-undefined-site',"GGAGATATCTGCGCCGTT","EMBO J 13: 425-434 (1994)","YEAST").
+TFD_subseq('AMT1-AMT1',"ATGATAAGCTAATTTGGCTGACTTAAAA","Genes Dev 7: 1824-1835 (1993)","YEAST").
+TFD_subseq('BAF1-CHA1',"AATCACCGCGAACGGA","Mol Cell Biol 13: 7604-7611 (1993)","YEAST").
+TFD_subseq('hypoxic_consensus_sequence',"YYYATTGTTCTC","Genetics 150: 1429-41 (1998)","YEAST").
+TFD_subseq('INO2-artificial_sequence',"GATGTGAAAT","J Biol Chem 269: 7402-7411 (1994)","YEAST").
+TFD_subseq('Rox1-HEM13-4',"CCCATTGTTCTC","Curr Genet 28: 503-11 (1995)","YEAST").
+TFD_subseq('PHO2-HO_(1)',"CAATTTAAA","Mol Cell Biol 13: 5524-5537 (1993)","YEAST").
+TFD_subseq('PHO2-HO_(2)',"TTTAAAAAAAAAACCAGC","Mol Cell Biol 13: 5524-5537 (1993)","YEAST").
+TFD_subseq('NF-1-WAP',"TGTTCCTGGCAGCCTGG","Nucleic Acids Res 19: 6603-6610 (1991)","MAMM").
+TFD_subseq('NF-1-consensus',"CCAGGAACCG","Nucleic Acids Res 19: 6603-6610 (1991)","MAMM").
+TFD_subseq('E2F-E2-early_promoter',"TTTCGCGCTTAAATTGAGAAAGGGCGCGAAA","Nucleic Acids Res 19: 6579-6586 (1991)","MAMM").
+TFD_subseq('HNF-1-undefined-site',"CCTCCTGGCTCCTGGTGCCTC","Nucleic Acids Res 19: 6579-6586 (1991)","MAMM").
+TFD_subseq('IgHC-undefined-site-3',"ATCATATGAGCCC","Genes Dev 5: 2225-2234 (1991)","UNDEFINED").
+TFD_subseq('GATA-1-MC-CPA',"AGATAA","J Biol Chem 266: 22948-22953 (1991)","MAMM").
+TFD_subseq('T3R-alpha-MBP',"GACCTCGGCTGAGGACACGGCGG","J Biol Chem 266: 23226-23232 (1991)","MAMM").
+TFD_subseq('snRNP_E_-undefined-site-1',"CTTCCGCTTCCG","J Biol Chem 266: 23226-23232 (1991)","UNDEFINED").
+TFD_subseq('snRNP_E_-undefined-site-2',"TCTTTATTCC","J Biol Chem 266: 23226-23232 (1991)","UNDEFINED").
+TFD_subseq('GR-ANF',"GAAGGACATTACAGAGAAT","J Biol Chem 266: 23315-23322 (1991)","MAMM").
+TFD_subseq('alpha1-undefined-site-4',"CAGTGTCATAACAG","J Biol Chem 266: 23315-23322 (1991)","UNDEFINED").
+TFD_subseq('C/EBP-artificial_sequence_(1)',"CTGACGCAAT","Genes Dev 7: 1047-1058 (1993)","SYNTH").
+TFD_subseq('SKO1-SUC2',"AGTACGTCAT","Nucleic Acids Res 20: 5271-5278 (1992)","YEAST").
+TFD_subseq('ATF-1-immunoglobulin_heavy_cha',"GGCCAGACATGACGTGGAGGCAAGCGGCC","J Immunol 149: 2914-2925 (1992)","MAMM").
+TFD_subseq('Isl-1-somatostatin',"AGGCTAATGGTGCGT","Proc Natl Acad Sci U S A 89: 6247-6251 (1992)","MAMM").
+TFD_subseq('Isl-1-consensus',"CTAATG","Proc Natl Acad Sci U S A 89: 6247-6251 (1992)","UNDEFINED").
+TFD_subseq('CRE-BP1-TGF-beta2',"CTAGCACGTCACTTT","Nature 358: 331-334 (1992)","MAMM").
+TFD_subseq('TEF-TSH-beta_(1)',"AAGATGCATGCTATAATAATGTCGAGTTT","Genes Dev 5: 1739-1753 (1991)","MAMM").
+TFD_subseq('TEF-TSH-beta_(2)',"ATTCGAATGCAATTATATAAACAAG","Genes Dev 5: 1739-1753 (1991)","MAMM").
+TFD_subseq('TEF-TSH-beta_(3)',"TATGTTAACATAACTTAG","Genes Dev 5: 1739-1753 (1991)","MAMM").
+TFD_subseq('TEF-prl',"GCCTGATTATATATATATT","Genes Dev 5: 1739-1753 (1991)","MAMM").
+TFD_subseq('ODC_-undefined-site',"TGCGTCTCCATGACGAC","Genes Dev 5: 1739-1753 (1991)","UNDEFINED").
+TFD_subseq('RXR-alpha-HBV',"TGAACCTTTACCC","Proc Natl Acad Sci U S A 89: 9059-9063 (1992)","MAMM").
+TFD_subseq('OL-12/T3RE',"CAGGGTCATTTCAGTTCCTTGC","EMBO J 10: 3829-3838 (1991)","UNDEFINED").
+TFD_subseq('Sp1-CS-B',"TGTGTGGGAGGAGCTTCCAAATTAT","J Biol Chem 266: 13397-13408 (1991)","MAMM").
+TFD_subseq('T3R-beta-EGF_receptor',"GTCCCCGCCTC","J Biol Chem 268: 16065-16073 (1993)","UNDEFINED").
+TFD_subseq('NGFI-B-artificial_sequence',"AAAGGTCA","Science 256: 107-110 (1992)","SYNTH").
+TFD_subseq('RAR-alpha1-artificial_sequence',"TAAGGTCAAGAGGGATGCGCTC","Genes Dev 7: 1423-1435 (1993)","SYNTH").
+TFD_subseq('PPAR-3KAT',"CTCTCAGAGACCTTTGAACCACTTC","Nature 358: 771-774 (1992)","MAMM").
+TFD_subseq('USF-Vmw65',"GGGGAAGTCACGAGGT","J Virol 65: 6705-6713 (1991)","MAMM").
+TFD_subseq('NF-1-tenascin',"TGGCGGCGCGCCT","Proc Natl Acad Sci USA 94: 1846-51 (1997)","MAMM").
+TFD_subseq('NF-1-alpha1_(2)',"TGGGTACCCGCCAAT","DNA Cell Biol 11: 443-52 (1992)","MAMM").
+TFD_subseq('NF-1-alpha1_(3)',"TGCCCACGGCCAAG","Biochem J 280: 157-162 (1991)","UNDEFINED").
+TFD_subseq('PRP-PHR1',"GTGAAAGTATGCTTACTTTGAC","Proc Natl Acad Sci U S A 88: 11251-11255 (1991)","YEAST").
+TFD_subseq('c-Myb-HTLV-I_(1)',"AAGCGCGGAGACAGTTCAGGAG","J Virol 66: 270-276 (1992)","MAMM").
+TFD_subseq('c-Myb-HTLV-I_(2)',"ATCCACGCCGGTTGAGTCGCG","J Virol 66: 270-276 (1992)","MAMM").
+TFD_subseq('c-Myb-HTLV-I_(3)',"TCTTTGTTTCGTTTTCTGTT","J Virol 66: 270-276 (1992)","MAMM").
+TFD_subseq('c-Myb-HTLV-I_(4)',"CGGCGACTCCGTTGGCTCGG","J Virol 66: 270-276 (1992)","MAMM").
+TFD_subseq('TBP-ADA',"TAAAAAA","J Biol Chem 266: 21765-21772 (1991)","UNDEFINED").
+TFD_subseq('REB1-consensus',"YNNYYACCCG","Genes Dev 4: 503-514 (1990)","UNDEFINED").
+TFD_subseq('tPA_-undefined-site',"GACCCCACCCCCTGC","Genes Dev 4: 503-514 (1990)","MAMM").
+TFD_subseq('fibronectin-undefined-site-1',"CCCAATAAAAA","Mol Cell Biol 12: 4742- 4750 (1992)","UNDEFINED").
+TFD_subseq('Sp1-fibronectin',"GGTGGGGCGGGGCGGGG","J Biol Chem 265: 18219-18226 (1990)","MAMM").
+TFD_subseq('AP-2-fibronectin',"TCCCCCGCGCCC","J Biol Chem 265: 18219-18226 (1990)","MAMM").
+TFD_subseq('fibronectin-undefined-site-2',"AGAGGGGCGGGAGGGCCG","J Biol Chem 265: 18219-18226 (1990)","MAMM").
+TFD_subseq('C/EBP-artificial_sequence_(2)',"GATCCTCTTAGAGATTGCTCAATCTTCCCA","Mech Dev 38: 69-81 (1992)","SYNTH").
+TFD_subseq('PU-artificial_sequence-1',"TGAAAGAGGAACTTGGT","Genes Dev 6: 965-974 (1992)","MAMM").
+TFD_subseq('PU-artificial_sequence-2',"TGAAGCAGGAAGTTGGT","Genes Dev 6: 965-974 (1992)","MAMM").
+TFD_subseq('PU-artificial_sequence-3',"TCGAGGAGGAAGTGACG","Genes Dev 6: 965-974 (1992)","MAMM").
+TFD_subseq('PU-artificial_sequence-4',"TCGAACAGGAAGTGACG","Genes Dev 6: 965-974 (1992)","MAMM").
+TFD_subseq('c-Ets-1-artificial_sequence-1',"TCGAGCCGGAAGTGACG","Genes Dev 6: 975-990 (1992)","MAMM").
+TFD_subseq('c-Ets-1-artificial_sequence-2',"ACCGGAAGCA","Genes Dev 6: 975-990 (1992)","MAMM").
+TFD_subseq('c-Ets-1-artificial_sequence-3',"ACCGGATGTA","Genes Dev 6: 975-990 (1992)","MAMM").
+TFD_subseq('c-Ets-1-artificial_sequence-4',"ACCGGAAGCT","Genes Dev 6: 975-990 (1992)","MAMM").
+TFD_subseq('c-Ets-1-artificial_sequence-5',"ACCGGATATA","Genes Dev 6: 975-990 (1992)","MAMM").
+TFD_subseq('c-Ets-1-artificial_sequence-6',"ACAGGAAGTC","Genes Dev 6: 975-990 (1992)","MAMM").
+TFD_subseq('c-Ets-1-artificial_sequence-7',"GCCGGATGCA","Genes Dev 6: 975-990 (1992)","MAMM").
+TFD_subseq('c-Ets-1-artificial_sequence-8',"TCCGGAAGTA","Genes Dev 6: 975-990 (1992)","MAMM").
+TFD_subseq('c-Ets-1-artificial_sequence-9',"ACAGGAAGCG","Genes Dev 6: 975-990 (1992)","MAMM").
+TFD_subseq('c-Ets-1-artificial_sequence-10',"ACAGGATATG","Genes Dev 6: 975-990 (1992)","MAMM").
+TFD_subseq('Elf-1-GM-CSF',"GATCGTCACCATTAATCATTTCCTCTAACTGT","Science 260: 1330-1335 (1993)","MAMM").
+TFD_subseq('cytochrome_P-450b/e-undefined-',"ATAGCCAAAGCAGGAGGCGTGAACATCTGAAGTT","Gene Expr 2: 353-63 (1992)","MAMM").
+TFD_subseq('delta-rpL7',"CATGGAGGC","Mol Cell Biol 9: 2067-2074 (1989)","UNDEFINED").
+TFD_subseq('delta-consensus',"GCNGCCATC","Proc Natl Acad Sci U S A 88: 9799-9803 (1991)","UNDEFINED").
+TFD_subseq('c-Myb-c-myb',"ATTGAA","Mol Cell Biol 11: 6166-6176 (1991)","UNDEFINED").
+TFD_subseq('gamma-globin-undefined-site-3',"ATAAAAGG","Mol Cell Biol 11: 6166-6176 (1991)","UNDEFINED").
+TFD_subseq('Ste11-consensus',"TTCTTTGTTY","Genes Dev 5: 1990-1999 (1991)","YEAST").
+TFD_subseq('v-ErbA-CAII',"TTTCCTACAAGGTGAGTGAACG","Genes Dev 5: 2033-2047 (1991)","AVIAN").
+TFD_subseq('p300-artificial_sequence',"TAGGGACTGCATT","Mol Cell Biol 12: 2826-2836 (1992)","MAMM").
+TFD_subseq('p300-consensus',"GGGAGTG","Mol Cell Biol 12: 2826-2836 (1992)","MAMM").
+TFD_subseq('p53-artificial_sequence',"GGACATGCCCGGGCATGTCC","Mol Cell Biol 12: 2866-2871 (1992)","MAMM").
+TFD_subseq('E4BP4-consensus',"RTKAYGTAAY","Mol Cell Biol 12: 3070-3077 (1992)","MAMM").
+TFD_subseq('snail-consensus',"GTRCACCTGTY","Nucleic Acids Res 21: 3951-3957 (1993)","DROS").
+TFD_subseq('dorsal-consensus_(2)',"GGGTTTTTCC","EMBO J 11: 1837-1842 (1992)","DROS").
+TFD_subseq('CREB-consensus',"TGACGTMW","Nucleic Acids Res 22: 1463-1469 (1994)","SYNTHETIC").
+TFD_subseq('CRE-BP1-consensus',"TTACGTAA","Nucleic Acids Res 22: 1463-1469 (1994)","SYNTHETIC").
+TFD_subseq('CREB2/c-Jun_RS',"TGACGTCA","Nucleic Acids Res 22: 1463-1469 (1994)","SYNTH").
+TFD_subseq('GCN4-consensus',"SKRTGASTCAYMS","Mol Cell Biol 9: 2944-2949 (1989)","YEAST").
+TFD_subseq('v-Maf-artificial_sequence',"TGCCGACTCGGCA","Mol Cell Biol 14: 700-712 (1994)","AVIAN").
+TFD_subseq('NF-E2-consensus_(2)',"YGCTGASTCAY","Nature 362: 722-728 (1993)","MAMM").
+TFD_subseq('v-Maf-synthetic-site-11',"TGATGACTCATCA","Mol Cell Biol 14: 700-712 (1994)","AVIAN").
+TFD_subseq('HNF-1-prothrombin_(1)',"TACTTAGACTAATATTTGCCTTGGGTACTGCAAACAGGAAATGGG","J Biol Chem 266: 18927-18933 (1991)","MAMM").
+TFD_subseq('HNF-1-prothrombin_(2)',"GTGTTCCTGCTCTTTGTCC","J Biol Chem 266: 18927-18933 (1991)","MAMM").
+TFD_subseq('Ku-GRP78',"CCGCTTCGAATCGGCAGCGGCCAGCTTGGTGGCAT","Nucleic Acids Res 19: 5425-5431 (1991)","MAMM").
+TFD_subseq('GRP94_-undefined-site',"CTCGTGCAGATGGACAGCACCGCTGAGCAA","Nucleic Acids Res 19: 5425-5431 (1991)","MAMM").
+TFD_subseq('GCR1-PGK',"GACTTCCTGTCTTCCTATTGATTGC","Mol Cell Biol 12: 2690-2700 (1992)","YEAST").
+TFD_subseq('GCR1-ENO1',"CTAATCCGAGCTTCCACTAGGATAG","Mol Cell Biol 12: 2690-2700 (1992)","YEAST").
+TFD_subseq('GCR1-PYK1',"AGACATCGGGCTTCCATAATTTCG","Mol Cell Biol 12: 2690-2700 (1992)","YEAST").
+TFD_subseq('GCR1-ADH1',"ACAATATGGACTTCCTCTTTTCTGG","Mol Cell Biol 12: 2690-2700 (1992)","YEAST").
+TFD_subseq('MIG1-GAL1-10',"TTATTTCTGGGGTA","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('MIG1-GAL3',"CCCCAGCTATTC","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('MIG1-GAL4',"CCCCAGATTTTC","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('MIG1-MEL1',"ATTAATGTGGGG","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('MIG1-MAL2R',"CCCCGGCTTTTA","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('MIG1-MAL61-62_(1)',"ATTTTTGTGGGG","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('MIG1-MAL61-62_(2)',"AATTGTGTGGGG","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('MIG1-MAL63',"CCCCGGGTTTAA","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('MIG1-FBP1',"CCCCACACTATA","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('MIG1-PDC1',"CCCCGCGTTTAT","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('MIG1-HAP4',"CCCCAGTTTTAT","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('MIG1-FPS1',"TTAAAAGCGGGG","Mol Cell Biol 14: 1979-1985 (1994)","YEAST").
+TFD_subseq('E47-artificial_sequence',"ACCTGAACAGATGGTCGGCT","Mol Cell Biol 14: 1256-1265 (1994)","SYNTH").
+TFD_subseq('CP2-alphaA-globin_(1)',"GCACAACCCAG","Mol Cell Biol 10: 5958-5966 (1990)","MAMM").
+TFD_subseq('CP2-alphaA-globin_(2)',"GCCCTAACAAG","Mol Cell Biol 10: 5958-5966 (1990)","MAMM").
+TFD_subseq('CP2-alphaA-globin_(3)',"CTGGGTAGAGC","Mol Cell Biol 10: 5958-5966 (1990)","MAMM").
+TFD_subseq('CP2-alphaA-globin_(4)',"GCACAAACCAGC","Mol Cell Biol 10: 5958-5966 (1990)","MAMM").
+TFD_subseq('CP2-consensus',"GCNMNANCMAG","Mol Cell Biol 10: 5958-5966 (1990)","MAMM").
+TFD_subseq('NP-TCII-SV40',"ACACATTCCACAGCTGGTTCTTTCCGCCT","Mol Cell Biol 12: 5217-5227 (1992)","MAMM").
+TFD_subseq('NP-TCII-consensus',"ANANTTTCC","Mol Cell Biol 12: 5217-5227 (1992)","MAMM").
+TFD_subseq('MAF-alpha-lactalbumin',"ATGGAGGGAAGTTGGC","Mol Cell Biol 12: 4906-4918 (1992)","MAMM").
+TFD_subseq('MAF-BLG',"GTGGAGGGAAGTGTCC","Mol Cell Biol 12: 4906-4918 (1992)","MAMM").
+TFD_subseq('MAF-consensus',"GRRGSAAGK","Mol Cell Biol 12: 4906-4918 (1992)","MAMM").
+TFD_subseq('Sp1-gamma-globin_(3)',"GGGGCC","Mol Cell Biol 12: 4919-4929 (1992)","MAMM").
+TFD_subseq('GATA-1-gamma-globin_(5)',"CATGATATCATTGTGCATTATCTTCTGATA","Mol Cell Biol 12: 4919-4929 (1992)","MAMM").
+TFD_subseq('GATA-1-gamma-globin_(6)',"TCTTCTGCTTCAGAGCTTTGAATTTAC","Mol Cell Biol 12: 4919-4929 (1992)","MAMM").
+TFD_subseq('CSBP-1-gamma-globin',"ATGTCAGA","Mol Cell Biol 12: 4919-4929 (1992)","MAMM").
+TFD_subseq('gamma-globin-undefined-site-4',"TGGGTC","Mol Cell Biol 12: 4919-4929 (1992)","MAMM").
+TFD_subseq('CP1-gamma-globin_(3)',"ATCCAGTG","Mol Cell Biol 12: 4919-4929 (1992)","MAMM").
+TFD_subseq('GATA-1-gamma-globin_(7)',"TAAGTAGA","Mol Cell Biol 12: 4919-4929 (1992)","MAMM").
+TFD_subseq('TRF-artificial_sequence',"GGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGG","Mol Cell Biol 12: 4834-4843 (1992)","SYNTH").
+TFD_subseq('GAL4-artificial_sequence_(2)',"GCATCGGAGGACWGTCCTCCGATGC","Mol Cell Biol 12: 4981-4987 (1992)","YEAST").
+TFD_subseq('MEF-2-PGAM-M',"CTATTTTAAG","Mol Cell Biol 12: 4384-4390 (1992)","MAMM").
+TFD_subseq('ISG54-undefined-site',"AGCATTTATTGG","Mol Cell Biol 12: 1-9 (1992)","MAMM").
+TFD_subseq('ANF-4_site',"CTGTGGGAACAG","DNA Cell Biol 13: 615- (1994)","UNDEFINED").
+TFD_subseq('AP-2_site',"GCCNNNGGC","Genes Dev 5: 670- (1991)","MAMM").
+TFD_subseq('BOX-DNA',"GCATTCCATTGTTGTCAAAAG","Mol Cell Biol 13: 7747- (1993)","MAMM").
+TFD_subseq('CBF-hsp72-CCAAT',"CCTTCTGAGCCAATCACCGAG","Mol Cell Biol 12: 2599- (1992)","MAMM").
+TFD_subseq('CP1/NF-Y-CAAT',"GCNMNANCCAG","Proc Natl Acad Sci U S A 92: 1624- (1995)","UNDEFINED").
+TFD_subseq('CP2-CAAT',"GCNCNANCCAG","Mol Cell Biol 14: 4020- (1994)","DROS").
+TFD_subseq('CACCC-box',"RRRNCCHCACCCTG","Mol Cell Biol 13: 5691-701 (1993)","MAMM").
+TFD_subseq('TCR-Vbeta8.1-CACCC-box-2',"CCACACCCT","Mol Cell Biol 13: 5691- (1993)","MAMM").
+TFD_subseq('CCAC-box',"CCCACCC","Mol Cell Biol 14: 4596- (1994)","UNDEFINED").
+TFD_subseq('CF2-site',"GTATTATATA","Science 257: 1951- (1992)","UNDEFINED").
+TFD_subseq('connexin32-B2_element',"AAGCTCCGGTCCTGGGCTGCTTGT","Mol Cell Biol 15: 1439- (1995)","MAMM").
+TFD_subseq('COUP/EAR_CS',"RGKTCANRGKTCA","Proc Natl Acad Sci U S A 91: 6040- (1994)","MAMM").
+TFD_subseq('CTC_element_-1',"CCCTCNNNNNNNCCCT","Mol Cell Biol 13: 7612- (1993)","AVIAN").
+TFD_subseq('CTC-element-2',"CNNNNNNNCCCTC","Mol Cell Biol 13: 7612- (1993)","AVIAN").
+TFD_subseq('DBP_site',"RTTAYRTAAW","Cell 61: 279- (1990)","UNDEFINED").
+TFD_subseq('delta-EF1-site',"TTGCTCACCT","Development 119: 433- (1993)","UNDEFINED").
+TFD_subseq('doublesex-site',"CTACAAGT","Genes Dev 9: 256- (1995)","DROS").
+TFD_subseq('epsilon-PRE-II',"CCTGTTTTACAGC","Mol Cell Biol 14: 3763- (1994)","MAMM").
+TFD_subseq('E2-box',"RCAGGTG","Genes Dev 8: 2270- (1994)","DROS").
+TFD_subseq('E2A_site',"CABCTGY","Mol Cell Biol 13: 3522-9 (1993)","UNDEFINED").
+TFD_subseq('kappa-E2',"AACASWTGTT","Mol Cell Biol 13: 3522-9 (1993)","UNDEFINED").
+TFD_subseq('ICE',"ACCAWSTGGT","Mol Cell Biol 11: 1734-8 (1991)","UNDEFINED").
+TFD_subseq('EBF/Olf-1_site',"ATTCCCNNGGGAAT","Genes Dev 7: 760- (1993)","UNDEFINED").
+TFD_subseq('EBF/Olf-1_site_2',"TCCCNNRRGRR","Nature 364: 121- (1993)","UNDEFINED").
+TFD_subseq('EBNA2-response-element',"MNYYGTGGGAA","Proc Natl Acad Sci U S A 91: 7568- (1994)","MAMM").
+TFD_subseq('ELP/SF1/FTZ-F1_site',"YCAAGGYCR","Mol Cell Biol 12: 1286- (1992)","MAMM").
+TFD_subseq('EP_site',"CGTTGCNNNGCAACG","Cell 69: 751- (1992)","UNDEFINED").
+TFD_subseq('Ets-site',"RCCGGAWGY","Genes Dev 6: 481- (1992)","UNDEFINED").
+TFD_subseq('Ets-site-2',"CMGGAAGT","Genes Dev 6: 975- (1992)","UNDEFINED").
+TFD_subseq('c-myc-FUSE',"ACAAAATAAAAAATCCCGAGGGAATATACATTATATATTAAATAT","Genes Dev 8: 465-80 (1994)","MAMM").
+TFD_subseq('forkhead-family-site-1',"AWTGTTTAKWT","Mol Cell Biol 14: 2755- (1994)","UNDEFINED").
+TFD_subseq('Fos-basal-promoter-element',"GCGCCACS","Mol Cell Biol 11: 1270- (1991)","MAMM").
+TFD_subseq('G-box/CA-element',"CACACANNNNNCACACA","Mol Cell Biol 14: 5840- (1994)","UNDEFINED").
+TFD_subseq('G-box/CA-element-2',"CACACANNNNNNCACACA","Mol Cell Biol 14: 5840- (1994)","UNDEFINED").
+TFD_subseq('GAGA_box/CT_element',"AGAGARRRR","Mol Cell Biol 13: 5710- (1993)","MAMM").
+TFD_subseq('GC_box',"CCCSCSS","J Biol Chem 264: 15508- (1989)","MAMM").
+TFD_subseq('GC_box_(_WiF1)',"GGGGGCGGGGGTGAG","Mol Cell Biol 13: 1590- (1993)","MAMM").
+TFD_subseq('Giant_site',"WTGACKNNNNA","Development 114: 99- (1992)","DROS").
+TFD_subseq('Gli_site',"TGGGTGGTC","Science 261: 1701- (1993)","MAMM").
+TFD_subseq('Grainyhead_site',"AAACCGGTTT","Mol Cell Biol 14: 4020- (1994)","DROS").
+TFD_subseq('GSG_element',"TCCTCCTCCTCCTCTCC","Nature 369: 664- (1994)","UNDEFINED").
+TFD_subseq('Hen1_site',"GGGNCGCAGCTGCGNCCC","Mol Cell Biol 14: 1245-55 (1994)","MAMM").
+TFD_subseq('HGF_gene_repressor_site',"AACCGACCGGTT","Mol Cell Biol 14: 7046- (1994)","UNDEFINED").
+TFD_subseq('HLF_site',"GTTACGTAAT","Mol Cell Biol 17: 1417-24 (1997)","UNDEFINED").
+TFD_subseq('HNF-3_site/_IRS',"TATTKRYTY","Mech Dev 57: 3-20 (1996)","UNDEFINED").
+TFD_subseq('antp/en_homeodomain_site',"STAATKG","Cell 78: 211-23 (1994)","DROS").
+TFD_subseq('bicoid_site',"TCATAATCC","Development 122: 1195-206 (1996)","DROS").
+TFD_subseq('cut_homeodomain_site',"ATCGATTACCAATAATCGAT","Proc Natl Acad Sci U S A 91: 7757-61 (1994)","UNDEFINED").
+TFD_subseq('prd_homeodomain_site',"TAATYGATTA","Genes Dev 7: 2120-34 (1993)","UNDEFINED").
+TFD_subseq('prd_class_homeodomain_site',"TAATYNRATTA","Genes Dev 7: 2120-34 (1993)","UNDEFINED").
+TFD_subseq('IL-2/NRE-A',"TTTCAGACAGGTAAAGTCTT","Genomics 14: 194-6 (1992)","MAMM").
+TFD_subseq('Inr',"YAYTCYYY","Proc Natl Acad Sci U S A 87: 4509-13 (1990)","UNDEFINED").
+TFD_subseq('IRE_(1)',"AACTTTCCCGCCT","Nature 354: 317-20 (1991)","UNDEFINED").
+TFD_subseq('IRE_(2)',"CTCAGCCGAAG","Nature 354: 317-20 (1991)","UNDEFINED").
+TFD_subseq('ISRE/VRE/PRDI',"GAAASYGAAASY","J Cancer Res Clin Oncol 121: 516-20 (1995)","MAMM").
+TFD_subseq('ISRE/VRE/PRDI-2',"GAAAASYGAAASY","J Cancer Res Clin Oncol 121: 516-20 (1995)","MAMM").
+TFD_subseq('J/S_element',"CTKKANMYAGNNNNNNNNNNGGACCTT","Mol Cell Biol 14: 8438- (1994)","UNDEFINED").
+TFD_subseq('K5_promoter_element',"GTTCCTGGGTAAC","Gene Expr 3: 201-13 (1993)","UNDEFINED").
+TFD_subseq('Knirps_site',"AWCTARATC","Mol Cell Biol 14: 7899-908 (1994)","DROS").
+TFD_subseq('L_box',"ATAAATGA","J Biol Chem 269: 12809- (1994)","UNDEFINED").
+TFD_subseq('lactoferrin_site',"GGCACTTGC","Nature 373: 721-4 (1995)","MAMM").
+TFD_subseq('LPL-LSE6',"GAAGAGGGGGAAAGGGCA","Mol Cell Biol 15: 517- (1995)","MAMM").
+TFD_subseq('LR1_site',"GNCNAGGCTGAR","Proc Natl Acad Sci U S A 94: 3605-10 (1997)","UNDEFINED").
+TFD_subseq('LyF/Ikaros_site',"GGGAAW","Annu Rev Immunol 15: 155-76 (1997)","UNDEFINED").
+TFD_subseq('M_box',"CAYGTG","Genes Dev 8: 2770- (1994)","UNDEFINED").
+TFD_subseq('Maf-site-1',"TGCTGACTCAGCA","Oncogene 12: 53-62 (1996)","MAMM").
+TFD_subseq('MAR/SAR',"WCWCWCWCWCWCWCWCWCWC","J Biol Chem 272: 11463-70 (1997)","UNDEFINED").
+TFD_subseq('X-box',"ATTACCTGGTGAT","J Virol 70: 6060-6 (1996)","MAMM").
+TFD_subseq('X-box_(2)',"ATTACCNTGGTGAT","J Virol 70: 6060-6 (1996)","MAMM").
+TFD_subseq('muscle_E_box',"AACAGYTGTT","Cell 89: 5-8 (1997)","UNDEFINED").
+TFD_subseq('Myc/Max_CS',"CAYGTG","Biochemistry 34: 13554-64 (1995)","UNDEFINED").
+TFD_subseq('myocyte_enhancer',"CTAWWWWTAR","Mol Cell Biol 14: 5130-8 (1994)","UNDEFINED").
+TFD_subseq('MyTI-PLP',"AGTTGGAAGTTTCCAGGACATCTTC","Mol Cell Biol 12: 5632- (1992)","MAMM").
+TFD_subseq('MZF1-site-1',"AGTGTAGGGA","Mol Cell Biol 15: 6075-87 (1995)","UNDEFINED").
+TFD_subseq('MZF1-site-2',"CGGGNGAGGGGGAA","Mol Cell Biol 15: 6075-87 (1995)","UNDEFINED").
+TFD_subseq('NFE2_site',"YTGCTGASTCAY","Proc Natl Acad Sci U S A 93: 3514-8 (1996)","UNDEFINED").
+TFD_subseq('NF-kappa-B_site',"GGRAAWTTCC","Mol Cell Biol 15: 152- (1995)","MAMM").
+TFD_subseq('NRF1_site',"YGCGCAYGCGCR","J Biol Chem 267: 6999-7006 (1992)","MAMM").
+TFD_subseq('NRF2_site',"ACCGGAAGWS","Mol Cell Biol 15: 102-11 (1995)","MAMM").
+TFD_subseq('RORE',"DWWWNWRGGTCA","Gene 181: 199-206 (1996)","UNDEFINED").
+TFD_subseq('p53_response_element',"AGACATGCCTAGACATGCCT","Mol Cell Biol 16: 4295-304 (1996)","MAMM").
+TFD_subseq('Pax2/5/8_site',"RGCATSAWGCGKRMM","J Immunol 156: 2349-51 (1996)","UNDEFINED").
+TFD_subseq('PBX_consensus',"ATCAATCA","Development 124: 1089-98 (1997)","MAMM").
+TFD_subseq('PEBP2/PEA2_site',"DACCRCA","Cell 87: 697-708 (1996)","UNDEFINED").
+TFD_subseq('PGBE',"TACTTAGCAATTA","Mol Cell Biol 14: 2985-93 (1994)","UNDEFINED").
+TFD_subseq('PCE',"TGTCCTTGAACW","Mol Cell Biol 14: 6616- (1994)","MAMM").
+TFD_subseq('PSE',"STSACCGYGWSTKKAAWGW","Nature 374: 653- (1995)","UNDEFINED").
+TFD_subseq('Pu_Box',"GAAAGNRGAA","Oncogene 14: 123-31 (1997)","UNDEFINED").
+TFD_subseq('PuF_site',"GGGTTGGG","Science 261: 478- (1993)","MAMM").
+TFD_subseq('Rb_site',"SCCACSC","Semin Cancer Biol 6: 91-8 (1995)","UNDEFINED").
+TFD_subseq('RARE/DR5',"AGGTCANNNNNAGGTCA","J Biol Chem 272: 12771-7 (1997)","UNDEFINED").
+TFD_subseq('RARE/DR5_(2)',"RGKTCANNNNNRGKTCA","J Biol Chem 272: 12771-7 (1997)","UNDEFINED").
+TFD_subseq('RVL3_B_domain',"TTAGTTACGTAGGTT","Biochim Biophys Acta 1307: 55-65 (1996)","UNDEFINED").
+TFD_subseq('S8_site',"ANYYATTARC","Development 124: 505-14 (1997)","UNDEFINED").
+TFD_subseq('serendipity_site',"YAGATATGCGCA","Mol Cell Biol 17: 3137-45 (1997)","DROS").
+TFD_subseq('CARG/SRE_site',"CCWWWWWWGG","Mol Cell Biol 17: 2876-87 (1997)","MAMM").
+TFD_subseq('GABP-Slp_site',"TTCCGGGC","Proc Natl Acad Sci U S A 92: 1302- (1995)","MAMM").
+TFD_subseq('Slug_site',"ANCACCTGTTNNCA","Science 264: 835-9 (1994)","AVIAN").
+TFD_subseq('Sprm1_site',"GCATATGTTAAT","Proc Natl Acad Sci U S A 90: 11084- (1993)","MAMM").
+TFD_subseq('SSAP_site',"AGTTTTAAATCT","Mol Cell Biol 15: 1254- (1995)","UNDEFINED").
+TFD_subseq('ADD1/SREBP_site',"TCACCCCAC","Genes Dev 10: 1096-107 (1996)","MAMM").
+TFD_subseq('ADD1/SREBP_site_(2)',"STGSSGYG","Genes Dev 10: 1096-107 (1996)","MAMM").
+TFD_subseq('tailless_site',"AAATTAA","Nature 370: 375-9 (1994)","DROS").
+TFD_subseq('Tat_site',"AGATTCTGAG","Genes Dev 5: 2496- (1991)","MAMM").
+TFD_subseq('TCF/TPF_sites',"TACAAAAAGGCACCT","Mol Cell Biol 14: 6208- (1994)","MAMM").
+TFD_subseq('TFE3_site',"GTCAYGTGGC","Mol Cell Biol 17: 18-23 (1997)","MAMM").
+TFD_subseq('TSE/TRE/DR4_(1)',"AGGTCANNNNAGGTCA","J Biol Chem 271: 19464-74 (1996)","MAMM").
+TFD_subseq('TSE/TRE/DR4_(2)',"RGKTSANNNNRGKTSA","J Biol Chem 271: 19464-74 (1996)","MAMM").
+TFD_subseq('tramtrack_site',"YGCAAGGATATY","Nucleic Acids Res 25: 1108-16 (1997)","DROS").
+TFD_subseq('TTF2_site',"RCWRARMAAACA","Biochem Biophys Res Commun 220: 86-93 (1996)","MAMM").
+TFD_subseq('VDRE/DR3_site',"RGGTSANNNRGGNCA","Mol Cell Biol 15: 1154-61 (1995)","MAMM").
+TFD_subseq('XRE',"KNGCGTGMSA","Adv Enzyme Regul 34: 159-71 (1994)","MAMM").
+TFD_subseq('Y_box',"CTGATTGGYYAA","J Virol 68: 7637- (1994)","UNDEFINED").
+TFD_subseq('Z_box',"AGCAANGCTGYCAGTGG","Genes Dev 7: 1674- (1993)","MAMM").
+TFD_subseq('Z_box_(2)',"AGCACANGCCTGYCAGTGG","Genes Dev 7: 1674- (1993)","MAMM").
+TFD_subseq('Z_box_(Zta)',"WGCAAWG","Mol Cell Biol 14: 3041- (1994)","MAMM").
+TFD_subseq('NF-kB-idealized-site',"TGGGAATTCCC","Nature 373: 303-10","MAMM").
+TFD_subseq('CREB-chromogranin-B',"CTCCGTGACGTCAGCGT","Eur J Biochem 226: 925-35 (1994)","MAMM").
+TFD_subseq('CREB-synapsin-I',"CGCGCTGACGTCACTCG","Eur J Biochem 226: 925-35 (1994)","MAMM").
+TFD_subseq('CREB-LDH',"CACTCTGACGTCAGCGC","Mol Cell Biol 15:  6139-49 (1995)","MAMM").
+TFD_subseq('CREB-aromatase',"TATGCACGTCACCCA","Mol Endocrinol 8:  1309-19 (1994)","MAMM").
+TFD_subseq('CREB-fibronectin-2',"CCGTGACGTCACCC","J Biol Chem 266: 1122-7 (1991)","MAMM").
+TFD_subseq('STAT4-binding-site',"WTTCCSGGAAW","Biochem Biophys Res Commun 233:  126-32 (1997)","MAMM").
+TFD_subseq('recA-positive-element',"TTGTACTCATACCATGAGAACAA","Mol Gen Genet 255: 487-94 (1997)","PROK").
+TFD_subseq('NF-kB-PTX3',"GGGAACTCCCGT","J Biol Chem 272: 8172-8 (1997)","MAMM").
+TFD_subseq('Sp1-Ku80_(1)',"CCCCGCCTT","Gene 199: 181-94 (1997)","MAMM").
+TFD_subseq('Sp1-Ku80_(2)',"TTCCGCCCG","Gene 199: 181-94 (1997)","MAMM").
+TFD_subseq('AP-2-PD-1',"GCCACGGGC","Gene 197: 177-87 (1997)","MAMM").
+TFD_subseq('nm23-H2-PD-1',"CCCTCCCCCACCCTCTCCCCAGTCCT","Gene 197: 177-87 (1997)","MAMM").
+TFD_subseq('Myc/max-PD-1',"CCACGTGG","Gene 197: 177-87 (1997)","MAMM").
+TFD_subseq('Pu.1-PD-1',"CTAGAGGAAGAG","Gene 197: 177-87 (1997)","MAMM").
+TFD_subseq('CREB-secretogranin',"GCCGGTGACGTCAGCGT","Eur J Biochem 236: 171-9 (1996)","MAMM").
+TFD_subseq('AP-2-MIP-A-1',"CTCAGCCTGCCCCTCCCAGGGATTAGGAG","Nucleic Acids Res 26:  407-14 (1998)","MAMM").
+TFD_subseq('AP-2-MIP-2',"CAGACAAGGCCATGGGGGTAGCAGG","Nucleic Acids Res 26: 407-14 (1998)","MAMM").
+TFD_subseq('NF-Y-MHC-11-Ea',"TTTAACCAATCAGAAA","Annu Rev Immunol 8:  681-715 (1990)","MAMM").
+TFD_subseq('NF-Y-MHC-11-EaY'',"CAGAACCAATCAGCAG","Mol Cell Biol 8:  3975-87 (1989)","MAMM").
+TFD_subseq('NF-Y-MHC-Dra',"TTTGGCCAATCAGAAA","Annu Rev Immunol 8:  681-715 (1990)","MAMM").
+TFD_subseq('NF-Y-Dra-Y'',"AAGAACCAATCAGTGT","Nucleic Acids Res 23:  1671-8 (1995)","MAMM").
+TFD_subseq('NF-Y-MHC-11-Aa',"CAGAACCAATCAGAAA","Mol Cell Biol 11: 578-581 (1991)","MAMM").
+TFD_subseq('NF-Y-MHC-11-Dqa',"TTTGGCCAATTAGAAA","Immunogenetics 32: 117-28 (1990)","MAMM").
+TFD_subseq('NF-Y-MHC-11-Dpa',"ATTCACCTATCAGAGA","Immunogenetics 32: 117-28 (1990)","MAMM").
+TFD_subseq('NF-Y-MHC-11-Rb',"GGGAGCCAATCAGCAT","Mol Cell Biol 11:  578-81 (1991)","MAMM").
+TFD_subseq('NF-Y-MHC-11-Drb',"GAGAACCAATCAGCAT","Immunogenetics 32: 117-28 (1990)","MAMM").
+TFD_subseq('NF-Y-MHC-11-Ab',"AGGAACCAATCAGCAT","Mol Cell Biol 11: 578-81 (1991)","MAMM").
+TFD_subseq('NF-Y-MHC-11-Dqb',"AGGAACCAATCAGCAT","Immunogenetics 32: 117-28 (1990)","MAMM").
+TFD_subseq('NF-Y-MHC-11-Dpb',"AAGAACCAATGGACAC","Immunogenetics 32: 117-28 (1990)","MAMM").
+TFD_subseq('NF-Y-MHC-11-Dpb-2',"AAGAACCAATGGGCAT","Mol Cell Biol 8:  2034-41 (1988)","MAMM").
+TFD_subseq('NF-Y-MHC-11-B-Lb',"GAGGGCCAATGAGCGG","Nucleic Acids Res 26: 1135-43 (1998)","AVIAN").
+TFD_subseq('NF-Y-Ii-P',"GTGGACGAATCAGATT","J Biol Chem 270: 20978-86 (1995)","MAMM").
+TFD_subseq('NF-Y-Ii-D',"GGCAGCCAATGGGATC","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-Ii-D-2',"GCCAGCCAATGGGATC","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-Mig',"ACCAGCCAATCAGAGA","J Exp Med 173:  417-22 (1991)","MAMM").
+TFD_subseq('NF-Y-GP-91-phox',"GTTGACCAATGATTAT","Blood 89: 4136-45 (1997)","MAMM").
+TFD_subseq('NF-Y-CD10',"CCCGACCAATGAGCGC","Blood 89: 4136-45 (1997)","MAMM").
+TFD_subseq('NF-Y-RAG-1',"GATAGCCAATCACAGA","Blood 89: 4136-45 (1997)","MAMM").
+TFD_subseq('NF-Y-IL4-D',"CTGGGCCAATCAGCAC","J Immunol 153: 4122-33 (1994)","MAMM").
+TFD_subseq('NF-Y-IL4-P',"TCAGACCAATAGGAAA","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-IL4-P-2',"TGGGGCCAATCAGCAG","Gene 114: 273-8 (1992)","MAMM").
+TFD_subseq('NF-Y-Thy-1',"TTCAGCCAATCGGAGG","Mol Cell Biol 11: 2216-28 (1991)","MAMM").
+TFD_subseq('NF-Y-Globin-alpha-1',"ACCAGCCAATGAGTAA","J Biol Chem 265: 13362-9 (1990)","MAMM").
+TFD_subseq('NF-Y-Globin-alpha-2',"GCCAGCCAATGAGCGC","Mol Cell Biol 13: 5439-49 (1993)","MAMM").
+TFD_subseq('NF-Y-Globin-alpha-3',"GCCGGCCAATGAGCGG","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-Globin-alpha-4',"CCAGGCCAATGATTAC","J Mol Evol 28: 64-71 (1988)","AMPHIB").
+TFD_subseq('NF-Y-Globin-alpha-5',"CCAGTCCAATGGCTAC","J Mol Evol 28: 64-71 (1988)","AMPHIB").
+TFD_subseq('NF-Y-Globin-zeta',"CCTGACCAATGGCCAC","Nucleic Acids Res 26:  1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-Globin-gamma-D',"CTTGACCAATAGCCTT","Nucleic Acids Res 26:  1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-Globin-gamma-D-2',"CTTGACCAATAGGCTT","Nucleic Acids Res 17: 6681-91 (1989)","MAMM").
+TFD_subseq('NF-Y-Globin-gammaD-3',"CTTGACCAATAGTCGT","Mol Cell Biol 12: 4919-29 (1992)","MAMM").
+TFD_subseq('NF-Y-Globin-gammaP-1',"CTTGACCAATAGTCTT","Nucleic Acids Res 17: 6681-91 (1989)","MAMM").
+TFD_subseq('NF-Y-Globin-gammaP-2',"CTTGACCAATAGCCTC","Nucleic Acids Res 17: 6681-91 (1989)","MAMM").
+TFD_subseq('NF-Y-Globin-gammaP-3',"ACTGACCAATAGCCTC","Mol Cell Biol 12: 4919-29 (1992)","MAMM").
+TFD_subseq('NF-Y-Globin-rho-3'E',"ACCAGCAATGGCATT","Mol Cell Biol 16: 236-46 (1996)","AVIAN").
+TFD_subseq('NF-Y-Coll-alpha2(I)',"CTCCACCAATGGGAGG","J Biol Chem 263: 13909-15 (1988)","MAMM").
+TFD_subseq('NF-Y-Coll-alpha-2(I)-2',"CTCCACCAATGGGAGG","Biochem J 322: 199-206 (1997)","MAMM").
+TFD_subseq('NF-Y-Coll-alpha1(i)',"CCCAGCCAATCAGAGC","J Biol Chem 265: 9934-42 (1990)","MAMM").
+TFD_subseq('NF-Y-Osteopontin',"CTCCACCAATCAGCAC","J Biol Chem 271: 22713-7 (1996)","MAMM").
+TFD_subseq('NF-Y-BSP',"AGCAGCCAATCACGGT","Nucleic Acids Res 26:  1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-Albumin',"AGGAACCAATGAAATG","Proc Natl Acad Sci U S A 85: 757-61 (1988)","MAMM").
+TFD_subseq('NF-Y-Albumin-2',"AGGAACCAATGAAATG","J Mol Biol 214: 865-74 (1990)","MAMM").
+TFD_subseq('NF-Y-Albumin-3',"GGCAGCCAATGAAATA","J Mol Biol 221: 31-43 (1991)","MAMM").
+TFD_subseq('NF-Y-Albumin-4',"GAAAACCAATATAGAG","J Mol Biol 202: 307-20 (1988)","AMPHIB").
+TFD_subseq('NF-Y-ApoA-I',"CTGGGCAAATAGAGTC","Biochem Biophys Res Commun 231: 140-43 (1997)","MAMM").
+TFD_subseq('NF-Y-Aldolase-B',"ACGCGCCAATCAGAGT","Nucleic Acids Res 19: 6145-53 (1991)","MAMM").
+TFD_subseq('NF-Y-Aldolase-B-2',"ATGGGCCAATCAGAGG","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-Aldolase-B-3',"AGCAGCCAATCAGCTA","Nucleic Acids Res 19: 6145-53 (1991)","AVIAN").
+TFD_subseq('NF-Y-TAT-P',"AGACCAATAAAGTT","Nucleic Acids Res 22: 1583-92 (1994)","MAMM").
+TFD_subseq('NF-Y-TAT-D',"CTCAACCAATAGCACG","Nucleic Acids Res 22: 1583-92 (1994)","MAMM").
+TFD_subseq('NF-Y-gamma-GT',"ACGATCCAATCCTCTC","J Biol Chem 269: 14878-84 (1994)","MAMM").
+TFD_subseq('NF-Y-SDH',"GGCAGCCAATGAGGGC","Biochim Biophys Acta 1217: 163-173 (1994)","MAMM").
+TFD_subseq('NF-Y-Fibronectin',"CCGGGCCAATCGGGCG","J Biol Chem 271: 22271-9 (1996)","MAMM").
+TFD_subseq('NF-Y-Arg_Lyase',"TAGAACCAATTGGGAG","J Biochem 116: 1044-55 (1994)","MAMM").
+TFD_subseq('NF-Y-Factor-VIII',"AGTAACCGATAGGATT","Mol Cell Biol 16: 1936-45 (1996)","MAMM").
+TFD_subseq('NF-Y-Factor-X',"CGGCTCCAATCAGGAG","J Biol Chem 271: 2323-31 (1996)","MAMM").
+TFD_subseq('NF-Y-MSP',"GCCACCCAATCCCGTA","J Biol Chem 271: 20265-72 (1996)","MAMM").
+TFD_subseq('SMP1_CS',"ACTACTAWWWWTA","Mol Cell Biol 17:  1848-59 (1997)","YEAST").
+TFD_subseq('NF-Y-ALDH',"TTCATCCAATCGTATC","J Biol Chem 270: 17521-27 (1995)","MAMM").
+TFD_subseq('NF-Y-ALDH-2',"CCCATCCAATCATATC","J Biol Chem 270: 17521-7 (1995)","MAMM").
+TFD_subseq('NF-Y-ALDH-3',"GCCATCCAATCATATC","J Biol Chem 270: 17521-7 (1995)","MAMM").
+TFD_subseq('NF-Y-LPL',"TATAGCCAATAGGTGA","Arch Biochem Biophys 298: 630-9 (1992)","MAMM").
+TFD_subseq('NF-Y-LPL-2',"TATAGCCAATAGGTGA","Biochim Biophys Acta 1216: 375-84 (1993)","MAMM").
+TFD_subseq('NF-Y-LPL-3',"GTGCGCCAATGGGTGT","Biochim Biophys Acta 1216: 375-84 (1993)","AVIAN").
+TFD_subseq('NF-Y-ExoKII-D',"CACAGCCAATCAGCGC","J Biol Chem 271: 17296-303 (1996)","MAMM").
+TFD_subseq('NF-Y-HexoKII-P',"CGCAGCCAATGAGCGC","J Biol Chem 272: 21616-24 (1997)","MAMM").
+TFD_subseq('NF-Y-FAS-P',"CCAGGCCAATGAGCGT","Gene 184: 21-26 (1997)","MAMM").
+TFD_subseq('NF-Y-FAS-P-2',"CCAGGCCAATGAGCGT","Gene 184: 21-26 (1997)","MAMM").
+TFD_subseq('NF-Y-FAS-P-3',"GCAGTCCAATGAGAGC","Gene 184: 21-6 (1997)","AVIAN").
+TFD_subseq('NF-Y-FAS-P-4',"GCAGTCCAATGAGAGC","Gene 184: 21-6 (1997)","AVIAN").
+TFD_subseq('NF-Y-FAS-D',"CGAGACCAATTGGACA","J Biol Chem 272: 21616-24 (1997)","MAMM").
+TFD_subseq('NF-Y-FAS-D-2',"CCGTGCCAATGCGGAG","J Biol Chem 272: 21616-24 (1997)","AVIAN").
+TFD_subseq('NF-Y-FAS-D-3',"GGCACCCAATCAGGCG","J Biol Chem 272: 21616-24 (1997)","AVIAN").
+TFD_subseq('NF-Y-TSP-1',"TCCGGCCAATGGGCGG","J Biol Chem 268: 4989-96 (1993)","MAMM").
+TFD_subseq('NF-Y-FGF-4',"GCCTGCCAATCAGGGC","J Biol Chem 269: 25042-8 (1994)","MAMM").
+TFD_subseq('NF-Y-FGF-4-2',"GCCTGCCAATCACCGC","Eur J Biochem 227: 636-46 (1995)","MAMM").
+TFD_subseq('NF-Y-alpha-1-chim',"GGTGGCCAATCTAATC","Eur J Biochem 227: 636-46 (1995)","MAMM").
+TFD_subseq('INO2_RS_(ISRE)',"CATGTGAAAT","Mol Gen Genet 241: 680-4 (1993)","YEAST").
+TFD_subseq('AP-2_CS',"TAGAAAGNYCYNG","Biochem Biophys Res Commun 243: 307-16 (1998)","MAMM").
+TFD_subseq('lambda_boxA',"CGCTCTTACACA","J Biol Chem 273: 4143-8 (1998)","PROK").
+TFD_subseq('WT1-artificial-site',"GCGTGGGCGTGT","Biochemistry 37: 2051-8 (1998)","MAMM").
+TFD_subseq('EGR1-high-affinity-site',"GNTKGGGYG","Biochemistry 37: 2051-8 (1998)","MAMM").
+TFD_subseq('WT1-high-affinity-site',"GYGKGGGAGYGY","Biochemistry 37: 2051-8 (1998)","MAMM").
+TFD_subseq('NGFI-B-CYP21',"AAAGGTCA","Nucleic Acids Res 26: 1959-64 (1998)","MAMM").
+TFD_subseq('SF-1-CYP21',"CAAGGCCA","Nucleic Acids Res 26: 1959-64 (1998)","MAMM").
+TFD_subseq('ASP-CYP21',"CTCTGTGG","Nucleic Acids Res 26: 1959-64 (1998)","MAMM").
+TFD_subseq('CK-2-CYP21',"GTACCTGA","Nucleic Acids Res 26: 1959-64 (1998)","MAMM").
+TFD_subseq('TRF-binding-site',"TAGGGTTAG","Nucleic Acids Res 26: 1731-40 (1998)","MAMM").
+TFD_subseq('AFT1_CS',"YRCACCCR","EMBO J 15: 3377-84 (1996)","YEAST").
+TFD_subseq('NF-Y-tr.hydr',"AACGGCCAATGGGCGC","Brain Res 682: 1-12 (1995)","MAMM").
+TFD_subseq('NF-Y-NakATPsea-3',"TCTGGCCAATCAGGAG","Biochim Biophys Acta 1352: 311-24 (1997)","MAMM").
+TFD_subseq('NF-Y-PDGF-beta',"CTTGGCCAATCAGAAT","Eur J Biochem 246: 142-6 (1997)","MAMM").
+TFD_subseq('NF-Y-FerH',"CCCGGCCAATCAGCGC","Mol Cell Biol 17: 1387-95 (1997)","MAMM").
+TFD_subseq('NF-Y-MHC-IA2-B8',"GACACCCAATGGGAGT","J Immunol 158: 4788-96 (1997)","MAMM").
+TFD_subseq('NF-Y-MCH-IA2-Cw2Ld',"GCCACCCAATGATAGT","J Immunol 158: 4788-96 (1997)","MAMM").
+TFD_subseq('NF-Y-MHC-IA2-B7',"AATCACCAATGGGAGT","J Immunol 158: 4788-96 (1997)","MAMM").
+TFD_subseq('NF-Y-MDR1',"CCCAGCCAATCAGCCT","Cell Growth Differ 6: 1505-12 (1995)","MAMM").
+TFD_subseq('NF-Y-MDR1-2',"GGCAGCCAATCAGCCT","Cell Growth Differ 6: 1505-12 (1995)","MAMM").
+TFD_subseq('NF-Y-CYP1A1',"CTCTGCCAATCAAAGC","J Biol Chem 268: 5856-60 (1993)","MAMM").
+TFD_subseq('NF-Y-c-Jun',"GCGAGCCAATGGGAAG","Biochemistry 35: 15693-703 (1996)","MAMM").
+TFD_subseq('NF-Y-Grp78',"GTTCACCAATCGGAGG","Mol Cell Biol 15: 2263-74 (1995)","MAMM").
+TFD_subseq('NF-Y-Hsp70-P',"CTGAGCCAATCACCCA","Mol Cell Biol 7: 3646-55 (1987)","MAMM").
+TFD_subseq('NF-Y-Hsp70-P-2',"CTGGGCCAATCAGCGA","Mol Cell Biol 7: 3646-55 (1987)","MAMM").
+TFD_subseq('NF-Y-Hsp70-P-3',"AAGGACCAATCCAGAC","Gene 87: 199-204 (1990)","AVIAN").
+TFD_subseq('NF-Y-Hsp70-P-4',"ATTAGCCAATCAAGGC","Cell 45: 753-60 (1987)","AMPHIB").
+TFD_subseq('NF-Y-Hsp70-D',"CCTGCCCAATCAGAAG","Nucleic Acids Res 26: 1135-43 (1998)","AVIAN").
+TFD_subseq('NF-Y-Hsp70-D-2',"GTTAGCCAATCAGCAA","Nucleic Acids Res 26: 1135-43 (1998)","AMPHIB").
+TFD_subseq('NF-Y-ADH2',"GGCAGCCAATGGAAAG","Gene 173: 155-61 (1996)","MAMM").
+TFD_subseq('NF-Y-GPAT',"ATCAGCCAATGAGCTC","J Biol Chem 272: 7298-305 (1997)","MAMM").
+TFD_subseq('NF-Y-FPP-D',"ACTGGCCAATGAAAGG","J Biol Chem 270: 21445-8 (1995)","MAMM").
+TFD_subseq('NF-Y-FPP-P',"TTCAGCCAATCAGCGA","J Biol Chem 270: 21445-8 (1995)","MAMM").
+TFD_subseq('NF-Y-HMG',"GCCAACCAATAGCTGG","J Biol Chem 263: 3380-7 (1988)","MAMM").
+TFD_subseq('NF-Y-HSS',"CCTGGCCAATCAGCGC","J Biol Chem 272: 10295-302 (1997)","MAMM").
+TFD_subseq('NF-Y-SREBP2',"CTCAGCCAATGGGCGA","J Biol Chem 271: 26461-4 (1996)","MAMM").
+TFD_subseq('NF-Y-GST28',"CACAGCCAATGAGGCA","Mol Biochem Parasitol 83: 69-80 (1996)","BILATERIA").
+TFD_subseq('NF-Y-GST-28-2',"AGTGACCAATAAAAAT","Mol Biochem Parasitol 83: 69-80 (1996)","BILATERIA").
+TFD_subseq('NF-Y-GHR',"TTCCACCAATAGGGTT","Nucleic Acids Res 26:  1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-CP2',"GCCAACCAATCATGGC","J Biol Chem 269: 11663-71 (1994)","MAMM").
+TFD_subseq('NF-Y-CP2-2',"GCCAACCAATCAGGAC","J Biol Chem 269: 11663-71 (1994)","MAMM").
+TFD_subseq('NF-Y-beta-actin',"CGCGGCCAATCAGCGT","Nucleic Acids Res 19: 6913-22 (1991)","MAMM").
+TFD_subseq('NF-Y-beta-actin-2',"CGGAGCCAATCAGCGG","Nucleic Acids Res 19: 6913-22 (1991)","MAMM").
+TFD_subseq('NF-Y-beta-actin-3',"GGCAGCCAATCAGAGC","J Biol Chem 264: 9539-46 (1989)","AVIAN").
+TFD_subseq('NF-Y-TK-D',"TGGGGCCAATCAGCGC","J Biol Chem 269: 17893-8 (1994)","MAMM").
+TFD_subseq('NF-Y-TK-D-2',"GCCGACCAATGCGGAG","J Biol Chem 264: 2343-9 (1989)","AVIAN").
+TFD_subseq('NF-Y-TK-P',"GCTGGCCAATCACGAG","J Biol Chem 264: 2343-9 (1989)","MAMM").
+TFD_subseq('NF-Y-TK-P-2',"CCGAGCCAATCGCCGG","J Biol Chem 264: 2343-9 (1989)","AVIAN").
+TFD_subseq('NF-Y-TK-P-3',"ACCGACCAATGGCAGC","J Biol Chem 264: 2343-9 (1989)","MAMM").
+TFD_subseq('NF-Y-TopoII-alpha-I',"ACCAGCCAATCCCTCA","Biochem Biophys Res Commun 232: 608-12 (1997)","MAMM").
+TFD_subseq('NF-Y-Topo-II-alpha-I-2',"AGGAACCAATCACCGA","J Biol Chem 270: 25850-8 (1995)","MAMM").
+TFD_subseq('NF-Y-Topo-II-alpha-I-3',"AGAAACCAATCACCGA","Biochem Biophys Res 230: 105-9 (1997)","MAMM").
+TFD_subseq('NF-Y-Topo-II-alpha-II',"AAGAACCAATCGTAGC","Biochem Biophys Res Commun 232: 608-12 (1997)","MAMM").
+TFD_subseq('NF-Y-Topo-II-alpha-II-2',"AGTAACCAATCGTGGA","J Biol Chem 270: 25350-8 (1995)","MAMM").
+TFD_subseq('NF-Y-Topo-II-alpha-II-2',"AGTAACCAATCGTGGA","J Biol Chem 270: 25850-8 (1995)","MAMM").
+TFD_subseq('NF-Y-Topo-II-alpha-II-3',"AGTAACCAATCGTAGA","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-Topo-II-alpha-III-2',"ATGAACCAATTAGGTA","Biochem Biophys Res Commun 232: 608-12 (1997)","MAMM").
+TFD_subseq('NF-Y-Topo-II-alpha-III-3',"ATGAACCAATTAGGTA","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-Topo-II-alpha-IV',"TCTGGCCAATGAGAAG","Biochem Biophys Res Commun 232: 608-12 (1997)","MAMM").
+TFD_subseq('NF-Y-Topo-II-alpha-IV-2',"TCTGGCCAATGAGAAA","J Biol Chem 270: 25850-8 (1995)","MAMM").
+TFD_subseq('NF-Y-Topo-II-alpha-IV-3',"ATGGACCAATAGCAAT","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-cdc25-3',"CATGGCCTATCGTTGG","Nucleic Acids Res 23: 3822-30 (1995)","MAMM").
+TFD_subseq('NF-Y-cdc25-2',"GTCAGCCAATCTCCGC","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-cdc25-1',"AGTAACCTATCCCCGC","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-cdc2-1',"ATTCACCAATCGGGTA","Nucleic Acids Res 26:  1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-cdc2-1-2',"GTCCGCCAATCCGATT","Mol Cell Biol 15: 2882-92 (1995)","MAMM").
+TFD_subseq('NF-Y-cdc2-1-3',"ACCCACCAATGGAGCA","Cell Growth Differ 7: 339-49 (1996)","AVIAN").
+TFD_subseq('NF-Y-cdc2-2',"AGCAGCCAATCAGACG","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-cdc2-2-2',"AGGAGCCAATCAGAGC","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-cdc2-2-3',"AGCGACCAATGGGAGC","Nucleic Acids Res 26: 1135-43 (1998)","AVIAN").
+TFD_subseq('NF-Y-Cyc1A',"ATAAACCAATGAGGGC","EMBO J 14: 4514-22 (1995)","MAMM").
+TFD_subseq('NF-Y-Cyc1A-2',"TAGGACCAATGAAAGC","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-Cyc1B1-D',"AGCCGCCAATGGGAAG","Cell Growth Differ 8: 811-20 (1997)","MAMM").
+TFD_subseq('NF-Y-Cyc1B1-P',"ACAGGCCAATAAGGAG","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-E2F1-P',"CTCGGCCAATGGAAGC","J Biol Chem 272: 18367-4 (1997)","MAMM").
+TFD_subseq('NF-Y-E2F1-P-2',"GGCAGCCAATTGTGGC","Genes Dev 8: 1514-25 (1994)","MAMM").
+TFD_subseq('NF-Y-PLK',"CGCGGCCAATCAGTGG","J Biol Chem 272: 9166-74 (1997)","MAMM").
+TFD_subseq('NF-Y-RRR2',"ACCAACCAATCACAGA","J Biol Chem 270: 25239-43 (1995)","MAMM").
+TFD_subseq('NF-Y-HisH2B-D',"TTTAGCCAATCAGCTA","Cell 50: 347-59 (1987)","MAMM").
+TFD_subseq('NF-Y-HisH2B-P',"ATCTACCAATCAACGC","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-HisH2B-D-2',"ATTAACCAATCAGAAA","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-HisH2B-P-2',"ATTGTCCAATCATCTT","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-HisH3.3',"GTTGACCAATCAACAG","Genes Dev 3: 973-85 (1989)","MAMM").
+TFD_subseq('NF-Y-HisH3.3-2',"CGCAGCCAATCAAGAG","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('NF-Y-HBV-S',"CTCCACCAATCGGCAG","Virology 225: 387-94 (1996)","MAMM").
+TFD_subseq('NF-Y-MSV-LTR',"ACTAACCAATCAGTTC","Cell 50: 363-72 (1987)","MAMM").
+TFD_subseq('NF-Y-RSV-LTR-P',"TTCGTCCAATCCATGT","J Biol Chem 265: 22243-54 (1990)","AVIAN").
+TFD_subseq('NF-Y-RSV-LTR-D',"TTCCACCAATCGGCAG","J Biol Chem 265: 22243-54 (1990)","AVIAN").
+TFD_subseq('NF-Y-ev2-RAV0',"CGCCACCAATGGGCAT","J Virol 66: 1959-70 (1992)","AVIAN").
+TFD_subseq('NF-Y-Ad-EIIl-II',"GAAGACCAATCCCGCC","Nucleic Acids Res 15: 7761-80 (1987)","MAMM").
+TFD_subseq('NF-Y-Ad-ML',"ATAAACCAATCACCT","Cell 53: 11-25 (1988)","MAMM").
+TFD_subseq('NF-Y-CMV-gpUL4',"GGGACCCAATCACTGG","J Virol 68: 2108-17 (1994)","MAMM").
+TFD_subseq('NF-Y-HSV-IE110K',"TTCCCCCAATGGCCGC","J Virol 67: 7201-14 (1993)","MAMM").
+TFD_subseq('NF-Y-VZV-ORF62',"CTCGTCCAATCACTAC","J Virol 67: 7201-14 (1993)","MAMM").
+TFD_subseq('NF-Y-MVM-P4',"ACTGACCAACCATGTG","J Virol 69: 239-46 (1995)","MAMM").
+TFD_subseq('AncP-AmdS',"GCCAGCCAATCACCAG","Mol Gen Genet 254: 119-26 (1997)","YEAST").
+TFD_subseq('AnCP-TaaG2',"ACCATCCAATTAGAAG","Mol Gen Genet 254: 119-26 (1997)","YEAST").
+TFD_subseq('AnCP-GatA',"TTCGACCAATAATATT","Mol Gen Genet 254: 119-26 (1997)","YEAST").
+TFD_subseq('AnCP-TaA',"ACCATCCAATTAGAAG","Mol Gen Genet 254: 119-26 (1997)","YEAST").
+TFD_subseq('HAP-2/3/5-CYC1UAS2',"ATCCACCAACCAACGC","Cell 51: 953-61 (1987)","YEAST").
+TFD_subseq('HAP-2/3/5-CIT1',"ATCCTCCAATAACACA","Mol Microbiol 13: 119-31 (1994)","YEAST").
+TFD_subseq('HAP-2/3/5-COX6',"ACGAGCCAATCAGGGC","J Biol Chem 264: 7005-8 (1989)","YEAST").
+TFD_subseq('HAP-2/3/5-CYT1',"CTCCACCAACCAAATC","Mol Cell Biol 11: 4934-42 (1991)","YEAST").
+TFD_subseq('HAP-2/3/5-LPD1',"TCTCGCCAATGAGGGA","Mol Gen Genet 231: 296-303 (1992)","YEAST").
+TFD_subseq('HAP-2/3/5-COX5a',"ATCGTCCAATAGACGT","Mol Cell Biol 8: 4537-40 (1988)","YEAST").
+TFD_subseq('HAP-2/3/5-HEM1',"GCAGACCAATGAGCGA","Proc Natl Acad Sci U S A 84: 9113-7 (1987)","YEAST").
+TFD_subseq('HAP-2/3/5-ASN1',"ATCCACCAATCACACG","Mol Microbiol 22: 681-92 (1996)","YEAST").
+TFD_subseq('HAP-2/3/5-NADPG1.Deh.',"GGCGACCAATAAACAC","J Bacteriol 178: 1842-9 (1996)","YEAST").
+TFD_subseq('HAP-2/3/5-SOD2',"CTGGACCAATAACACA","Mol Microbiol 23: 303-12 (1997)","YEAST").
+TFD_subseq('epsilon-Globin-CCAAT',"CTTGACCAATGATTTT","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('beta-globin-CCAAT',"TAAGGCCAATCTGCTC","Cell 50: 863-72 (1987)","MAMM").
+TFD_subseq('beta-Globin-CCAAT-2',"GTTGGCCAATCTACTC","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('beta-Globin-CCAAT-3',"CCTAGCCAATCAACAG","Nucleic Acids Res 26: 1135-43 (1998)","AMPHIB").
+TFD_subseq('GP91-phoxP-CCAAT',"ATTAGCCAATTTCTGA","J Exp Med 173: 417-22 (1991)","MAMM").
+TFD_subseq('IL4-P-CCAAT',"AATTTCCAATGTAAAC","J Immunol 158: 5071-4 (1997)","MAMM").
+TFD_subseq('TopoII-alpha-V-CCAAT',"AACTGCCAATCTATTT","Biochem Biophys Res Commun 232:  608-12 (1997)","MAMM").
+TFD_subseq('Topo-II-alpha-V-CCAAT-2',"ATAGACCAATAGTCTA","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('Fc-gamma-Rec1-CCAAT',"TTGAACCAATAGTCTA","Nucleic Acids Res 26:  1135-43 (1998)","MAMM").
+TFD_subseq('Carboxyest-CCAAT',"CTCTCCCAATTAGAGG","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('CD14-CCAAT',"ACCCCCCAATCCCCCT","Nucleic Acids Res 26: 1135-43 (1998)","MAMM").
+TFD_subseq('HSV-TK-CCAAT',"ATTCGCCAATGACAAG","Cell 50: 363-72 (1987)","MAMM").
+TFD_subseq('INO4-CS',"CATGTGAAAT","Curr Genet 31: 462-8 (1997)","YEAST").
+TFD_subseq('CUP1_UAS',"GCTTCTTTTCCGCTGA","Mol Cell Biol 10: 4778-87 (1990)","YEAST").
+TFD_subseq('SKO1_RS',"TGACGTCA","Nucleic Acids Res 20: 5271-8 (1992)","YEAST").
+TFD_subseq('HSF1_CS',"NGAANNTTCN","Mol Cell Biol 14: 501-8 (1994)","YEAST").
+TFD_subseq('HSF1_CS2',"NTTCNNGAAN","Mol Cell Biol 14: 501-8 (1994)","YEAST").
+TFD_subseq('ROX1_CS',"RRRTAACAAGAG","Genetics 148: 559-69 (1998)","YEAST").
+TFD_subseq('Pho4p-RS-type-1',"GCACGTGGG","Yeast 13: 1299-308 (1997)","YEAST").
+TFD_subseq('Pho4p-RS-type-2',"GCACGTTTT","Yeast 13: 1299-308 (1997)","YEAST").
+TFD_subseq('SMP1-CS',"ACTACTAWWWWTAG","Mol Cell Biol 17:  1848-59 (1997)","YEAST").
+TFD_subseq('MAC1_RS',"TTTGCTC","J Biol Chem 272:  15951-8 (1997)","YEAST").
+TFD_subseq('PDR3_CS',"CCGCGG","J Cell Biol 138: 255-70 (1997)","YEAST").
+TFD_subseq('ROX3_regulatory_element',"GAAAAAAAAAAGGAA","Genetics 142: 1083-93 (1996)","YEAST").
+TFD_subseq('REB1_RS',"CGGGTRR","J Biol Chem 269:  9790-7 (1994)","YEAST").
+TFD_subseq('PHO4_RS',"CACGTG","Nucleic Acids Res 26:  710-4 (1998)","YEAST").
+TFD_subseq('LEU3_CS',"CCGNNNNCGG","Mol Cell Biol 16: 6096-102 (1996)","YEAST").
+TFD_subseq('RLM1_CS',"CTAWWWWTAG","Mol Cell Biol 17: 2615-23 (1997)","YEAST").
+TFD_subseq('PPR1_CS',"CGGNNNNNNCCGNNNNNNCGG","Mol Cell Biol 16: 3773-80 (1996)","YEAST").
+TFD_subseq('MET31/32_RS',"AAACTGTGG","Mol Cell Biol 17: 3640-8 (1997)","YEAST").
+TFD_subseq('TEA1_CS',"CGGNNNNNNNNNNCGG","Mol Cell Biol 16: 347-58 (1996)","YEAST").
+TFD_subseq('enkephalin-upstream-site',"GACGGGAGATCGCTCGT","Brain Res Mol Brain Res 52: 98-111 (1997)","MAMM").
+TFD_subseq('NF-Y-Topo-II-alpha-III',"ATGAACCAATTAGGTA","Biochem Biophys Res Commun 232: 608-12 (1997)","MAMM").
+TFD_subseq('RFX1-artificial-site',"GGCCAGTTGCCTAGCAACTAATT","Nucleic Acids Res 26: 2143-9 (1998)","MAMM").
+TFD_subseq('NRSE',"TTCAGCACCACGGACAGMGSC","Proc Natl Acad Sci U S A 93: 9881-6 (1996)","MAMM").
+TFD_subseq('NRSE1',"GGGCGAGCAGAGTCCATTCAGCACCTTGGACAGAGCCAGCGG","J Neurosci 18:  1280-96 (1998)","MAMM").
+TFD_subseq('NRSE2',"CAGCCAGCGGATTTGTCCGAGGTGGT","J Neurosci 18:  1280-96 (1998)","MAMM").
+TFD_subseq('BDNF-CRS-I',"CTATTTCGAGGCAGAGGAGGTATCAT","Neuron 20:  727-40 (1998)","MAMM").
+TFD_subseq('Est-vWF_site',"TTTCCTTT","Oncogene 15: 3091-102 (1997)","MAMM").
+TFD_subseq('ExsA_CS',"TNAAAANA","J Bacteriol 177:  4427-36 (1995)","PROK").
+TFD_subseq('paired_CS1',"TAATNNATTA","J Biol Chem 272: 14175-82 (1997)","MAMM").
+TFD_subseq('paired_CS2',"TAATNNNATTA","J Biol Chem 272: 14175-82 (1997)","MAMM").
+TFD_subseq('AB1-core-element-A',"TCCGGAGCTGTG","J Biol Chem 270: 11977-84 (1995)","MAMM").
+TFD_subseq('AB1-core-element-B',"GCTGAGTCANGG","J Biol Chem 270: 11977-84 (1995)","MAMM").
+TFD_subseq('XGRAF_RS',"AAGAGTTAA","Mol Endocrinol 11:  563-76 (1997)","AMPHIB").
+TFD_subseq('Brn-3_RS',"ATAATTAAT","Mol Cell Biol 17: 2391-400 (1997)","MAMM").
+TFD_subseq('Xbp1_CS',"GCCTCGARGMGR","Mol Cell Biol 17: 6491-501 (1997)","YEAST").
+TFD_subseq('ARE',"RTGACNNNGC","Proc Natl Acad Sci U S A 94:  5361-7 (1997)","MAMM").
+TFD_subseq('conRTRE',"TCAAGKTCAAGKTCA","J Biol Chem 272: 10565-72 (1997)","MAMM").
+TFD_subseq('conRTRE-2',"TCAAGKTCA","J Biol Chem 272: 10565-72 (1997)","MAMM").
+TFD_subseq('Msx1_CS',"GNAATTG","Mol Endocrinol 11: 1782-94 (1997)","MAMM").
+TFD_subseq('CSRE_consensus_(1)',"CCRTYSRNCCG","Mol Gen Genet 255: 619-27 (1997)","YEAST").
+TFD_subseq('Elf-1-CS',"AWMCCGGAAGTV","J Exp Med 183: 743-50 (1996)","MAMM").
+TFD_subseq('CYS-3_RS',"ATGACGTCAT","Curr Genet 30: 298-304 (1996)","FUNGI").
+TFD_subseq('CYS-3_CS',"ATGRYRYCAT","Curr Genet 30: 298-304 (1996)","FUNGI").
+TFD_subseq('P2-promoter-US-1',"AAAAAGATATACAAA","J Bacteriol 178: 5573-8 (1996)","PROK").
+TFD_subseq('P2-promoter-US-2',"TTATCGCTGA","J Bacteriol 178: 5573-8 (1996)","PROK").
+TFD_subseq('Lyl1/E2a_heterodimer_CS',"AACAGATGKT","Mol Cell Biol 16: 2394-401 (1996)","MAMM").
+TFD_subseq('HNF-6_CS',"DHWATTGAYTWWD","Mol Cell Biol 16: 6273-84 (1996)","MAMM").
+TFD_subseq('WIN_CS',"AGATTGAGTA","J Biol Chem 272: 19827-36 (1997)","MAMM").
+TFD_subseq('HFH-4_CS1',"HWDTGTTTGTTTA","Proc Natl Acad Sci U S A 94: 3094-9 (1997)","MAMM").
+TFD_subseq('HFH-4_CS2',"KTTTGTTGTTKTW","Proc Natl Acad Sci U S A 94: 3094-9 (1997)","MAMM").
+TFD_subseq('RAP1_RS',"CCGCACACCCACACACCAG","Cell 85: 125-36 (1996)","YEAST").
+TFD_subseq('hTBP-artificial-site',"CGTATTTACG","Nature 365: 520-7 (1993)","SYNTH").
+TFD_subseq('HSF-calreticulin',"GGAACCCAGCGTTC","Mol Cell Biochem 177: 145-52 (1997)","MAMM").
+TFD_subseq('ESF-1_RS',"TCAGCTGA","Biol Pharm Bull 16: 87-9 (1993)","MAMM").
+TFD_subseq('HCRE_core_sequence',"GTCTGGGT","J Biol Chem 267: 7026-35 (1992)","MAMM").
+TFD_subseq('GmAux28-1/Hex',"TGACGACA","Plant Mol Biol 21: 1147-62 (1993)","PLANT").
+TFD_subseq('GmAux28-G-box',"TCCACGTGTC","Plant Mol Biol 21:  1147-62 (1993)","PLANT").
+TFD_subseq('GmAux-delta-1',"TAGTNNCTGT","Plant Mol Biol 21: 1147-62 (1993)","PLANT").
+TFD_subseq('GmAux-delta-4',"TAGTNCTGT","Plant Mol Biol 21: 1147-62 (1993)","PLANT").
+TFD_subseq('AP-2_beta_CS',"SCCNNNGGC","Development 121: 2779-88 (1995)","MAMM").
+TFD_subseq('Msx-2-OC',"ACTAATTGG","Mol Endocrinol 8: 1484-93 (1994)","MAMM").
+TFD_subseq('mtRNAP-variant-RS-1',"TAAAAGTAA","Gene 212: 305-14 (1998)","YEAST").
+TFD_subseq('mtRNAP-variant-RS-2',"TATAAGAAA","Gene 212: 305-14 (1998)","YEAST").
+TFD_subseq('mtRNAP-variant-RS-3',"TATAAGTAG","Gene 212: 305-14 (1998)","YEAST").
+TFD_subseq('mtRNAP-variant-RS-4',"TATAAGAAG","Gene 212: 305-14 (1998)","YEAST").
+TFD_subseq('mtRNAP-variant-RS-5',"TATAAGAGA","Gene 212: 305-14 (1998)","YEAST").
+TFD_subseq('mtRNAP-variant-RS-6',"TATAAGGGA","Gene 212: 305-14 (1998)","YEAST").
+TFD_subseq('mtRNAP-variant-RS-7',"TATAAGTGG","Gene 212: 305-14 (1998)","YEAST").
+TFD_subseq('mtRNAP-variant-RS-8',"TAAAAGTAG","Gene 212: 305-14 (1998)","YEAST").
+TFD_subseq('mtRNAP-nonanucleotide-RS',"TATAAGTAA","Gene 212: 305-14 (1998)","YEAST").
+TFD_subseq('carP-carAB',"CAGAACAGGTTAGATGATCTTTTTGTCGCTTAAT","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('CRP-gcd',"TCGAATTGTGATGACGATCACACATGTTAAAACC","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('b0327-upstream_site',"CGGTCTATAAAAAATGATCTCATGCAGATGTTTT","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('Fur-fep',"AACATATCCAAATAAGATCGATAACGATAATTAA","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('Frn-hrsA',"CAATCAAGTGAAATTGATCACATAATGGTATTGT","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('CRP-b1036',"CTGAAGAATAAGTGTGATCTACGTCACTCATAAC","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('b1112-upstream-site',"TATCATTTAGTTATCGATCGTTAAGTAATTGCTT","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('IHF-pspA',"TTGATTCTTCAATCAGATCTTTATAAATCAAAAA","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('rspA-unknown-site',"ACTCCGGCTTTTTTCGATCTTTATACTTGTATGG","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('b1776-upstream-sites',"TAAAACACAGATAATGATCTGCGTTTTACAACTC","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('CRP-flhD',"ATAATGCGTGATGCAGATCACACAAAACACTCAA","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('CRP-cdd',"AATTAATGAGATTCAGATCACATATAAAGCCACA","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('CRP-yffE',"TACCTCACTTCTCGTGATCAAGATCACATTCTCG","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('CRP-gut',"TATCTTTCATTTTGCGATCAAAATAACACTTTTA","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('IHF-yjdG',"TTTATAGATTAATCTGATCTACCCATTTGTGGGT","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('CRP-ppiA',"TTAAGAGGTGATTTTGATCACGGAATAAAAAAGT","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('yhiP-upstream-site',"TTCCATCATTAGTGTGATCATCTGGTTATTTTCT","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('CRP-mtlA',"ATATCTTGTGATTCAGATCACAAATATTCAACAA","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('yiaK-upstream-site',"GCCTTGTTAAAAAGTGATCGATATATTTGAAATC","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('yidX-upstream-site',"TTGTACTACAATTTAGATCACAAAAAGAACAATG","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('Fnr-kdgT',"AATTGATGTGGTTTTGATCACTTTTATTGATTAA","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('yihU/yihV_upstream_site',"TGCTTGTCTGTTTTTGATCGTATTTGTAATTTAT","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('CRP-proP',"TCCATGTGTGAAGTTGATCACAAATTTAAACACT","Nat Biotechnol 16: 566-71 (1998)","PROK").
+TFD_subseq('HNF-4-DR2-4.3',"AGGTCCAAAGGTCG","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR2-4.8',"AGGTCAAAAGGTCA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR2-5.7',"GGGGCAAAAGGTCC","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR2-5.11',"GGGTCCAAAGTTCA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-4.1',"GGATCAAAGTCCA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-4.2',"TGGACAAAGCCTA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-4.4',"GGGACAAAGGTCA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-4.5',"AGTCCAAAGTGTG","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-4.6',"AGGGCAAAGGTCA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-4.7',"GGGTCAAAGGTCG","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-4.10',"GGACCAAAGTCCA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-5.1',"AGGGCAAAGTACA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-5.2',"CGGTCAAAGTTCA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-5.4',"AGGGCAAAGGTCA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-5.5',"AGGGCAAAGTCAA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-5.6',"GAGCCAAAGGTCG","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-5.8',"GGGTCAAAGGTCG","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-5.9',"AGGACAAAGGTCA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-5.12',"GGGTCAAAGGTCG","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-5.13',"GGTACAAAGGTCA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-5.14',"AGGGCAAAGGGCA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-5.16',"CGGTCAAAGGTCG","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('HNF-4-DR1-5.17',"GGGGCAAAGGTCA","Nucleic Acids Res 26: 2702-7 (1998)","MAMM").
+TFD_subseq('rps3a-1-homol-D',"CAGTCACG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps3a-2-homol-E',"ACCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps3a-2-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps5-homol-E',"AGGGTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps5-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps6-1-homol-D',"TGTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('TonE_CS',"YGGAANNNYNY","Am J Physiol 274:  F753-61 (1998)","MAMM").
+TFD_subseq('rps7-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps8-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps9-homol-E',"ACCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps9-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps10-homol-E',"ACCCTAACCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps10-homol-D',"CGTGACCG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps11-homol-E',"ACCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps11-homol-D',"CAGCCACG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps12-homol-D',"CGTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps13-homol-E',"ACCGTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps13-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps14-homol-E',"ACCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps14-homol-D',"TNTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps17-homol-E',"ACCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps17-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps15a-1-homol-E',"AGGGTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps15a-1-homol-D',"TGTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps15a-2-homol-D',"TGTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps23-homol-E',"AGGGTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps23-homol-D',"TGTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps28-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps30-homol-D',"CGTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp13-1-homol-E',"ACCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp13-1-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp13-2-homol-D',"CAGTCACG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp14-1-homol-E',"GCCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp14-1-homol-D',"TGTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp15-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp17-1-homol-E',"AGGTTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp17-1-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp17-2-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp17a-1-homol-E',"AGGGTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp17a-1-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp18-1-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp18-2-homol-D',"CAGTCACG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp18-3-homol-E',"ACCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp18-3-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp19-homol-E',"ACCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp19-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp110-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp111-homol-E',"ACCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp111-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp113-homol-E',"AGGTTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp113-homol-D',"CNGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp117-homol-E',"ACCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp117-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp118-homol-E',"ACCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp118-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp122-homol-E',"AGGGTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp122-homol-D',"CGTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp123-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp123a-homol-E',"AGGGTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp123a-homol-D',"TGGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp124-homol-E',"AGGGTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp124-homol-D',"AGTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp126-homol-E',"GCCCTAACCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rps126-homol-D',"TGTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp127a-1-homol-D',"TGTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp127a-2-homol-E',"AGGGTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp127a-2-homol-D',"TGTGACTG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp128-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp130-homol-E',"AGGGTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp130-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp132-1-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp132-2-homol-D',"CAGTCACG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp138-homol-D',"CAGTCACG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rpaP1-1-homol-E',"AGGGTAGGGC","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rpaP1-1-homol-D',"TAGTCACG","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rpaP1-3-homol-E',"AGGTTAGGGT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rpaP1-3-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rpaP2-2-homol-E',"ACCCTAACCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rpaP2-2-homol-D',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp-homol-E-CS',"ACCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rp-homol-D-CS',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rpa-homol-E-CS',"ACCCTACCCT","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('rpa-homol-D-CS',"CAGTCACA","Nucleic Acids Res 26: 3319-22 (1998)","YEAST").
+TFD_subseq('UOX-CRE',"CAAAAATGTC","Gene 167: 267-72 (1995)","MAMM").
+TFD_subseq('ExsA_CS',"TNAAAANA","J Bacteriol 177: 4427-36 (1995)","PROK").
+TFD_subseq('AP-2_CS',"TAGAAAGNYCYNG","Biochem Biophys Res Commun 243: 307-16 (1998)","MAMM").
+TFD_subseq('Eno1-RPG',"ACCCAAACACC","Eur J Biochem 184: 305-11 (1989)","YEAST").
+TFD_subseq('forkhead_CS',"GTAAAYA","Mol Cell Biol 18: 2118-29 (1998)","YEAST").
+TFD_subseq('E2F-6_RS',"TTTCCCGC","Oncogene 17: 611-23 (1998)","MAMM").
+TFD_subseq('BRE',"SSRCGCC","Genes Dev 12: 34-44 (1998)","MAMM").
+TFD_subseq('Smad3/Smad4_RS',"GTCTAGAC","Mol Cell 1:  611-7 (1998)","MAMM").
+TFD_subseq('hFAST-1-ARE',"TGTKKATT","Mol Cell 2: 121-7 (1998)","MAMM").
+TFD_subseq('p62TCF_binding_site',"TCGAGGATGTC","Mol Cell Biol 14: 5920-8 (1994)","MAMM").
+TFD_subseq('Smad3-SBE',"AGTATGTCTAGACTGA","Cell 94: 585-94 (1998)","MAMM").
+TFD_subseq('Smad3-SB',"AGTATGTCTCAGATGA","Cell 94: 585-94 (1998)","MAMM").
+TFD_subseq('Ets-1/GABP-hTBP',"GGCGGAAGTG","Nucleic Acids Res 25: 2485-94 (1997)","MAMM").
+TFD_subseq('DMP1_CS',"CCCGKATGT","J Biol Chem 273: 29188-94 (1998)","MAMM").
+TFD_subseq('ovalbumin-NRE-sequence',"TCTCTCCNA","Mol Endocrinol 9: 1113-26 (1995)","AVIAN").
+TFD_subseq('Chirp-I_site',"ACTGTTTGTCAATTC","Mol Cell Biol 16: 2015-24 (1996)","AVIAN").
+TFD_subseq('Abf1-SPT15',"AGCCGTAAATAGTTATCTTCCAAG","Nucleic Acids Res 26: 4186-95 (1998)","YEAST").
+TFD_subseq('ZmHox2a_HD1_CS',"CGCCATGTCCTAATATGC","Nucleic Acids Res 26: 4714-20 (1998)","FISH").
+TFD_subseq('ZmHox2a_HD2_CS',"CGCCATTGATCTGTATGC","Nucleic Acids Res 26: 4714-20 (1998)","FISH").
+TFD_subseq('Hcm1p_CS',"WAAYAAACAAW","Biochim Biophys Acta 1448: 236-44 (1998)","YEAST").
+TFD_subseq('HoxA-5-Smad4',"TTTAAAAATTA","Biochem Biophys Acta 1443: 182-5 (1998)","MAMM").
+TFD_subseq('Hyko-1',"TTCAAAAAAACCTCAAAGATAAAAGAAGCAAACT","Proc Natl Acad Sci U S A 96: 1445-50 (1999)","PLANT").
+TFD_subseq('Hyko-2',"GTTTTTTGTAGCTCTACTTTTTAAAGCCAAGGTAGAG","Proc Natl Acad Sci U S A 96: 1445-50 (1999)","PLANT").
+TFD_subseq('Hyko-3',"TCAGTATAACACAATATTTAAATTATTCG","Proc Natl Acad Sci U S A 96: 1445-50 (1999)","PLANT").
+TFD_subseq('Hyko-4',"TAGGTAGTATACTGGAAAAGTGGC","Proc Natl Acad Sci U S A 96: 1445-50 (1999)","PLANT").
+TFD_subseq('Hyko-5',"CTAACGGCTTTCCATTCTTCTGAACATAACACTTCTTTTTTAA","Proc Natl Acad Sci U S A 96: 1445-50 (1999)","PLANT").
+TFD_subseq('Hyko-6',"AAAGAAAGAAGTCAAAAGCTGTAA","Proc Natl Acad Sci U S A 96: 1445-50 (1999)","PLANT").
+TFD_subseq('Hyko-7',"ATAATATGTAACTTTAAA","Proc Natl Acad Sci U S A 96: 1445-50 (1999)","PLANT").
+TFD_subseq('Hyko-8',"CATCGTTTATATCTCTCGGAAGAAATT","Proc Natl Acad Sci U S A 96: 1445-50 (1999)","PLANT").
+TFD_subseq('Hyko-9',"ATTCGGGTTAGGGTCAGTATATAACATGTTAAATT","Proc Natl Acad Sci U S A 96: 1445-50 (1999)","PLANT").
+TFD_subseq('Hyko-10',"TTATGTTAATGCTTTAAATAAGCTTAAATT","Proc Natl Acad Sci U S A 96: 1445-50 (1999)","PLANT").
+TFD_subseq('Hyko-11',"TTTTCAAAGCACAAAAGAGAATAACAA","Proc Natl Acad Sci U S A 96: 1445-50 (1999)","PLANT").
+TFD_subseq('ATF3/Jun_element',"TTAGTTAC","Cell Growth Differ 8: 913-20 (1997)","MAMM").
+TFD_subseq('E2F4/DP_consensus',"TTTSGCGCS","Genes Dev 13:  666-74 (1999)","MAMM").
+TFD_subseq('pdhR_operator',"AATTGGTAAGACCAATT","Mol Microbiol 15: 519-29 (1995)","PROK").
+TFD_subseq('HNF-1-CS',"RGTTAMTNNTYNNCM","Mol Cell Biol 9:  5189-97 (1989)","MAMM").
+TFD_subseq('Meis-Hoxb1-ARE',"CTTTGTCATGCTAATG","Mol Cell Biol 19: 5134-42 (1999)","MAMM").
+TFD_subseq('Meis-Hoxb2-r4',"GGAGCTGTCA","Mol Cell Biol 19: 5134-42 (1999)","MAMM").
+TFD_subseq('CBF1_CS',"CYGTGGGAAAA","J Virol 68: 5375-83 (1994)","MAMM").
+TFD_subseq('gamma-interferon-BED',"CCCACCAGAATGGC","Mol Cell Biol 16:  4744-53 (1996)","MAMM").
+TFD_subseq('YY1-gamma-interferon-BED',"ATAATGGGT","Mol Cell Biol 16: 4744-53 (1996)","MAMM").
+TFD_subseq('NFAT-gamma-INF',"AGGAAACTC","J Biol Chem 273: 34775-83 (1998)","MAMM").
+TFD_subseq('AP-1-gamma-INF',"AACTACA","J Biol Chem 273: 34775-83 (1998)","MAMM").
+TFD_subseq('NifA_site_(1)',"TGGCGGTTTCGAGACA","J. Bacteriol. 178 (11), 3119-3126 (1996)","PROK").
+TFD_subseq('NifA_site_(2)',"TGTCTGATCGGCGACA","J. Bacteriol. 178 (11), 3119-3126 (1996)","PROK").
+TFD_subseq('Sp1-tyrosinase',"TCGGGGGTGGG","Comp Biochem Physiol B Biochem Mol Biol 113 (2), 269-273 (19","AVIAN").
+TFD_subseq('COUP-TFI/Ear-3/COUP-TFIIA-vHNF',"AGTCCAAAGGTCA","Mol Cell Biol 16: 778-91 (1996)","MAMM").
+TFD_subseq('AP-1_site_5',"TGAGTAA","J Biol Chem 271: 5177-82 (1996)","MAMM").
+TFD_subseq('NF-kB-vimentin',"GGAAAGCCCC","Gene 166 (2), 281-286 (1995)","MAMM").
+TFD_subseq('NF-IL6-vimentin',"TCTTTCCTAA","Gene 166 (2), 281-286 (1995)","MAMM").
+TFD_subseq('(unknown)-Ren1c',"CTGGGGTAATAAA","Thesis (1992)","MAMM").
+TFD_subseq('NF-kB-E-selectin_(1)',"GGATATTCCG","J Immunol 158: 3836-44 (1997)","MAMM").
+TFD_subseq('NF-kB-E-selectin_(2)',"GGGAAACTTT","J Immunol 158: 3836-44 (1997)","MAMM").
+TFD_subseq('NF-kB-E-selectin_(3)',"GGGAATTCCT","J Immunol 158: 3836-44 (1997)","MAMM").
+TFD_subseq('Sp1-YB1',"CCCACC","Nucleic Acids Res 24: 1873-8 (1996)","MAMM").
+TFD_subseq('E2F_site_(2)',"TTTGGCGC","Cell Growth Differ 7: 339-49 (1996)","AVIAN").
+TFD_subseq('HNF-1-guanylin',"GGTTACTGAGTAACC","Am J Physiol 273: G833-41 (1997)","MAMM").
+TFD_subseq('OL1_repressor_site',"TACCACTGGCGGTGATA","J. Mol. Biol. 224 (4), 937-948 (1992)","PROK").
+TFD_subseq('OL3_repressor_site',"AACCATCTGCGGTGATA","J. Mol. Biol. 224 (4), 937-948 (1992)","PROK").
+TFD_subseq('GHF1/Pit1-prl_(1)',"ATAAACAT","Biochem Biophys Res Commun 224: 57-66 (1996)","FISH").
+TFD_subseq('GHF1/Pit1-prl_(2)',"ATGATTTC","Biochem Biophys Res Commun 224: 57-66 (1996)","FISH").
+TFD_subseq('GHF1/Pit1-prl_(3)',"AAAATCAT","Biochem Biophys Res Commun 224: 57-66 (1996)","FISH").
+TFD_subseq('GHF1/Pit1-prl_(4)',"AATACCAT","Biochem Biophys Res Commun 224: 57-66 (1996)","FISH").
+TFD_subseq('GRE-prl',"AGTACATACCTAAGG","Biochem Biophys Res Commun 224: 57-66 (1996)","FISH").
+TFD_subseq('GHF1/Pit1-prl_(5)',"ATGTTTCT","Biochem Biophys Res Commun 224: 57-66 (1996)","FISH").
+TFD_subseq('GHF1/Pit1-prl_(6)',"TTTCTCAT","Biochem Biophys Res Commun 224: 57-66 (1996)","FISH").
+TFD_subseq('GHF1/Pit1-prl_(7)',"TTATGCAT","Biochem Biophys Res Commun 224: 57-66 (1996)","FISH").
+TFD_subseq('GHF1/Pit1-prl_(8)',"ATGCATTC","Biochem Biophys Res Commun 224: 57-66 (1996)","FISH").
+TFD_subseq('CPRF1-CPRF1',"GACACGTGTTCGATGACGTGGT","Mol. Gen. Genet. 251 (6), 619-627 (1996)","PLANT").
+TFD_subseq('GR/PR-connexin43',"AGAACA","J. Biol. Chem. 271 (39), 23667-23674 (1996)","MAMM").
+TFD_subseq('MarR-marR_(1)',"TACTTGCCTGGGCAA","Mol. Microbiol. 22 (2), 367-378 (1996)","PROK").
+TFD_subseq('MarR-marR_(2)',"TACTTGCCGGGGCAACCATTTTGAA","Mol. Microbiol. 22 (2), 367-378 (1996)","PROK").
+TFD_subseq('Sp1-XIST_(1)',"GGCCACGCC","Nucleic Acids Res. 25 (13), 2661-2671 (1997)","MAMM").
+TFD_subseq('Sp1-XIST_(3)',"CCCCCCC","Nucleic Acids Res. 25 (13), 2661-2671 (1997)","MAMM").
+TFD_subseq('YY1-XIST',"GCCATATTT","Nucleic Acids Res. 25 (13), 2661-2671 (1997)","MAMM").
+TFD_subseq('AP-1-IL-3_(2)',"AGAGTCA","Vet Immunol Immunopathol 59: 65-78 (1997)","MAMM").
+TFD_subseq('Elf-1_site',"CCTCACCTGTC","Vet Immunol Immunopathol 59: 65-78 (1997)","MAMM").
+TFD_subseq('NIP_site',"ATCCCCACT","Vet Immunol Immunopathol 59: 65-78 (1997)","MAMM").
+TFD_subseq('NF-IL3_site',"GATGAATAA","Vet Immunol Immunopathol 59: 65-78 (1997)","MAMM").
+TFD_subseq('CD28/_CK1_site',"GAGGTTCCATG","Vet Immunol Immunopathol 59: 65-78 (1997)","MAMM").
+TFD_subseq('CK1_site',"GAGGTTCCAT","Vet Immunol Immunopathol 59: 65-78 (1997)","MAMM").
+TFD_subseq('CK2/_GATA3_site',"TCAGATAA","Vet Immunol Immunopathol 59: 65-78 (1997)","MAMM").
+TFD_subseq('AP-2-IL-3',"TCCCGGGGCACGGG","Vet Immunol Immunopathol 59: 65-78 (1997)","MAMM").
+TFD_subseq('RAP1-PDC_(1)',"GCACCCACCACCC","secondary source db gi|1655908:gb|U65927","FUNGI").
+TFD_subseq('RAP1-PDC_(2)',"CAACCCCACCAGC","secondary source db gi|1655908:gb|U65927","FUNGI").
+TFD_subseq('RAP1-PDC_(3)',"GCAGCCATGCATC","secondary source db gi|1655908:gb|U65927","FUNGI").
+TFD_subseq('RAP1/_GCR1-_PDC',"GCACACCTTCCTT","secondary source db gi|1655908:gb|U65927","FUNGI").
+TFD_subseq('Q9-ISRE',"CCAGTTTCACTTCTGCTCCTAACCTGGGTC","Immunogenetics 45 (2), 97-107 (1996)","MAMM").
+TFD_subseq('pax6-Rh5',"TAATTAGATTC","Peptides 18 (5), 617-624 (1997)","DROS").
+TFD_subseq('Sp1-Ku80_(3)',"TCCCGCCCG","Gene 199: 181-94 (1997)","MAMM").
+TFD_subseq('Oct3-Ayu1',"TTAAAATACT","secondary source db: gi:gb|1834286","MAMM").
+TFD_subseq('HNF-3-HNF3-alpha',"TTTGTAAACAAAG","Cell Growth Differ 8, 69-82 (1997)","MAMM").
+TFD_subseq('unknown-HNF3-alpha_(2)',"GTTTGGGGGAGGGG","Cell Growth Diff 8, 69-82 (1997)","MAMM").
+TFD_subseq('TTF-HNF3alpha',"GGGCACTCCAG","Cell Growth Diff 8, 69-82 (1997)","MAMM").
+TFD_subseq('unknown-HNF3-alpha_(3)',"CCGGGTGGCGC","Cell Growth Diff 8, 69-82 (1997)","MAMM").
+TFD_subseq('unknown-HNF3-alpha_(1)',"GTGGCGCTGAGCCCT","Cell Growth Diff 8, 69-82 (1997)","MAMM").
+TFD_subseq('NF-1/_TTF1-HNF3alpha',"GCCCTCGAGCGC","Cell Growth Diff 8, 69-82 (1997)","MAMM").
+TFD_subseq('HNF-4-HNF-1',"AGATGGGGACAAAGTTCACAGAAA","Gene 175: 35-41 (1996)","FISH").
+TFD_subseq('MT-I-MRE-e',"GCTGTGCACGC","Biochim Biophys Acta 1262: 150-4 (1995)","MAMM").
+TFD_subseq('MT-I-MRE-d',"GCTCTGCACCCC","Biochim Biophys Acta 1262: 150-4 (1995)","MAMM").
+TFD_subseq('MT-I-MRE-c',"ACGGAGCGCTCG","Biochim Biophys Acta 1262: 150-4 (1995)","MAMM").
+TFD_subseq('MT-I-MRE-b',"TGTGTGCAAA","Biochim Biophys Acta 1262: 150-4 (1995)","MAMM").
+TFD_subseq('MT-I-MRE-a',"CTCTGCGCCCGGA","Biochim Biophys Acta 1262: 150-4 (1995)","MAMM").
+TFD_subseq('HNF-1-XORF',"GTTAATCATTA","Hepatology 25 (6), 1507-1515 (1997)","MAMM").
+TFD_subseq('HNF-1-HBV',"GTTAATCATTA","Hepatology 25 (6), 1507-1515 (1997)","MAMM").
+TFD_subseq('HNF-1-HBV_(2)',"GTTAATCATTA","Hepatology 25 (6), 1507-1515 (1997)","MAMM").
+TFD_subseq('HNF-1-XORF_(2)',"GTTAATCATTA","Hepatology 25 (6), 1507-1515 (1997)","MAMM").
+TFD_subseq('HNF-1-XORF_(3)',"GTTAATCATTA","Hepatology 25 (6), 1507-1515 (1997)","MAMM").
+TFD_subseq('Myb-tom-1A_(1)',"CAGTTA","EMBO J 16: 1371-80 (1997)","AVIAN").
+TFD_subseq('Myb-tom-1A_(2)',"CCGTTG","EMBO J 16: 1371-80 (1997)","AVIAN").
+TFD_subseq('C/EBP-tom-1A',"TGGCGCAAT","EMBO J 16: 1371-80 (1997)","AVIAN").
+TFD_subseq('Myb-tom-1A_(3)',"TAACGG","EMBO J 16: 1371-80 (1997)","AVIAN").
+TFD_subseq('Bicoid-GATA-1_(1)',"TTTAATCCC","J. Biochem. 121, 251-263 (1997)","MAMM").
+TFD_subseq('(unknown)-GATA-1',"CTGGACTC","J. Biochem. 121, 251-263 (1997)","MAMM").
+TFD_subseq('Bicoid-GATA-1_(2)',"CTTAATCCC","J. Biochem. 121, 251-263 (1997)","MAMM").
+TFD_subseq('(unknown)-GATA-1_2',"CTGGACTC","J. Biochem. 121, 251-263 (1997)","MAMM").
+TFD_subseq('Sp1-COX10_(5)',"GCCCGC","Genomics 42: 161-4 (1997)","MAMM").
+TFD_subseq('Sp1-COX10_(6)',"GCCCGC","Genomics 42: 161-4 (1997)","MAMM").
+TFD_subseq('Sp1-COX10_(7)',"GCCCGC","Genomics 42: 161-4 (1997)","MAMM").
+TFD_subseq('Sp1-COX10_(8)',"AGGGGGGCGGG","Genomics 42: 161-4 (1997)","MAMM").
+TFD_subseq('NF-1-COX10_(1)',"TATGGCCGCATCTCC","Genomics 42: 161-4 (1997)","MAMM").
+TFD_subseq('Sp1-COX10_(1)',"GCCCGC","Genomics 42: 161-4 (1997)","MAMM").
+TFD_subseq('Sp1-COX10_(2)',"GCCCGC","Genomics 42: 161-4 (1997)","MAMM").
+TFD_subseq('Sp1-COX10_(3)',"GCCCGC","Genomics 42: 161-4 (1997)","MAMM").
+TFD_subseq('Sp1-COX10_(4)',"AGGGGGGCGGG","Genomics 42: 161-4 (1997)","MAMM").
+TFD_subseq('NF-1-COX10_(2)',"TATGGCCGCATCTCC","Genomics 42: 161-4 (1997)","MAMM").
+TFD_subseq('Pu1/SpiB_site',"GTGGAGGAAGAG","Gene 197 (1-2), 177-187 (1997)","MAMM").
+TFD_subseq('(unknown)-90K',"GAAATCGAAAGT","Genomics 57 (2), 268-278 (1999)","MAMM").
+TFD_subseq('C/EBP_site_(2)',"TTGCGCAAG","J. Biol. Chem. 270 (46), 27728-27733 (1995)","MAMM").
+TFD_subseq('CaFA_site',"TTGCGG","Brain Res Mol Brain Res 20: 9-20 (1993)","MAMM").
+TFD_subseq('RAR-Shh_(1)',"GGTTCA","EMBO J. 16 (13), 3955-3964 (1997)","FISH").
+TFD_subseq('RAR-Shh_(2)',"GGGTCA","EMBO J. 16 (13), 3955-3964 (1997)","FISH").
+TFD_subseq('HNF-3b-Shh_(1)',"TGTTTT","EMBO J. 16 (13), 3955-3964 (1997)","FISH").
+TFD_subseq('HNF-3b-Shh_(2)',"ATAACA","EMBO J. 16 (13), 3955-3964 (1997)","FISH").
+TFD_subseq('goosecoid-brachyury',"GATTAG","Mech Dev 65: 187-96 (1997)","AMPHIB").
+TFD_subseq('Sp1-Vdac1',"CTCCGCCC","J Biol Chem 272: 18966-73 (1997)","MAMM").
+TFD_subseq('Sp1-Vdac2',"CCTCGCCTC","J Biol Chem 272: 18966-73 (1997)","MAMM").
+TFD_subseq('AP-2-phospholipase_C_gamma1(1)',"CCCATGCG","J. Biol. Chem. 272 (10), 6573-6577 (1997)","MAMM").
+TFD_subseq('AP-2-phospholipase_C_gamma1(2)',"CCCCGCGC","J. Biol. Chem. 272 (10), 6573-6577 (1997)","MAMM").
+TFD_subseq('AP-2-phospholipase_C_gamma1(3)',"CCGCAGGC","J. Biol. Chem. 272 (10), 6573-6577 (1997)","MAMM").
+TFD_subseq('AP-2-phospholipase_C_gamma1(4)',"GGCAGCCC","J. Biol. Chem. 272 (10), 6573-6577 (1997)","MAMM").
+TFD_subseq('AP-2/_Sp1-phospholipase_C_gamm',"CCCCCGCC","J. Biol. Chem. 272 (10), 6573-6577 (1997)","MAMM").
+TFD_subseq('AP-2-phospholipase_C_gamma1(5)',"CCGCCATCGC","J. Biol. Chem. 272 (10), 6573-6577 (1997)","MAMM").
+TFD_subseq('AP-2-phospholipase_C_gamma1(6)',"TCCCCACGGG","J. Biol. Chem. 272 (10), 6573-6577 (1997)","MAMM").
+TFD_subseq('AP-2-phospholipase_C_gamma1(7)',"CCCCACGG","J. Biol. Chem. 272 (10), 6573-6577 (1997)","MAMM").
+TFD_subseq('AP-2-phospholipase_C_gamma1(8)',"CCCACGGG","J. Biol. Chem. 272 (10), 6573-6577 (1997)","MAMM").
+TFD_subseq('AP-2-phospholipase_C_gamma1(9)',"GGCAGCCC","J. Biol. Chem. 272 (10), 6573-6577 (1997)","MAMM").
+TFD_subseq('SP1/_AP2-phospholipase_C_gamma',"CCCCGCCG","J. Biol. Chem. 272 (10), 6573-6577 (1997)","MAMM").
+TFD_subseq('AP2/_Sp1-VGF_(1)',"TCCCCTCCCC","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('IL6RP-VGF_(1)',"CTGGGAAGA","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('IL6RP-VGF_(2)',"CTGGGAA","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('Sp1-VGF_(1)',"AGGGAGG","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('Sp1-VGF_(2)',"GGGGAGGACCGTTTCTGAAAGAGTCTCTAAGACCCTGACAGACAG","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('AP-2-VGF_(1)',"TCCCCCCCCC","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('AP-2-VGF_(2)',"GTCTCCCTT","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('AP-2-VGF_(3)',"CCCCCACCCC","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('AP-2-VGF_(4)',"CCCCCAGCCC","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('AP2/_Sp1-VGF_(2)',"TCCCCCTCCC","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('AP-2-VGF_(5)',"CCCCCCCCCC","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('AP-2/_Sp1-VGF',"GGGGAGGGGA","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('NF-KB-VGF',"GGGACTACCC","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('AP-2_VGF',"TTTTCTATTC","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('AP-2/_Sp1-_VGF',"CCCCCCGCCC","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('AP2GC_VGF_(1)',"CCCCAGCGCGCAGG","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('Sp1_VGF',"CGGGCGGCCGCCCG","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('AP2GC_VGF_(2)',"CCCCGCGCGC","J. Neurochem. 68 (4), 1390-1399 (1997)","MAMM").
+TFD_subseq('AP-2-thrombomodulin',"GCCTTGGCGAGCCTGCCCCCCCCCTGCCGGCCT","DNA Res 6: 57-62 (1999)","MAMM").
+TFD_subseq('AP-1_site_1',"CTAGTCA","DNA Seq. 10 (1), 55-60 (1999)","MAMM").
+TFD_subseq('HNF-3-EGFR',"TGTTTGC","Gene 250: 191-200 (2000)","MAMM").
+TFD_subseq('AP-4/E1247-EGFR',"CAAGTG","Gene 250: 191-200 (2000)","MAMM").
+TFD_subseq('C/EBP-cyclinD2',"TGTGGCAAGTC","Mol. Cells 7 (4), 537-543 (1997)","MAMM").
+TFD_subseq('AP-2-cyclinD2',"GGCTGGCC","Mol. Cells 7 (4), 537-543 (1997)","MAMM").
+TFD_subseq('AP-1-cyclinD2',"TGAATAA","Mol. Cells 7 (4), 537-543 (1997)","MAMM").
+TFD_subseq('v-Myb-cyclinD2',"TAACTG","Mol. Cells 7 (4), 537-543 (1997)","MAMM").
+TFD_subseq('AP-2-cyclinD2',"CCCCCCCG","Mol. Cells 7 (4), 537-543 (1997)","MAMM").
+TFD_subseq('LEF1_site',"CTTTGAAGA","Proc. Natl. Acad. Sci. U.S.A. 94:13069-13074 (1997)","MAMM").
+TFD_subseq('CREB/ATF_site',"TTCGTCA","Peptides 18 (6), 817-824 (1997)","FISH").
+TFD_subseq('p53_site',"GTAGCATTAGCCCAGACATGTCC","Mol. Cell 1 (1), 3-11 (1997)","MAMM").
+TFD_subseq('Sp1-prosaponin',"GGGGTGGGGTGGGGTGGGGGAG","DNA Cell Biol. 16 (1), 23-34 (1997)","MAMM").
+TFD_subseq('ROR-alpha_site',"CTGACCTTGATTT","DNA Cell Biol. 16 (1), 23-34 (1997)","MAMM").
+TFD_subseq('AP1HLH-rpIgR',"TCACGT","DNA Cell Biol. 16 (2), 215-225 (1997)","MAMM").
+TFD_subseq('HNF-3_site_(2)',"TGTTTGC","Genomics 49 (2), 253-264 (1998)","MAMM").
+TFD_subseq('AP4/E1247_site',"CAAGTG","Genomics 49 (2), 253-264 (1998)","MAMM").
+TFD_subseq('HNF-1-SGLT1',"GGCTGATCATTAACT","J. Biol. Chem. (1998) In press","MAMM").
+TFD_subseq('Ets_site_(3)',"GTCCTT","J. Biol. Chem. 273 (4), 2207-2213 (1998)","MAMM").
+TFD_subseq('Ets_site_(4)',"GTCCTT","J. Biol. Chem. 273 (4), 2207-2213 (1998)","MAMM").
+TFD_subseq('RAP1_site',"TACCCATACAAC","Yeast 15, 361-370 (1999)","YEAST").
+TFD_subseq('PU1/Spi1_site',"AAGGGAAG","J. Biol. Chem. 273 (9), 5389-5399 (1998)","MAMM").
+TFD_subseq('PurR-purC',"ATTTCCGAACATT","J. Bacteriol. 180 (15), 3900-3906 (1998)","PROK").
+TFD_subseq('PurR-purC',"AAAACCGAACAAT","J. Bacteriol. 180 (15), 3900-3906 (1998)","PROK").
+TFD_subseq('E2F-E2F-1',"GATTTGGCGCGCAA","Oncogene 17 (5), 585-594 (1998)","AVIAN").
+TFD_subseq('AP-2-Bfsp1',"GCCAGGCC","Gene 214 (1-2), 77-86 (1998)","MAMM").
+TFD_subseq('GATA1_site',"CCCGATGCCC","Gene 214 (1-2), 77-86 (1998)","MAMM").
+TFD_subseq('Sox2_site',"TCATTGTTGGG","Gene 214 (1-2), 77-86 (1998)","MAMM").
+TFD_subseq('AlphaCE2Maf-Bfsp1',"TGCTGAC","Gene 214 (1-2), 77-86 (1998)","MAMM").
+TFD_subseq('NFE1_site',"CCTATCTC","J. Biol. Chem. 264 (34), 20407-20414 (1989)","MAMM").
+TFD_subseq('Ets-WASP',"GCATTTCCTGTTCCCT","Blood 91 (12), 4554-4560 (1998)","MAMM").
+TFD_subseq('Ets/c-Rel-WASP',"TTGCGGAAGTTCC","Blood 91 (12), 4554-4560 (1998)","MAMM").
+TFD_subseq('Ets/cRel/PU1-WASP',"AAGTTCCTCT","Blood 91 (12), 4554-4560 (1998)","MAMM").
+TFD_subseq('Tcf-matrilysin',"ATCAAAG","Oncogene 18: 2883-91 (1999)","MAMM").
+TFD_subseq('NF-Kb-p62',"GGGGGTTCC","FEBS Lett 435: 138-142 (1998)","MAMM").
+TFD_subseq('NF-Kb/Ets1-p62',"CCGCCGCG","FEBS Lett 435: 138-142 (1998)","MAMM").
+TFD_subseq('AP-2-p62',"GGGAGGCC","FEBS Lett 435: 138-142 (1998)","MAMM").
+TFD_subseq('c-Myc-p62',"GGGGGCCACGTG","FEBS Lett 435: 138-142 (1998)","MAMM").
+TFD_subseq('Ets1-p62',"CGGATGCA","FEBS Lett 435: 138-142 (1998)","MAMM").
+TFD_subseq('MBF-p62',"TGCGCAC","FEBS Lett 435: 138-142 (1998)","MAMM").
+TFD_subseq('C/EBP-p62',"CCTACTC","FEBS Lett 435: 138-142 (1998)","MAMM").
+TFD_subseq('NF1-p62',"CTGGACCCC","FEBS Lett 435: 138-142 (1998)","MAMM").
+TFD_subseq('AP-2-p62',"AGCCCAGG","FEBS Lett. 435 (2-3), 138-142 (1998)","MAMM").
+TFD_subseq('Sp1-p62',"AGGGCGGC","FEBS Lett. 435 (2-3), 138-142 (1998)","MAMM").
+TFD_subseq('Sp1-a1p-inhibitor_(1)',"GGGCCACTGGCA","J. Biol. Chem. 273 (16), 9959-9965 (1998)","MAMM").
+TFD_subseq('Sp1-a1p-inhibitor_(2)',"ATCCCTATCCAGCCCATA","J. Biol. Chem. 273 (16), 9959-9965 (1998)","MAMM").
+TFD_subseq('Sp1-a1p-inhibitor_(3)',"ATGCATTTCCTCTGGGGGGATCAGCCC","J. Biol. Chem. 273 (16), 9959-9965 (1998)","MAMM").
+TFD_subseq('Sp1-a1p-inhibitor_(4)',"ACCACAA","J. Biol. Chem. 273 (16), 9959-9965 (1998)","MAMM").
+TFD_subseq('Sp1-a1p-inhibitor_(5)',"CCCTTCCTCCC","J. Biol. Chem. 273 (16), 9959-9965 (1998)","MAMM").
+TFD_subseq('Sp1-a1p-inhibitor_(6)',"AGGGCGGGGGCTGAG","J. Biol. Chem. 273 (16), 9959-9965 (1998)","MAMM").
+TFD_subseq('Sp1-a1p-inhibitor_(7)',"GCTCCCACCCATGCTTTTTTCA","J. Biol. Chem. 273 (16), 9959-9965 (1998)","MAMM").
+TFD_subseq('Sp1-a1p-inhibitor_(9)',"AGGAGGGCGAGG","J. Biol. Chem. 273 (16), 9959-9965 (1998)","MAMM").
+TFD_subseq('(unknown)-Smad4',"TTTCTCAGACAGTCTGTCTGCC","J. Biol. Chem. 273 (33), 21145-21152 (1998)","MAMM").
+TFD_subseq('(CREB/ATF)_site',"CCCTTCACCCACCTAGCTCTGTCCCGCAG","J. Biol. Chem. 264 (13), 7357-7362 (1989)","MAMM").
+TFD_subseq('(unknown)_site_1',"GCAAATCAGCCTATTCATTGTAATTTTTAGTAGTTATAAAGTATT","J. Bacteriol. 181 (2), 541-551 (1999)","PROK").
+TFD_subseq('unknown_site',"TTGACTTAAATTAA","J. Bacteriol. 181 (2), 541-551 (1999)","PROK").
+TFD_subseq('STAT_site_(1)',"TTCAGGGAA","J. Biol. Chem. 274 (3), 1366-1374 (1999)","MAMM").
+TFD_subseq('STAT_site_(2)',"TTCACCTGAA","J. Biol. Chem. 274 (3), 1366-1374 (1999)","MAMM").
+TFD_subseq('Rb-CAMLG',"GCCACGC","secondary source db: gi:gb|AF078112","MAMM").
+TFD_subseq('PEA3-CAMLG',"CTTCCT","secondary source db: gi:gb|AF078112","MAMM").
+TFD_subseq('E2A-CAMLG',"GCAGCTG","secondary source db: gi:gb|AF078112","MAMM").
+TFD_subseq('ANF-CAMLG',"CTTGAACTGG","secondary source db: gi:gb|AF078112","MAMM").
+TFD_subseq('ANF/_p53-CAMLG',"GGGCTTGCCC","secondary source db: gi:gb|AF078112","MAMM").
+TFD_subseq('bicoid-CAMLG',"GGATTACA","secondary source db: gi:gb|AF078112","MAMM").
+TFD_subseq('Oct_site_(2)',"ATTTGCTG","Oncogene 6: 523-32 (1991)","MAMM").
+TFD_subseq('Oct_site_(3)',"CTGCAAAT","Oncogene 6: 523-32 (1991)","MAMM").
+TFD_subseq('bHLH-Mlsn1',"AGTCATGTGGG","Oncogene 6: 523-32 (1991)","MAMM").
+TFD_subseq('Ets1-Fgf8',"CAGGAAGT","J. Biol. Chem. 274 (9), 6020-6026 (1999)","MAMM").
+TFD_subseq('Msx2-Fgf8',"TAATTGC","J. Biol. Chem. 274 (9), 6020-6026 (1999)","MAMM").
+TFD_subseq('GAGA_site',"AAGAGAG","J. Biol. Chem. 273 (41), 26571-26579 (1998)","AVIAN").
+TFD_subseq('HiNF-A_site',"ACATTTCT","J. Biol. Chem. 273 (41), 26571-26579 (1998)","AVIAN").
+TFD_subseq('GATA_site_(2)',"AGATATCTCAGATA","J. Biol. Chem. 273 (41), 26571-26579 (1998)","AVIAN").
+TFD_subseq('Ebox_site',"CAGCTG","J. Biol. Chem. 273 (41), 26571-26579 (1998)","AVIAN").
+TFD_subseq('Oct_site_(1)',"TTTGCATGCTTT","J. Biol. Chem. 273 (41), 26571-26579 (1998)","AVIAN").
+TFD_subseq('NF-1_site',"CGGCCTCATGCCA","J. Biol. Chem. 273 (41), 26571-26579 (1998)","AVIAN").
+TFD_subseq('Ets_site_(1)',"CCTTCCC","J. Biol. Chem. 273 (41), 26571-26579 (1998)","AVIAN").
+TFD_subseq('Ets_site_(2)',"GCTTCCTG","J. Biol. Chem. 273 (41), 26571-26579 (1998)","AVIAN").
+TFD_subseq('Ebox_protein/_ATF/CREB_site',"GTGACGCA","J. Biol. Chem. 273 (41), 26571-26579 (1998)","AVIAN").
+TFD_subseq('E2F_site_(3)',"TTGGCGC","J. Biol. Chem. 273 (41), 26571-26579 (1998)","AVIAN").
+TFD_subseq('INR/YY1/TFII-I_site',"CCGCCGCCATTTTGTGTC","J. Biol. Chem. 273 (41), 26571-26579 (1998)","AVIAN").
+TFD_subseq('E2F_site_(4)',"CTTCGCGG","J. Biol. Chem. 273 (41), 26571-26579 (1998)","AVIAN").
+TFD_subseq('NF-kappaB-APP',"TCATAATAGT","Gene 217, 151-164 (1998)","MAMM").
+TFD_subseq('AP-2-APP',"GCCCAGGT","Gene 217, 151-164 (1998)","MAMM").
+TFD_subseq('USF-APP',"CAGCTG","Gene 217, 151-164 (1998)","MAMM").
+TFD_subseq('AP-1-IHABP',"TGAGTAA","Gene 226: 41-50 (1999)","MAMM").
+TFD_subseq('E2F_site_(5)',"GGCCAAAATT","J. Biol. Chem. 273 (36), 23248-23257 (1998)","MAMM").
+TFD_subseq('E2F_site_(6)',"ATTAAAAG","J. Biol. Chem. 273 (36), 23248-23257 (1998)","MAMM").
+TFD_subseq('GATA-2_site',"ACGCGA","J. Biol. Chem. 273 (36), 23248-23257 (1998)","MAMM").
+TFD_subseq('E2F_site_(7)',"TCCCGGG","J. Biol. Chem. 273 (36), 23248-23257 (1998)","MAMM").
+TFD_subseq('E2F_site_(8)',"CCGCAAAT","J. Biol. Chem. 273 (36), 23248-23257 (1998)","MAMM").
+TFD_subseq('E2F_site_(9)',"TTGCGC","J. Biol. Chem. 273 (36), 23248-23257 (1998)","MAMM").
+TFD_subseq('AP-2-HADHSC_(1)',"CGCCAGCCG","Mamm. Genome 9 (9), 763-768 (1998)","MAMM").
+TFD_subseq('AP-2-HADHSC_(2)',"GGGCTCCGG","Mamm. Genome 9 (9), 763-768 (1998)","MAMM").
+TFD_subseq('AP-2-HADHSC_(3)',"CGGGGACGC","Mamm. Genome 9 (9), 763-768 (1998)","MAMM").
+TFD_subseq('Sp1-calpain_(1)',"CCTGGAGG","Biochim. Biophys. Acta 1388 (1), 247-252 (1998)","MAMM").
+TFD_subseq('Sp1-calpain_(2)',"CCGGCCCCGC","Biochim. Biophys. Acta 1388 (1), 247-252 (1998)","MAMM").
+TFD_subseq('Sp1-calpain_(3)',"CCCGAA","Biochim. Biophys. Acta 1388 (1), 247-252 (1998)","MAMM").
+TFD_subseq('IHF-nifH',"CGCCGGAATCATGTCCGATATGGCGGAAAAAGGAAAAAGATCCCC","secondary source db gi:gb|U78044","PROK").
+TFD_subseq('AP-1_-IL-1',"AAGCCTGACTCAGACTT","Mol Cell Endocrinol 152: 21-35 (1999)","MAMM").
+TFD_subseq('AP-1-GAD67',"TGATTAA","secondary source db: gi:gb|AF110132","MAMM").
+TFD_subseq('cyclin-D2-prolactin-RE',"TCTACTTTTACGTTATGGGAGTTCATCCACATGTTAAATAAATCT","Biochem Mol Biol Int 43: 749-54 (1997)","MAMM").
+TFD_subseq('AP-1-CCR1_2',"TGATTAA","secondary source db: gi:gb|AF051305","MAMM").
+TFD_subseq('c-Myb/_NFIL6-CCR1',"TGGAGCAATT","secondary source db: gi:gb|AF051305","MAMM").
+TFD_subseq('Sp1-CCR1',"GGGCGT","secondary source db: gi:gb|AF051305","MAMM").
+TFD_subseq('NF-IL6-CCR1_(1)',"TTTTGAAAG","secondary source db: gi:gb|AF051305","MAMM").
+TFD_subseq('NF-kappaB-CCR1_(1)',"GGGCTCCTC","secondary source db: gi:gb|AF051305","MAMM").
+TFD_subseq('NF-IL6-CCR1_(2)',"TGTAGCAAT","secondary source db: gi:gb|AF051305","MAMM").
+TFD_subseq('AP-1-CCR1_1',"TGATTAA","secondary source db: gi:gb|AF051305","MAMM").
+TFD_subseq('NF-kappaB-CCR1_(2)',"GGGAGTTTC","secondary source db: gi:gb|AF051305","MAMM").
+TFD_subseq('alphaPal-EIF2S2',"TGCGCAGGCGCA","J. Biol. Chem. 274 (7), 4195-4201 (1999)","MAMM").
+TFD_subseq('AP-1_site_2',"TTAGTCA","Eur J Biochem 224: 273-9 (1994)","MAMM").
+TFD_subseq('AP-1_site_3',"CTTCCT","Eur J Biochem 224: 273-9 (1994)","MAMM").
+TFD_subseq('AP-2-TBXAS1',"TGGGGA","Eur J Biochem 224: 273-9 (1994)","MAMM").
+TFD_subseq('PEA3_site',"CTTCCT","Eur J Biochem 224: 273-9 (1994)","MAMM").
+TFD_subseq('AP-2-TBXAS1_(2)',"GCCAGCCC","Eur J Biochem 224: 273-9 (1994)","MAMM").
+TFD_subseq('AP-1_site_4',"GTGAGTAT","Eur J Biochem 224: 273-9 (1994)","MAMM").
+TFD_subseq('PEA3_site_(2)',"TTTCCT","Eur J Biochem 224: 273-9 (1994)","MAMM").
+TFD_subseq('RAR-D2_receptor',"TGGCCAGGGTGACC","Eur. J. Biochem. 220 (2), 577-584 (1994)","MAMM").
+TFD_subseq('p107-E2F_site',"TTTTCGCGC","secondary source db: gi:gb|4454294","MAMM").
+TFD_subseq('TFEC-PU.1_site',"ATAAAATTCAGGAAATAGTCTTAA","J Immunol 162: 1559-65 (1999)","MAMM").
+TFD_subseq('TFEC-PU.1_site_(2)',"TCATTTCTTCTTCCTTAACTGAAA","J Immunol 162: 1559-65 (1999)","MAMM").
+TFD_subseq('TFEC-PU.1_site_(3)',"CCAGAGTCCAGGAAATGCCCTAAT","J Immunol 162: 1559-65 (1999)","MAMM").
+TFD_subseq('TFEC-PU.1_site_(4)',"TCTCTTTTCTCCTTCCTCAACTAA","J Immunol 162: 1559-65 (1999)","MAMM").
+TFD_subseq('MyoD_site',"CAATTG","FEBS Lett. 335 (1), 41-46 (1993)","AMPHIB").
+TFD_subseq('NF-kB_site_(3)',"TCCCAGGTTT","Genes Dev. 13 (4), 400-411 (1999)","MAMM").
+TFD_subseq('Sp1-alpha-dystrobrevin_(1)',"GTGGGGGTGGGG","J. Biol. Chem. 274 (10), 6250-6258 (1999)","MAMM").
+TFD_subseq('Sp1-alpha-dystrobrevin_(2)',"AGCCTGCCAT","J. Biol. Chem. 274 (10), 6250-6258 (1999)","MAMM").
+TFD_subseq('CreA_site_(1)',"CCGGGG","Gene 145 (2), 179-187 (1994)","FUNGI").
+TFD_subseq('CreA_site_(2)',"CCGGGG","Gene 145 (2), 179-187 (1994)","FUNGI").
+TFD_subseq('CreA_site_(3)',"CCGGGG","Gene 145 (2), 179-187 (1994)","FUNGI").
+TFD_subseq('CreA_site_(4)',"CCGGGGG","Gene 145 (2), 179-187 (1994)","FUNGI").
+TFD_subseq('AreA-hxB_(1)',"CGATAA","Mol Microbiol 31: 1065-1073 (1999)","FUNGI").
+TFD_subseq('UaY-hxB_(1)',"GTCGGGGCCG","Mol Microbiol 31: 1065-1073 (1999)","FUNGI").
+TFD_subseq('UaY-hxB_(2)',"CGGCAACCTCCG","Mol Microbiol 31: 1065-1073 (1999)","FUNGI").
+TFD_subseq('UaY/_AreA-hxB',"CGATAA","Mol Microbiol 31: 1065-1073 (1999)","FUNGI").
+TFD_subseq('AreA-hxB_(2)',"CGATAA","Mol Microbiol 31: 1065-1073 (1999)","FUNGI").
+TFD_subseq('sigma22-algD',"GAACTAAATACGAATTCATACGCTCCTA","J. Bacteriol. 181 (11), 3478-3485 (1999)","PROK").
+TFD_subseq('NF-kappaB-MMP9',"GGAATTCCCC","Cell Growth Differen 10: 353-67 (1999)","MAMM").
+TFD_subseq('Sp1-c-jun_(2)',"GGGCCCGCCCCCC","Nucleic Acids Res 19: 1585-91 (1991)","MAMM").
+TFD_subseq('CTF/NF1_site_(1)',"CTGGCCTCAAG","Gene 208 (1), 17-24 (1998)","MAMM").
+TFD_subseq('CTF/NF1_site_(2)',"TGGATAGGAAG","Gene 208 (1), 17-24 (1998)","MAMM").
+TFD_subseq('Sp1-complement_factor_I',"CAGCCCC","Gene 208 (1), 17-24 (1998)","MAMM").
+TFD_subseq('AP-1_site_6',"TTGGTCA","Gene 208 (1), 17-24 (1998)","MAMM").
+TFD_subseq('AP-2/_Sp1_site',"CCTCCC","Gene 208 (1), 17-24 (1998)","MAMM").
+TFD_subseq('CTF/NF1_site_(3)',"TGGATTTCAGCCAAA","Gene 208 (1), 17-24 (1998)","MAMM").
+TFD_subseq('AP-1-c-jun-2',"TCAGTCA","secondary source db: gi:gb|52764","MAMM").
+TFD_subseq('CREB/ATF-c-jun',"AGACGTCA","secondary source db: gi:gb|52764","MAMM").
+TFD_subseq('Sp1-CD53',"GAGGGCGGACT","secondary source db: gi:gb|5304887","MAMM").
+TFD_subseq('IL2R-PEA-3',"ACACTTCCTC","J Biol Chem 270: 7479-7486 (1995)","MAMM").
+TFD_subseq('IL2R-GT-box',"CTAAGGGTGGG","J Biol Chem 270: 7479-7486 (1995)","MAMM").
+TFD_subseq('IL2R-Ets',"CCGGAAGC","J Biol Chem 270: 7479-7486 (1995)","MAMM").
+TFD_subseq('hGamma-C-EBS',"TTTCCACCGGAAGCTATGACAGAGGAAACGTGT","J Biol Chem 271: 14849-55 (1996)","MAMM").
+TFD_subseq('mGamma-C-EBS',"TTTCCACCGGAAGCTACGACAAAGGAAATGTAT","J Biol Chem 271: 14849-55 (1996)","MAMM").
+TFD_subseq('NF-kB-galanin_(1)',"TGGGGGCTCTCC","DNA Cell Biol. 13 (8), 845-855 (1994)","MAMM").
+TFD_subseq('NF-kB-galanin_(2)',"TGGGGGCTCTCC","DNA Cell Biol. 13 (8), 845-855 (1994)","MAMM").
+TFD_subseq('AP-2-mEH',"TTGGGGAT","Cancer Res. 50 (19), 6222-6228 (1990)","MAMM").
+TFD_subseq('TTF-TPO-1',"CTATGAGT","Mol Cell Biol 12: 576-88 (1992)","MAMM").
+TFD_subseq('TTF-TPO-2',"ACTTGGCA","Mol Cell Biol 12: 576-88 (1992)","MAMM").
+TFD_subseq('TTF-TPO-3',"CTAAACAAACA","Mol Cell Biol 12: 576-88 (1992)","MAMM").
+TFD_subseq('TTF-TPO-4',"GCTTGAGT","Mol Cell Biol 12: 576-88 (1992)","MAMM").
+TFD_subseq('LFA1-albumin',"TTGACC","Biochem. Biophys. Res. Commun. 203 (3), 1447-1456 (1994)","MAMM").
+TFD_subseq('eHTF-albumin',"TGTTTGCCA","Biochem. Biophys. Res. Commun. 203 (3), 1447-1456 (1994)","MAMM").
+TFD_subseq('HNF-1-albumin_(1)',"TAGTTAATAATCTACA","Biochem. Biophys. Res. Commun. 203 (3), 1447-1456 (1994)","MAMM").
+TFD_subseq('AP-2-p68-c-rel',"GCGCAGGCCCAGGC","Oncogene 6 (12), 2203-2210 (1991)","AVIAN").
+TFD_subseq('NFLB-p68-c-rel',"CGGGAAATTCCC","Oncogene 5: 1843-50 (1990)","AVIAN").
+TFD_subseq('NFLB/_HIP1-p68-c-rel',"AAATTCCCCCCCCCCCCCCCGAGTAGGGTGGTGAGCGGGTGGAGA","Oncogene 5: 1843-50 (1990)","AVIAN").
+TFD_subseq('AP-1-involucrin-H2',"TGCCTCA","J Biol Chem 271: 512-20 (1996)","MAMM").
+TFD_subseq('AP-1-involucrin_2',"TGACCAA","J Biol Chem 271: 512-20 (1996)","MAMM").
+TFD_subseq('AP-1-involucrin_3',"TGAAACC","J Biol Chem 271: 512-20 (1996)","MAMM").
+TFD_subseq('HNF5-erk1',"TATTTGT","J. Biol. Chem. 270 (45), 26986-26992 (1995)","MAMM").
+TFD_subseq('p53-erk1_(2)',"GGGCTTGCTT","J. Biol. Chem. 270 (45), 26986-26992 (1995)","MAMM").
+TFD_subseq('NF-IL6-erk1_(1)',"TGAAGGAAT","J. Biol. Chem. 270 (45), 26986-26992 (1995)","MAMM").
+TFD_subseq('NF-IL6-erk1_(2)',"TGTGGCAAT","J. Biol. Chem. 270 (45), 26986-26992 (1995)","MAMM").
+TFD_subseq('Ets1-erk1',"GGAGGATG","J. Biol. Chem. 270 (45), 26986-26992 (1995)","MAMM").
+TFD_subseq('p53-erk1_(1)',"TGGGGCTAGCC","J. Biol. Chem. 270 (45), 26986-26992 (1995)","MAMM").
+TFD_subseq('Myb-erk1',"TTAACTG","J. Biol. Chem. 270 (45), 26986-26992 (1995)","MAMM").
+TFD_subseq('AP-2-erk1',"TGGCCTGGG","J. Biol. Chem. 270 (45), 26986-26992 (1995)","MAMM").
+TFD_subseq('AP-1-erk1',"CAGACTAA","J. Biol. Chem. 270 (45), 26986-26992 (1995)","MAMM").
+TFD_subseq('CTF/NF1-erk1',"ACCCTAGTGGCCA","J. Biol. Chem. 270 (45), 26986-26992 (1995)","MAMM").
+TFD_subseq('Sp1-erk1_(1)',"GGGAGG","J. Biol. Chem. 270 (45), 26986-26992 (1995)","MAMM").
+TFD_subseq('Sp1-erk1_(2)',"GGCGCG","J. Biol. Chem. 270 (45), 26986-26992 (1995)","MAMM").
+TFD_subseq('STAT6-gamma-IRE',"TGATTCTGGCTAAGGAA","Science 273:  794-7 (1996)","MAMM").
+TFD_subseq('STAT5-gamma-IRE',"TGATTCTTGGCTAAGGAATGTTTAAAAATTTTAAGTGAATTTTTT","Science 273: 794-7 (1996)","MAMM").
+TFD_subseq('STAT4-gamma-IRE',"TTAAGTGAATTTTTTGAGTTTCTTTT","Science 273: 794-7 (1996)","MAMM").
+TFD_subseq('STAT1-gamma-IRE',"TTGAGTTTCTTT","Science 273: 794-7 (1996)","MAMM").
+TFD_subseq('STAT1-gamma-IRE-2',"TGGTTAATGAAAAGTTTTTACATTTTAAATATTTCATTATTTGTT","Science 273: 794-7 (1996)","MAMM").
+TFD_subseq('STAT1-gamma-IRE-2.2',"TTCATTATTTGTTTAAAACTTAGCTGTTATAATTATAG","Science 273: 794-7 (1996)","MAMM").
+TFD_subseq('gamma-interferon-PE',"AAAACTTGTGAAAATACGTAATCCT","J Biol Chem 271: 31964-72 (1996)","MAMM").
+TFD_subseq('AP-2-gamma-IRE-BE',"AGAATCCCACCAGAATGG","J Biol Chem 269: 25728-34 (1994)","MAMM").
+TFD_subseq('MCB',"ACGCGTAA","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('SCB_(3)',"TTTCGTGTTT","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('M14a',"TTTCGCGTTT","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('M14b',"TTGTTTGTTT","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('ECB',"TTNCCNAAANNGGNAA","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('M1a',"TTCTCACTGNA","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('M3a',"TGAAAAATTTT","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('M3b',"CGATGAGNT","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('M4',"GAAANTTTTT","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('M5',"CTTNTCCTNTTT","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('M13',"ATATTTTTCA","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('M26',"GTGTGNGTGTG","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('M27',"AAATTTTTC","Nature Genet 22: 281-5 (1999)","YEAST").
+TFD_subseq('ABF1_CS2',"TCRNNNNNNACG","Mol Cell Biol 10: 2437-41 (1990)","YEAST").
+TFD_subseq('ACE2_site',"GCTGGT","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('AP-1_CS5',"TTANTAA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('BAS2_site',"TAATRA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('BAS2_consensus',"TAANTAA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('CuRE_site',"GAGCAAA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('CSRE_consensus_(2)',"YCGGAYRRAWGG","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('SCB_consensus',"CNCGAAA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('GC/FAR_site_(1)',"CCCGGG","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('GC/FAR_site_(2)',"GGGCCC","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('GAL4_consensus',"CGGNNNNNNNNNNNCCG","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('HSTF_consensus_(1)',"GAANNTCC","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('HSTF_consensus_(2)',"GAANNNTCC","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('HSTF_consensus_(3)',"TTCNNGAA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('HSTF_consensus_(4)',"TTCNNNGAA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('LEU3_consensus',"CGGRACCGG","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('MCM1_consensus',"CCNNNWWRGG","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('MAT-alpha-2_consensus',"CRTGTWWWW","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('MIG1_consensus',"CCCCRNNWWWWW","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('MSE_consensus',"CRCAAAW","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('NBF_consensus',"ATGYGRAWW","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('PHO4_consensus',"CACGTK","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('PDR3_consensus',"TCCGYGGA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('PPR1_consensus',"TTCGGNNNNNNCCGAA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('PUT3_consensus',"CGGNNNNNNNNNNCCG","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('ROX1_consensus',"YYNATTGTTY","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('RAP1_consensus',"RMACCCA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('RME1_site',"GAACCTCAA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('repressor_of_CAR1_consensus',"AGCCGCSA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('STE12_site',"ATGAAA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('T4C_consensus',"TTTTCTYCG","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('TEA1_consensus',"CGGNNNNNNNNNNCCG","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('UASPHR_site',"CTTCCT","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('URSPHR_consensus',"GTSAAAGTAWG","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('UASRAD_consensus',"WTTTCCCGS","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('UASINO_consensus',"ATGTGAAWW","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('SFF_consensus',"GTMAACAA","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('ECB_consensus',"GGAAAAD","Bioinformatics 15: 607-11 (1999)","YEAST").
+TFD_subseq('VDR-phospholipase_C_gamma_1',"AGGTCAGACCACTGGACA","J Biol Chem 272: 6573-7 (1997)","MAMM").
+TFD_subseq('PBF-HBVI',"TACAAGGCCTTTCTAA","J Biol Chem 271: 21859-69 (1996)","MAMM").
+TFD_subseq('c-Myb_CS',"YGRCVGTTR","Nucleic Acids Res 19: 3913-9 (1991)","AVIAN").
+TFD_subseq('NGFI-A_CS',"TGCGKRGGHGK","Mol Cell Biol 15: 2275-87 (1995)","MAMM").
+TFD_subseq('Sil-B',"CTATTATTTCTAGTATA","J Biol Chem 271: 30992-9 (1996)","MAMM").
+TFD_subseq('TSEP-1_site',"AGCCTCTCCTTCCCCCTCTCCAGCGTGCTCTCCAGCGATG","J Biol Chem 272: 20096-107 (1997)","MAMM").
+TFD_subseq('OSE1',"TTACATCA","J Biol Chem 42: 30182-9 (1999)","MAMM").
+TFD_subseq('HBV_ENII_B1',"AACGACCGACCTTGAG","J Biol Chem 273: 29022-31 (1998)","MAMM").
+TFD_subseq('ATPA-E-box_element',"ACATCCGGGTGGCTGACT","J Biol Chem 272: 10538-42 (1997)","MAMM").
+TFD_subseq('phyA3-RE1',"CATGGGCGCGG","EMBO J 10: 3015-24 (1991)","PLANT").
+TFD_subseq('CNTF_response_element_1',"TTCCNNNAA","J Biol Chem 273: 20877- (1998)","MAMM").
+TFD_subseq('CNTF_response_element_2',"TTCCNNNNAA","J Biol Chem 273: 20877- (1998)","MAMM").
+TFD_subseq('PIRE',"CACTAATCTCCC","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('PINA-E4',"AGTCACTAATCTCCCAGC","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('PINA-E7',"TTTCAGTAATCTGAGTCT","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('PINA-E6',"AACTACTAATCACACACA","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('PINA-E5',"CCCGTGTAATTAGGGGCC","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('PINA-E3',"CCCGGCTAATCTGGCTAA","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('PINA-E2',"TCTGGCTAATTAGTAAAA","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('PINA-E1',"TCCGGGTAATTGCGTGGT","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('NAT-E3',"GAGCAGGGATTATAGTTA","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('NAT-E2',"TACTTGTAATTCTTCCTA","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('NAT-E1',"CCAGGGGGATTACAATCT","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('HIOMT-A-E4',"GTGCTGGGATTACAGGCG","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('HIOMT-A-E3',"TTTGTGGCCTTAAGATGT","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('HIOMT-A-E2',"GAGTCGTAACCCCGTGGG","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('HIOMT-A-E1',"ATGCCTCAATTAAGAAGC","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('HIOMT-B-E3',"ATAAGACGATTAATGAGT","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('HIOMT-B-E2',"GAGTGCTAATGATGGGTG","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('HIOMT-B-E1',"TACGATTAATGCAAATTT","Proc Natl Acad Sci USA 95: 1876-81 (1998)","MAMM").
+TFD_subseq('c-Myb_9bp_motif',"YGRCGTRR","Nucleic Acids Res 19: 3913-9 (1991)","MAMM").
+TFD_subseq('c-Myb-c-Erb-B2',"AAGAATGAAGTTGTG","J Biol Chem 270: 9384-9 (1995)","MAMM").
+TFD_subseq('c-Myb-c-Erb-B2_site_I',"CACAACTTC","J Biol Chem 270: 9384-9 (1995)","MAMM").
+TFD_subseq('c-Myb-c-Erb-B2_site_2',"TCCAACTGC","J Biol Chem 270: 9384-9 (1995)","MAMM").
+TFD_subseq('c-Myb-c-Erb-B2_site_3',"GGCAACTCC","J Biol Chem 270: 9384-9 (1995)","MAMM").
+TFD_subseq('c-Myb-c-Erb-B2_site_4',"GAGAACGGC","J Biol Chem 270: 9384-9 (1995)","MAMM").
+TFD_subseq('c-Myb-c-Erb-B2_site_5',"CTTAACACC","J Biol Chem 270: 9384-9 (1995)","MAMM").
+TFD_subseq('c-Myb-c-Erb-B2_site_6',"GAAAACCAT","J Biol Chem 270: 9384-9 (1995)","MAMM").
+TFD_subseq('Z[alpha]_binding_site',"TGGGCGGGTTTCGGGCAAA","Nucleic Acids Res 26: 3486-93 (1998)","MAMM").
+TFD_subseq('ARE_PPRE',"AATTCAAGGCAGAAAGTGAACTCTGATCCAGTAAGAAG","J Biol Chem 272: 10811-6 (1997)","MAMM").
+TFD_subseq('TR2-aldolase-A',"AAAAGGGCAGGGGTCATT","Biochem Biophys Res Commun 235: 205-11 (1997)","MAMM").
+TFD_subseq('HNF-3-element-N1',"TCAGTAAATA","Brain Res Mol Brain Res 56: 227-37 (1998)","MAMM").
+TFD_subseq('oct-element_N1',"AAATAATGC","Brain Res Mol Brain Res 56: 227-37 (1998)","MAMM").
+TFD_subseq('FAAR-PPRE',"CCCGAACGTGACCTTTGTCCTGGTCC","J Biol Chem 270: 2367-71 (1995)","MAMM").
+TFD_subseq('Pbx-Meis/Prep1_RS',"TGATTGAC","Nucleic Acids Res 27: 3752-61 (1999)","MAMM").
+TFD_subseq('Pbx-PSE_WT',"TTGATTGACAGGAACAGGTG","Nucleic Acids Res 27: 3752-61 (1999)","MAMM").
+TFD_subseq('E2A-Pbx1_RS',"ATCAATCAA","Mol Cell Biol 15: 3786-95 (1995)","MAMM").
+TFD_subseq('Hox/Pbs_RS',"GAGATGATTTATTACTTTAGTC","Development 124: 1089-98 (1997)","MAMM").
+TFD_subseq('Hox/Pbx_RS2',"GTCAATTAAATGCGCATCAATCAATTTCG","Development 124: 1089-98 (1997)","MAMM").
+TFD_subseq('En/Pbs_RS',"GTCAATTAAATGATCAATCAATTTCG","Development 124: 1089-98 (1997)","MAMM").
+TFD_subseq('CBF/CBPa-MCSFR',"CAAGATTTCCAAACTCTGTGGTTGCCTTGCCTA","Proc Natl Acad Sci 94: 1949- (1997)","MAMM").
+TFD_subseq('CBFA2-MCSFR',"GTGGTTGCCT","Proc Natl Acad Sci USA 94: 1949- (1997)","MAMM").
+TFD_subseq('C/EBPa-MCSFR',"AGATTTCC","Proc Natl Acad Sci USA 94: 1949- (1997)","MAMM").
+TFD_subseq('NFE3-gamma-globin-distal-CCAAT',"TGACCAATAGCCT","J Biol Chem 270: 21934-41 (1995)","MAMM").
+TFD_subseq('TAK1-RE',"AGAGGTCAAAGGTCA","J Biol Chem 273: 10948- (1998)","MAMM").
+TFD_subseq('T3R_TRE1_CS',"CWGGAGGW","J Biol Chem 265: 11233-7 (1990)","MAMM").
+TFD_subseq('NF-CD4_RS',"CAACAACTGGG","Int Immunol 5: 817-24 (1993)","MAMM").
+TFD_subseq('NRF-1-cyt_c',"GATCCTGCTAGCCCGCATGCGCGCGCACCTA","J Biol Chem 273: 12593-8 (1998)","MAMM").
+TFD_subseq('LDL-FP1',"GAGCTTCACGGGTTAAAAAG","J Biol Chem 271: 33616-22 (1996)","MAMM").
+TFD_subseq('O/E-1_CS',"YTCCCYRGGGAR","J Neurosci 11: 4159-69 (1997)","MAMM").
+TFD_subseq('Roaz-9H2',"GCACCCTAGGGTGTCGTC","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('Roaz-9H5',"GCACCCTTGGGTGCCCTT","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('Roaz-9H11',"AGAAGTGGCACCCAAGGGTGA","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('Roaz-9H14',"AGACGTGGCACCCAAGGG","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('Roaz-9H7-1',"TCACGCACCCATGGGTGC","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('Roaz-9L4',"GGCGCTAGCACCCAAGGGTGA","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('Roaz-9L5',"ATGGCACCCTAGGGTGCG","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('Roax-9L6',"GGGAGCACCCTTGGGTCC","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('Roaz-9L10',"TCACGCACCCATGGGTGC","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('Roaz-9L12',"GCACCCATGGGTGCCTTA","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('Roaz-9L15',"GCGAGCCGCACCCAAGGGTGA","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('Roaz-9l17',"GGCGCTGGCACCCAAGGGTGA","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('Roaz-9L18',"AAGGGCACCCAAGGGTGC","Mol Cell Biol 18: 6447-56 (1998)","MAMM").
+TFD_subseq('SDI-A1',"CTCCTCCCTATTCCGGGCC","Mol Cell Biol 15: 4158-66 (1995)","MAMM").
+TFD_subseq('MyEF-3_RS',"GCCTGTCTTT","Biochem Biophys Res Commun 243: 295-301 (1998)","MAMM").
+TFD_subseq('alpha-globin-CCAAT',"GGCGGCGCTCATTGGCTGGCGCGGAGCCCCG","J Biol Chem 273: 16880-9 (1998)","MAMM").
+TFD_subseq('HBV-B1-element',"AACGACCGACCTTGAG","J Biol Chem 273: 29022-31 (1998)","MAMM").
+TFD_subseq('EKLF-beta-globin',"GCTAGCCACACCCTGAAGCT","J Biol Chem 273: 23793-8 (1998)","MAMM").
+TFD_subseq('chkYB-2_RS',"TCGTACCACCTT","J Virol 72: 900-9 (1998)","AVIAN").
+TFD_subseq('PPAR-rAOX',"TGACCTTTGTCCT","EMBO J 11: 233-9 (1992)","MAMM").
+TFD_subseq('PPAR-rBifunctional_enzyme',"TGAACTATTACCT","J Biol Chem 268: 12939-45 (1993)","MAMM").
+TFD_subseq('PPAR-rFABP',"TGACCTATGGCCT","Biochem Soc Trans 20: 824-7 (1992)","MAMM").
+TFD_subseq('PPAR-CYP4A6',"TCAACTTTGCCCT","J Biol Chem 267: 19051-3 (1992)","MAMM").
+TFD_subseq('PPAR-rHMG-coA-synthase',"AGACCTTTGGCCC","J Biol Chem 269: 18767-72 (1994)","MAMM").
+TFD_subseq('PPAR-rMalic-enzyme',"GGACCTGTGCCCT","J Biol Chem 271: 218-24 (1996","MAMM").
+TFD_subseq('PPAR-rApo-CIII',"TGACCTTTGACCA","J Biol Chem 270: 13470-5 (1995)","MAMM").
+TFD_subseq('PPAR-hApo-CIII',"TGACCTTGCCCA","J Biol Chem 270: 13470-5 (1995)","MAMM").
+TFD_subseq('PPAR-hTransferrin',"CAATCTTTGACCT","J Biol Chem 271: 218-24 (1996)","MAMM").
+TFD_subseq('PPAR-hTf-PRI',"ACGGGAGGTCAAAGATTGCGCC","J Biol Chem 271: 218-24 (1996)","MAMM").
+TFD_subseq('NCAM-site-a',"TGAAAATCGAACCGAA","Development 119: 881-96 (1993)","MAMM").
+TFD_subseq('TPO-UFB',"AAGCACTTGGCAGAAACAA","J Biol Chem 274: 15213-21 (1999)","MAMM").
+TFD_subseq('Rox1-ANB1-1',"TCCATTGTTCGT","Nucleic Acids Res 27: 3518-26 (1999)","YEAST").
+TFD_subseq('Rox1-ANB1-2',"CCTATTGTTCTC","Nucleic Acids Res 27: 3518-26 (1999)","YEAST").
+TFD_subseq('Rox1-ANB1-3',"TCCATTGTTCTC","Nucleic Acids Res 27: 3518-26 (1999)","YEAST").
+TFD_subseq('Rox1-ANB1-4',"CTCATTGTTGTC","Nucleic Acids Res 27: 3518-26 (1999)","YEAST").
+TFD_subseq('Rox1-ROX1-1',"CCTATTGTTGCT","Nucleic Acids Res 27: 3518-26 (1999)","YEAST").
+TFD_subseq('Rox1-ROX1-2',"CGTATTGTCTTG","Nucleic Acids Res 27: 3518-26 (1999)","YEAST").
+TFD_subseq('MHC-EM',"GGCACGTGGAATG","J Biol Chem 269: 29677-87 (1994)","MAMM").
+TFD_subseq('H1t-GC-box-2',"CCCCCCCGGACCCCCT","J Biol Chem 272: 33028-36 (1997)","MAMM").
+TFD_subseq('beta-globin-Inr',"TGCTTACATTT","J Biol Chem 270:  28139-44 (1995)","MAMM").
+TFD_subseq('MCP-1-kappaB-1',"GGGAACTTCC","J Biol Chem 272: 31092-9 (1997)","MAMM").
+TFD_subseq('MCP-1-kappaB-2',"GGGAATTTCC","J Biol Chem 272: 31092-9 (1997)","MAMM").
+TFD_subseq('Sp100-ISRE',"TTAAATACTTTCACTTCTCTTTTCCC","J Biol Chem 271: 25253-60 (1996)","MAMM").
+TFD_subseq('ISG15-ISRE',"GGGAAAGGGAAACCGAAACTGAAGCC","Proc Natl Acad Sci USA 84: 6394-9 (1987)","MAMM").
+TFD_subseq('NFAT-FasL',"GCGGAAACTTCCAGGGGT","J Biol Chem 273: 22382-8 (1998)","MAMM").
+TFD_subseq('IL-9-PW2',"CTTGGTATCAGTTTGATGTCAGGGTTTTTCCGT","J Biol Chem 271: 15815-22 (1996)","MAMM").
+TFD_subseq('NF-kB-IL-9',"GGGTTTTTCC","J Biol Chem 271: 15815-22 (1996)","MAMM").
+TFD_subseq('IL-9-CRE',"TGATGTCA","J Biol Chem 271: 15815-22 (1996)","MAMM").
+TFD_subseq('NFAT:AP-1_RS',"TTGGAAAATTTGTTTCATAG","Nature 392: 42-8 (1998)","MAMM").
+TFD_subseq('NFAT:AP-1_RS',"AACTATGAAACAAATTTTCC","Nature 392: 42- (1998)","MAMM").
+TFD_subseq('GPIX_GATA_site',"CTGCACTGGGGGGATAAGCCAGGC","J Biol Chem 271: 18554-60 (1996)","MAMM").
+TFD_subseq('H4TF-1-FVII',"GGGGGGAGGGG","J Biol Chem 273: 2277-87 (1998)","MAMM").
+TFD_subseq('HNF-4-FVII',"GGAGGGCAAAGGTCAGGG","J Biol Chem 273: 2277-87 (1998)","MAMM").
+TFD_subseq('C/EBP-beta-FVII',"CCAGCTTTCTCCACCCCTCT","J Biol Chem 273: 2277-87 (1998)","MAMM").
+TFD_subseq('TNF-kappa3/CRE',"TGAGCTCATGGGTTTCTCC","J Biol Chem 274: 30882-6 (1999)","MAMM").
+TFD_subseq('Egr-1/Krox-24-TNF-alpha',"CCGCCCCCGCG","Biochim Biophys Acta 1219: 413-21 (1994)","MAMM").
+TFD_subseq('GATA-3-IL-5',"CCTCTATCTGATTGTTAGCA","J Biol Chem 270: 24548-55 (1995)","MAMM").
+TFD_subseq('IL5-CLE1',"GAGTTTCAG","J Biol Chem 270: 24548-55 (1995)","MAMM").
+TFD_subseq('IL5-G1-GATA',"GGCATTCTCTATCTGATTGTT","Mol Cell Biol 15:  3830-9 (1995)","MAMM").
+TFD_subseq('TCR-alpha-GATA',"GTTAGAGATAGCATCGCCCCA","EMBO J 10:  1187-92 (1991)","MAMM").
+TFD_subseq('FKHRL1-FasL',"TTAAATAAATA","Genomics 47: 187-99 (1998)","MAMM").
+TFD_subseq('Ets/p53-p21',"AGGAACATGTCTTGACATGTTC","J Biol Chem 274: 30273-9 (1999)","MAMM").
+TFD_subseq('AldA-NRE-M3',"CTGCCAGAGCCTCAACTGCCTCTGTTTCGAGATC","J Biol Chem 272: 31641-7 (1997)","MAMM").
+TFD_subseq('p97-AldA-NRE',"CTGCCGAGACCTCAACTGTCTCTGCTTCGAGATC","FEBS Lett 454: 61-6 (1999)","MAMM").
+TFD_subseq('NF-kB-MMP-9',"GGAATTCCCCC","J Immunol 165: 5788-97 (2000)","MAMM").
+TFD_subseq('NF-kB-FasL-kB1',"AGGTGTTTCCC","J Immunol 161: 3469-73 (1998)","MAMM").
+TFD_subseq('NF-kB-FasL-kB2',"TGGTCTTTTCCC","J Immunol 161: 3469-73 (1998)","MAMM").
+TFD_subseq('NF-AT-FasL',"GGAAACTTCCA","J Biol Chem 272: 31427-34 (1997)","MAMM").
+TFD_subseq('FEF-c-fes',"CGGAATCAGGAACTGG","J Biol Chem 272: 29527-37 (1997)","MAMM").
+TFD_subseq('PU.1-CXCR1',"ATGTGGTTTCCTTATTTCCGTTTATTCATCAAGTGC","J Biol Chem 274: 438-43 (1999)","MAMM").
+TFD_subseq('gp130-SBE',"TTACGGGAA","J Biol Chem 272: 15003-10 (1997)","MAMM").
+TFD_subseq('c-fos-SIE',"TGACGGGAA","EMBO J 9: 4477-84 (1990)","MAMM").
+TFD_subseq('RNR2-E2Fa',"TTTCCCGCATG","Plant Cell 12: 1987-2000 (2000)","PLANT").
+TFD_subseq('RNR2-E2Fb/CDE',"AGTGGCGGCAAA","Plant Cell 12: 1987-2000 (2000)","PLANT").
+TFD_subseq('GH3-AuxRE-D1',"CCTCGTGTCTC","Plant Cell 7: 1611-23 (1995)","PLANT").
+TFD_subseq('CYM-MSA',"AGACCGTTG","Plant Cell 10: 331-42 (1998)","PLANT").
+TFD_subseq('MSA_CS',"YCYAACGGYYA","Plant Cell 10: 331-42 (1998)","PLANT").
+TFD_subseq('tyrD_US',"CCTGCATGAACATC","J Biol Chem 270: 10703-10 (1995)","AMPHIB").
+TFD_subseq('tyrD-URR',"GAAACAAGAAGTTAACGCAATGACCAAG","J Biol Chem 270: 10703-10 (1995)","AMPHIB").
+TFD_subseq('gastrin-cis-regulatory-sequenc',"ACACTAAATGAAAGGGCGGGGCAG","J Biol Chem 270: 8829-36 (1995)","MAMM").
+TFD_subseq('gastrin-AT-rich-site',"CTAAATGA","J Biol Chem 270: 8829- (1995)","MAMM").
+TFD_subseq('gastrin-CACC-site',"CCCCACCCCATTCCTCTCGCCTGGA","J Biol Chem 274: 8123-3 (1999)","MAMM").
+TFD_subseq('gastrin-CACC',"CCCCACCCCA","J Biol Chem 269: 2234-40 (1994)","MAMM").
+TFD_subseq('KKLF_CS',"GGGGNGGNG","Mol Cell Biol 20: 7319-31 (2000)","MAMM").
+TFD_subseq('CLC-GA-element',"GGGGAGGGGAGGGGGAGGG","Biochem Biophys Res Commun 261: 432-8 (1999)","MAMM").
+TFD_subseq('YY1-involucrin-1',"TTTCCATTTCA","J Biol Chem 271: 512-  (1996)","MAMM").
+TFD_subseq('YY1-involucrin-2',"TCATTTTGAA","J Biol Chem 271: 512-  (1996)","MAMM").
+TFD_subseq('involucrin-distal-element',"TATGCCGTGAGTCAGAGGCC","J Biol Chem 275: 24080-8 (2000)","MAMM").
+TFD_subseq('HIV-T3RE',"GGCCTGGGCGGGACTGG","J Biol Chem 270: 31059- 64 (1995)","MAMM").
+TFD_subseq('MRF-CMV-1-1',"ATATCGCAGTTTCGATAT","Nucleic Acids Res 24: 1695-702 (1996)","MAMM").
+TFD_subseq('MRF-CMV-1-2',"CGATATGAGGCTATATCG","Nucleic Acids Res 24: 1695-702 (1996)","MAMM").
+TFD_subseq('SRF-CArG-box-2',"CCATATAAGG","J Biol Chem 271: 16535-43 (1996)","MAMM").
+TFD_subseq('SRF-CArG-box-1',"CCATAAAAGG","J Biol Chem 271: 16535-43 (1996)","MAMM").
+TFD_subseq('SV40-distal_site',"TGTCAGTTAGGGTACAGTCAATCCCA","Mol Cell Biol 10:  5279-85 (1990)","MAMM").
+TFD_subseq('osZIP-1a-Em1a',"GACACGTGGC","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('osZIP-1a-Em1b',"CACACGTGCC","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('osZIP-1a-Em1c',"CAAACGTACA","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('Em-BP1-Em1a-1',"GCGCTCGAGTGCCGGACACGTGGC","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('EmBP-1-Em1a-2',"CGCGTCGACGTCGCGCCACGTGTC","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('EmBP-1-Em2a-1',"GCGCTGAGCGCTGCACACGGCC","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('EmBP-1-Em1b-2',"CGCGTCGACGAGGCGGCACGTGTG","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('EmBP-1-Em1c',"GCGCTCGAGACAAACGTACACGCG","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('EmBP-1-Em1c-2',"CGCGTCGACGTCGACGCGTGTACG","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('EmBP-1-Em1d-1',"GCGCTCGAGCGCCCATTACGTGTT","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('EmBP-1-Em1d-2',"CGCGTCGACAAGACAACACGTAAT","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('EmBP-1-Em2a',"CGCGTCCGACGGACAACGAGCAGGC","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('EmBP-1-Em2a-2',"CGCCTCGAGCGTCGGCCGGATCCT","J Biol Chem 271: 31296-305 (1996)","PLANT").
+TFD_subseq('REB-RS',"GCCACGTMAG","Plant Mol Biol 33: 513-22 (1997)","PLANT").
+TFD_subseq('Atmyc1-Sph-box',"CATGCATG","Plant Mol Biol 32: 571-6 (1996)","PLANT").
+TFD_subseq('VP1-C1',"CGTCCATGCAT","Plant Cell 8: 1171-9 (1996)","PLANT").
+TFD_subseq('C1-ABA-element',"CGTGTCGTCCATGCAT","Plant Cell 8: 1171-9 (1996)","PLANT").
+TFD_subseq('CAII-CS',"CCNGTCACCTCCGC","Biochim Biophys Acta 18: 195-201 (1985)","MAMM").
+TFD_subseq('Nkx-2.5-GATA-6',"TTTAGTG","J Biochem (Tokyo) 127: 703-9 (2000)","MAMM").
+TFD_subseq('CUP-GTbox-C/EBP-alpha',"CGCCGCCGGGGTGGGG","Endocrinology 141: 4164-70 (2000)","MAMM").
+TFD_subseq('C/EBP-alpha-TRE-1',"TCGCCTGGAGTTCA","Endocrinology 141: 4164-70 (2000)","MAMM").
+TFD_subseq('Sp1-C/EBP-alpha',"GGGGCGTGG","Nucleic Acids Res 29: 362-72 (2001)","AMPHIB").
+TFD_subseq('p53-p21waf1/cip1',"GAACATGTCCCAACATGTTG","J Biol Chem 273: 1998-  (1998)","MAMM").
+TFD_subseq('p21-TGF-beta-response_element',"GGTCCCGCCTCCTTGA","J Biol Chem 270: 28623-8 (1995)","MAMM").
+TFD_subseq('BRLF1-negative-element-2',"GCCGGCCTTTTTG","J Virol 71: 3268-74 (1997)","MAMM").
+TFD_subseq('HLA-B7-ISRE',"GAGTTTCACTTCTTC","J Biol Chem 270: 12276- (1995)","MAMM").
+TFD_subseq('ISG15-ISRE',"CAGTTTCGGTTTCCC","J Biol Chem 270: 12276- (1995)","MAMM").
+TFD_subseq('6-16-ISRE',"GAGTTTCATTTTCCC","J Biol Chem 270: 12276- (1995)","MAMM").
+TFD_subseq('mt-beta-LCK',"TGTGGTTGAGTGGTGGGGGTAGGGGTGCTGGGGTAC","J Biol Chem 276: 18082-9 (2001)","MAMM").
+TFD_subseq('lck-repressive-element',"TTTCATCAG","J Biol Chem 270: 27538-43 (1995)","MAMM").
+TFD_subseq('osteocalcin-minimal-VDRE',"GGGTGAATGAGGACA","Mol Endocrinol 6: 557-62 (1992)","MAMM").
+TFD_subseq('VDRE-augmenting-sequence',"GGTTTGG","Mol Endocrinol 11: 210-7 (1997)","MAMM").
+TFD_subseq('chitinase-EIRE',"GGTCANNNAGTC","Plant Mol Biol 34: 81-7 (1997)","PLANT").
+TFD_subseq('X1-GCC-box',"TAAGAGCCGCC","Plant Mol Biol 28: 145-53 (1995)","PLANT").
+TFD_subseq('CD44-ERE',"CCCTCTCTCCAGCTCCTCTCC","J Biol Chem 272: 14139-46 (1997)","MAMM").
+TFD_subseq('SM22-alpha-TCE',"GAGTGGGGCA","J Biol Chem 275: 37798-806 (2000)","MAMM").
+TFD_subseq('SM22-alpha-TCE',"GAGTGGGGCG","J Biol Chem 275: 37798-806 (2000)","MAMM").
+TFD_subseq('Evi-1-D1-CONS',"GACAAGATAATATAA","Oncogene 10: 1961-7 (1995)","MAMM").
+TFD_subseq('Evi-1-D2-CONS',"CTCATCTTC","Oncogene 10: 1961-7 (1995)","MAMM").
+TFD_subseq('FN-GCE-A',"CTCCCCCGC","J Biol Chem 275: 20315-23 (2000)","MAMM").
+TFD_subseq('FN-GCE-B',"CGCCCGCGC","J Biol Chem 275: 20315-23 (2000)","MAMM").
+TFD_subseq('ChORE_CS',"CACGTGNNNGCC","J Biol Chem 269: 9380-7 (1994)","MAMM").
+TFD_subseq('v-Maf-synthetic-site-2',"TGCTGACGTCAGCA","Mol Cell Biol 14: 700-12 (1994)","AVIAN").
+TFD_subseq('CD155-FPII',"CCTTCCCACCCCAGGCACT","J Biol Chem 274: 1791- (1999)","MAMM").
+TFD_subseq('CD155-FPI',"CGGCCCCCCGGGGATTCC","J Biol Chem 274: 1791- (1999)","MAMM").
+TFD_subseq('NF-kB-CD155',"GGGTATTCCCC","J Biol Chem 274: 1791- (1999)","MAMM").
+TFD_subseq('EGFRp53RE',"AGCTAGACGTCCGGGCAGCCCCCGGCG","J Biol Chem 276: 41717-24 (2001)","MAMM").
+TFD_subseq('CaRE-1',"CTATTTCGAG","Neuron 33: 383-95 (2002)","MAMM").
+TFD_subseq('FAC1-FBE',"CACAACAC","J Biol Chem 274: 35262-8 (1999)","MAMM").
+TFD_subseq('GL2-Myb-binding-site',"TACTAACAGTATA","Plant Physiol 117: 73-84 (1998)","PLANT").
+TFD_subseq('Rox1-HEM13-1',"CGTATTCTTCAA","Curr Genet 28: 503-11 (1995)","YEAST").
+TFD_subseq('Rox1-HEM13-2',"TCAATTGTTTAG","Curr Genet 28: 503-11 (1995)","YEAST").
+TFD_subseq('Rox1-HEM13-3',"TGCTTTGTTCAA","Curr Genet 28: 503-11 (1995)","YEAST").
+TFD_subseq('Rox1-AAC3-1',"TTCATTGTTTGG","Eur J Biochem 213: 547-54 (1993)","YEAST").
+TFD_subseq('Rox1-AAC3-2',"TCCATTGTTCTT","Eur J Biochem 213: 547-54 (1993)","YEAST").
+TFD_subseq('tenascin-TCE',"GAGGGAGCTGAAATTCCTAC","Proc Natl Acad Sci USA 92: 2131-5 (1995)","MAMM").
+TFD_subseq('HMG-CoA-synthase-SRE-1',"GATCCAGTCAACTAGTCTCACCCCACTTCC","J Biol Chem 263: 18480-7 (1988)","MAMM").
+TFD_subseq('HMG-CoA-reductase-E-box',"GATCCTGATCACGTGATCGAGGAG","Mol Cell Biol 15: 2582-8 (1995)","MAMM").
+TFD_subseq('HMG-CoA-reductase-SRE',"GAGAGATGGTGCGGTGCCCGTTCTCC","J Biol Chem 271: 12247-53 (1996)","MAMM").
+TFD_subseq('SREBP-LDL-receptor-SRE-1',"ATCACCCCAC","J Biol Chem 271: 12247-53 (1996)","MAMM").
+TFD_subseq('HMG-CoA-reductase-SRE',"CCGCACCAT","J Biol Chem 271: 12247-53 (1996)","MAMM").
+TFD_subseq('HMG-CoA-synthase-SRE-1-3-prime',"CTCACCCCAC","J Biol Chem 271: 12247-53 (1996)","MAMM").
+TFD_subseq('HMG-CoA-synthase-SRE-1-5-prime',"GCCACCTAC","J Biol Chem 271: 12247-53 (1996)","MAMM").
+TFD_subseq('Oct-1-Ly6E/A',"TGTCGAATGCAAATCACTAGAA","J Biol Chem 271: 12247-53 (1996)","MAMM").
+TFD_subseq('AP-2-EGFR-site-2',"CCGCCAACGC","J Biol Chem 271: 3033-8 (1996)","MAMM").
+TFD_subseq('AP-2-EGFR-site-3',"CCCCGGCGGC","J Biol Chem 271: 3033-8 (1996)","MAMM").
+TFD_subseq('AP-2-EGFR-site-4',"CCGCCGAGGC","J Biol Chem 271: 3033-8 (1996)","MAMM").
+TFD_subseq('AP-2-EGFR-site-5',"CCCCCGGCCG","J Biol Chem 271: 3033-8 (1996)","MAMM").
+TFD_subseq('AP-2-EGFR-site-6',"CCCCGCGGGG","J Biol Chem 271: 3033-8 (1996)","MAMM").
+TFD_subseq('Sp1-ACCA',"AGGGCGGGCGGGT","J Biol Chem 271: 1385-92 (1996)","MAMM").
+TFD_subseq('Sp1-ACCA-2',"CGCGGGGCGGGGC","J Biol Chem 271: 1385-92 (1996)","MAMM").
+TFD_subseq('HBP-1_CS',"CCACGTCA","J Biol Chem 269: 9974-85 (1994)","PLANT").
+TFD_subseq('H3-type-I-element',"CCACGTCANCGATCCGCG","J Biol Chem 269: 9974-85 (1994)","PLANT").
+TFD_subseq('35SRNA-Site-2',"ATTGTATATATCTATTATAATATACGATGAGGATGATA","J Biol Chem 270: 28723-32 (1995)","YEAST").
+TFD_subseq('35SRNA-Site-3',"TAAAAACATGTATTGTATATATCTATTATAAT","J Biol Chem 270: 28723-32 (1995)","YEAST").
+TFD_subseq('cTNT-M-CAT',"GCGCCGGGCACATTCCTGCTGCTCTGC","Proc Natl Acad Sci USA 85: 6404-8 (1988)","AVIAN").
+TFD_subseq('cTNT-M-CAT-2',"ACAAGTGTTGCATTCCTCTCTGGGCGC","Proc Natl Acad Sci USA 85: 6404-8 (1988)","AVIAN").
+TFD_subseq('beta-MHC-M-CAT-1',"CCAGGCCTCACATTCCACAGCTGGCAG","J Biol Chem 267: 9917-24 (1992)","MAMM").
+TFD_subseq('beta-MHC-M-CAT-2',"TATCTCCTGCATTCCACTGCCTGTGG","Mol Cell Biol 12: 619-30 (1992)","MAMM").
+TFD_subseq('beta-MHC-M-CAT-3',"ATATCCCTTACATTCCACAGCTCAC","J Biol Chem 266: 22678-88 (1991)","MAMM").
+TFD_subseq('beta-MHC-M-CAT-4',"CTGAACATGCCATACCACAACAATGAC","J Biol Chem 269: 3775-82 (1994)","MAMM").
+TFD_subseq('alpha-MHC-M-CAT-1',"TCCTTGGGCACATTCCTCCTCCCCAAA","Mol Cell Biol 14: 5056-65 (1994)","MAMM").
+TFD_subseq('alpha-MHC-M-CAT-2',"CTTTATAGCTCATTCCACGTGCCTGCT","J Biol Chem 269: 29677-87 (1994)","MAMM").
+TFD_subseq('MLC-2-M-CAT',"AAATACACCCCATTCCAGGCTAAAAAT","Mol Cell Biol 12: 1107-16 (1992)","AVIAN").
+TFD_subseq('s/cTNC-M-CAT',"CCTCCTGCTACATTCCCAGCCCAGCCC","J Biol Chem 264: 13217-25 (1989)","MAMM").
+TFD_subseq('VSM-alpha-actin-M-CAT',"TCTTCCACTGCATTCCTCTGTTCTGCT","Mol Cell Biol 15: 2429-36 (1995)","MAMM").
+TFD_subseq('skin-alpha-actin-M-CAT-1',"AGCTTGCCGCATTCCTGGGGGCCGGG","J Biol Chem 269: 16754-60 (1994)","AVIAN").
+TFD_subseq('skin_alpha-actin-M-CAT-2',"AGGGCAGCAACATTCTTTCGGGGCGGT","J Biol Chem 270: 410-7 (1995)","MAMM").
+TFD_subseq('AChR-beta-M-CAT',"ACAGGTGCACATTCCTGGGCGCCTCG","Eur J Biochem 216: 395-404 (1993)","MAMM").
+TFD_subseq('PGAM-M-M-CAT',"TGCCAATCAGCATTCCAGGCGGTGGCA","Mol Cell Biol 12: 4384-90 (1992)","MAMM").
+TFD_subseq('c-mos-M-CAT-1',"AGGCTTTATCCATTTCTGAGATAAAGA","Biochem Biophys Res Commun 210: 181-8 (1995)","MAMM").
+TFD_subseq('c-mos-M-CAT-2',"ATAAAGATTTCATTTCTAATCTCAGTA","Biochem Biophys Res Commun 210: 181-8 (1995)","MAMM").
+TFD_subseq('AE3-channel-M-CAT',"GATCTCGGCACATTCCTTCCATCTTAT","Circ Res 76: 584-91 (1995)","MAMM").
+TFD_subseq('rBNP-M-CAT',"TTATCAGACACATTCCTGCCTGCTGAG","J Biol Chem 272: 7464-72 (1997)","MAMM").
+TFD_subseq('hBNP-M-CAT',"CGGAGGGGCTCATTCCCGGGCCCTGAT","Hypertension 33: 283-9 (1999)","MAMM").
+TFD_subseq('SIS-SPE',"GGAAAGGCTGTCTCCACCCACCTCTCGCACTCTCCCTTCTCCTT","J Biol Chem 271: 11792-7 (1996)","MAMM").
+TFD_subseq('TEF-4-CCT-alpha-Eb',"GTTTTCAGGAATGCGGAGGTGG","J Biol Chem 276: 12338-44 (2001)","MAMM").
+TFD_subseq('AtTRP1_RS_motif',"GGTTTAG","J Biol Chem 276: 16511-9 (2001)","PLANT").
+TFD_subseq('RTBP1_RS_motif',"TTTAGGG","J Biol Chem 275: 24208-14 (2000)","PLANT").
+TFD_subseq('IBP1-RS',"GGGAGGGTTTCTCTGGGACGGGAGAGGGAC","Plant Mol Biol 25: 493-506 (1994)","PLANT").
+TFD_subseq('BPF1_RS',"AAGAAGGAGTTGGTTGAGAATTAA","Plant J 4: 125-35 (1993)","PLANT").
+TFD_subseq('AtTRP1-AtTRPro',"ATAGGCTTATAAAGGGTTTAAGCA","J Biol Chem 276: 16511-9 (2001)","PLANT").
+TFD_subseq('GCV-CTTCTT',"CATCNNNNNNNCTTCTT","J Biol Chem 274: 10523-32 (1999)","YEAST").
+TFD_subseq('DRE/CRT_CS',"RCCGAC","Biochem Biophys Res Commun 290: 998-1009 (2002)","PLANT").
+TFD_subseq('DR4-TRE',"TCAGGTCACAGGAGGTCA","J Biol Chem 271: 11392- (1996)","MAMM").
+TFD_subseq('DR5-TRE',"GGTAAGGGTTCACCGAAAGTTCACTCA","J Biol Chem 271: 11392- (1996)","MAMM").
+TFD_subseq('DR1-TRE',"GGTAAGGGTTCAGAGTTCACTCA","J Biol Chem 271: 11392- (1996)","MAMM").
+TFD_subseq('CSEn2-FP1',"CTACATTTCAGCTCATCAACTTGGT","Mol Endocrinol 11: 1233-44 (1997)","MAMM").
+TFD_subseq('CSEn2-FP2',"TGTTTTCTAAACGATG","Mol Endocrinol 11: 1233-44 (1997)","MAMM").
+TFD_subseq('CSEn2-FP3',"ATATAATTAGACTGGAATGTGGTCCA","Mol Endocrinol 11: 1233-44 (1997)","MAMM").
+TFD_subseq('CSEn2-FP4',"AGAGTAGTTTGAAAACTTTCC","Mol Endocrinol 11: 1233-44 (1997)","MAMM").
+TFD_subseq('CSEn2-FP5',"CCACTGTGTTAGGGACCGCAAAGATGAGACCCATGTGTTCAC","Mol Endocrinol 11: 1233-44 (1997)","MAMM").
+TFD_subseq('CSEn1-DR.1',"TTGAGAACCACCGTGTT","Mol Endocrinol 11: 1233-44 (1997)","MAMM").
+TFD_subseq('CSEn1-DR.2',"ATGAGACCCATGTGTT","Mol Endocrinol 11: 1233-44 (1997)","MAMM").
+TFD_subseq('prolactin-composite-element',"TGACGGAAA","J Biol Chem 276: 24931-6 (2001)","MAMM").
+TFD_subseq('MORE',"ATGCATATGCAT","Cell 103: 853-64 (2000)","MAMM").
+TFD_subseq('PORE',"ATTTGAAATGCAAAT","Cell 103: 853-64 (2000)","MAMM").
+TFD_subseq('Ig-MORE',"ATRMATATGCAA","Cell 103: 853-64 (2000)","MAMM").
+TFD_subseq('IL-4-CPRE',"TTGGTCTGATTTCACAGGAACAT","J Biol Chem 275: 36605- (2000)","MAMM").
+TFD_subseq('CDP/Cut-HLA-B7-1',"TACCAATATTG","J Biol Chem 276: 5323- (2000)","MAMM").
+TFD_subseq('CDP/Cut-HLA-B7-2',"ACTGTATTAA","J Biol Chem 276: 5323- (2000)","MAMM").
+TFD_subseq('HLA-B7-repressor',"TTACCAATATTGTGCTACCTACTGTATTAACAA","J Biol Chem 276: 5323- (2000)","MAMM").
+TFD_subseq('DBH-domain-I',"ACCACCCCA","J Neurosci 18: 8247-60 (1998)","MAMM").
+TFD_subseq('DBH-domain-II',"CCGCTAGACAAATGTGATTACC","J Neurosci 18: 8247-60 (1998)","MAMM").
+TFD_subseq('DBH-domain-III',"GGCCTGGGGCGC","J Neurosci 18: 8247-60 (1998)","MAMM").
+TFD_subseq('DBH-PRS1',"GTGTCATTAGTGCCAATTAGAG","J Neurosci 18: 8247-60 (1998)","MAMM").
+TFD_subseq('Probasin-ARE-1',"AATATGATAGCATCTTGTTCTTAGTCT","Mol Endocrinol 7: 23-26 (1993)","MAMM").
+TFD_subseq('Probasin-ARE-2',"TAGTAAAGTACTCCAAGAACCTATTTG","Mol Endocrinol 7: 23-6 (1993)","MAMM").
+TFD_subseq('PSA-ARR',"GTGCAGGGATCAGGGAGTCTCACAATC","J Biol Chem 271: 6379-88 (1996)","MAMM").
+TFD_subseq('PSA-ARE',"AATTGCAGAACAGCAAGTGCTAGCTCT","J Biol Chem 271: 6379-88 (1996)","MAMM").
+TFD_subseq('AR-KLK2',"ATGTGTGGAACAGCAAGTGCTGGCTCT","Biochemistry 32: 6459-64 (1993)","MAMM").
+TFD_subseq('AR-C3-(Intron-1)',"GAACATAGTACGTGATGTTCTCAAGGT","Biochem Biophys Res Commun 191: 688-94 (1993)","MAMM").
+TFD_subseq('AR-C1',"AGTTGGAGGACACAAAAATCCTTTTTT","Biochem Biophys Res Commun 191: 688-94 (1993)","MAMM").
+TFD_subseq('AR-Slp-1',"ATGTAATTATCTGTTCTGTGGT","Mol Cell Biol 13: 6326-35 (1993)","MAMM").
+TFD_subseq('AR-Slp-2',"GTTCTGTGGTCAGCCAGTTCTCAGAAC","Mol Cell Biol 13: 6326-35 (1993)","MAMM").
+TFD_subseq('AR-Slp-3',"GTTCTCAGAACAGGCTGTTTCAGGGG","Mol Cell Biol 13: 6326-35 (1993)","MAMM").
+TFD_subseq('AR-6-PF-2K-1',"TGTCCCAGAACTATCTGTTCCTCAAAT","J Biol Chem 267: 15673-80 (1992)","MAMM").
+TFD_subseq('AR-6-PF-2K-2',"TTTGGCAGAACTTTCAGATCAAACAGT","J Biol Chem 267: 15673-80 (1992)","MAMM").
+TFD_subseq('AR-Factor-IX',"ATACAGCTCAGCTTGTACTTTGGTA","Biochemistry 33: 1580-91 (1994)","MAMM").
+TFD_subseq('AR-JRE',"ATGGTAATTACACCAAGTACCCTTCAA","J Biol Chem 268: 13556-13654 (1993)","MAMM").
+TFD_subseq('AR-aldose-reductase',"TTGACATGAAGTTCCTGTTCTCATGCC","J Biol Chem 269: 5857-64 (1994)","MAMM").
+TFD_subseq('AR-GUS',"GTCAAGAGTACTTGTTGTTCTTACAGA","Mol Cell Biol 11: 5426-34 (1991)","MAMM").
+TFD_subseq('hAR-ARE1',"GCCCATCTTTCTGAATGTCTGGAAGC","Mol Endocrinol 10: 1582-94 (1996)","MAMM").
+TFD_subseq('hAR-ARE2',"TCATTCAGTACTCCTGGATGGGGCTCA","Mol Endrocrinol 10: 1582-94 (1996)","MAMM").
+TFD_subseq('AR-MMTV-distal',"TTTATGGTTACAAACTGTTCTTAAAAC","Mol Cell Biol 9: 3999-4008 (1989)","MAMM").
+TFD_subseq('AR-MMTV-proximal',"TGGTTTGGTATCAAATGTTCTGATCTG","Mol Cell Biol 9: 3999-4008 (1989)","MAMM").
+TFD_subseq('HNF-6-r.hnf-3beta',"AAATCAATAT","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('HNF-6-m.ttr',"AAGTCAATAA","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('HNF-6-r.pfk-2',"AAATCAATTT","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('HNF-6-r.pfk-2-GRUc',"AAATCCATAA","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('HNF-6-m.hnf-4',"AAGTCAATGA","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('HNF-6-r.pepck',"TAGTCAATCA","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('HNF-6-r.alpha2-ug',"TTATCAATAA","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('HNF-6-r.cyp2c13',"GAATCAATAT","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('HNF-6-r.cyp12c12',"AAATCAATAT","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('HNF-6-m.mup',"TAATCAATAA","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('HNF-6-m.tog',"AAATCAATAG","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('HNF-6-r.alpha-fp',"AAGTCAATAA","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('HNF-6-CS2',"DWRTCMATND","J Biol Chem 273: 13552-62 (1998)","MAMM").
+TFD_subseq('CSRE_CS',"CCRTYCRTCCG","Nucleic Acids Res 24: 2331-8 (1996)","YEAST").
+TFD_subseq('MElk-CS',"AYCGGAWRYR","Mol Cell Biol 16: 3338-49 (1996)","MAMM").
+TFD_subseq('POX1-UAS1',"TACGGTATTAGTTGATTAAACTCC","J Biol Chem 271: 12068-75 (1996)","YEAST").
+TFD_subseq('Sry-CS',"TWGAACAATAG","Nucleic Acids Res 22: 1500-1 (1994)","MAMM").
+TFD_subseq('Sox5-CS',"TWAACAATA","EMBO J 11: 3705-12 (1992)","MAMM").
+TFD_subseq('Sox17-CS',"AGAACAATGG","J Cell Biol 133: 667-81 (1996)","MAMM").
+TFD_subseq('Sox9-CS',"AGAACAATG","Nucleic Acids Res 27: 1359-64 (1999)","MAMM").
+TFD_subseq('ECI-6/IkappaB-alpha-BS6',"TGGGATCTTA","J Biol Chem 269: 13551-7 (1994)","MAMM").
+TFD_subseq('ECI-6/IkappaB-alpha-BS3',"GGGAAACCCC","J Biol Chem 269: 13551-7 (1994)","MAMM").
+TFD_subseq('ECI-6/IkappaB-alpha-BS7',"GGGAAGTACC","J Biol Chem 269: 13551-7 (1994)","MAMM").
+TFD_subseq('ECI-6/IkappaB-alpha-BS1',"GGAGGACTTTC","J Biol Chem 269: 13551-7 (1994)","MAMM").
+TFD_subseq('ECI-6/IkappaB-alpha-BS8',"AAAAGTTCCC","J Biol Chem 269: 13551-7 (1994)","MAMM").
+TFD_subseq('ECI-6/IkappaB-alpha-BS5',"GGGAGTTTCTC","J Biol Chem 269: 13551-7 (1994)","MAMM").
+TFD_subseq('ECI-6/IkappaB-alpha-BS2',"GGAAATTCCCC","J Biol Chem 269: 13551-7 (1994)","MAMM").
+TFD_subseq('ECI-6/IkappaB-alpha-BS4',"GAGAAATCCCC","J Biol Chem 269: 13551-7 (1994)","MAMM").
+TFD_subseq('FATP-PL3',"AGGAGAGGAAAACATGCTG","J Biol Chem 273: 27420-9 (1998)","MAMM").
+TFD_subseq('ZRE-B-protoenhancer',"TTGTCCCGTGGACAAATGTCC","J Virol 64: 2810-8 (1990)","MAMM").
+TFD_subseq('IL-3-NIP-AP-2-site',"GCTGCCATGC","J Biol Chem 274: 26661-7 (1999)","MAMM").
+TFD_subseq('IL-3-NIP',"CTCACCTGCTGCCATGCTTCCCATC","J Biol Chem 274: 26661-7 (1999)","MAMM").
+TFD_subseq('v-ErbA-consensus',"TGACCYNTRAGGTCAC","Mol Endocrinol 12: 1380-92 (1998)","AVIAN").
+TFD_subseq('COUP-TF-RE',"TGGTGATGTCAGACTAGTTGGGTCA","Mol Cell Biol 20: 957-70 (2000)","MAMM").
+TFD_subseq('SPRE',"ACATTTTAAAACTAGTATTCTAT","J Biol Chem 275: 40288-300 (2000)","MAMM").
+TFD_subseq('p53-MDR1-HT',"GGGCAGGAACAGCGCCGGGGCGTGGGCTGAGCA","J Biol Chem 276: 27716-20 (2001)","MAMM").
+TFD_subseq('MDR1-HT-p53-site-1',"GGGCAGGAACA","J Biol Chem 276: 27716-20 (2001)","MAMM").
+TFD_subseq('MDR1-HT-p53-site-2',"GGGCTGAGCA","J Biol Chem 276: 27716-20 (2001)","MAMM").
+TFD_subseq('c-Myb-RRBE',"GGAAAGTACC","J Biol Chem 270: 7661-71 (1995)","MAMM").
+TFD_subseq('TFII-I-TSSC',"CATTCACC","J Virol 74: 6511- (2000)","AVIAN").
+TFD_subseq('RSV-TSSC',"TAAACGCCATTTTACCATTCACCACATTGGT","J Virol 74: 6511- (2000)","AVIAN").
+TFD_subseq('MSEi',"GATTCACTGCCTGTGAGAAGGGATTAGT","J Biol Chem 274: 26894-900 (1999)","MAMM").
+TFD_subseq('M-box',"GTCATGTGCT","Mol Cell Biol 18: 694- (1998)","MAMM").
+TFD_subseq('Stat92E-da',"TTCATGGAA","Development 128: 4705-14 (2001)","DROS").
+TFD_subseq('Egr-1-MT1-MMP',"CATTGGGGCGGGGGCGGAGG","J Biol Chem 274: 22679-85 (1999)","MAMM").
+TFD_subseq('HNF-3-TTR',"GTTGACTAAGTCAAT","Nucleic Acids Res 19: 4139-45 (1991)","MAMM").
+TFD_subseq('FHX-type-B-site',"GGTCATAATATTTTTAACT","J Biol Chem 275: 12909-16 (2000)","MAMM").
+TFD_subseq('FHX-hC4BPA',"TTAGGTAAACA","J Biol Chem 275: 12909-16 (2000)","MAMM").
+TFD_subseq('FHX-type-A-CS',"WMARYAAAYA","J Biol Chem 275: 12909-16 (2000)","MAMM").
+TFD_subseq('rMT-III-motif-2',"CATGCGCAGG","Genome Res 12: 739-48 (2002)","MAMM").
+TFD_subseq('ceMT-I-motif-6',"TAACTGATAAA","Genome Res 12: 739-48 (2002)","PLANT").
+TFD_subseq('rMT-III-motif-7',"TACACTCAG","Genome Res 12: 739-48 (2002)","MAMM").
+TFD_subseq('rMT-III-motif-8',"TCCCACCAA","Genome Res 12: 739-48 (2002)","MAMM").
+TFD_subseq('rMT-III-motif-9',"CAGGCACCT","Genome Res 12: 739-48 (2002)","MAMM").
+TFD_subseq('ceMT-I-motif-11',"TGTACATTGTGA","Genome Res 12: 739-48 (2002)","PLANT").
+TFD_subseq('pMT-motif-12',"GCTTTAAAA","Genome Res 12: 739-48 (2002)","FISH").
+TFD_subseq('PTTG-Element-A',"AGGCTGTAGGCCCACCTCCTC","Endocrinol 141: 763-71 (2000)","MAMM").
+TFD_subseq('PTTG-Element-B',"TGTGCCGGGTCGTTGGTGGCG","Endocrinol 141: 763-71 (2000)","MAMM").
+TFD_subseq('PTTG-Element-C',"GCTTGGGGTGGCGGGGAGGGC","Endocrinol 141: 763-71 (2000)","MAMM").
+TFD_subseq('mSI-SIF3',"ACAGTTATTAATTAACTTGG","J Biol Chem 276: 32122-8 (2001)","MAMM").
+TFD_subseq('SIF4',"AACATTTATGTAAACTACTT","J Biol Chem 276: 21885-94 (2001)","MAMM").
+TFD_subseq('MMP9-GT-box',"GGGGTGGGGT","Cell Growth Differ 10: 353-67 (1999)","MAMM").
+TFD_subseq('PAI-site-2',"TTCAGCCACCACCACCCCACCCAGCACACCTCCAAC","Diabetes 7: 1522-30 (2001)","MAMM").
+TFD_subseq('PAI-site-4',"CATGCCTCAGCAAGTCCCAGAGAGGGAGG","Diabetes 50: 1522-30 (2001)","MAMM").
+TFD_subseq('PAI-site-5',"CCCAGAGCCAGTGAGTGGGTGGGGCTGGAAC","Diabetes 50: 1522-30 (2001)","MAMM").
+TFD_subseq('PAI-forkhead-site',"TCTATTTCCTGCCCACATCTG","Diabetes 50: 1522-30 (2001)","MAMM").
+TFD_subseq('PBX-PDX1-somatostatin',"GTACTGCATGATTAATTACTGA","Mol Cell Biol 15: 7091-7 (1995)","MAMM").
+TFD_subseq('epsilon-NRB-FP1-human',"GTTATAGAAGAGAGA","J Biol Chem 273: 10202-9 (1998)","MAMM").
+TFD_subseq('epsilon-NRB-FP1-galago',"GTTAAAGATAAGAGA","J Biol Chem 273: 10202-9 (1998)","MAMM").
+TFD_subseq('epsilon-NRB-FP1-rabbit',"GTTATAACAAGAGA","J Biol Chem 273: 10202-9 (1998)","MAMM").
+TFD_subseq('epsilon-NRB-FP1-mouse',"GTTATAGAGAAGATC","J Biol Chem 273: 10202-9 (1998)","MAMM").
+TFD_subseq('epsilon-NRA-FP2',"GAGATACC","J Biol Chem 273: 10202-9 (1998)","MAMM").
+TFD_subseq('epsilon-NRA-FP3',"GTCTGACCCT","J Biol Chem 273: 10202-9 (1998)","MAMM").
+TFD_subseq('epsilon-NRA-FP4',"CTGTATCTT","J Biol Chem 273: 10202-9 (1998)","MAMM").
+TFD_subseq('epsilon-NRA-FP5',"TATTATCT","J Biol Chem 273: 10202-9 (1998)","MAMM").
+TFD_subseq('Pax-6_RS',"TTAGTTCCAGGTCAG","Gene 245: 319-28 (2000)","MAMM").
+TFD_subseq('Pax-6-PD-CS',"ANNTTCACGCWTSANTKMNY","J Biol Chem 269: 8355-61 (1994)","MAMM").
+TFD_subseq('Pax-2-PD-CS',"GTCAYGCRTGACNA","J Biol Chem 269: 8355-61 (1994)","MAMM").
+TFD_subseq('Pax-2/5/8-PD-CS',"RNGMANTSAWGCGKRAC","J Biol Chem 275: 32708-15 (2000)","MAMM").

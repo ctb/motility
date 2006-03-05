@@ -1,0 +1,128 @@
+===========================
+motility's Python interface
+===========================
+
+**motility** is a C++ library for searching DNA sequences with a variety
+of motif representations: string literals, IUPAC motifs, PWMs, and energy
+operators.  See the introduction_ for more information
+about these types of motifs.
+
+The Python interface to the C++ library, module ``motility``, exposes
+one function and three classes:
+
+::
+
+   matches = motility.find_iupac(sequence, iupac_motif, mismatches=0)
+
+   pwm = motility.PWM(matrix)
+
+   operator = motility.EnergyOperator(matrix)
+
+   iupac = motility.IUPAC(iupac_motif)
+
+IUPAC objects are simply 
+
+All three classes (PWMs, energy operators, and IUPAC motifs) support a
+'find' function::
+
+   matches = instance.find(sequence, threshold)
+
+and also a score calculation::
+
+   energy = operator.calc_energy(match)
+
+   score = pwm.calc_score(match)
+
+PWM and IUPAC objects also support two other functions:
+
+::
+
+   sites_list = pwm.generate_sites_over(threshold, use_n=0)
+
+   sites_weight = pwm.weight_sites_over(threshold, AT_bias=.25, GC_bias=.25)
+
+Energy operator support analogous functions:
+
+::
+
+   sites_list = operator.generate_sites_under(threshold, use_n=0)
+
+   sites_weight = operator.weight_sites_under(threshold, AT_bias=.25, GC_bias=.25)
+
+**Warning:** these functions can be very computationally intensive.
+
+IUPAC objects also have a function ``find_with_mismatches`` ::
+
+   sites_list = iupac.find_with_mismatches(sequence, n_mismatches_allowed)
+
+'sequence' must be a DNA sequence;
+'iupac_motif' can be any IUPAC-compatible motif;
+'mismatches' is an integer specifying the number of mismatches to allow;
+'threshold' is a floating point value that specifies the
+upper (for energy operators) and lower (for PWMs) limit on the energy or
+score of the motif returned.
+
+'matrix' is a list of 5-tuples that specify the score for each of ACGTN, e.g.
+
+::
+
+      matrix = [ [ 1, 0, 0, 0, 0 ], [ 0, 1, 0, 1, 0 ] ]
+
+'matches' is the return value and is a tuple containing all of the matches:
+
+::
+
+      for (start, end, orientation, match) in matches: ...
+
+'start' is always less than 'end', 'orientation' is 1 or -1, and 'match' is
+the matching string in the appropriate orientation (forward or RC).
+
+Using ``motility``: An Example
+------------------------------
+
+This short script will print all matches to the IUPAC string ``RWR`` in the
+sequence ``ATTATT`` (there should be only one, 'TAT' in the reverse
+complement).
+
+::
+
+   import motility
+   matches = motility.find_iupac("ATTATT", "RWR", 0)
+   for (start, end, o, match) in matches:
+      print 'found', start, end, o, match
+
+See the included ``python/examples.py`` file for more examples.
+
+Loading and using JASPAR and TFD
+--------------------------------
+
+``motility`` also includes a simple interface to load the JASPAR
+and TFD collections of binding sites.  These collections are
+kept under the ``lists/`` directory and can be loaded via the
+Python library:
+
+::
+
+	pwms = motility.JASPAR.load('lists/JASPAR/matrix_list.txt',
+				    'lists/JASPAR/data')
+
+	pwms = motility.TFD.load('lists/TFD/TFD-prf-list.txt',
+	                         'lists/TFD/data')
+
+'pwms' is a dictionary keyed by the transcription factor name; the values are
+PWM objects built from the matrix from the library.
+
+Note that neither JASPAR nor TFD are associated with ``motility`` in any
+way, and the motif lists are not necessarily redistributable; they are
+included in this distribution solely for convenience.  Please see the
+appropriate ``lists/`` subdirectory for more information.
+
+####################
+
+Contact author: Titus Brown, *titus@caltech.edu*.
+
+::
+
+   12/2005
+
+.. _introduction: intro.html

@@ -1,0 +1,26 @@
+ID   bicoid ; MATRIX.
+AC   bicoid.
+DE   IFTI ooTFD siteProfile SM00283.
+CC   Information Content: 8.62.
+CC   Matrix type: Frequency
+MA   /GENERAL_SPEC: ALPHABET='ACGT';
+MA   /DISJOINT: DEFINITION=PROTECT; N1=1; N2=9;
+MA   /NORMALIZATION: MODE=1; FUNCTION=LINEAR; R1=-96.81; R2=0.5931;
+MA      TEXT='Homology Score';
+MA   /NORMALIZATION: MODE=2; FUNCTION=LINEAR; R1=-10.198; R2=0.06215;
+MA      TEXT='Log KBk2';
+MA   /CUT_OFF: LEVEL=0; SCORE=732; N_SCORE=284; MODE=1;
+MA   /DEFAULT: B0=*; B1=*; E0=*; E1=*; SY_M='*'; II=*;
+MA   /I: B0= 0; B1= 0;
+MA   /M: M=  0, 7, 22, 70; SY=T;
+MA   /M: M=  11, 55, 7, 25; SY=C;
+MA   /M: M=  0, 0, 11, 88; SY=T;
+MA   /M: M=  96, 3, 0, 0; SY=A;
+MA   /M: M=  92, 0, 0, 7; SY=A;
+MA   /M: M=  0, 0, 11, 88; SY=T;
+MA   /M: M=  7, 55, 3, 33; SY=C;
+MA   /M: M=  11, 37, 29, 22; SY=C;
+MA   /M: M=  29, 40, 22, 7; SY=C;
+MA   /I: E0=0; E1=0;
+CC   /TAXO-RANGE=???p?;
+//

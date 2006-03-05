@@ -1,0 +1,6 @@
+test-sequence
+test-find-literal
+test-find-pwm
+test-find-iupac
+test-find-op
+*.pyc

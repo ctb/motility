@@ -1,0 +1,33 @@
+ID   qa-1F ; MATRIX.
+AC   qa-1F.
+DE   IFTI ooTFD siteProfile SM00290.
+CC   Information Content: 16.03.
+CC   Matrix type: Frequency
+MA   /GENERAL_SPEC: ALPHABET='ACGT';
+MA   /DISJOINT: DEFINITION=PROTECT; N1=1; N2=16;
+MA   /NORMALIZATION: MODE=1; FUNCTION=LINEAR; R1=-96.81; R2=0.5931;
+MA      TEXT='Homology Score';
+MA   /NORMALIZATION: MODE=2; FUNCTION=LINEAR; R1=-10.198; R2=0.06215;
+MA      TEXT='Log KBk2';
+MA   /CUT_OFF: LEVEL=0; SCORE=1362; N_SCORE=529; MODE=1;
+MA   /DEFAULT: B0=*; B1=*; E0=*; E1=*; SY_M='*'; II=*;
+MA   /I: B0= 0; B1= 0;
+MA   /M: M=  0, 7, 92, 0; SY=G;
+MA   /M: M=  0, 0, 100, 0; SY=G;
+MA   /M: M=  30, 23, 30, 15; SY=A;
+MA   /M: M=  7, 0, 7, 84; SY=T;
+MA   /M: M=  76, 7, 15, 0; SY=A;
+MA   /M: M=  92, 0, 0, 7; SY=A;
+MA   /M: M=  38, 0, 30, 30; SY=A;
+MA   /M: M=  7, 38, 15, 38; SY=C;
+MA   /M: M=  38, 15, 38, 7; SY=A;
+MA   /M: M=  15, 46, 0, 38; SY=C;
+MA   /M: M=  0, 0, 0, 100; SY=T;
+MA   /M: M=  7, 23, 0, 69; SY=T;
+MA   /M: M=  84, 7, 0, 7; SY=A;
+MA   /M: M=  23, 7, 0, 69; SY=T;
+MA   /M: M=  7, 76, 7, 7; SY=C;
+MA   /M: M=  15, 76, 7, 0; SY=C;
+MA   /I: E0=0; E1=0;
+CC   /TAXO-RANGE=???p?;
+//

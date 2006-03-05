@@ -1,0 +1,23 @@
+ID   TFIID ; MATRIX.
+AC   TFIID.
+DE   IFTI ooTFD siteProfile SM00217.
+CC   Information Content: 10.21.
+CC   Matrix type: Frequency
+MA   /GENERAL_SPEC: ALPHABET='ACGT';
+MA   /DISJOINT: DEFINITION=PROTECT; N1=1; N2=6;
+MA   /NORMALIZATION: MODE=1; FUNCTION=LINEAR; R1=-96.81; R2=0.5931;
+MA      TEXT='Homology Score';
+MA   /NORMALIZATION: MODE=2; FUNCTION=LINEAR; R1=-10.198; R2=0.06215;
+MA      TEXT='Log KBk2';
+MA   /CUT_OFF: LEVEL=0; SCORE=867; N_SCORE=336; MODE=1;
+MA   /DEFAULT: B0=*; B1=*; E0=*; E1=*; SY_M='*'; II=*;
+MA   /I: B0= 0; B1= 0;
+MA   /M: M=  2, 0, 0, 97; SY=T;
+MA   /M: M=  97, 2, 0, 0; SY=A;
+MA   /M: M=  2, 2, 2, 91; SY=T;
+MA   /M: M=  94, 0, 5, 0; SY=A;
+MA   /M: M=  100, 0, 0, 0; SY=A;
+MA   /M: M=  82, 5, 0, 11; SY=A;
+MA   /I: E0=0; E1=0;
+CC   /TAXO-RANGE=???p?;
+//

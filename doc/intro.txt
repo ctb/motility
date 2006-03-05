@@ -1,0 +1,125 @@
+===========================================================
+motility: A C++/Python toolkit for sequence motif searching
+===========================================================
+
+**motility** is a C++ library for searching DNA sequences with several
+different types of motif representations, from the simplest case
+(string literals!)  to IUPAC-style motifs (e.g. ``WGATAR``),
+Position-Weight Matrices (PWMs), and energy operators.  It also has
+a simple Python interface which renders it almost immediately useful
+from the command line.
+
+See the associated ``c++-interface`` and ``python-interface`` docs for
+more info on how to use this library from C++ or Python.
+
+**motility** is used both in FamilyRelations II (FRII) and in
+a variety of ad-hoc script-writing projects.
+
+supported motif types
+---------------------
+
+There's really only a small set of motif representations that are used
+in the Real World; here's a list of the ones that motility knows about.
+
+
+**string literals**
+       This is the simplest kind of motif; ``GACCA`` matches
+       to either ``GACCA`` or its reverse complement ``TGGTC``.
+
+       In practice, you can do the same thing with IUPAC notation (below)
+       in a better and more flexible way, so the string literal functions
+       are not so useful, but it was good practice to write 'em ;).
+
+**IUPAC notation**
+       This notation is the same as string literals except that it permits
+       some uncertainty (or degeneracy) in each position: e.g. ``WGATAR``
+       matches an A or a T, followed by a GATA, followed by an A or a G,
+       in both forward and reverse complement sequence.  See iupac symbols_
+       below.
+
+       Please note that *motility* can also generate IUPAC matches with
+       an arbitrary number of mismatches.
+
+**Position-Weight Matrices**
+       Position-Weight Matrices (PWM) are matrix representations of
+       motifs that allows for fairly flexible matching to individual
+       bases.  For example, for the sequence 'WGATAR' the PWM would
+       look like
+
+       :: 
+
+            ( A C G T )
+          1.  1 0 0 1
+          2.  0 0 1 0
+	  3.  1 0 0 0
+	  4.  0 0 0 1
+	  5.  1 0 0 0
+	  6.  1 0 1 0
+
+       and the PWM score for any given sequence would be the sum of the
+       scores in the matrix element corresponding to the letter in each
+       position, e.g. the score would be 6 for the sequence ``AGATAA`` and
+       the score would be 5 for the sequence ``CGATAA``.
+
+       Because the weights can vary to any floating point value, fairly
+       subtle variations can be constructed to e.g. overemphasize core
+       sites in matches or underemphasize the centers of dimer binding sites.
+
+       PWMs were developed by computer scientists, I think.
+
+**Energy Operators**
+       The inverse of position-weight matrices, in some sense.  It is another
+       matrix representation that allows for weighting of independent
+       bases, but the weights are the inverse of PWM weights: the *lower* the
+       match score, the better the match.  So, for example, the consensus
+       motif usually has a weight of 0 in a normalized energy operator matrix.
+
+       This notation was developed by physicists to mimic the binding
+       energy of proteins to DNA: if a DNA/protein binding interaction
+       is at a minimum along a given sequence, it is the most stable
+       interaction available to that protein.  Gibbs sampling tends to use
+       energy operator notation.
+
+       Obviously PWMs and energy operators are interconvertible, but
+       it's done rather rarely because there's really no point in choosing
+       one over the other.  Also, if converting multiple motifs, you may
+       run into problems normalizing the maximum and minimum scores to
+       get comparable results.
+
+####################
+
+.. _symbols:
+
+**IUPAC symbols:**
+
+The following are the IUPAC symbols for nucleotides:
+
+::
+
+         A            A           Adenine
+         C            C           Cytosine
+         G            G           Guanine
+         T            T           Thymine
+         U            U           Uracil
+         M          A or C
+         R          A or G
+         W          A or T
+         S          C or G
+         Y          C or T
+         K          G or T
+         V        A or C or G
+         H        A or C or T
+         D        A or G or T
+         B        C or G or T
+         N      G or A or T or C
+
+Note that 'X' (normally the same as 'N') is not supported by motility
+because it's silly.  If it's a problem let me know.
+
+####################
+
+Contact author: Titus Brown, *titus@caltech.edu*.
+
+::
+
+   7/2003

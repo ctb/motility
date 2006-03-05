@@ -1,0 +1,138 @@
+========================
+motility's C++ interface
+========================
+
+**motility** is a C++ library for searching DNA sequences with a variety
+of motif representations: string literals, IUPAC motifs, PWMs, and energy
+operators.  See the associated ``intro`` documentation for more information
+about these types of motifs.
+
+The C++ interface is relatively uncomplicated.  Here is a useful subset
+of the classes defined in namespace ``motility``, given with their most-used
+constructors:
+
+::
+
+   class DnaSequence(std::string sequence);
+
+   class LiteralMotif(std::string motif);
+
+   class IupacMotif(std::string motif);
+
+   class PwmMotif(double matrix[][5], unsigned int len);
+
+   class EnergyOperator(double matrix [][5], unsigned int len);
+
+There are also several classes that are, in general, only created by
+other functions in the library:
+
+::
+
+   class MotifMatch(unsigned int start, unsigned int end, DnaSequence match);
+
+   class MotifMatchList(std::vector<MotifMatch*> n);
+
+Using ``motility`` to find motif matches
+-----------------------------------------
+
+The four motif classes given above -- ``LiteralMotif``, ``IupacMotif``,
+``PwmMotif``, and ``EnergyOperator`` -- have a common interface, defined
+by ``class Motif``:
+
+::
+
+    MotifMatchList Motif::find_matches(const DnaSequence& seq);
+    MotifMatchList Motif::find_forward_matches(const DnaSequence& seq);
+    MotifMatchList Motif::find_reverse_matches(const DnaSequence& seq);
+
+So, in general, the user need only create an object with a
+``Motif``-derived class, create a ``DnaSequence``, and pass it to a
+``find_*_matches`` function on the motif object.
+
+``Motif``-derived objects and special functions
+-----------------------------------------------
+
+The various subclasses of ``Motif`` have some additional functions beyond
+the base class:
+
+``IupacMotif::mismatches(unsigned int n)`` allows you to specify the
+number of mismatches to allow in any position for a match.
+
+Both ``PwmMotif`` and ``EnergyOperator`` motifs are based on a matrix
+of nucleotide position/match strengths, and they define the following
+additional functions:
+
+::
+
+   const double max_score()
+
+   const double min_score()
+
+   const unsigned int length()
+
+   std::vector<std::string> generate_sites_over(double min_score, bool use_n=false)
+
+   std::vector<std::string> generate_sites_under(double max_score, bool use_n=false)
+
+   double weight_sites_under(double min_score, double AT_bias, double GC_bias);
+
+   double weight_sites_over(double min_score, double AT_bias, double GC_bias);
+
+The ``generate_sites_`` functions recursively iterate through the matrix
+and generate a vector containing all sites with a score over/under the
+given min/max.
+
+The ``weight_sites_`` functions recursively iterate through the matrix
+and return the combined weight (equiv. probability) of all the sites
+with a score over/under the given min/max.  The probabilistic weight
+of each site is calculated by using the given AT/GC biases.
+
+Practically speaking these functions should only be used on small
+matrices (length <= ~10), or on the tails of large matrices (length <= 20,
+with low threshold).  Even so they may be *very* time and memory consuming.
+
+These ``weight_sites_`` functions can be used to calculate the expected
+number of sites in a sequence search, simply by multiplying the *p* value
+returned against the amount of sequence searched.
+
+In addition to these general matrix functions,
+``PwmMotif::match_threshold(double m)`` allows you to specify the
+threshold below which matches will not be recorded, and
+``EnergyOperator::match_minimum(double m)`` specifies the cutoff above
+which matches will not be recorded.
+
+``EnergyOperator::normalize()`` will normalize the energy operator so that the
+consensus sequence match strength is 0.0.
+
+``MotifMatchList`` objects
+--------------------------
+
+``MotifMatchList`` objects are just convenient place holders for
+vectors of ``MotifMatch`` objects.  To get the list of motif matches
+from them, just call ``std::vector<MotifMatch*> MotifMatchList::list()``.
+
+Practical use issues: header files and linking
+----------------------------------------------
+
+To use a particular class, you'll need to include the associated header
+file.  For example, ``IupacMotif`` is defined in ``IupacMotif.hh``.  All
+of these files are under the ``src/`` directory.
+
+All of the object files are linked into ``libmotility.a``, which can
+be included with ``-lmotility`` on the command line.
+
+So, for example, to compile a single-file program, you can do
+
+::
+
+   g++ -I/path/to/motility/src myprog.c++ -o myprog -L/path/to/motility/src -l motility
+
+####################
+
+Contact author: Titus Brown, *titus@caltech.edu*.
+
+::
+
+   3/2005
+
+

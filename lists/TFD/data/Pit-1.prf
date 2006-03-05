@@ -1,0 +1,33 @@
+ID   Pit-1 ; MATRIX.
+AC   Pit-1.
+DE   IFTI ooTFD siteProfile SM00272.
+CC   Information Content: 10.27.
+CC   Matrix type: Frequency
+MA   /GENERAL_SPEC: ALPHABET='ACGT';
+MA   /DISJOINT: DEFINITION=PROTECT; N1=1; N2=16;
+MA   /NORMALIZATION: MODE=1; FUNCTION=LINEAR; R1=-96.81; R2=0.5931;
+MA      TEXT='Homology Score';
+MA   /NORMALIZATION: MODE=2; FUNCTION=LINEAR; R1=-10.198; R2=0.06215;
+MA      TEXT='Log KBk2';
+MA   /CUT_OFF: LEVEL=0; SCORE=873; N_SCORE=339; MODE=1;
+MA   /DEFAULT: B0=*; B1=*; E0=*; E1=*; SY_M='*'; II=*;
+MA   /I: B0= 0; B1= 0;
+MA   /M: M=  10, 36, 21, 31; SY=C;
+MA   /M: M=  36, 26, 0, 36; SY=A;
+MA   /M: M=  52, 0, 5, 42; SY=A;
+MA   /M: M=  15, 26, 5, 52; SY=T;
+MA   /M: M=  21, 15, 21, 42; SY=T;
+MA   /M: M=  42, 21, 5, 31; SY=A;
+MA   /M: M=  57, 5, 5, 31; SY=A;
+MA   /M: M=  21, 21, 0, 57; SY=T;
+MA   /M: M=  52, 0, 0, 47; SY=A;
+MA   /M: M=  47, 5, 5, 42; SY=A;
+MA   /M: M=  94, 5, 0, 0; SY=A;
+MA   /M: M=  10, 0, 5, 84; SY=T;
+MA   /M: M=  15, 10, 31, 42; SY=T;
+MA   /M: M=  15, 63, 5, 15; SY=C;
+MA   /M: M=  84, 5, 0, 10; SY=A;
+MA   /M: M=  15, 15, 5, 63; SY=T;
+MA   /I: E0=0; E1=0;
+CC   /TAXO-RANGE=???p?;
+//

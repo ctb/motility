@@ -1,0 +1,25 @@
+ID   NFIII ; MATRIX.
+AC   NFIII.
+DE   IFTI ooTFD siteProfile SM00060.
+CC   Information Content: 12.39.
+CC   Matrix type: Frequency
+MA   /GENERAL_SPEC: ALPHABET='ACGT';
+MA   /DISJOINT: DEFINITION=PROTECT; N1=1; N2=8;
+MA   /NORMALIZATION: MODE=1; FUNCTION=LINEAR; R1=-96.81; R2=0.5931;
+MA      TEXT='Homology Score';
+MA   /NORMALIZATION: MODE=2; FUNCTION=LINEAR; R1=-10.198; R2=0.06215;
+MA      TEXT='Log KBk2';
+MA   /CUT_OFF: LEVEL=0; SCORE=1052; N_SCORE=408; MODE=1;
+MA   /DEFAULT: B0=*; B1=*; E0=*; E1=*; SY_M='*'; II=*;
+MA   /I: B0= 0; B1= 0;
+MA   /M: M=  100, 0, 0, 0; SY=A;
+MA   /M: M=  1, 0, 0, 98; SY=T;
+MA   /M: M=  0, 0, 92, 7; SY=G;
+MA   /M: M=  11, 75, 0, 12; SY=C;
+MA   /M: M=  76, 2, 0, 20; SY=A;
+MA   /M: M=  98, 0, 1, 0; SY=A;
+MA   /M: M=  96, 0, 0, 3; SY=A;
+MA   /M: M=  5, 1, 16, 76; SY=T;
+MA   /I: E0=0; E1=0;
+CC   /TAXO-RANGE=???p?;
+//
