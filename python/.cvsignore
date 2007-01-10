@@ -1,2 +1,3 @@
-_motilitymodule.so
 build
+CMakeFiles
+cmake_install.cmake

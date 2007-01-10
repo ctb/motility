@@ -4,3 +4,6 @@ test-find-pwm
 test-find-iupac
 test-find-op
 *.pyc
+cmake_install.cmake
+CMakeFiles
+Makefile.bak
