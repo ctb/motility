@@ -7,3 +7,4 @@ test-find-op
 cmake_install.cmake
 CMakeFiles
 Makefile.bak
+Makefile

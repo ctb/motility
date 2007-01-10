@@ -1,11 +1,10 @@
 'motility' is entirely standalone; you don't need anything other than
-GCC to build the C++ library, and you don't need anything other than
-Python to build the Python library.
+CMake and GCC to build the C++ library, and you don't need anything
+other than Python to build the Python library.
 
 Configuration:
 
-   * set the version/location of the Python installation you want to use
-     in 'Makefile'.  (By default it uses whatever version is in your path.)
+   * run 'cmake .' in the motility top directory.
 
 To build:
 
