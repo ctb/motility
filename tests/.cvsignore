@@ -8,3 +8,4 @@ cmake_install.cmake
 CMakeFiles
 Makefile.bak
 Makefile
+*.exe
