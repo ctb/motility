@@ -32,7 +32,7 @@ motility_build_dir = os.path.abspath(motility_build_dir)
 sys.path.insert(0, motility_build_dir)
 
 import motility
-assert motility.__version__ == "0.7"
+assert motility.__version__ == "0.8"
 
 def motility_version_message():
     print """
