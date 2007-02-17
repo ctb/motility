@@ -24,6 +24,14 @@
 #include <IupacMotif.hh>
 #include <EnergyOperator.hh>
 
+// Provides pre-Python 2.5 compatibility
+#if PY_VERSION_HEX < 0x02050000 && !defined(PY_SSIZE_T_MIN)
+  typedef int Py_ssize_t;
+  #define PY_SSIZE_T_MAX INT_MAX
+  #define PY_SSIZE_T_MIN INT_MIN
+  typedef Py_ssize_t (*lenfunc)(PyObject *);
+#endif
+
 //
 // Function necessary for Python loading:
 //
@@ -62,13 +70,13 @@ motility_matrix_getattr(PyObject * obj, char * name)
 
 #define is_matrix_obj(v)  ((v)->ob_type == &motility_MatrixType)
 
-static int matrix_length(motility_MatrixObject * self)
+static Py_ssize_t matrix_length(motility_MatrixObject * self)
 {
-  return (int) self->length;
+  return (Py_ssize_t) self->length;
 }
 
 static PySequenceMethods tuple_as_sequence = {
-  (inquiry)matrix_length,	/* sq_length */
+  (lenfunc)matrix_length,	/* sq_length */
   0,				/* sq_concat */
   0,				/* sq_repeat */
   0,				/* sq_item */
