@@ -1,6 +1,4 @@
 #! /usr/bin/env python2.3
-import _testdir
-
 import motility
 
 ###
@@ -28,11 +26,17 @@ def calc_max(mat):
     mat = [ i[:4] for i in mat ]        # eliminate 'N's
     return sum(map(max, mat))
 
-assert calc_min(matrix) == operator.min_score()
-assert calc_max(matrix) == operator.max_score()
+def test_1():
+    assert calc_min(matrix) == operator.min_score()
 
-assert calc_min(matrix) == pwm.min_score()
-assert calc_max(matrix) == pwm.max_score()
+def test_2():
+    assert calc_max(matrix) == operator.max_score()
+
+def test_3():
+    assert calc_min(matrix) == pwm.min_score()
+
+def test_4():
+    assert calc_max(matrix) == pwm.max_score()
 
 ####
 
@@ -80,40 +84,41 @@ def calc_sitelist_weight(sites, AT_bias, GC_bias):
 
     return total
 
-for threshold in range(min_score, max_score):
-    predicted_under = operator.generate_sites_under(threshold)
-    predicted_over = pwm.generate_sites_over(threshold)
+def test_5():
+    for threshold in range(min_score, max_score):
+        predicted_under = operator.generate_sites_under(threshold)
+        predicted_over = pwm.generate_sites_over(threshold)
 
-    for (AT_bias, GC_bias) in ((.75 / 2., .25 / 2.),
-                               (.5 / 2., .5 / 2.),
-                               (.25 / 2., .75 / 2.)):
+        for (AT_bias, GC_bias) in ((.75 / 2., .25 / 2.),
+                                   (.5 / 2., .5 / 2.),
+                                   (.25 / 2., .75 / 2.)):
 
-        pred_u_weight = operator.weight_sites_under(threshold, AT_bias,
-                                                    GC_bias)
-        calc_u_weight = calc_sitelist_weight(predicted_under, AT_bias, GC_bias)
+            pred_u_weight = operator.weight_sites_under(threshold, AT_bias,
+                                                        GC_bias)
+            calc_u_weight = calc_sitelist_weight(predicted_under, AT_bias, GC_bias)
 
-        assert pred_u_weight == calc_u_weight
-        
-        pred_o_weight = pwm.weight_sites_over(threshold, AT_bias, GC_bias)
-        calc_o_weight = calc_sitelist_weight(predicted_over, AT_bias, GC_bias)
+            assert pred_u_weight == calc_u_weight
 
-        assert pred_o_weight == calc_o_weight
+            pred_o_weight = pwm.weight_sites_over(threshold, AT_bias, GC_bias)
+            calc_o_weight = calc_sitelist_weight(predicted_over, AT_bias, GC_bias)
 
-    calc_under = [ i for i in all_sites \
-                   if operator.calc_energy(i) <= threshold ]
-    calc_over = [ i for i in all_sites \
-                  if pwm.calc_score(i) >= threshold ]
+            assert pred_o_weight == calc_o_weight
 
-    predicted_under = list(predicted_under)
-    predicted_over = list(predicted_over)
+        calc_under = [ i for i in all_sites \
+                       if operator.calc_energy(i) <= threshold ]
+        calc_over = [ i for i in all_sites \
+                      if pwm.calc_score(i) >= threshold ]
 
-    predicted_under.sort()
-    predicted_over.sort()
+        predicted_under = list(predicted_under)
+        predicted_over = list(predicted_over)
 
-    calc_under.sort()
-    calc_over.sort()
+        predicted_under.sort()
+        predicted_over.sort()
 
-    assert predicted_under == calc_under
-    assert predicted_over == calc_over
+        calc_under.sort()
+        calc_over.sort()
+
+        assert predicted_under == calc_under
+        assert predicted_over == calc_over
 
 print 'ALL TESTS PASSED.'
