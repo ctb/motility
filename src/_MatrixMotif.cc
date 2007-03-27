@@ -107,7 +107,7 @@ MotifMatchList _MatrixMotif::find_reverse_matches(const DnaSequence& seq) const
 
 const bool _MatrixMotif::_check_palindromic() const
 {
-  int i;
+  unsigned int i;
 
   for (i = 0; i < _length / 2; i++) {
     int front = i;

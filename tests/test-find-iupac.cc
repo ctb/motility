@@ -48,7 +48,7 @@ int main(int argc, char * argv[])
   for (unsigned int i = 0; i < 80000; i++) {
     str += "ATGGC";
   }
-  printf("str is now len %d\n", str.length());
+  printf("str is now len %d\n", (int) str.length());
 
   DnaSequence g(str);
   IupacMotif m5("ATTGGCATTG");
