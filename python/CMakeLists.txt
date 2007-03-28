@@ -10,8 +10,6 @@ IF(PYTHON_EXECUTABLE)
   SET(PYTHONINTERP_FOUND ON)
 ENDIF(PYTHON_EXECUTABLE)
 
-MESSAGE(${PYTHON_EXECUTABLE})
-
 IF(PYTHONINTERP_FOUND) 
   # I needed to split into the C compiling and python compiling
   # so I could add the -L option to specify where CMake had built the
