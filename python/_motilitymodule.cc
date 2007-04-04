@@ -153,19 +153,19 @@ static motility_MatrixObject * _parse_matrix(PyObject * matrix_o,
 	item_val = PyFloat_AsDouble(float_o);
 
 	Py_DECREF(float_o);
+	Py_DECREF(item_o);
       } else {
 	assert(col == 5);
+	PyErr_Clear();
 	item_val = default_n_score;
       }
 
       matrix[row*5 + col] = item_val;
-
-      Py_XDECREF(item_o);
     }
     Py_DECREF(row_o);
   }
 
-  if (error_exit) { free(matrix); return NULL; }
+  if (error_exit) { delete matrix; return NULL; }
 
   motility_MatrixObject * matrix_obj = (motility_MatrixObject *) \
     PyObject_New(motility_MatrixObject, &motility_MatrixType);
@@ -174,7 +174,7 @@ static motility_MatrixObject * _parse_matrix(PyObject * matrix_o,
     matrix_obj->matrix = matrix;
     matrix_obj->length = ulen;
   } else {
-    free(matrix); matrix = NULL;
+    delete matrix; matrix = NULL;
   }
 
   return matrix_obj;
