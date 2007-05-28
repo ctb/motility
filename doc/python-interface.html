@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.4: http://docutils.sourceforge.net/" />
+<title>motility's Python interface</title>
+<style type="text/css">
+
+/*
+:Author: David Goodger
+:Contact: goodger@users.sourceforge.net
+:Date: $Date: 2005-12-18 01:56:14 +0100 (Sun, 18 Dec 2005) $
+:Revision: $Revision: 4224 $
+:Copyright: This stylesheet has been placed in the public domain.
+
+Default cascading style sheet for the HTML output of Docutils.
+
+See http://docutils.sf.net/docs/howto/html-stylesheets.html for how to
+customize this style sheet.
+*/
+
+/* used to remove borders from tables and images */
+.borderless, table.borderless td, table.borderless th {
+  border: 0 }
+
+table.borderless td, table.borderless th {
+  /* Override padding for "table.docutils td" with "! important".
+     The right padding separates the table cells. */
+  padding: 0 0.5em 0 0 ! important }
+
+.first {
+  /* Override more specific margin styles with "! important". */
+  margin-top: 0 ! important }
+
+.last, .with-subtitle {
+  margin-bottom: 0 ! important }
+
+.hidden {
+  display: none }
+
+a.toc-backref {
+  text-decoration: none ;
+  color: black }
+
+blockquote.epigraph {
+  margin: 2em 5em ; }
+
+dl.docutils dd {
+  margin-bottom: 0.5em }
+
+/* Uncomment (and remove this text!) to get bold-faced definition list terms
+dl.docutils dt {
+  font-weight: bold }
+*/
+
+div.abstract {
+  margin: 2em 5em }
+
+div.abstract p.topic-title {
+  font-weight: bold ;
+  text-align: center }
+
+div.admonition, div.attention, div.caution, div.danger, div.error,
+div.hint, div.important, div.note, div.tip, div.warning {
+  margin: 2em ;
+  border: medium outset ;
+  padding: 1em }
+
+div.admonition p.admonition-title, div.hint p.admonition-title,
+div.important p.admonition-title, div.note p.admonition-title,
+div.tip p.admonition-title {
+  font-weight: bold ;
+  font-family: sans-serif }
+
+div.attention p.admonition-title, div.caution p.admonition-title,
+div.danger p.admonition-title, div.error p.admonition-title,
+div.warning p.admonition-title {
+  color: red ;
+  font-weight: bold ;
+  font-family: sans-serif }
+
+/* Uncomment (and remove this text!) to get reduced vertical space in
+   compound paragraphs.
+div.compound .compound-first, div.compound .compound-middle {
+  margin-bottom: 0.5em }
+
+div.compound .compound-last, div.compound .compound-middle {
+  margin-top: 0.5em }
+*/
+
+div.dedication {
+  margin: 2em 5em ;
+  text-align: center ;
+  font-style: italic }
+
+div.dedication p.topic-title {
+  font-weight: bold ;
+  font-style: normal }
+
+div.figure {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+div.footer, div.header {
+  clear: both;
+  font-size: smaller }
+
+div.line-block {
+  display: block ;
+  margin-top: 1em ;
+  margin-bottom: 1em }
+
+div.line-block div.line-block {
+  margin-top: 0 ;
+  margin-bottom: 0 ;
+  margin-left: 1.5em }
+
+div.sidebar {
+  margin-left: 1em ;
+  border: medium outset ;
+  padding: 1em ;
+  background-color: #ffffee ;
+  width: 40% ;
+  float: right ;
+  clear: right }
+
+div.sidebar p.rubric {
+  font-family: sans-serif ;
+  font-size: medium }
+
+div.system-messages {
+  margin: 5em }
+
+div.system-messages h1 {
+  color: red }
+
+div.system-message {
+  border: medium outset ;
+  padding: 1em }
+
+div.system-message p.system-message-title {
+  color: red ;
+  font-weight: bold }
+
+div.topic {
+  margin: 2em }
+
+h1.section-subtitle, h2.section-subtitle, h3.section-subtitle,
+h4.section-subtitle, h5.section-subtitle, h6.section-subtitle {
+  margin-top: 0.4em }
+
+h1.title {
+  text-align: center }
+
+h2.subtitle {
+  text-align: center }
+
+hr.docutils {
+  width: 75% }
+
+img.align-left {
+  clear: left }
+
+img.align-right {
+  clear: right }
+
+ol.simple, ul.simple {
+  margin-bottom: 1em }
+
+ol.arabic {
+  list-style: decimal }
+
+ol.loweralpha {
+  list-style: lower-alpha }
+
+ol.upperalpha {
+  list-style: upper-alpha }
+
+ol.lowerroman {
+  list-style: lower-roman }
+
+ol.upperroman {
+  list-style: upper-roman }
+
+p.attribution {
+  text-align: right ;
+  margin-left: 50% }
+
+p.caption {
+  font-style: italic }
+
+p.credits {
+  font-style: italic ;
+  font-size: smaller }
+
+p.label {
+  white-space: nowrap }
+
+p.rubric {
+  font-weight: bold ;
+  font-size: larger ;
+  color: maroon ;
+  text-align: center }
+
+p.sidebar-title {
+  font-family: sans-serif ;
+  font-weight: bold ;
+  font-size: larger }
+
+p.sidebar-subtitle {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+p.topic-title {
+  font-weight: bold }
+
+pre.address {
+  margin-bottom: 0 ;
+  margin-top: 0 ;
+  font-family: serif ;
+  font-size: 100% }
+
+pre.literal-block, pre.doctest-block {
+  margin-left: 2em ;
+  margin-right: 2em ;
+  background-color: #eeeeee }
+
+span.classifier {
+  font-family: sans-serif ;
+  font-style: oblique }
+
+span.classifier-delimiter {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+span.interpreted {
+  font-family: sans-serif }
+
+span.option {
+  white-space: nowrap }
+
+span.pre {
+  white-space: pre }
+
+span.problematic {
+  color: red }
+
+span.section-subtitle {
+  /* font-size relative to parent (h1..h6 element) */
+  font-size: 80% }
+
+table.citation {
+  border-left: solid 1px gray;
+  margin-left: 1px }
+
+table.docinfo {
+  margin: 2em 4em }
+
+table.docutils {
+  margin-top: 0.5em ;
+  margin-bottom: 0.5em }
+
+table.footnote {
+  border-left: solid 1px black;
+  margin-left: 1px }
+
+table.docutils td, table.docutils th,
+table.docinfo td, table.docinfo th {
+  padding-left: 0.5em ;
+  padding-right: 0.5em ;
+  vertical-align: top }
+
+table.docutils th.field-name, table.docinfo th.docinfo-name {
+  font-weight: bold ;
+  text-align: left ;
+  white-space: nowrap ;
+  padding-left: 0 }
+
+h1 tt.docutils, h2 tt.docutils, h3 tt.docutils,
+h4 tt.docutils, h5 tt.docutils, h6 tt.docutils {
+  font-size: 100% }
+
+tt.docutils {
+  background-color: #eeeeee }
+
+ul.auto-toc {
+  list-style-type: none }
+
+</style>
+</head>
+<body>
+<div class="document" id="motility-s-python-interface">
+<h1 class="title">motility's Python interface</h1>
+<p><strong>motility</strong> is a C++ library for searching DNA sequences with a variety
+of motif representations: string literals, IUPAC motifs, PWMs, and energy
+operators.  See the <a class="reference" href="intro.html">introduction</a> for more information
+about these types of motifs.</p>
+<p>The Python interface to the C++ library, module <tt class="docutils literal"><span class="pre">motility</span></tt>, exposes
+one function and three classes:</p>
+<pre class="literal-block">
+matches = motility.find_iupac(sequence, iupac_motif, mismatches=0)
+
+pwm = motility.PWM(matrix)
+
+operator = motility.EnergyOperator(matrix)
+
+iupac = motility.IUPAC(iupac_motif)
+</pre>
+<p>IUPAC objects are simply</p>
+<p>All three classes (PWMs, energy operators, and IUPAC motifs) support a
+'find' function:</p>
+<pre class="literal-block">
+matches = instance.find(sequence, threshold)
+</pre>
+<p>and also a score calculation:</p>
+<pre class="literal-block">
+energy = operator.calc_energy(match)
+
+score = pwm.calc_score(match)
+</pre>
+<p>PWM and IUPAC objects also support two other functions:</p>
+<pre class="literal-block">
+sites_list = pwm.generate_sites_over(threshold, use_n=0)
+
+sites_weight = pwm.weight_sites_over(threshold, AT_bias=.25, GC_bias=.25)
+</pre>
+<p>Energy operator support analogous functions:</p>
+<pre class="literal-block">
+sites_list = operator.generate_sites_under(threshold, use_n=0)
+
+sites_weight = operator.weight_sites_under(threshold, AT_bias=.25, GC_bias=.25)
+</pre>
+<p><strong>Warning:</strong> these functions can be very computationally intensive.</p>
+<p>IUPAC objects also have a function <tt class="docutils literal"><span class="pre">find_with_mismatches</span></tt></p>
+<pre class="literal-block">
+sites_list = iupac.find_with_mismatches(sequence, n_mismatches_allowed)
+</pre>
+<p>'sequence' must be a DNA sequence;
+'iupac_motif' can be any IUPAC-compatible motif;
+'mismatches' is an integer specifying the number of mismatches to allow;
+'threshold' is a floating point value that specifies the
+upper (for energy operators) and lower (for PWMs) limit on the energy or
+score of the motif returned.</p>
+<p>'matrix' is a list of 5-tuples that specify the score for each of ACGTN, e.g.</p>
+<pre class="literal-block">
+matrix = [ [ 1, 0, 0, 0, 0 ], [ 0, 1, 0, 1, 0 ] ]
+</pre>
+<p>'matches' is the return value and is a tuple containing all of the matches:</p>
+<pre class="literal-block">
+for (start, end, orientation, match) in matches: ...
+</pre>
+<p>'start' is always less than 'end', 'orientation' is 1 or -1, and 'match' is
+the matching string in the appropriate orientation (forward or RC).</p>
+<div class="section">
+<h1><a id="using-motility-an-example" name="using-motility-an-example">Using <tt class="docutils literal"><span class="pre">motility</span></tt>: An Example</a></h1>
+<p>This short script will print all matches to the IUPAC string <tt class="docutils literal"><span class="pre">RWR</span></tt> in the
+sequence <tt class="docutils literal"><span class="pre">ATTATT</span></tt> (there should be only one, 'TAT' in the reverse
+complement).</p>
+<pre class="literal-block">
+import motility
+matches = motility.find_iupac(&quot;ATTATT&quot;, &quot;RWR&quot;, 0)
+for (start, end, o, match) in matches:
+   print 'found', start, end, o, match
+</pre>
+<p>See the included <tt class="docutils literal"><span class="pre">python/examples.py</span></tt> file for more examples.</p>
+</div>
+<div class="section">
+<h1><a id="loading-and-using-jaspar-and-tfd" name="loading-and-using-jaspar-and-tfd">Loading and using JASPAR and TFD</a></h1>
+<p><tt class="docutils literal"><span class="pre">motility</span></tt> also includes a simple interface to load the JASPAR
+and TFD collections of binding sites.  These collections are
+kept under the <tt class="docutils literal"><span class="pre">lists/</span></tt> directory and can be loaded via the
+Python library:</p>
+<pre class="literal-block">
+pwms = motility.JASPAR.load('lists/JASPAR/matrix_list.txt',
+                            'lists/JASPAR/data')
+
+pwms = motility.TFD.load('lists/TFD/TFD-prf-list.txt',
+                         'lists/TFD/data')
+</pre>
+<p>'pwms' is a dictionary keyed by the transcription factor name; the values are
+PWM objects built from the matrix from the library.</p>
+<p>Note that neither JASPAR nor TFD are associated with <tt class="docutils literal"><span class="pre">motility</span></tt> in any
+way, and the motif lists are not necessarily redistributable; they are
+included in this distribution solely for convenience.  Please see the
+appropriate <tt class="docutils literal"><span class="pre">lists/</span></tt> subdirectory for more information.</p>
+<hr class="docutils" />
+<p>Contact author: Titus Brown, <em>titus&#64;caltech.edu</em>.</p>
+<pre class="literal-block">
+12/2005
+</pre>
+</div>
+</div>
+</body>
+</html>
