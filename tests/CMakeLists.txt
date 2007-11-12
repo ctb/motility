@@ -1,5 +1,5 @@
-INCLUDE_DIRECTORIES(${CMAKE_SOURCE_DIR}/motility/src/)
-LINK_DIRECTORIES(${CMAKE_BINARY_DIR}/motility/src/)
+INCLUDE_DIRECTORIES(${CMAKE_SOURCE_DIR}/src/ ${CMAKE_SOURCE_DIR}/motility/src/)
+LINK_DIRECTORIES(${CMAKE_BINARY_DIR}/src/ ${CMAKE_BINARY_DIR}/motility/src/)
 LINK_LIBRARIES(motility)
 
 ADD_EXECUTABLE(test-sequence test-sequence.cc)
