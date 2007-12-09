@@ -18,7 +18,7 @@
 A set of convenient OO Python interfaces to the _motility extension module.
 """
 
-__version__ = "0.8"
+__version__ = "0.8.1"
 
 import _motility
 

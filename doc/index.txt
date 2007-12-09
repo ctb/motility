@@ -10,9 +10,11 @@ simple Python interface which renders it almost immediately useful
 from the command line; the Python interface also supports reading of
 the JASPAR and TFD libraries of binding sites.
 
-The current version of motility is **0.8**, and it's available
+The current version of motility is **0.8.1**, and it's available
 from the Cartwheel CVS archive on SourceForge under ``motility/``,
 or upon request to *titus@caltech.edu*.
+
+@@CTB@@
 
 Documentation:
 

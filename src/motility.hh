@@ -16,7 +16,7 @@
 #ifndef MOTILITY_HH
 #define MOTILITY_HH
 
-#define MOTILITY_VERSION "0.8"
+#define MOTILITY_VERSION "0.8.1"
 
 #include <string>
 

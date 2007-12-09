@@ -844,6 +844,6 @@ DL_EXPORT(void) init_motility(void)
   m = Py_InitModule("_motility", MotilityMethods);
 
   d = PyModule_GetDict(m);
-  MotilityError = PyErr_NewException("_motility.error", NULL, NULL);
-  PyDict_SetItemString(d, "undefined error", MotilityError);  
+  MotilityError = PyErr_NewException("_motility.MotilityError", NULL, NULL);
+  PyDict_SetItemString(d, "MotilityError", MotilityError);  
 }
