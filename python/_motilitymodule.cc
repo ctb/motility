@@ -15,12 +15,13 @@
  */ 
 
 //
-// A module for Python that exports two functions, 'find_iupac' and 'find_pwm'.
+// A module for Python that wraps the motility C++ functions.
 //
 
 #include "Python.h"
 
 #include <DnaSequence.hh>	// from motility src/
+#include <LiteralMotif.hh>
 #include <IupacMotif.hh>
 #include <EnergyOperator.hh>
 
@@ -214,6 +215,50 @@ static void motility_matrix_dealloc(PyObject* self)
 }
 
 /***********************************************************************/
+
+//
+// find_exact: search for an exact match in the given sequence.
+//
+
+static PyObject * find_exact(PyObject * self, PyObject * args)
+{
+  char * seq_c, * motif_c;
+
+  // Python arguments: sequence, motif.
+
+  if (!PyArg_ParseTuple(args, "ss", &seq_c, &motif_c)) {
+    return NULL;
+  }
+
+  try {
+    motility::DnaSequence seq(seq_c);
+    motility::LiteralMotif motif(motif_c);
+
+    motility::MotifMatchList matches = motif.find_matches(seq);
+    std::vector<motility::MotifMatch*> l = matches.list();
+
+    PyObject * t = PyTuple_New(l.size());
+
+    for (unsigned int i = 0; i < l.size(); i++) {
+      motility::MotifMatch * m = l[i];
+
+      int orientation = m->start > m->end ? -1 : 1;
+      unsigned int start = orientation < 0 ? m->end : m->start;
+      unsigned int end = orientation < 0 ? m->start : m->end;
+
+      PyObject * u = Py_BuildValue("iiis", start, end, orientation,
+				   m->match_seq.sequence().c_str());
+      PyTuple_SET_ITEM(t, i, u);
+    }
+
+    return t;
+  } catch (motility::exception& exc) {
+    // raise the error...
+    PyErr_SetString(MotilityError, exc.msg.c_str());
+
+    return NULL;
+  }
+}
 
 //
 // find_iupac: search for an IUPAC motif in the given sequence.
@@ -752,7 +797,7 @@ static PyObject * min_score(PyObject * self, PyObject * args)
       use_n = true;
     }
 
-    double score = motif.min_score();
+    double score = motif.min_score(use_n);
 
     return PyFloat_FromDouble(score);
   } catch (motility::exception& exc) {
@@ -770,6 +815,7 @@ static PyObject * min_score(PyObject * self, PyObject * args)
 
 static PyMethodDef MotilityMethods[] = {
   { "create_matrix", create_matrix, METH_VARARGS, "Create a matrix object" },
+  { "find_exact", find_exact, METH_VARARGS, "Find exact matches.  Takes sequence, motif to find." },
   { "find_iupac", find_iupac, METH_VARARGS, "Find IUPAC motifs.  Takes sequence, motif to find.  Optional argument: # of mismatches." },
   { "find_pwm", find_pwm, METH_VARARGS, "Find PWM matches" },
   { "calc_score", calc_energy, METH_VARARGS, "Calculate the score of a PWM match" },

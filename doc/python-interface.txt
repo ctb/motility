@@ -8,9 +8,11 @@ operators.  See the introduction_ for more information
 about these types of motifs.
 
 The Python interface to the C++ library, module ``motility``, exposes
-one function and three classes:
+two functions and three classes:
 
 ::
+
+   matches = motility.find_exact(sequence, iupac_motif)
 
    matches = motility.find_iupac(sequence, iupac_motif, mismatches=0)
 
@@ -20,7 +22,7 @@ one function and three classes:
 
    iupac = motility.IUPAC(iupac_motif)
 
-IUPAC objects are simply 
+IUPAC objects are simply PWM translations of the IUPAC code.
 
 All three classes (PWMs, energy operators, and IUPAC motifs) support a
 'find' function::

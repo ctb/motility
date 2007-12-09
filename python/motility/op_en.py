@@ -1,6 +1,6 @@
 def load(filename):
     """
-    A function to load an open-style bndarray from a file.  Returns an
+    A function to load an op-en-style bndarray from a file.  Returns an
     array suitable for passing into motility.
     """
 

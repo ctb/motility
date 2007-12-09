@@ -22,6 +22,9 @@ __version__ = "0.8"
 
 import _motility
 
+# find_exact is the straight C function
+find_exact = _motility.find_exact
+
 # find_iupac is the same.
 find_iupac = _motility.find_iupac
 

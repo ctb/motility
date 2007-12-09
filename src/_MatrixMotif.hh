@@ -136,7 +136,7 @@ namespace motility {
 
     // Calculate the min/max score.
     const double max_score(bool use_n=false) const;
-    const double min_score() const;
+    const double min_score(bool use_n=false) const;
 
     // calculate the score of a specific sequence.
     virtual double calc_score(const DnaSequence& seq, unsigned int pos) const;

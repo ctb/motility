@@ -57,9 +57,13 @@ namespace motility {
       return m;
     }
 
-    double min_value() const {
+    double min_value(bool use_n=false) const {
       double m = entries[0];
-      for (unsigned int i = 1; i < 5; i++ ) {
+
+      unsigned int upper = 4;
+      if (use_n) upper = 5;
+
+      for (unsigned int i = 1; i < upper; i++ ) {
 	if (m > entries[i]) {
 	  m = entries[i];
 	}

@@ -28,13 +28,13 @@ const double _MatrixMotif::max_score(bool use_n) const
   return total;
 }
 
-const double _MatrixMotif::min_score() const
+const double _MatrixMotif::min_score(bool use_n) const
 {
   double total = 0.;
 
   for (unsigned int i = 0; i < _length; i++) {
     _MatrixRow * r = matrix[i];
-    total += r->min_value();
+    total += r->min_value(use_n);
   }
   return total;
 }
