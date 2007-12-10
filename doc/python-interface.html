@@ -297,8 +297,10 @@ of motif representations: string literals, IUPAC motifs, PWMs, and energy
 operators.  See the <a class="reference" href="intro.html">introduction</a> for more information
 about these types of motifs.</p>
 <p>The Python interface to the C++ library, module <tt class="docutils literal"><span class="pre">motility</span></tt>, exposes
-one function and three classes:</p>
+two functions and three classes:</p>
 <pre class="literal-block">
+matches = motility.find_exact(sequence, iupac_motif)
+
 matches = motility.find_iupac(sequence, iupac_motif, mismatches=0)
 
 pwm = motility.PWM(matrix)
@@ -307,7 +309,7 @@ operator = motility.EnergyOperator(matrix)
 
 iupac = motility.IUPAC(iupac_motif)
 </pre>
-<p>IUPAC objects are simply</p>
+<p>IUPAC objects are simply PWM translations of the IUPAC code.</p>
 <p>All three classes (PWMs, energy operators, and IUPAC motifs) support a
 'find' function:</p>
 <pre class="literal-block">

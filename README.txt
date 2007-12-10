@@ -9,9 +9,9 @@ GNU Public License; you can find a copy in doc/LICENSE.txt.  Only files
 that are not explicitly licensed under a different license than the LGPL
 are not under the LGPL.
 
-Likewise, all of the source code in this package is Copyright (C) 2003
-California Institute of Technology, Pasadena, CA, 91125, except
-where explicitly noted.
+Likewise, all of the source code in this package is Copyright (C)
+2003-2007 California Institute of Technology, Pasadena, CA, 91125,
+except where explicitly noted.
 
 This source code was written by C. Titus Brown.  The contact author for this
 package is Titus, titus@caltech.edu.  Please contact him regarding any
@@ -24,4 +24,4 @@ site.
 
 See BUILD.txt for instructions on building and installing.
 
-6/2004 CTB
+12/2007 CTB

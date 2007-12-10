@@ -11,10 +11,8 @@ from the command line; the Python interface also supports reading of
 the JASPAR and TFD libraries of binding sites.
 
 The current version of motility is **0.8.1**, and it's available
-from the Cartwheel CVS archive on SourceForge under ``motility/``,
-or upon request to *titus@caltech.edu*.
-
-@@CTB@@
+from cartwheel.caltech.edu/motility/.  You can also check out the
+latest development version at http://cartwheel.idyll.org/.
 
 Documentation:
 
@@ -31,4 +29,3 @@ Documentation:
 .. _Introduction to motility and motif types: intro.html
 .. _C++ API: c++-interface.html
 .. _Python interface: python-interface.html
-.. _Cartwheel CVS archive on SourceForge: http://sf.net/projects/cartwheel/"
