@@ -20,11 +20,12 @@ motility_build_dir = os.path.abspath(testdir + '/../python/')
 sys.path.insert(0, motility_build_dir)
 
 import motility
-#assert paircomp.__version__ == "1.1"
+print motility
+assert motility.__version__ == "0.8.1", motility.__version__
 
 def motility_version_message():
     print """
 Testing version %s of the motility Python extension module, loaded from
 
 \t%s
-""" % (paircomp.__version__, paircomp_build_dir,)
+""" % (motility.__version__, motility_build_dir,)
