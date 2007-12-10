@@ -4,6 +4,7 @@ operators, and an IUPAC searching implementation done with PWMs.
 """
 
 import _motility
+import pprint
 
 #
 # EnergyOperator
@@ -21,6 +22,9 @@ class EnergyOperator:
         """
         self.matrix = m
         self._m = _motility.create_matrix(m, default_n_value)
+
+    def __str__(self):
+        return pprint.pformat(self.matrix)
 
     def __len__(self):
         """
@@ -85,6 +89,9 @@ class PWM:
         """
         self.matrix = m
         self._m = _motility.create_matrix(m, default_n_value)
+
+    def __str__(self):
+        return pprint.pformat(self.matrix)
 
     def __len__(self):
         """

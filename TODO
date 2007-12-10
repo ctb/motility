@@ -1,3 +1,5 @@
+doctest in build.py
+
 * better handling of N's.
 
 * large-sequence style iteration
