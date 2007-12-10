@@ -154,7 +154,7 @@ iupac_translate = \
 
 class IUPAC(PWM):
     """
-    IUPAC searching via a PWM.
+    IUPAC searching via a PWM.  find_iupac is probably just as fast.
     """
     def __init__(self, motif):
         """

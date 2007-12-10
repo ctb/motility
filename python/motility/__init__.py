@@ -12,7 +12,7 @@
 ## under the Lesser GNU Public License; please see the included LICENSE.txt
 ## file for more information, or contact Titus directly.
 ##
-##
+## @@@CTB update Copyright
 
 """
 A set of convenient OO Python interfaces to the _motility extension module.
@@ -30,3 +30,4 @@ find_iupac = _motility.find_iupac
 
 from objects import EnergyOperator, PWM, IUPAC
 import op_en
+from build import make_PWM, make_operator, make_iupac_motif, make_matrix
