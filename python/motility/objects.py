@@ -32,12 +32,12 @@ class EnergyOperator:
         """
         return len(self._m)
 
-    def find(self, seq, threshold):
+    def find(self, seq, threshold, offset=0):
         """
         Search the given sequence for matches with scores
         less than or equal to the given threshold.
         """
-        return _motility.find_energy(seq, self._m, threshold)
+        return _motility.find_energy(seq, self._m, threshold, offset=offset)
 
     def calc_energy(self, motif):
         """
@@ -100,12 +100,12 @@ class PWM:
         """
         return len(self._m)
 
-    def find(self, seq, threshold):
+    def find(self, seq, threshold, offset=0):
         """
         Search the given sequence for matches with scores less than or
         equal to the given threshold.
         """
-        return _motility.find_pwm(seq, self._m, threshold)
+        return _motility.find_pwm(seq, self._m, threshold, offset=offset)
 
     def calc_score(self, motif):
         """
@@ -177,7 +177,7 @@ class IUPAC(PWM):
             
         PWM.__init__(self, matrix)
 
-    def find(self, seq, threshold=None):
+    def find(self, seq, threshold=None, offset=0):
         """
         Search the given sequence for matches with scores less than or
         equal to the given threshold.  If no threshold given, assume
@@ -185,13 +185,13 @@ class IUPAC(PWM):
         """
         if threshold is None:
             threshold = len(self)
-        return _motility.find_pwm(seq, self._m, threshold)
+        return _motility.find_pwm(seq, self._m, threshold, offset=offset)
 
-    def find_with_mismatches(self, seq, mismatches=0):
+    def find_with_mismatches(self, seq, mismatches=0, offset=0):
         """
         Search for matches to an IUPAC string, but allow mismatches.
         """
         if mismatches >= len(self.motif):
             raise Exception("error, more mismatches than bases in motif!")
             
-        return self.find(seq, len(self.motif) - mismatches)
+        return self.find(seq, len(self.motif) - mismatches, offset)

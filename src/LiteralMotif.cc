@@ -47,6 +47,7 @@ MotifMatchList * LiteralMotif::find_matches(const DnaSequence& seq) const
 
 MotifMatchList * LiteralMotif::find_forward_matches(const DnaSequence& seq) const
 {
+  printf("OFFSET IS: %d\n", _offset);
   MotifMatchList * v = new MotifMatchList();
   const unsigned int length = _motif.length();
 
@@ -56,7 +57,9 @@ MotifMatchList * LiteralMotif::find_forward_matches(const DnaSequence& seq) cons
   pos = dna.find(_motif);
   while (pos != std::string::npos) {
     
-    v->add(new MotifMatch(pos, pos + length, dna.substr(pos, length)));
+    v->add(new MotifMatch(_offset + pos, _offset + pos + length,
+			  dna.substr(pos, length)));
+    printf("pos: %d\n", _offset + pos);
 			   
     pos = dna.find(_motif, pos + 1);
   } 
@@ -81,13 +84,13 @@ MotifMatchList * LiteralMotif::find_reverse_matches(const DnaSequence& seq)
   for (unsigned int i = 0; i < l.size(); i++) {
     const MotifMatch * m = l[i];
     unsigned int new_start, new_end;
-    new_start = length - m->start;
-    new_end = length - m->end;
+    new_start = length - m->start + 2*_offset;
+    new_end = length - m->end + 2*_offset;
 
     // reverse match & sequence, then add.  kinda clumsy ;(.
 
     r->add(new MotifMatch(new_start, new_end,
-			 m->match_seq.reverse_complement()));
+			  m->match_seq.reverse_complement()));
   }
 
   delete v;

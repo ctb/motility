@@ -113,18 +113,22 @@ static PyObject * _do_search_and_convert(motility::Motif& motif,
 {
   motility::MotifMatchList * matches = NULL;
 
+#ifdef WITH_THREAD
+  Py_BEGIN_ALLOW_THREADS
   try {
+#endif
 
-    Py_BEGIN_ALLOW_THREADS
     matches = motif.find_matches(seq);
-    Py_END_ALLOW_THREADS
 
+#ifdef WITH_THREAD
   }
   catch (...) {
-    if (matches) delete matches;
+    PyEval_RestoreThread(_save);
     throw;
   }
-  
+  Py_END_ALLOW_THREADS
+#endif
+
   // if we get here, matches has been defined.
 
   PyObject * t = _convert_results_to_tuple(matches);
@@ -277,19 +281,24 @@ static void motility_matrix_dealloc(PyObject* self)
 // find_exact: search for an exact match in the given sequence.
 //
 
-static PyObject * find_exact(PyObject * self, PyObject * args)
+static PyObject * find_exact(PyObject * self, PyObject * args, PyObject * kw)
 {
   char * seq_c, * motif_c;
+  int offset = 0;
+  static char * kwlist[] = { "sequence", "motif", "offset", NULL };
 
   // Python arguments: sequence, motif.
 
-  if (!PyArg_ParseTuple(args, "ss", &seq_c, &motif_c)) {
+  if (!PyArg_ParseTupleAndKeywords(args, kw, "ss|i", kwlist, &seq_c, &motif_c,
+				   &offset)) {
     return NULL;
   }
 
   try {
     motility::DnaSequence seq(seq_c);
     motility::LiteralMotif motif(motif_c);
+
+    motif.offset(offset);
 
     return _do_search_and_convert(motif, seq);
   } catch (motility::exception& exc) {
@@ -304,14 +313,17 @@ static PyObject * find_exact(PyObject * self, PyObject * args)
 // find_iupac: search for an IUPAC motif in the given sequence.
 //
 
-static PyObject * find_iupac(PyObject * self, PyObject * args)
+static PyObject * find_iupac(PyObject * self, PyObject * args, PyObject * kw)
 {
   char * seq_c, * motif_c;
   int mismatches_allowed = 0;
+  int offset = 0;
+  static char * kwlist[] = { "sequence", "motif", "mismatches", "offset", NULL };
 
   // Python arguments: sequence, motif, optional # of mismatches (default 0)
 
-  if (!PyArg_ParseTuple(args, "ss|i", &seq_c, &motif_c, &mismatches_allowed)) {
+  if (!PyArg_ParseTupleAndKeywords(args, kw, "ss|ii", kwlist, &seq_c, &motif_c,
+				   &mismatches_allowed, &offset)) {
     return NULL;
   }
 
@@ -319,6 +331,7 @@ static PyObject * find_iupac(PyObject * self, PyObject * args)
     motility::DnaSequence seq(seq_c);
     motility::IupacMotif motif(motif_c);
     motif.mismatches(mismatches_allowed);
+    motif.offset(offset);
 
     return _do_search_and_convert(motif, seq);
   } catch (motility::exception& exc) {
@@ -333,15 +346,18 @@ static PyObject * find_iupac(PyObject * self, PyObject * args)
 // find_pwm: search for a position-weight matrix in the given sequence.
 //
 
-static PyObject * find_pwm(PyObject * self, PyObject * args)
+static PyObject * find_pwm(PyObject * self, PyObject * args, PyObject * kw)
 {
   char * seq_c;
   PyObject * pwm_o;
   double threshold;
+  int offset = 0;
+  static char * kwlist[] = { "sequence", "motif", "threshold", "offset", NULL };
 
   // Python arguments: sequence, pwm, threshold.
 
-  if (!PyArg_ParseTuple(args, "sOd", &seq_c, &pwm_o, &threshold)) {
+  if (!PyArg_ParseTupleAndKeywords(args, kw, "sOd|i", kwlist, &seq_c, &pwm_o,
+			&threshold, &offset)) {
     return NULL;
   }
 
@@ -363,6 +379,7 @@ static PyObject * find_pwm(PyObject * self, PyObject * args)
     motility::PwmMotif motif((double (*)[5])matrix_o->matrix,
 			     matrix_o->length);
     motif.match_threshold(threshold);
+    motif.offset(offset);
 
     return _do_search_and_convert(motif, seq);
   } catch (motility::exception& exc) {
@@ -378,15 +395,19 @@ static PyObject * find_pwm(PyObject * self, PyObject * args)
 // find_energy: search for a position-weight matrix in the given sequence.
 //
 
-static PyObject * find_energy(PyObject * self, PyObject * args)
+static PyObject * find_energy(PyObject * self, PyObject * args, PyObject * kw)
 {
   char * seq_c;
   PyObject * energy_o;
   double threshold;
+  int offset = 0;
+
+  static char * kwlist[] = { "sequence", "motif", "threshold", "offset", NULL };
 
   // Python arguments: sequence, matrix, threshold.
 
-  if (!PyArg_ParseTuple(args, "sOd", &seq_c, &energy_o, &threshold)) {
+  if (!PyArg_ParseTupleAndKeywords(args, kw, "sOd|i", kwlist, &seq_c,
+				   &energy_o, &threshold, &offset)) {
     return NULL;
   }
 
@@ -406,6 +427,7 @@ static PyObject * find_energy(PyObject * self, PyObject * args)
     motility::EnergyOperator motif((double (*)[5])matrix_o->matrix,
 				   matrix_o->length);
     motif.match_minimum(threshold);
+    motif.offset(offset);
 
     return _do_search_and_convert(motif, seq);
   } catch (motility::exception& exc) {
@@ -796,11 +818,14 @@ static PyObject * min_score(PyObject * self, PyObject * args)
 
 static PyMethodDef MotilityMethods[] = {
   { "create_matrix", create_matrix, METH_VARARGS, "Create a matrix object" },
-  { "find_exact", find_exact, METH_VARARGS, "Find exact matches.  Takes sequence, motif to find." },
-  { "find_iupac", find_iupac, METH_VARARGS, "Find IUPAC motifs.  Takes sequence, motif to find.  Optional argument: # of mismatches." },
-  { "find_pwm", find_pwm, METH_VARARGS, "Find PWM matches" },
+  { "find_exact", (PyCFunction) find_exact, METH_VARARGS | METH_KEYWORDS,
+    "Find exact matches.  Takes sequence, motif to find." },
+  { "find_iupac", (PyCFunction) find_iupac, METH_VARARGS | METH_KEYWORDS,
+    "Find IUPAC motifs.  Takes sequence, motif to find.  Optional argument: # of mismatches." },
+  { "find_pwm", (PyCFunction) find_pwm, METH_VARARGS | METH_KEYWORDS,
+    "Find PWM matches" },
+  { "find_energy", (PyCFunction) find_energy, METH_VARARGS | METH_KEYWORDS, "Find energy operator matches" },
   { "calc_score", calc_score, METH_VARARGS, "Calculate the score of a PWM match" },
-  { "find_energy", find_energy, METH_VARARGS, "Find energy operator matches" },
   { "calc_energy", calc_energy, METH_VARARGS, "Calculate the energy of an energy operator match" },
   { "generate_sites_over", generate_sites_over, METH_VARARGS,
     "Generate all sites with a score over the given threshold" },

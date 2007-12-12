@@ -91,8 +91,8 @@ MotifMatchList * _MatrixMotif::find_reverse_matches(const DnaSequence& seq) cons
   for (unsigned int i = 0; i < l.size(); i++) {
     const MotifMatch * m = l[i];
     unsigned int new_start, new_end;
-    new_start = length - m->start;
-    new_end = length - m->end;
+    new_start = length - m->start + 2*_offset;
+    new_end = length - m->end + 2*_offset;
 
     // reverse match & sequence, then add.  kinda clumsy ;(.
 

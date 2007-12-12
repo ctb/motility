@@ -25,7 +25,8 @@ MotifMatchList * PwmMotif::find_forward_matches(const DnaSequence& seq) const
   for (unsigned int i = 0; i <= seq.length() - _length; i++) {
     double score = calc_score(seq, i);
     if (score >= _threshold) {	// keep it.
-      v->add(new MotifMatch(i, i + _length, DnaSequence(seq, i, i + _length)));
+      v->add(new MotifMatch(_offset + i, _offset + i + _length,
+			    DnaSequence(seq, i, i + _length)));
     }
   }
 

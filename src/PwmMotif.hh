@@ -30,7 +30,7 @@ namespace motility {
     PwmMotif(unsigned int l) : _MatrixMotif(l) { };
   public:
     PwmMotif(double m[][5], unsigned int l) : _MatrixMotif(m, l) {
-      _threshold = max_score(); // default to strictest (literal) signifance.
+      _threshold = max_score(); // default to strictest (literal) significance.
     }
 
     virtual MotifMatchList * find_forward_matches(const DnaSequence& seq) const;

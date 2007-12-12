@@ -24,9 +24,15 @@
 namespace motility {
   class Motif {
   protected:
-    Motif() { };
+    Motif() : _offset(0) { };
     virtual ~Motif() { };
+    unsigned int _offset;
   public:
+
+    void offset(int o) {
+      _offset = o;
+    }
+
     virtual MotifMatchList * find_matches(const DnaSequence& seq) const = 0;
     virtual MotifMatchList * find_forward_matches(const DnaSequence& seq) const
       = 0;

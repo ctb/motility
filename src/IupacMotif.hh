@@ -22,7 +22,7 @@
 #include "PwmMotif.hh"
 
 namespace motility {
-  class IupacMotif : public PwmMotif { // hide PwmMotif score stuff
+  class IupacMotif : public PwmMotif {
   public:
     IupacMotif(std::string s);
 
