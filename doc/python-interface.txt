@@ -32,6 +32,7 @@ All three classes (PWMs, energy operators, and IUPAC motifs) support a
 and also a score calculation::
 
    energy = operator.calc_energy(match)
+   energy = operator.calc_score(match)
 
    score = pwm.calc_score(match)
 
@@ -78,6 +79,12 @@ score of the motif returned.
 
 'start' is always less than 'end', 'orientation' is 1 or -1, and 'match' is
 the matching string in the appropriate orientation (forward or RC).
+
+Building motifs and matrices
+----------------------------
+
+See `the tutorial <motility-introduction.html>`__ for more information.
+.. @CTB
 
 Using ``motility``: An Example
 ------------------------------

@@ -18,6 +18,7 @@
 #define MOTIF_MATCH_HH
 
 #include "DnaSequence.hh"
+#include <assert.h>
 #include <vector>
 
 namespace motility {
@@ -37,7 +38,7 @@ namespace motility {
     std::vector<MotifMatch*> l;
   public:
     MotifMatchList() { };
-    MotifMatchList(std::vector<MotifMatch*> n) { l = n; }
+    MotifMatchList(std::vector<MotifMatch*> n) { l = n; } // inefficient
 
     // make a copy of this list
     MotifMatchList * copy() const {

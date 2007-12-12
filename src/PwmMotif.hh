@@ -33,7 +33,7 @@ namespace motility {
       _threshold = max_score(); // default to strictest (literal) signifance.
     }
 
-    virtual MotifMatchList find_forward_matches(const DnaSequence& seq) const;
+    virtual MotifMatchList * find_forward_matches(const DnaSequence& seq) const;
 
     double match_threshold() const { return _threshold; }
     void match_threshold(double m) { _threshold = m; }

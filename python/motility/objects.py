@@ -45,6 +45,7 @@ class EnergyOperator:
         same length as the operator.
         """
         return _motility.calc_energy(motif, self._m)
+    calc_score = calc_energy            # allow generic 'calc_score', blech.
 
     def min_score(self, use_n=0):
         """

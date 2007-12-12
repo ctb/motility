@@ -35,11 +35,11 @@ DnaSequence::DnaSequence(std::string s)
 
   if (pos != std::string::npos) {
     char ch = s[pos];
-    char s[100];
-    sprintf(s, "error, invalid character '%c' (%d) in sequence.",
+    char err[100];
+    sprintf(err, "error, invalid character '%c' (%d) in sequence.",
 	    ch, int(ch));
 
-    throw DnaException(s);
+    throw DnaException(err);
   }
   
   // made it this far: valid DNA sequence.  store.

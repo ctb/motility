@@ -32,19 +32,18 @@ namespace motility {
     unsigned int mismatches() const {
       return (unsigned int) (max_score() - match_threshold());
     }
-
-    virtual MotifMatchList find_matches(const DnaSequence& seq) const {
-      return PwmMotif::find_matches(seq);
-    }
-    virtual MotifMatchList find_forward_matches(const DnaSequence& seq) const {
-      return PwmMotif::find_forward_matches(seq);
-    }
-    virtual MotifMatchList find_reverse_matches(const DnaSequence& seq) const {
-      return PwmMotif::find_reverse_matches(seq);
-    }
     
     const bool is_palindromic() const { return PwmMotif::is_palindromic(); }
 
+    virtual MotifMatchList * find_matches(const DnaSequence& seq) const {
+      return PwmMotif::find_matches(seq);
+    }
+    virtual MotifMatchList * find_forward_matches(const DnaSequence& seq) const {
+      return PwmMotif::find_forward_matches(seq);
+    }
+    virtual MotifMatchList * find_reverse_matches(const DnaSequence& seq) const {
+      return PwmMotif::find_reverse_matches(seq);
+    }
   };
 }
 

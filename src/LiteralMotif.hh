@@ -37,9 +37,9 @@ namespace motility {
     LiteralMotif(DnaSequence s) : _motif(s.sequence()) { }
 
     // find all matches, or just forward / just reverse.
-    MotifMatchList find_matches(const DnaSequence& seq) const;
-    MotifMatchList find_forward_matches(const DnaSequence& seq) const;
-    MotifMatchList find_reverse_matches(const DnaSequence& seq) const;
+    MotifMatchList * find_matches(const DnaSequence& seq) const;
+    MotifMatchList * find_forward_matches(const DnaSequence& seq) const;
+    MotifMatchList * find_reverse_matches(const DnaSequence& seq) const;
   };
 }
 

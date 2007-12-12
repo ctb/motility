@@ -77,6 +77,37 @@ static Py_ssize_t matrix_length(motility_MatrixObject * self)
   return (Py_ssize_t) self->length;
 }
 
+static PyObject * _convert_results_to_tuple(motility::MotifMatchList& matches) {
+  std::vector<motility::MotifMatch *> l = matches.list();
+
+  PyObject * t = PyTuple_New(l.size());
+
+  try {
+    for (unsigned int i = 0; i < l.size(); i++) {
+      motility::MotifMatch * m = l[i];
+
+      int orientation = m->start > m->end ? -1 : 1;
+      unsigned int start = orientation < 0 ? m->end : m->start;
+      unsigned int end = orientation < 0 ? m->start : m->end;
+      motility::DnaSequence match_seq;
+    
+      if (orientation == 1) { match_seq = m->match_seq; }
+      else { match_seq = m->match_seq.reverse_complement(); }
+
+      PyObject * u = Py_BuildValue("iiis", start, end, orientation,
+				   match_seq.sequence().c_str());
+      PyTuple_SET_ITEM(t, i, u);
+    }
+    return t;
+  }
+  catch (...) {
+    Py_DECREF(t);		// prevent memory leak in case of exception
+
+    throw;
+  }
+
+}
+
 static PySequenceMethods tuple_as_sequence = {
   (lenfunc)matrix_length,	/* sq_length */
   0,				/* sq_concat */
@@ -235,24 +266,20 @@ static PyObject * find_exact(PyObject * self, PyObject * args)
     motility::DnaSequence seq(seq_c);
     motility::LiteralMotif motif(motif_c);
 
-    motility::MotifMatchList matches = motif.find_matches(seq);
-    std::vector<motility::MotifMatch*> l = matches.list();
+    motility::MotifMatchList matches;
 
-    PyObject * t = PyTuple_New(l.size());
+    Py_BEGIN_ALLOW_THREADS
 
-    for (unsigned int i = 0; i < l.size(); i++) {
-      motility::MotifMatch * m = l[i];
+    matches = *motif.find_matches(seq);
 
-      int orientation = m->start > m->end ? -1 : 1;
-      unsigned int start = orientation < 0 ? m->end : m->start;
-      unsigned int end = orientation < 0 ? m->start : m->end;
+    Py_END_ALLOW_THREADS
 
-      PyObject * u = Py_BuildValue("iiis", start, end, orientation,
-				   m->match_seq.sequence().c_str());
-      PyTuple_SET_ITEM(t, i, u);
+    try {
+      return _convert_results_to_tuple(matches);
     }
-
-    return t;
+    catch (...) {
+      throw;
+    }
   } catch (motility::exception& exc) {
     // raise the error...
     PyErr_SetString(MotilityError, exc.msg.c_str());
@@ -281,24 +308,15 @@ static PyObject * find_iupac(PyObject * self, PyObject * args)
     motility::IupacMotif motif(motif_c);
     motif.mismatches(mismatches_allowed);
 
-    motility::MotifMatchList matches = motif.find_matches(seq);
-    std::vector<motility::MotifMatch*> l = matches.list();
+    motility::MotifMatchList matches;
 
-    PyObject * t = PyTuple_New(l.size());
+    Py_BEGIN_ALLOW_THREADS
 
-    for (unsigned int i = 0; i < l.size(); i++) {
-      motility::MotifMatch * m = l[i];
+    matches = *motif.find_matches(seq);
 
-      int orientation = m->start > m->end ? -1 : 1;
-      unsigned int start = orientation < 0 ? m->end : m->start;
-      unsigned int end = orientation < 0 ? m->start : m->end;
+    Py_END_ALLOW_THREADS
 
-      PyObject * u = Py_BuildValue("iiis", start, end, orientation,
-				   m->match_seq.sequence().c_str());
-      PyTuple_SET_ITEM(t, i, u);
-    }
-
-    return t;
+    return _convert_results_to_tuple(matches);
   } catch (motility::exception& exc) {
     // raise the error...
     PyErr_SetString(MotilityError, exc.msg.c_str());
@@ -342,28 +360,15 @@ static PyObject * find_pwm(PyObject * self, PyObject * args)
 			     matrix_o->length);
     motif.match_threshold(threshold);
 
-    motility::MotifMatchList matches = motif.find_matches(seq);
-    std::vector<motility::MotifMatch*> l = matches.list();
+    motility::MotifMatchList matches;
 
-    PyObject * t = PyTuple_New(l.size());
+    Py_BEGIN_ALLOW_THREADS
 
-    for (unsigned int i = 0; i < l.size(); i++) {
-      motility::MotifMatch * m = l[i];
+    matches = *motif.find_matches(seq);
 
-      int orientation = m->start > m->end ? -1 : 1;
-      unsigned int start = orientation < 0 ? m->end : m->start;
-      unsigned int end = orientation < 0 ? m->start : m->end;
-      motility::DnaSequence match_seq;
-      
-      if (orientation == 1) { match_seq = m->match_seq; }
-      else { match_seq = m->match_seq.reverse_complement(); }
+    Py_END_ALLOW_THREADS
 
-      PyObject * u = Py_BuildValue("iiis", start, end, orientation,
-				   match_seq.sequence().c_str());
-      PyTuple_SET_ITEM(t, i, u);
-    }
-
-    return t;
+    return _convert_results_to_tuple(matches);
   } catch (motility::exception& exc) {
 
     // raise the error...
@@ -406,28 +411,15 @@ static PyObject * find_energy(PyObject * self, PyObject * args)
 				   matrix_o->length);
     motif.match_minimum(threshold);
 
-    motility::MotifMatchList matches = motif.find_matches(seq);
-    std::vector<motility::MotifMatch*> l = matches.list();
+    motility::MotifMatchList matches;
 
-    PyObject * t = PyTuple_New(l.size());
+    Py_BEGIN_ALLOW_THREADS
 
-    for (unsigned int i = 0; i < l.size(); i++) {
-      motility::MotifMatch * m = l[i];
+    matches = *motif.find_matches(seq);
 
-      int orientation = m->start > m->end ? -1 : 1;
-      unsigned int start = orientation < 0 ? m->end : m->start;
-      unsigned int end = orientation < 0 ? m->start : m->end;
-      motility::DnaSequence match_seq;
-      
-      if (orientation == 1) { match_seq = m->match_seq; }
-      else { match_seq = m->match_seq.reverse_complement(); }
+    Py_END_ALLOW_THREADS
 
-      PyObject * u = Py_BuildValue("iiis", start, end, orientation,
-				   match_seq.sequence().c_str());
-      PyTuple_SET_ITEM(t, i, u);
-    }
-
-    return t;
+    return _convert_results_to_tuple(matches);
   } catch (motility::exception& exc) {
 
     // raise the error...

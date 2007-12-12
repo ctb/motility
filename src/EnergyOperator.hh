@@ -32,7 +32,7 @@ namespace motility {
       _minimum = min_score(); // default to strictest (literal) signif.
     }
 
-    virtual MotifMatchList find_forward_matches(const DnaSequence& seq) const;
+    virtual MotifMatchList * find_forward_matches(const DnaSequence& seq) const;
     
     // normalize so that the consensus sequence has a weight of 0.0.
     void normalize();

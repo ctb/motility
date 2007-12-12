@@ -61,32 +61,33 @@ double _MatrixMotif::calc_score(const DnaSequence& seq, unsigned int pos) const
   return total;
 }
 
-MotifMatchList _MatrixMotif::find_matches(const DnaSequence& seq) const
+MotifMatchList * _MatrixMotif::find_matches(const DnaSequence& seq) const
 {
-  MotifMatchList v = find_forward_matches(seq);
+  MotifMatchList * v = find_forward_matches(seq);
 
   if (!is_palindromic()) {
-    MotifMatchList r = find_reverse_matches(seq);
+    MotifMatchList * r = find_reverse_matches(seq);
 
-    std::vector<MotifMatch *> l = r.list();
+    std::vector<MotifMatch *> l = r->list();
     for (unsigned int i = 0; i < l.size(); i++) {
       MotifMatch * m = l[i];
-      v.add(new MotifMatch(m->start, m->end, m->match_seq));
+      v->add(new MotifMatch(m->start, m->end, m->match_seq));
     }
+    delete r;
   }
 
   return v;
 }
 
-MotifMatchList _MatrixMotif::find_reverse_matches(const DnaSequence& seq) const
+MotifMatchList * _MatrixMotif::find_reverse_matches(const DnaSequence& seq) const
 {
   DnaSequence rc = seq.reverse_complement();
-  MotifMatchList v = find_forward_matches(rc);
+  MotifMatchList * v = find_forward_matches(rc);
 
-  std::vector<MotifMatch*> l = v.list();
+  std::vector<MotifMatch*> l = v->list();
   unsigned int length = seq.length();
 
-  MotifMatchList r;
+  MotifMatchList * r = new MotifMatchList();
   for (unsigned int i = 0; i < l.size(); i++) {
     const MotifMatch * m = l[i];
     unsigned int new_start, new_end;
@@ -95,9 +96,11 @@ MotifMatchList _MatrixMotif::find_reverse_matches(const DnaSequence& seq) const
 
     // reverse match & sequence, then add.  kinda clumsy ;(.
 
-    r.add(new MotifMatch(new_start, new_end,
+    r->add(new MotifMatch(new_start, new_end,
 			 m->match_seq.reverse_complement()));
   }
+
+  delete v;
 
   return r;
 }

@@ -27,10 +27,10 @@ namespace motility {
     Motif() { };
     virtual ~Motif() { };
   public:
-    virtual MotifMatchList find_matches(const DnaSequence& seq) const = 0;
-    virtual MotifMatchList find_forward_matches(const DnaSequence& seq) const
+    virtual MotifMatchList * find_matches(const DnaSequence& seq) const = 0;
+    virtual MotifMatchList * find_forward_matches(const DnaSequence& seq) const
       = 0;
-    virtual MotifMatchList find_reverse_matches(const DnaSequence& seq) const
+    virtual MotifMatchList * find_reverse_matches(const DnaSequence& seq) const
       = 0;
   };
 }

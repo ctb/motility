@@ -28,3 +28,40 @@ def test_3():
              [ 0.447, 1.020, 1.222, 0.000 ], ]
 
     operator = motility.EnergyOperator(matrix)
+    
+def test_4():
+    """
+    Test misc coord handling / match str extraction
+    """
+    motif = 'ACGG'
+    
+    pwm = motility.make_PWM([motif])
+    pwm_match = pwm.find(motif, 4)
+    iupac_match = motility.find_iupac(motif, motif)
+    exact_match = motility.find_exact(motif, motif)
+
+    assert pwm_match == iupac_match
+    assert pwm_match == exact_match
+
+    rcmotif = 'CCGT'
+
+    pwm_match = pwm.find(rcmotif, 4)
+    iupac_match = motility.find_iupac(rcmotif, motif)
+    exact_match = motility.find_exact(rcmotif, motif)
+
+    assert pwm_match == iupac_match
+
+def test_5():
+    """
+    Test calc_score & calc_energy equivalence
+    """
+    motif = 'ACGG'
+    
+    pwm = motility.make_PWM([motif])
+    operator = motility.make_operator([motif])
+
+    print pwm.calc_score(motif)
+
+    print operator.calc_score(motif)
+    print operator.calc_energy(motif)
+    assert operator.calc_score(motif) == operator.calc_energy(motif)

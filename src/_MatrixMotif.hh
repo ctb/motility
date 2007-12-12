@@ -130,10 +130,10 @@ namespace motility {
     // Note that find_matches and find_reverse_matches are implemented using
     // find_forward_matches.
     
-    MotifMatchList find_matches(const DnaSequence& seq) const;
-    virtual MotifMatchList find_forward_matches(const DnaSequence& seq) const
+    MotifMatchList * find_matches(const DnaSequence& seq) const;
+    virtual MotifMatchList * find_forward_matches(const DnaSequence& seq) const
       = 0;
-    MotifMatchList find_reverse_matches(const DnaSequence& seq) const;
+    MotifMatchList * find_reverse_matches(const DnaSequence& seq) const;
 
     // Calculate the min/max score.
     const double max_score(bool use_n=false) const;
