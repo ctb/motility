@@ -83,7 +83,7 @@ the matching string in the appropriate orientation (forward or RC).
 Building motifs and matrices
 ----------------------------
 
-See `the tutorial <motility-introduction.html>`__ for more information.
+See `the Python tutorial <python-tutorial.html>`__ for more information.
 .. @CTB
 
 Using ``motility``: An Example

@@ -25,11 +25,11 @@ Documentation:
 
   * `Python interface`_
 
-  * `Doctest-style tutorial on motility <motility-introduction.html>`__
+  * `Tutorial <python-tutorial.html>`__
 
 ::
 
-   CTB 12/05
+   CTB 12/07
 
 .. _Introduction to motility and motif types: intro.html
 .. _C++ API: c++-interface.html

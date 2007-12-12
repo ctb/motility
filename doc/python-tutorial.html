@@ -311,7 +311,7 @@ specific motif (written in capital letters, to guide the eye):</p>
 <pre class="doctest-block">
 &gt;&gt;&gt; import motility
 &gt;&gt;&gt; motility.find_exact(sequence, motif)
-((16, 18, 1, 'GG'), (18, 20, -1, 'CC'))
+((16, 18, 1, 'GG'), (18, 20, -1, 'GG'))
 </pre>
 </blockquote>
 <p>This function returns a tuple of tuples, containing start, stop, orientation,
@@ -323,11 +323,12 @@ can treat return values from any motility search function the same way.</p>
 &gt;&gt;&gt; for (start, stop, orient, match) in motility.find_exact(sequence, motif):
 ...   print start, stop, orient, match
 16 18 1 GG
-18 20 -1 CC
+18 20 -1 GG
 </pre>
 </blockquote>
 <p>Note that (as you would also expect) <tt class="docutils literal"><span class="pre">find_exact</span></tt> finds reverse complement
-matches as well as forward matches.</p>
+matches as well as forward matches, but it reports the motif matches in
+the proper orientation.</p>
 <p>Before we move on to more interesting functions, there's one other thing
 to note: motility will detect if the search is being done with a palindrome,
 and, if it is, only a single match will be returned.  So, for example, you
@@ -368,7 +369,7 @@ mismatches as an optional third parameter:</p>
 <pre class="doctest-block">
 &gt;&gt;&gt; mismatches=1
 &gt;&gt;&gt; motility.find_iupac(sequence, motif, mismatches)
-((5, 10, 1, 'ATCTA'), (8, 13, -1, 'TATAT'), (2, 7, -1, 'TACAT'))
+((5, 10, 1, 'ATCTA'), (8, 13, -1, 'ATATA'), (2, 7, -1, 'ATGTA'))
 </pre>
 </blockquote>
 </div>
@@ -528,7 +529,7 @@ GCGCGC 7.74240202182
 one reason is that the consensus sequence always has a score of 0, and
 another reason is that their scores represent an information-theoretic
 or statistical-mechanical measure on motif content.  Check out Stormo
-(2007) for a review.</p>
+(2000) for a review.</p>
 </div>
 <div class="section">
 <h2><a id="general-matrix-utility-functions" name="general-matrix-utility-functions">General matrix utility functions</a></h2>

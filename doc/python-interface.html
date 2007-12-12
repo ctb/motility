@@ -318,6 +318,7 @@ matches = instance.find(sequence, threshold)
 <p>and also a score calculation:</p>
 <pre class="literal-block">
 energy = operator.calc_energy(match)
+energy = operator.calc_score(match)
 
 score = pwm.calc_score(match)
 </pre>
@@ -354,6 +355,11 @@ for (start, end, orientation, match) in matches: ...
 </pre>
 <p>'start' is always less than 'end', 'orientation' is 1 or -1, and 'match' is
 the matching string in the appropriate orientation (forward or RC).</p>
+<div class="section">
+<h1><a id="building-motifs-and-matrices" name="building-motifs-and-matrices">Building motifs and matrices</a></h1>
+<p>See <a class="reference" href="python-tutorial.html">the Python tutorial</a> for more information.
+.. &#64;CTB</p>
+</div>
 <div class="section">
 <h1><a id="using-motility-an-example" name="using-motility-an-example">Using <tt class="docutils literal"><span class="pre">motility</span></tt>: An Example</a></h1>
 <p>This short script will print all matches to the IUPAC string <tt class="docutils literal"><span class="pre">RWR</span></tt> in the

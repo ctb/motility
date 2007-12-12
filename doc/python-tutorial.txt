@@ -221,7 +221,7 @@ There are a few different reasons why you might use energy operators;
 one reason is that the consensus sequence always has a score of 0, and
 another reason is that their scores represent an information-theoretic
 or statistical-mechanical measure on motif content.  Check out Stormo
-(2007) for a review.
+(2000) for a review.
 
 General matrix utility functions
 --------------------------------
