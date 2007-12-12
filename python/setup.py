@@ -1,5 +1,8 @@
 #! /usr/bin/env python
-from setuptools import setup, Extension
+try:
+   from setuptools import setup, Extension
+except ImportError:
+   from distutils.core import setup, Extension
 
 # the c++ extension module (needs to be linked in with libmotility...)
 extension_mod = Extension("motility._motilitymodule",
