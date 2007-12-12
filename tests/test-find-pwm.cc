@@ -13,7 +13,7 @@ int main(int argc, char * argv[])
   double pwm[][5] = { { 1.0, 0.0, 0.0, 0.0, 0.0, } }; // 'A'
   PwmMotif m(pwm, 1);
 
-  MotifMatchList l = m.find_matches(s);
+  MotifMatchList l = *m.find_matches(s);
   std::vector<MotifMatch*> l2 = l.list();
 
   for (unsigned int i = 0; i < l2.size(); i++) {

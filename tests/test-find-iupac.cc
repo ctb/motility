@@ -13,7 +13,7 @@ int main(int argc, char * argv[])
 
   IupacMotif m("W");
 
-  MotifMatchList l = m.find_matches(s);
+  MotifMatchList l = *m.find_matches(s);
   std::vector<MotifMatch*> l2 = l.list();
 
   for (unsigned int i = 0; i < l2.size(); i++) {
@@ -25,24 +25,24 @@ int main(int argc, char * argv[])
   IupacMotif m2("AA");
 
   printf("found %d matches with %d allowed mismatches.\n",
-	 m2.find_matches(s).size(), m2.mismatches());
+	 m2.find_matches(s)->size(), m2.mismatches());
 
   m2.mismatches(1);
   printf("found %d matches with %d allowed mismatch.\n",
-	 m2.find_matches(s).size(), m2.mismatches());
+	 m2.find_matches(s)->size(), m2.mismatches());
 
   IupacMotif m3("CG");
   m3.mismatches(1);
   printf("found %d matches with %d allowed mismatch.\n",
-	 m3.find_matches(s).size(), m3.mismatches());
+	 m3.find_matches(s)->size(), m3.mismatches());
 
   m3.mismatches(2);
   printf("found %d matches with %d allowed mismatches.\n",
-	 m3.find_matches(s).size(), m3.mismatches());
+	 m3.find_matches(s)->size(), m3.mismatches());
 
   IupacMotif m4("ATA");
   printf("found %d matches with %d allowed mismatches.\n",
-	 m4.find_matches(s).size(), m4.mismatches());
+	 m4.find_matches(s)->size(), m4.mismatches());
 
   std::string str("ATGGC");
   for (unsigned int i = 0; i < 80000; i++) {

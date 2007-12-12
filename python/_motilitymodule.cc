@@ -77,8 +77,8 @@ static Py_ssize_t matrix_length(motility_MatrixObject * self)
   return (Py_ssize_t) self->length;
 }
 
-static PyObject * _convert_results_to_tuple(motility::MotifMatchList& matches) {
-  std::vector<motility::MotifMatch *> l = matches.list();
+static PyObject * _convert_results_to_tuple(motility::MotifMatchList * matches) {
+  std::vector<motility::MotifMatch *> l = matches->list();
 
   PyObject * t = PyTuple_New(l.size());
 
@@ -106,6 +106,31 @@ static PyObject * _convert_results_to_tuple(motility::MotifMatchList& matches) {
     throw;
   }
 
+}
+
+static PyObject * _do_search_and_convert(motility::Motif& motif,
+					 motility::DnaSequence& seq)
+{
+  motility::MotifMatchList * matches = NULL;
+
+  try {
+
+    Py_BEGIN_ALLOW_THREADS
+    matches = motif.find_matches(seq);
+    Py_END_ALLOW_THREADS
+
+  }
+  catch (...) {
+    if (matches) delete matches;
+    throw;
+  }
+  
+  // if we get here, matches has been defined.
+
+  PyObject * t = _convert_results_to_tuple(matches);
+  delete matches;
+
+  return t;
 }
 
 static PySequenceMethods tuple_as_sequence = {
@@ -266,20 +291,7 @@ static PyObject * find_exact(PyObject * self, PyObject * args)
     motility::DnaSequence seq(seq_c);
     motility::LiteralMotif motif(motif_c);
 
-    motility::MotifMatchList matches;
-
-    Py_BEGIN_ALLOW_THREADS
-
-    matches = *motif.find_matches(seq);
-
-    Py_END_ALLOW_THREADS
-
-    try {
-      return _convert_results_to_tuple(matches);
-    }
-    catch (...) {
-      throw;
-    }
+    return _do_search_and_convert(motif, seq);
   } catch (motility::exception& exc) {
     // raise the error...
     PyErr_SetString(MotilityError, exc.msg.c_str());
@@ -308,15 +320,7 @@ static PyObject * find_iupac(PyObject * self, PyObject * args)
     motility::IupacMotif motif(motif_c);
     motif.mismatches(mismatches_allowed);
 
-    motility::MotifMatchList matches;
-
-    Py_BEGIN_ALLOW_THREADS
-
-    matches = *motif.find_matches(seq);
-
-    Py_END_ALLOW_THREADS
-
-    return _convert_results_to_tuple(matches);
+    return _do_search_and_convert(motif, seq);
   } catch (motility::exception& exc) {
     // raise the error...
     PyErr_SetString(MotilityError, exc.msg.c_str());
@@ -360,15 +364,7 @@ static PyObject * find_pwm(PyObject * self, PyObject * args)
 			     matrix_o->length);
     motif.match_threshold(threshold);
 
-    motility::MotifMatchList matches;
-
-    Py_BEGIN_ALLOW_THREADS
-
-    matches = *motif.find_matches(seq);
-
-    Py_END_ALLOW_THREADS
-
-    return _convert_results_to_tuple(matches);
+    return _do_search_and_convert(motif, seq);
   } catch (motility::exception& exc) {
 
     // raise the error...
@@ -411,15 +407,7 @@ static PyObject * find_energy(PyObject * self, PyObject * args)
 				   matrix_o->length);
     motif.match_minimum(threshold);
 
-    motility::MotifMatchList matches;
-
-    Py_BEGIN_ALLOW_THREADS
-
-    matches = *motif.find_matches(seq);
-
-    Py_END_ALLOW_THREADS
-
-    return _convert_results_to_tuple(matches);
+    return _do_search_and_convert(motif, seq);
   } catch (motility::exception& exc) {
 
     // raise the error...
@@ -811,7 +799,7 @@ static PyMethodDef MotilityMethods[] = {
   { "find_exact", find_exact, METH_VARARGS, "Find exact matches.  Takes sequence, motif to find." },
   { "find_iupac", find_iupac, METH_VARARGS, "Find IUPAC motifs.  Takes sequence, motif to find.  Optional argument: # of mismatches." },
   { "find_pwm", find_pwm, METH_VARARGS, "Find PWM matches" },
-  { "calc_score", calc_energy, METH_VARARGS, "Calculate the score of a PWM match" },
+  { "calc_score", calc_score, METH_VARARGS, "Calculate the score of a PWM match" },
   { "find_energy", find_energy, METH_VARARGS, "Find energy operator matches" },
   { "calc_energy", calc_energy, METH_VARARGS, "Calculate the energy of an energy operator match" },
   { "generate_sites_over", generate_sites_over, METH_VARARGS,

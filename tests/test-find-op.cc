@@ -18,7 +18,7 @@ int main(int argc, char * argv[])
   m.normalize();
   printf("minimum score is %.2f after normalization\n", m.min_score());
 
-  MotifMatchList l = m.find_matches(s);
+  MotifMatchList l = *m.find_matches(s);
   std::vector<MotifMatch*> l2 = l.list();
 
   for (unsigned int i = 0; i < l2.size(); i++) {

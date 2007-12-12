@@ -22,7 +22,7 @@
 #include "PwmMotif.hh"
 
 namespace motility {
-  class IupacMotif : protected PwmMotif { // hide PwmMotif score stuff
+  class IupacMotif : public PwmMotif { // hide PwmMotif score stuff
   public:
     IupacMotif(std::string s);
 
@@ -34,16 +34,6 @@ namespace motility {
     }
     
     const bool is_palindromic() const { return PwmMotif::is_palindromic(); }
-
-    virtual MotifMatchList * find_matches(const DnaSequence& seq) const {
-      return PwmMotif::find_matches(seq);
-    }
-    virtual MotifMatchList * find_forward_matches(const DnaSequence& seq) const {
-      return PwmMotif::find_forward_matches(seq);
-    }
-    virtual MotifMatchList * find_reverse_matches(const DnaSequence& seq) const {
-      return PwmMotif::find_reverse_matches(seq);
-    }
   };
 }
 
