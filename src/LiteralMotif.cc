@@ -47,7 +47,6 @@ MotifMatchList * LiteralMotif::find_matches(const DnaSequence& seq) const
 
 MotifMatchList * LiteralMotif::find_forward_matches(const DnaSequence& seq) const
 {
-  printf("OFFSET IS: %d\n", _offset);
   MotifMatchList * v = new MotifMatchList();
   const unsigned int length = _motif.length();
 
@@ -59,8 +58,7 @@ MotifMatchList * LiteralMotif::find_forward_matches(const DnaSequence& seq) cons
     
     v->add(new MotifMatch(_offset + pos, _offset + pos + length,
 			  dna.substr(pos, length)));
-    printf("pos: %d\n", _offset + pos);
-			   
+
     pos = dna.find(_motif, pos + 1);
   } 
 
