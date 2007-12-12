@@ -1,0 +1,407 @@
+=================================
+Using motility to look for motifs
+=================================
+
+motility is a C++ and Python toolkit that I wrote for the purpose
+of searching DNA sequences for transcription factor binding sites
+with exact matches, IUPAC motifs, and matrices.
+
+(These examples use motility 0.8.1, released on or around Dec 10th, 2007.)
+
+Doing a simple sequence search
+==============================
+
+Suppose we have a sequence that we want to search for matches to a
+specific motif (written in capital letters, to guide the eye):
+
+ >>> sequence = "atatatatatatataaGGCCaatatatatata"
+ >>> motif = "GG"
+
+You can do a straightforward motility search pretty easily, with `find_exact`:
+
+ >>> import motility
+ >>> motility.find_exact(sequence, motif)
+ ((16, 18, 1, 'GG'), (18, 20, -1, 'CC'))
+
+This function returns a tuple of tuples, containing start, stop, orientation,
+and the match sequence; in fact, all of the functions return this, so you
+can treat return values from any motility search function the same way.
+
+For example, you can iterate over it like this:
+
+ >>> for (start, stop, orient, match) in motility.find_exact(sequence, motif):
+ ...   print start, stop, orient, match
+ 16 18 1 GG
+ 18 20 -1 CC
+
+Note that (as you would also expect) ``find_exact`` finds reverse complement
+matches as well as forward matches.
+
+Before we move on to more interesting functions, there's one other thing
+to note: motility will detect if the search is being done with a palindrome,
+and, if it is, only a single match will be returned.  So, for example, you
+get this result:
+
+ >>> motility.find_exact(sequence, 'GGCC')
+ ((16, 20, 1, 'GGCC'),)
+
+because 'GGCC' is a palindrome and it matches bases 16 -> 20 in both
+directions.
+
+Doing fuzzy searches with IUPAC motifs
+======================================
+
+One of the more popular motif searching techniques is to use a fuzzy
+"IUPAC" motif; IUPAC stands for the "International Union of Pure and
+Applied Chemistry", and they have a standard representation for DNA
+bases.  For example, 'R' represents a purine, 'A' or 'G', while 'Y'
+represents a pyrimidine, 'T' or 'C', and 'W' represents 'A' or 'T'.
+(See `the motility intro
+<http://cartwheel.caltech.edu/motility/intro.html>`__ for the whole
+list.)  The point of using IUPAC motifs is that it lets you represent
+motifs like "A or G, followed by a T, C, T, followed by a A or a T"
+more compactly: "RTCTW", in this case.
+
+motility, of course, lets you search DNA sequence with IUPAC motifs using
+the ``find_iupac`` function:
+
+ >>> sequence = "gatacATCTAtatgcata"
+ >>> motif = "RTCTW"
+ >>> motility.find_iupac(sequence, motif)
+ ((5, 10, 1, 'ATCTA'),)
+
+motility goes one better, however, and lets you specify a number of
+mismatches as an optional third parameter:
+
+ >>> mismatches=1
+ >>> motility.find_iupac(sequence, motif, mismatches)
+ ((5, 10, 1, 'ATCTA'), (8, 13, -1, 'TATAT'), (2, 7, -1, 'TACAT'))
+
+Searching with matrices
+=======================
+
+motility also lets you search for binding sites based on matrix scores.
+The basic idea is pretty simple: given a set of scores for A, C, G, and
+T in each position of a binding site, motility will score each potential
+binding site by summing the scores of the individual positions.
+
+Here's a very simple length=2 case; the order of the numbers corresponds
+to alphabetical order of the nucleotides, A, C, G, and T:
+
+ >>> matrix_tuple = ((1, 0, 0, 0),
+ ...                 (0, 0, 1, 0))
+ >>> matrix = motility.PWM(matrix_tuple)
+
+This matrix scores 'AG' with 2, 'AN' with 1, and 'NG' with 1.  All other
+combinations of two bases have a score of 0:
+
+ >>> matrix.calc_score('AG')
+ 2.0
+ >>> matrix.calc_score('AA')
+ 1.0
+ >>> matrix.calc_score('TG')
+ 1.0
+ >>> matrix.calc_score('TT')
+ 0.0
+ >>> matrix.calc_score('GA')
+ 0.0
+
+Matrices can be of arbitrary length, and they can be used in either
+"position-weight matrix" form, where high-scoring sites are considered
+good, or "energy-operator" form, where low-scoring sites are considered
+good.
+
+You can do a bunch of things with matrices.  You can calculate the length
+of the matrix, which is equivalent to the length of the sites that matrix
+will find:
+
+ >>> len(matrix)
+ 2
+
+You can calculate minimum and maximum scores:
+
+ >>> matrix.min_score(False)
+ 0.0
+ >>> matrix.max_score()
+ 2.0
+
+You can also calculate the set of sites with scores over a
+particular threshold, with the PWM representation:
+
+ >>> matrix.generate_sites_over(1)
+ ('AA', 'AC', 'AG', 'AT', 'CG', 'GG', 'TG')
+
+(Note that this doesn't generate reverse complements!)
+
+And, of course, you can also find matches to this matrix in longer
+sequences:
+
+ >>> sequence = "aaaaaaaaaaAGggggggggg"
+ >>> matrix.find(sequence, 2.0)
+ ((10, 12, 1, 'AG'),)
+
+As with IUPAC motifs, above, 'matrix.find' returns a tuple of tuples:
+(start, stop, orientation, match).
+
+Constructing IUPAC motifs
+=========================
+
+motility has a convenient function to create an IUPAC motif from a list
+of sites: ``make_iupac_motif``.
+
+ >>> sites = [ 'AGATAA',
+ ...           'TGATAA',
+ ...           'AGATAG' ]
+ >>> motility.make_iupac_motif(sites)
+ 'WGATAR'
+
+Constructing matrix representations of motifs
+=============================================
+
+motility has a few functions to help you create matrices.
+
+Position-Weight Matrices
+------------------------
+
+The ``make_PWM`` function makes a Position-Weight Matrix function
+for you:
+
+ >>> sites = [ 'AGATAA',
+ ...           'TGATAA',
+ ...           'AGATAG' ]
+ >>> pwm = motility.make_PWM(sites)
+ >>> print pwm.max_score(), pwm.min_score()
+ 5.33333333333 0.0
+ >>> print pwm
+ [[0.66666666666666663, 0.0, 0.0, 0.33333333333333331],
+  [0.0, 0.0, 1.0, 0.0],
+  [1.0, 0.0, 0.0, 0.0],
+  [0.0, 0.0, 0.0, 1.0],
+  [1.0, 0.0, 0.0, 0.0],
+  [0.66666666666666663, 0.0, 0.33333333333333331, 0.0]]
+
+(Yes, matrices are ugly when printed!)
+
+Here, ``make_PWM`` creates a PWM that calculates the frequency of each
+nucleotide in each position; this PWM will then rank sites by their
+similarity to the input sites.  We can now calculate the
+scores of all three input sites, plus a few more:
+
+ >>> for site in [ 'AGATAA', 'TGATAA', 'AGATAG', 'GGATAA', 'GCGCGC' ]:
+ ...   print site, pwm.calc_score(site)
+ AGATAA 5.33333333333
+ TGATAA 5.0
+ AGATAG 5.0
+ GGATAA 4.66666666667
+ GCGCGC 0.0
+
+Energy operators
+----------------
+
+You can also create "energy operators", which use a scoring system that's
+the reverse of the PWM scoring system:
+
+ >>> sites = [ 'AGATAA',
+ ...           'TGATAA',
+ ...           'AGATAG' ]
+ >>> operator = motility.make_operator(sites)
+ >>> print operator.max_score(), operator.min_score()
+ 7.74240202182 0.0
+
+ >>> for site in [ 'AGATAA', 'TGATAA', 'AGATAG', 'GGATAA', 'GCGCGC' ]:
+ ...   print site, operator.calc_energy(site)
+ AGATAA 0.0
+ TGATAA 0.405465108108
+ AGATAG 0.405465108108
+ GGATAA 1.09861228867
+ GCGCGC 7.74240202182
+
+There are a few different reasons why you might use energy operators;
+one reason is that the consensus sequence always has a score of 0, and
+another reason is that their scores represent an information-theoretic
+or statistical-mechanical measure on motif content.  Check out Stormo
+(2007) for a review.
+
+General matrix utility functions
+--------------------------------
+
+I won't take a position on which of these matrix functions you should
+use; everyone has their own favorite, and you can read about mine in
+Brown and Callan (2004).  The most important thing is that you can
+easily use motility to build and search with whatever kind of matrix
+you want, because I've included a flexible ``make_matrix`` function: ::
+
+ make_matrix(sites, cell_fn, cls=None)
+
+This function is actually used by both the ``make_PWM`` and ``make_operator``
+functions: all that is varied is the ``cell_fn`` and the ``cls``.  Here's
+an example:
+
+ >>> def calc_pwm_entries(count, max_count, sum_count):
+ ...   return float(count) / float(sum_count)
+
+ >>> sites = [ 'AGATAA',
+ ...           'TGATAA',
+ ...           'AGATAG' ]
+
+ >>> matrix = motility.make_matrix(sites, calc_pwm_entries)
+
+The ``make_matrix`` function takes each column in the sites list and
+counts the number of times each base appears in that column.  Then,
+for each base, it calls the ``calc_pwm_entries`` function with the
+number of times that base occurs, the maximum number of times any one
+base occurs, and the total number of sites.  This lets you calculate
+most of the popular kinds of matrices; here's the output using
+``calc_pwm_entries``:
+ 
+ >>> import pprint
+ >>> pprint.pprint(matrix)
+ [[0.66666666666666663, 0.0, 0.0, 0.33333333333333331],
+  [0.0, 0.0, 1.0, 0.0],
+  [1.0, 0.0, 0.0, 0.0],
+  [0.0, 0.0, 0.0, 1.0],
+  [1.0, 0.0, 0.0, 0.0],
+  [0.66666666666666663, 0.0, 0.33333333333333331, 0.0]]
+
+Yep, it's identical to the PWM output, above!  Note that the optional
+``cls`` argument specifies a class to apply to the returned matrix;
+that way you can get back "rich" objects like motility.PWM and
+motility.EnergyOperator, rather than raw matrices.
+
+Let's do two more examples, just to pound the information in.  First,
+let's build a winner-takes-all cell calculation function:
+
+ >>> def winner_takes_all(base_count, max_count, sum_count):
+ ...   if base_count == max_count: return 1
+ ...   return 0
+
+ >>> sites = [ 'AGATAA',
+ ...           'TGATAA',
+ ...           'AGATAG' ]
+
+ >>> matrix = motility.make_matrix(sites, winner_takes_all)
+ >>> pprint.pprint(matrix)
+ [[1, 0, 0, 0],
+  [0, 0, 1, 0],
+  [1, 0, 0, 0],
+  [0, 0, 0, 1],
+  [1, 0, 0, 0],
+  [1, 0, 0, 0]]
+
+This function puts a "1" in a cell if and only if that cell represents
+the "consensus" nucleotide for that position.
+
+Here's a slightly different PWM-calculating function that works as a
+fraction of max_count rather than sum_count:
+
+ >>> def calc_fn(base_count, max_count, sum_count):
+ ...   return float(base_count) / float(max_count)
+
+If we apply it to the same set of sites, we get:
+
+ >>> matrix = motility.make_matrix(sites, calc_fn)
+ >>> pprint.pprint(matrix)
+ [[1.0, 0.0, 0.0, 0.5],
+  [0.0, 0.0, 1.0, 0.0],
+  [1.0, 0.0, 0.0, 0.0],
+  [0.0, 0.0, 0.0, 1.0],
+  [1.0, 0.0, 0.0, 0.0],
+  [1.0, 0.0, 0.5, 0.0]]
+
+which will rank sites in the same order as the default PWM form, but with
+different scores.
+
+Calculating thresholds
+======================
+
+The trickiest thing to do with PWMs is not to build the PWM, but to
+actually use it.  You see, ``pwm.find`` scores *every* motif, unlike
+the ``find_exact`` and ``find_iupac`` functions, which only find matching
+motifs.  So, you need to set a threshold for ``pwm.find``, below which
+it will discard motifs.
+
+How do you set that threshold?
+
+First, let's look again at how the function scores sites:
+
+ >>> sites = [ 'AGATAA',
+ ...           'TGATAA',
+ ...           'AGATAG' ]
+ >>> pwm = motility.make_PWM(sites)
+
+ >>> for site in [ 'AGATAA', 'TGATAA', 'AGATAG', 'GGATAA', 'GCGCGC' ]:
+ ...   print site, pwm.calc_score(site)
+ AGATAA 5.33333333333
+ TGATAA 5.0
+ AGATAG 5.0
+ GGATAA 4.66666666667
+ GCGCGC 0.0
+
+Hmm, I wonder what sites score above a 4.5?
+
+ >>> pprint.pprint(pwm.generate_sites_over(4.5))
+ ('AGATAA',
+  'AGATAC',
+  'AGATAG',
+  'AGATAT',
+  'CGATAA',
+  'GGATAA',
+  'TGATAA',
+  'TGATAG')
+
+Well, that's not too much of a surprise -- all of those sites have the
+core ``GATA`` in them, which means they have a minimum score of 4.0,
+plus an A at the end or the beginning.  (Go back to the PWM's matrix
+representation if you don't see why the scores work out this way.)
+
+Let's rank them and print them out with their scores: first, generate
+the sites & their scores:
+
+ >>> sites_45 = pwm.generate_sites_over(4.5)
+ >>> sites_45 = [ (site, pwm.calc_score(site)) for site in sites_45 ]
+
+Now write a custom sort function to sort 'em appropriately (top down,
+by second element, the score):
+
+ >>> def sort_by_score(a, b):
+ ...   return -cmp(a[1], b[1])
+
+and... sort!
+
+ >>> sites_45.sort(sort_by_score)
+ >>> pprint.pprint(sites_45)
+ [('AGATAA', 5.333333333333333),
+  ('TGATAA', 5.0),
+  ('AGATAG', 4.9999999999999991),
+  ('CGATAA', 4.666666666666667),
+  ('GGATAA', 4.666666666666667),
+  ('AGATAC', 4.6666666666666661),
+  ('AGATAT', 4.6666666666666661),
+  ('TGATAG', 4.6666666666666661)]
+
+You'll note that the three input sites rank highest (which will not
+always be true for a PWM, but is true for this simple example).  The
+second two sites are equivalent in score (except for rounding errors),
+and the next five sites are all of the remaining sites with the core
+'GATA' accompanied by precisely one 'A'.
+
+The point of this whole exercise, you may remember, was this: how do you
+figure out what threshold to set?  My answer is this: look at your input
+sites, ranked by score, and then set your cutoff somewhere in that range.
+Then count how many other sites you would find with that threshold.
+
+A good shorthand for this process is to use the ``weight_sites_over``
+function:
+
+ >>> pwm.weight_sites_over(4.5)
+ 0.001953125
+
+which is just
+
+ >>> len(sites_45) / float(4096)
+ 0.001953125
+
+or the number of sites *over* the threshold, divided by the total number
+of sites.  In a perfect world, this weight number would be the probability
+of finding such a site randomly; the higher it gets, the more likely it
+is that your threshold is garbage.

@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.4: http://docutils.sourceforge.net/" />
+<title>Using motility to look for motifs</title>
+<style type="text/css">
+
+/*
+:Author: David Goodger
+:Contact: goodger@users.sourceforge.net
+:Date: $Date: 2005-12-18 01:56:14 +0100 (Sun, 18 Dec 2005) $
+:Revision: $Revision: 4224 $
+:Copyright: This stylesheet has been placed in the public domain.
+
+Default cascading style sheet for the HTML output of Docutils.
+
+See http://docutils.sf.net/docs/howto/html-stylesheets.html for how to
+customize this style sheet.
+*/
+
+/* used to remove borders from tables and images */
+.borderless, table.borderless td, table.borderless th {
+  border: 0 }
+
+table.borderless td, table.borderless th {
+  /* Override padding for "table.docutils td" with "! important".
+     The right padding separates the table cells. */
+  padding: 0 0.5em 0 0 ! important }
+
+.first {
+  /* Override more specific margin styles with "! important". */
+  margin-top: 0 ! important }
+
+.last, .with-subtitle {
+  margin-bottom: 0 ! important }
+
+.hidden {
+  display: none }
+
+a.toc-backref {
+  text-decoration: none ;
+  color: black }
+
+blockquote.epigraph {
+  margin: 2em 5em ; }
+
+dl.docutils dd {
+  margin-bottom: 0.5em }
+
+/* Uncomment (and remove this text!) to get bold-faced definition list terms
+dl.docutils dt {
+  font-weight: bold }
+*/
+
+div.abstract {
+  margin: 2em 5em }
+
+div.abstract p.topic-title {
+  font-weight: bold ;
+  text-align: center }
+
+div.admonition, div.attention, div.caution, div.danger, div.error,
+div.hint, div.important, div.note, div.tip, div.warning {
+  margin: 2em ;
+  border: medium outset ;
+  padding: 1em }
+
+div.admonition p.admonition-title, div.hint p.admonition-title,
+div.important p.admonition-title, div.note p.admonition-title,
+div.tip p.admonition-title {
+  font-weight: bold ;
+  font-family: sans-serif }
+
+div.attention p.admonition-title, div.caution p.admonition-title,
+div.danger p.admonition-title, div.error p.admonition-title,
+div.warning p.admonition-title {
+  color: red ;
+  font-weight: bold ;
+  font-family: sans-serif }
+
+/* Uncomment (and remove this text!) to get reduced vertical space in
+   compound paragraphs.
+div.compound .compound-first, div.compound .compound-middle {
+  margin-bottom: 0.5em }
+
+div.compound .compound-last, div.compound .compound-middle {
+  margin-top: 0.5em }
+*/
+
+div.dedication {
+  margin: 2em 5em ;
+  text-align: center ;
+  font-style: italic }
+
+div.dedication p.topic-title {
+  font-weight: bold ;
+  font-style: normal }
+
+div.figure {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+div.footer, div.header {
+  clear: both;
+  font-size: smaller }
+
+div.line-block {
+  display: block ;
+  margin-top: 1em ;
+  margin-bottom: 1em }
+
+div.line-block div.line-block {
+  margin-top: 0 ;
+  margin-bottom: 0 ;
+  margin-left: 1.5em }
+
+div.sidebar {
+  margin-left: 1em ;
+  border: medium outset ;
+  padding: 1em ;
+  background-color: #ffffee ;
+  width: 40% ;
+  float: right ;
+  clear: right }
+
+div.sidebar p.rubric {
+  font-family: sans-serif ;
+  font-size: medium }
+
+div.system-messages {
+  margin: 5em }
+
+div.system-messages h1 {
+  color: red }
+
+div.system-message {
+  border: medium outset ;
+  padding: 1em }
+
+div.system-message p.system-message-title {
+  color: red ;
+  font-weight: bold }
+
+div.topic {
+  margin: 2em }
+
+h1.section-subtitle, h2.section-subtitle, h3.section-subtitle,
+h4.section-subtitle, h5.section-subtitle, h6.section-subtitle {
+  margin-top: 0.4em }
+
+h1.title {
+  text-align: center }
+
+h2.subtitle {
+  text-align: center }
+
+hr.docutils {
+  width: 75% }
+
+img.align-left {
+  clear: left }
+
+img.align-right {
+  clear: right }
+
+ol.simple, ul.simple {
+  margin-bottom: 1em }
+
+ol.arabic {
+  list-style: decimal }
+
+ol.loweralpha {
+  list-style: lower-alpha }
+
+ol.upperalpha {
+  list-style: upper-alpha }
+
+ol.lowerroman {
+  list-style: lower-roman }
+
+ol.upperroman {
+  list-style: upper-roman }
+
+p.attribution {
+  text-align: right ;
+  margin-left: 50% }
+
+p.caption {
+  font-style: italic }
+
+p.credits {
+  font-style: italic ;
+  font-size: smaller }
+
+p.label {
+  white-space: nowrap }
+
+p.rubric {
+  font-weight: bold ;
+  font-size: larger ;
+  color: maroon ;
+  text-align: center }
+
+p.sidebar-title {
+  font-family: sans-serif ;
+  font-weight: bold ;
+  font-size: larger }
+
+p.sidebar-subtitle {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+p.topic-title {
+  font-weight: bold }
+
+pre.address {
+  margin-bottom: 0 ;
+  margin-top: 0 ;
+  font-family: serif ;
+  font-size: 100% }
+
+pre.literal-block, pre.doctest-block {
+  margin-left: 2em ;
+  margin-right: 2em ;
+  background-color: #eeeeee }
+
+span.classifier {
+  font-family: sans-serif ;
+  font-style: oblique }
+
+span.classifier-delimiter {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+span.interpreted {
+  font-family: sans-serif }
+
+span.option {
+  white-space: nowrap }
+
+span.pre {
+  white-space: pre }
+
+span.problematic {
+  color: red }
+
+span.section-subtitle {
+  /* font-size relative to parent (h1..h6 element) */
+  font-size: 80% }
+
+table.citation {
+  border-left: solid 1px gray;
+  margin-left: 1px }
+
+table.docinfo {
+  margin: 2em 4em }
+
+table.docutils {
+  margin-top: 0.5em ;
+  margin-bottom: 0.5em }
+
+table.footnote {
+  border-left: solid 1px black;
+  margin-left: 1px }
+
+table.docutils td, table.docutils th,
+table.docinfo td, table.docinfo th {
+  padding-left: 0.5em ;
+  padding-right: 0.5em ;
+  vertical-align: top }
+
+table.docutils th.field-name, table.docinfo th.docinfo-name {
+  font-weight: bold ;
+  text-align: left ;
+  white-space: nowrap ;
+  padding-left: 0 }
+
+h1 tt.docutils, h2 tt.docutils, h3 tt.docutils,
+h4 tt.docutils, h5 tt.docutils, h6 tt.docutils {
+  font-size: 100% }
+
+tt.docutils {
+  background-color: #eeeeee }
+
+ul.auto-toc {
+  list-style-type: none }
+
+</style>
+</head>
+<body>
+<div class="document" id="using-motility-to-look-for-motifs">
+<h1 class="title">Using motility to look for motifs</h1>
+<p>motility is a C++ and Python toolkit that I wrote for the purpose
+of searching DNA sequences for transcription factor binding sites
+with exact matches, IUPAC motifs, and matrices.</p>
+<p>(These examples use motility 0.8.1, released on or around Dec 10th, 2007.)</p>
+<div class="section">
+<h1><a id="doing-a-simple-sequence-search" name="doing-a-simple-sequence-search">Doing a simple sequence search</a></h1>
+<p>Suppose we have a sequence that we want to search for matches to a
+specific motif (written in capital letters, to guide the eye):</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; sequence = &quot;atatatatatatataaGGCCaatatatatata&quot;
+&gt;&gt;&gt; motif = &quot;GG&quot;
+</pre>
+</blockquote>
+<p>You can do a straightforward motility search pretty easily, with <cite>find_exact</cite>:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; import motility
+&gt;&gt;&gt; motility.find_exact(sequence, motif)
+((16, 18, 1, 'GG'), (18, 20, -1, 'CC'))
+</pre>
+</blockquote>
+<p>This function returns a tuple of tuples, containing start, stop, orientation,
+and the match sequence; in fact, all of the functions return this, so you
+can treat return values from any motility search function the same way.</p>
+<p>For example, you can iterate over it like this:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; for (start, stop, orient, match) in motility.find_exact(sequence, motif):
+...   print start, stop, orient, match
+16 18 1 GG
+18 20 -1 CC
+</pre>
+</blockquote>
+<p>Note that (as you would also expect) <tt class="docutils literal"><span class="pre">find_exact</span></tt> finds reverse complement
+matches as well as forward matches.</p>
+<p>Before we move on to more interesting functions, there's one other thing
+to note: motility will detect if the search is being done with a palindrome,
+and, if it is, only a single match will be returned.  So, for example, you
+get this result:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; motility.find_exact(sequence, 'GGCC')
+((16, 20, 1, 'GGCC'),)
+</pre>
+</blockquote>
+<p>because 'GGCC' is a palindrome and it matches bases 16 -&gt; 20 in both
+directions.</p>
+</div>
+<div class="section">
+<h1><a id="doing-fuzzy-searches-with-iupac-motifs" name="doing-fuzzy-searches-with-iupac-motifs">Doing fuzzy searches with IUPAC motifs</a></h1>
+<p>One of the more popular motif searching techniques is to use a fuzzy
+&quot;IUPAC&quot; motif; IUPAC stands for the &quot;International Union of Pure and
+Applied Chemistry&quot;, and they have a standard representation for DNA
+bases.  For example, 'R' represents a purine, 'A' or 'G', while 'Y'
+represents a pyrimidine, 'T' or 'C', and 'W' represents 'A' or 'T'.
+(See <a class="reference" href="http://cartwheel.caltech.edu/motility/intro.html">the motility intro</a> for the whole
+list.)  The point of using IUPAC motifs is that it lets you represent
+motifs like &quot;A or G, followed by a T, C, T, followed by a A or a T&quot;
+more compactly: &quot;RTCTW&quot;, in this case.</p>
+<p>motility, of course, lets you search DNA sequence with IUPAC motifs using
+the <tt class="docutils literal"><span class="pre">find_iupac</span></tt> function:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; sequence = &quot;gatacATCTAtatgcata&quot;
+&gt;&gt;&gt; motif = &quot;RTCTW&quot;
+&gt;&gt;&gt; motility.find_iupac(sequence, motif)
+((5, 10, 1, 'ATCTA'),)
+</pre>
+</blockquote>
+<p>motility goes one better, however, and lets you specify a number of
+mismatches as an optional third parameter:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; mismatches=1
+&gt;&gt;&gt; motility.find_iupac(sequence, motif, mismatches)
+((5, 10, 1, 'ATCTA'), (8, 13, -1, 'TATAT'), (2, 7, -1, 'TACAT'))
+</pre>
+</blockquote>
+</div>
+<div class="section">
+<h1><a id="searching-with-matrices" name="searching-with-matrices">Searching with matrices</a></h1>
+<p>motility also lets you search for binding sites based on matrix scores.
+The basic idea is pretty simple: given a set of scores for A, C, G, and
+T in each position of a binding site, motility will score each potential
+binding site by summing the scores of the individual positions.</p>
+<p>Here's a very simple length=2 case; the order of the numbers corresponds
+to alphabetical order of the nucleotides, A, C, G, and T:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; matrix_tuple = ((1, 0, 0, 0),
+...                 (0, 0, 1, 0))
+&gt;&gt;&gt; matrix = motility.PWM(matrix_tuple)
+</pre>
+</blockquote>
+<p>This matrix scores 'AG' with 2, 'AN' with 1, and 'NG' with 1.  All other
+combinations of two bases have a score of 0:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; matrix.calc_score('AG')
+2.0
+&gt;&gt;&gt; matrix.calc_score('AA')
+1.0
+&gt;&gt;&gt; matrix.calc_score('TG')
+1.0
+&gt;&gt;&gt; matrix.calc_score('TT')
+0.0
+&gt;&gt;&gt; matrix.calc_score('GA')
+0.0
+</pre>
+</blockquote>
+<p>Matrices can be of arbitrary length, and they can be used in either
+&quot;position-weight matrix&quot; form, where high-scoring sites are considered
+good, or &quot;energy-operator&quot; form, where low-scoring sites are considered
+good.</p>
+<p>You can do a bunch of things with matrices.  You can calculate the length
+of the matrix, which is equivalent to the length of the sites that matrix
+will find:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; len(matrix)
+2
+</pre>
+</blockquote>
+<p>You can calculate minimum and maximum scores:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; matrix.min_score(False)
+0.0
+&gt;&gt;&gt; matrix.max_score()
+2.0
+</pre>
+</blockquote>
+<p>You can also calculate the set of sites with scores over a
+particular threshold, with the PWM representation:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; matrix.generate_sites_over(1)
+('AA', 'AC', 'AG', 'AT', 'CG', 'GG', 'TG')
+</pre>
+</blockquote>
+<p>(Note that this doesn't generate reverse complements!)</p>
+<p>And, of course, you can also find matches to this matrix in longer
+sequences:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; sequence = &quot;aaaaaaaaaaAGggggggggg&quot;
+&gt;&gt;&gt; matrix.find(sequence, 2.0)
+((10, 12, 1, 'AG'),)
+</pre>
+</blockquote>
+<p>As with IUPAC motifs, above, 'matrix.find' returns a tuple of tuples:
+(start, stop, orientation, match).</p>
+</div>
+<div class="section">
+<h1><a id="constructing-iupac-motifs" name="constructing-iupac-motifs">Constructing IUPAC motifs</a></h1>
+<p>motility has a convenient function to create an IUPAC motif from a list
+of sites: <tt class="docutils literal"><span class="pre">make_iupac_motif</span></tt>.</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; sites = [ 'AGATAA',
+...           'TGATAA',
+...           'AGATAG' ]
+&gt;&gt;&gt; motility.make_iupac_motif(sites)
+'WGATAR'
+</pre>
+</blockquote>
+</div>
+<div class="section">
+<h1><a id="constructing-matrix-representations-of-motifs" name="constructing-matrix-representations-of-motifs">Constructing matrix representations of motifs</a></h1>
+<p>motility has a few functions to help you create matrices.</p>
+<div class="section">
+<h2><a id="position-weight-matrices" name="position-weight-matrices">Position-Weight Matrices</a></h2>
+<p>The <tt class="docutils literal"><span class="pre">make_PWM</span></tt> function makes a Position-Weight Matrix function
+for you:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; sites = [ 'AGATAA',
+...           'TGATAA',
+...           'AGATAG' ]
+&gt;&gt;&gt; pwm = motility.make_PWM(sites)
+&gt;&gt;&gt; print pwm.max_score(), pwm.min_score()
+5.33333333333 0.0
+&gt;&gt;&gt; print pwm
+[[0.66666666666666663, 0.0, 0.0, 0.33333333333333331],
+ [0.0, 0.0, 1.0, 0.0],
+ [1.0, 0.0, 0.0, 0.0],
+ [0.0, 0.0, 0.0, 1.0],
+ [1.0, 0.0, 0.0, 0.0],
+ [0.66666666666666663, 0.0, 0.33333333333333331, 0.0]]
+</pre>
+</blockquote>
+<p>(Yes, matrices are ugly when printed!)</p>
+<p>Here, <tt class="docutils literal"><span class="pre">make_PWM</span></tt> creates a PWM that calculates the frequency of each
+nucleotide in each position; this PWM will then rank sites by their
+similarity to the input sites.  We can now calculate the
+scores of all three input sites, plus a few more:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; for site in [ 'AGATAA', 'TGATAA', 'AGATAG', 'GGATAA', 'GCGCGC' ]:
+...   print site, pwm.calc_score(site)
+AGATAA 5.33333333333
+TGATAA 5.0
+AGATAG 5.0
+GGATAA 4.66666666667
+GCGCGC 0.0
+</pre>
+</blockquote>
+</div>
+<div class="section">
+<h2><a id="energy-operators" name="energy-operators">Energy operators</a></h2>
+<p>You can also create &quot;energy operators&quot;, which use a scoring system that's
+the reverse of the PWM scoring system:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; sites = [ 'AGATAA',
+...           'TGATAA',
+...           'AGATAG' ]
+&gt;&gt;&gt; operator = motility.make_operator(sites)
+&gt;&gt;&gt; print operator.max_score(), operator.min_score()
+7.74240202182 0.0
+</pre>
+<pre class="doctest-block">
+&gt;&gt;&gt; for site in [ 'AGATAA', 'TGATAA', 'AGATAG', 'GGATAA', 'GCGCGC' ]:
+...   print site, operator.calc_energy(site)
+AGATAA 0.0
+TGATAA 0.405465108108
+AGATAG 0.405465108108
+GGATAA 1.09861228867
+GCGCGC 7.74240202182
+</pre>
+</blockquote>
+<p>There are a few different reasons why you might use energy operators;
+one reason is that the consensus sequence always has a score of 0, and
+another reason is that their scores represent an information-theoretic
+or statistical-mechanical measure on motif content.  Check out Stormo
+(2007) for a review.</p>
+</div>
+<div class="section">
+<h2><a id="general-matrix-utility-functions" name="general-matrix-utility-functions">General matrix utility functions</a></h2>
+<p>I won't take a position on which of these matrix functions you should
+use; everyone has their own favorite, and you can read about mine in
+Brown and Callan (2004).  The most important thing is that you can
+easily use motility to build and search with whatever kind of matrix
+you want, because I've included a flexible <tt class="docutils literal"><span class="pre">make_matrix</span></tt> function:</p>
+<pre class="literal-block">
+make_matrix(sites, cell_fn, cls=None)
+</pre>
+<p>This function is actually used by both the <tt class="docutils literal"><span class="pre">make_PWM</span></tt> and <tt class="docutils literal"><span class="pre">make_operator</span></tt>
+functions: all that is varied is the <tt class="docutils literal"><span class="pre">cell_fn</span></tt> and the <tt class="docutils literal"><span class="pre">cls</span></tt>.  Here's
+an example:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; def calc_pwm_entries(count, max_count, sum_count):
+...   return float(count) / float(sum_count)
+</pre>
+<pre class="doctest-block">
+&gt;&gt;&gt; sites = [ 'AGATAA',
+...           'TGATAA',
+...           'AGATAG' ]
+</pre>
+<pre class="doctest-block">
+&gt;&gt;&gt; matrix = motility.make_matrix(sites, calc_pwm_entries)
+</pre>
+</blockquote>
+<p>The <tt class="docutils literal"><span class="pre">make_matrix</span></tt> function takes each column in the sites list and
+counts the number of times each base appears in that column.  Then,
+for each base, it calls the <tt class="docutils literal"><span class="pre">calc_pwm_entries</span></tt> function with the
+number of times that base occurs, the maximum number of times any one
+base occurs, and the total number of sites.  This lets you calculate
+most of the popular kinds of matrices; here's the output using
+<tt class="docutils literal"><span class="pre">calc_pwm_entries</span></tt>:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; import pprint
+&gt;&gt;&gt; pprint.pprint(matrix)
+[[0.66666666666666663, 0.0, 0.0, 0.33333333333333331],
+ [0.0, 0.0, 1.0, 0.0],
+ [1.0, 0.0, 0.0, 0.0],
+ [0.0, 0.0, 0.0, 1.0],
+ [1.0, 0.0, 0.0, 0.0],
+ [0.66666666666666663, 0.0, 0.33333333333333331, 0.0]]
+</pre>
+</blockquote>
+<p>Yep, it's identical to the PWM output, above!  Note that the optional
+<tt class="docutils literal"><span class="pre">cls</span></tt> argument specifies a class to apply to the returned matrix;
+that way you can get back &quot;rich&quot; objects like motility.PWM and
+motility.EnergyOperator, rather than raw matrices.</p>
+<p>Let's do two more examples, just to pound the information in.  First,
+let's build a winner-takes-all cell calculation function:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; def winner_takes_all(base_count, max_count, sum_count):
+...   if base_count == max_count: return 1
+...   return 0
+</pre>
+<pre class="doctest-block">
+&gt;&gt;&gt; sites = [ 'AGATAA',
+...           'TGATAA',
+...           'AGATAG' ]
+</pre>
+<pre class="doctest-block">
+&gt;&gt;&gt; matrix = motility.make_matrix(sites, winner_takes_all)
+&gt;&gt;&gt; pprint.pprint(matrix)
+[[1, 0, 0, 0],
+ [0, 0, 1, 0],
+ [1, 0, 0, 0],
+ [0, 0, 0, 1],
+ [1, 0, 0, 0],
+ [1, 0, 0, 0]]
+</pre>
+</blockquote>
+<p>This function puts a &quot;1&quot; in a cell if and only if that cell represents
+the &quot;consensus&quot; nucleotide for that position.</p>
+<p>Here's a slightly different PWM-calculating function that works as a
+fraction of max_count rather than sum_count:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; def calc_fn(base_count, max_count, sum_count):
+...   return float(base_count) / float(max_count)
+</pre>
+</blockquote>
+<p>If we apply it to the same set of sites, we get:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; matrix = motility.make_matrix(sites, calc_fn)
+&gt;&gt;&gt; pprint.pprint(matrix)
+[[1.0, 0.0, 0.0, 0.5],
+ [0.0, 0.0, 1.0, 0.0],
+ [1.0, 0.0, 0.0, 0.0],
+ [0.0, 0.0, 0.0, 1.0],
+ [1.0, 0.0, 0.0, 0.0],
+ [1.0, 0.0, 0.5, 0.0]]
+</pre>
+</blockquote>
+<p>which will rank sites in the same order as the default PWM form, but with
+different scores.</p>
+</div>
+</div>
+<div class="section">
+<h1><a id="calculating-thresholds" name="calculating-thresholds">Calculating thresholds</a></h1>
+<p>The trickiest thing to do with PWMs is not to build the PWM, but to
+actually use it.  You see, <tt class="docutils literal"><span class="pre">pwm.find</span></tt> scores <em>every</em> motif, unlike
+the <tt class="docutils literal"><span class="pre">find_exact</span></tt> and <tt class="docutils literal"><span class="pre">find_iupac</span></tt> functions, which only find matching
+motifs.  So, you need to set a threshold for <tt class="docutils literal"><span class="pre">pwm.find</span></tt>, below which
+it will discard motifs.</p>
+<p>How do you set that threshold?</p>
+<p>First, let's look again at how the function scores sites:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; sites = [ 'AGATAA',
+...           'TGATAA',
+...           'AGATAG' ]
+&gt;&gt;&gt; pwm = motility.make_PWM(sites)
+</pre>
+<pre class="doctest-block">
+&gt;&gt;&gt; for site in [ 'AGATAA', 'TGATAA', 'AGATAG', 'GGATAA', 'GCGCGC' ]:
+...   print site, pwm.calc_score(site)
+AGATAA 5.33333333333
+TGATAA 5.0
+AGATAG 5.0
+GGATAA 4.66666666667
+GCGCGC 0.0
+</pre>
+</blockquote>
+<p>Hmm, I wonder what sites score above a 4.5?</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; pprint.pprint(pwm.generate_sites_over(4.5))
+('AGATAA',
+ 'AGATAC',
+ 'AGATAG',
+ 'AGATAT',
+ 'CGATAA',
+ 'GGATAA',
+ 'TGATAA',
+ 'TGATAG')
+</pre>
+</blockquote>
+<p>Well, that's not too much of a surprise -- all of those sites have the
+core <tt class="docutils literal"><span class="pre">GATA</span></tt> in them, which means they have a minimum score of 4.0,
+plus an A at the end or the beginning.  (Go back to the PWM's matrix
+representation if you don't see why the scores work out this way.)</p>
+<p>Let's rank them and print them out with their scores: first, generate
+the sites &amp; their scores:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; sites_45 = pwm.generate_sites_over(4.5)
+&gt;&gt;&gt; sites_45 = [ (site, pwm.calc_score(site)) for site in sites_45 ]
+</pre>
+</blockquote>
+<p>Now write a custom sort function to sort 'em appropriately (top down,
+by second element, the score):</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; def sort_by_score(a, b):
+...   return -cmp(a[1], b[1])
+</pre>
+</blockquote>
+<p>and... sort!</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; sites_45.sort(sort_by_score)
+&gt;&gt;&gt; pprint.pprint(sites_45)
+[('AGATAA', 5.333333333333333),
+ ('TGATAA', 5.0),
+ ('AGATAG', 4.9999999999999991),
+ ('CGATAA', 4.666666666666667),
+ ('GGATAA', 4.666666666666667),
+ ('AGATAC', 4.6666666666666661),
+ ('AGATAT', 4.6666666666666661),
+ ('TGATAG', 4.6666666666666661)]
+</pre>
+</blockquote>
+<p>You'll note that the three input sites rank highest (which will not
+always be true for a PWM, but is true for this simple example).  The
+second two sites are equivalent in score (except for rounding errors),
+and the next five sites are all of the remaining sites with the core
+'GATA' accompanied by precisely one 'A'.</p>
+<p>The point of this whole exercise, you may remember, was this: how do you
+figure out what threshold to set?  My answer is this: look at your input
+sites, ranked by score, and then set your cutoff somewhere in that range.
+Then count how many other sites you would find with that threshold.</p>
+<p>A good shorthand for this process is to use the <tt class="docutils literal"><span class="pre">weight_sites_over</span></tt>
+function:</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; pwm.weight_sites_over(4.5)
+0.001953125
+</pre>
+</blockquote>
+<p>which is just</p>
+<blockquote>
+<pre class="doctest-block">
+&gt;&gt;&gt; len(sites_45) / float(4096)
+0.001953125
+</pre>
+</blockquote>
+<p>or the number of sites <em>over</em> the threshold, divided by the total number
+of sites.  In a perfect world, this weight number would be the probability
+of finding such a site randomly; the higher it gets, the more likely it
+is that your threshold is garbage.</p>
+</div>
+</div>
+</body>
+</html>
