@@ -21,7 +21,7 @@ You can do a straightforward motility search pretty easily, with `find_exact`:
 
  >>> import motility
  >>> motility.find_exact(sequence, motif)
- ((16, 18, 1, 'GG'), (18, 20, -1, 'CC'))
+ ((16, 18, 1, 'GG'), (18, 20, -1, 'GG'))
 
 This function returns a tuple of tuples, containing start, stop, orientation,
 and the match sequence; in fact, all of the functions return this, so you
@@ -32,10 +32,11 @@ For example, you can iterate over it like this:
  >>> for (start, stop, orient, match) in motility.find_exact(sequence, motif):
  ...   print start, stop, orient, match
  16 18 1 GG
- 18 20 -1 CC
+ 18 20 -1 GG
 
 Note that (as you would also expect) ``find_exact`` finds reverse complement
-matches as well as forward matches.
+matches as well as forward matches, but it reports the motif matches in
+the proper orientation.
 
 Before we move on to more interesting functions, there's one other thing
 to note: motility will detect if the search is being done with a palindrome,
@@ -75,7 +76,7 @@ mismatches as an optional third parameter:
 
  >>> mismatches=1
  >>> motility.find_iupac(sequence, motif, mismatches)
- ((5, 10, 1, 'ATCTA'), (8, 13, -1, 'TATAT'), (2, 7, -1, 'TACAT'))
+ ((5, 10, 1, 'ATCTA'), (8, 13, -1, 'ATATA'), (2, 7, -1, 'ATGTA'))
 
 Searching with matrices
 =======================
