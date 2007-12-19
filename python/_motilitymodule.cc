@@ -285,11 +285,12 @@ static PyObject * find_exact(PyObject * self, PyObject * args, PyObject * kw)
 {
   char * seq_c, * motif_c;
   int offset = 0;
-  static char * kwlist[] = { "sequence", "motif", "offset", NULL };
+  static const char * kwlist[] = { "sequence", "motif", "offset", NULL };
 
   // Python arguments: sequence, motif.
 
-  if (!PyArg_ParseTupleAndKeywords(args, kw, "ss|i", kwlist, &seq_c, &motif_c,
+  if (!PyArg_ParseTupleAndKeywords(args, kw, "ss|i", (char **) kwlist,
+				   &seq_c, &motif_c,
 				   &offset)) {
     return NULL;
   }
@@ -318,11 +319,12 @@ static PyObject * find_iupac(PyObject * self, PyObject * args, PyObject * kw)
   char * seq_c, * motif_c;
   int mismatches_allowed = 0;
   int offset = 0;
-  static char * kwlist[] = { "sequence", "motif", "mismatches", "offset", NULL };
+  static const char * kwlist[] = { "sequence", "motif", "mismatches", "offset", NULL };
 
   // Python arguments: sequence, motif, optional # of mismatches (default 0)
 
-  if (!PyArg_ParseTupleAndKeywords(args, kw, "ss|ii", kwlist, &seq_c, &motif_c,
+  if (!PyArg_ParseTupleAndKeywords(args, kw, "ss|ii", (char **) kwlist,
+				   &seq_c, &motif_c,
 				   &mismatches_allowed, &offset)) {
     return NULL;
   }
@@ -352,11 +354,12 @@ static PyObject * find_pwm(PyObject * self, PyObject * args, PyObject * kw)
   PyObject * pwm_o;
   double threshold;
   int offset = 0;
-  static char * kwlist[] = { "sequence", "motif", "threshold", "offset", NULL };
+  static const char * kwlist[] = { "sequence", "motif", "threshold", "offset", NULL };
 
   // Python arguments: sequence, pwm, threshold.
 
-  if (!PyArg_ParseTupleAndKeywords(args, kw, "sOd|i", kwlist, &seq_c, &pwm_o,
+  if (!PyArg_ParseTupleAndKeywords(args, kw, "sOd|i", (char **) kwlist,
+				   &seq_c, &pwm_o,
 			&threshold, &offset)) {
     return NULL;
   }
@@ -402,12 +405,12 @@ static PyObject * find_energy(PyObject * self, PyObject * args, PyObject * kw)
   double threshold;
   int offset = 0;
 
-  static char * kwlist[] = { "sequence", "motif", "threshold", "offset", NULL };
+  static const char * kwlist[] = { "sequence", "motif", "threshold", "offset", NULL };
 
   // Python arguments: sequence, matrix, threshold.
 
-  if (!PyArg_ParseTupleAndKeywords(args, kw, "sOd|i", kwlist, &seq_c,
-				   &energy_o, &threshold, &offset)) {
+  if (!PyArg_ParseTupleAndKeywords(args, kw, "sOd|i", (char **) kwlist,
+				   &seq_c, &energy_o, &threshold, &offset)) {
     return NULL;
   }
 
@@ -850,6 +853,7 @@ DL_EXPORT(void) init_motility(void)
   m = Py_InitModule("_motility", MotilityMethods);
 
   d = PyModule_GetDict(m);
-  MotilityError = PyErr_NewException("_motility.MotilityError", NULL, NULL);
+  MotilityError = PyErr_NewException((char *) "_motility.MotilityError",
+				     NULL, NULL);
   PyDict_SetItemString(d, "MotilityError", MotilityError);  
 }

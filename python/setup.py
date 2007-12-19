@@ -15,7 +15,7 @@ extension_mod = Extension("motility._motilitymodule",
 # python modules: currently only 'motility.py'
 py_mod = 'motility'
 
-setup(name = "motility", version = "0.8.1",
+setup(name = "motility", version = "0.8.2",
       description = 'Motility motif searching library',
       author = 'C. Titus Brown',
       author_email = 'titus@caltech.edu',

@@ -7,7 +7,7 @@ Functions in this module:
  
  * make_matrix(sites, cell_fn, cls=None) - function to build matrix reprs
  
- * make_PWM - make a PWM (Position Weight Matrix)
+ * make_pwm - make a PWM (Position Weight Matrix)
  
  * make_operator - make an EnergyOperator
  
@@ -17,7 +17,8 @@ Functions in this module:
 __all__ = ['count_bases_by_position',
            'make_iupac_motif',
            'make_matrix',
-           'make_PWM',
+           'make_pfm',
+           'make_pwm',
            'make_operator']
 
 import math
@@ -120,7 +121,7 @@ def make_iupac_motif(sites):
         
     return iupac_site
 
-def make_matrix(sites, cell_fn, cls=None):
+def make_matrix(sites, cell_fn, cls=None, normalize=False):
     """
     A generic function to make matrices from a list of DNA sites.
 
@@ -160,6 +161,9 @@ def make_matrix(sites, cell_fn, cls=None):
         n_sites = sum(column)
         
         column = [ cell_fn(i, max_freq, n_sites) for i in column ]
+        if normalize:
+            norm_factor = min(column)
+            column = [ x - norm_factor for x in column ]
         matrix.append(column)
 
     if cls:
@@ -167,12 +171,12 @@ def make_matrix(sites, cell_fn, cls=None):
 
     return matrix
 
-def make_PWM(sites):
+def make_pfm(sites):
     """
-    Make a position-weight matrix from sites, with scores that represent
-    frequency of each base.
+    Make a position-frequency matrix from sites, with scores that represent
+    the frequency of each base.
     
-    >>> operator = make_PWM(['AA', 'TA', 'CA', 'GA'])
+    >>> operator = make_pfm(['AA', 'TA', 'CA', 'GA'])
     >>> operator.calc_score('AA')
     1.25
 
@@ -183,10 +187,28 @@ def make_PWM(sites):
     cell_fn = lambda x, y, z: float(x) / float(z)
     return make_matrix(sites, cell_fn, PWM)
 
+def make_pwm(sites):
+    """
+    Make a position-weight matrix from sites, with scores that represent
+    the log of the frequency of each base, normalized so that the minimum
+    possible score is zero.
+    
+    >>> operator = make_pwm(['AA', 'TA', 'CA', 'GA'])
+    >>> operator.calc_score('AA')
+    2.3219280948873622
+
+    >>> operator.calc_score('GT')
+    0.0
+    """
+    # x = base count, y = max count
+    cell_fn = lambda x, y, z: math.log((float(x) + 1) / (float(y) + 1), 2)
+    return make_matrix(sites, cell_fn, PWM, normalize=True)
+
 def make_operator(sites):
     """
     Make an "energy operator" from sites, with scores that represent
-    binding energy.  Here, lower scores are better.
+    binding energy.  Here, lower scores are better; zero is the consensus
+    match.
     
     >>> operator = make_operator(['AA', 'TA', 'CA', 'GA'])
     >>> operator.calc_energy('AA')

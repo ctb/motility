@@ -14,10 +14,10 @@
 ## Titus directly.
 
 """
-A set of convenient OO Python interfaces to the _motility extension module.
+Python interface to the _motility extension module.
 """
 
-__version__ = "0.8.1"
+__version__ = "0.8.2"
 
 import _motility
 
@@ -29,4 +29,5 @@ find_iupac = _motility.find_iupac
 
 from objects import EnergyOperator, PWM, IUPAC
 import op_en
-from build import make_PWM, make_operator, make_iupac_motif, make_matrix
+from build import make_pfm, make_pwm, make_operator, make_iupac_motif, \
+     make_matrix

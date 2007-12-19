@@ -21,7 +21,7 @@ sys.path.insert(0, motility_build_dir)
 
 import motility
 print motility
-assert motility.__version__ == "0.8.1", motility.__version__
+assert motility.__version__ == "0.8.2", motility.__version__
 
 def motility_version_message():
     print """

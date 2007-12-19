@@ -10,8 +10,8 @@ simple Python interface which renders it almost immediately useful
 from the command line; the Python interface also supports reading of
 the JASPAR and TFD libraries of binding sites.
 
-The current version of motility is **0.8.1**, and it's available `here
-<http://cartwheel.caltech.edu/motility/motility-0.8.1.tar.gz>`__.  You
+The current version of motility is **0.8.2**, and it's available `here
+<http://cartwheel.caltech.edu/motility/motility-0.8.2.tar.gz>`__.  You
 can also visit the development site at http://cartwheel.idyll.org/, and
 use Subversion to get the development version of motility here:
 

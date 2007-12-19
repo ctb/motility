@@ -295,7 +295,7 @@ ul.auto-toc {
 <p>motility is a C++ and Python toolkit that I wrote for the purpose
 of searching DNA sequences for transcription factor binding sites
 with exact matches, IUPAC motifs, and matrices.</p>
-<p>(These examples use motility 0.8.1, released on or around Dec 10th, 2007.)</p>
+<p>(These examples use motility 0.8.2, released on or around Dec 19th, 2007.)</p>
 <div class="section">
 <h1><a id="doing-a-simple-sequence-search" name="doing-a-simple-sequence-search">Doing a simple sequence search</a></h1>
 <p>Suppose we have a sequence that we want to search for matches to a
@@ -466,38 +466,38 @@ of sites: <tt class="docutils literal"><span class="pre">make_iupac_motif</span>
 <p>motility has a few functions to help you create matrices.</p>
 <div class="section">
 <h2><a id="position-weight-matrices" name="position-weight-matrices">Position-Weight Matrices</a></h2>
-<p>The <tt class="docutils literal"><span class="pre">make_PWM</span></tt> function makes a Position-Weight Matrix function
+<p>The <tt class="docutils literal"><span class="pre">make_pwm</span></tt> function makes a Position-Weight Matrix function
 for you:</p>
 <blockquote>
 <pre class="doctest-block">
 &gt;&gt;&gt; sites = [ 'AGATAA',
 ...           'TGATAA',
 ...           'AGATAG' ]
-&gt;&gt;&gt; pwm = motility.make_PWM(sites)
+&gt;&gt;&gt; pwm = motility.make_pwm(sites)
 &gt;&gt;&gt; print pwm.max_score(), pwm.min_score()
-5.33333333333 0.0
+11.1699250014 0.0
 &gt;&gt;&gt; print pwm
-[[0.66666666666666663, 0.0, 0.0, 0.33333333333333331],
- [0.0, 0.0, 1.0, 0.0],
- [1.0, 0.0, 0.0, 0.0],
- [0.0, 0.0, 0.0, 1.0],
- [1.0, 0.0, 0.0, 0.0],
- [0.66666666666666663, 0.0, 0.33333333333333331, 0.0]]
+[[1.5849625007211563, 0.0, 0.0, 1.0],
+ [0.0, 0.0, 2.0, 0.0],
+ [2.0, 0.0, 0.0, 0.0],
+ [0.0, 0.0, 0.0, 2.0],
+ [2.0, 0.0, 0.0, 0.0],
+ [1.5849625007211563, 0.0, 1.0, 0.0]]
 </pre>
 </blockquote>
 <p>(Yes, matrices are ugly when printed!)</p>
-<p>Here, <tt class="docutils literal"><span class="pre">make_PWM</span></tt> creates a PWM that calculates the frequency of each
-nucleotide in each position; this PWM will then rank sites by their
-similarity to the input sites.  We can now calculate the
-scores of all three input sites, plus a few more:</p>
+<p>Here, <tt class="docutils literal"><span class="pre">make_pwm</span></tt> creates a PWM that calculates the log of the
+frequency of each nucleotide in each position; this PWM will then rank
+sites by their similarity to the input sites.  We can now calculate
+the scores of all three input sites, plus a few more:</p>
 <blockquote>
 <pre class="doctest-block">
 &gt;&gt;&gt; for site in [ 'AGATAA', 'TGATAA', 'AGATAG', 'GGATAA', 'GCGCGC' ]:
 ...   print site, pwm.calc_score(site)
-AGATAA 5.33333333333
-TGATAA 5.0
-AGATAG 5.0
-GGATAA 4.66666666667
+AGATAA 11.1699250014
+TGATAA 10.5849625007
+AGATAG 10.5849625007
+GGATAA 9.58496250072
 GCGCGC 0.0
 </pre>
 </blockquote>
@@ -541,7 +541,7 @@ you want, because I've included a flexible <tt class="docutils literal"><span cl
 <pre class="literal-block">
 make_matrix(sites, cell_fn, cls=None)
 </pre>
-<p>This function is actually used by both the <tt class="docutils literal"><span class="pre">make_PWM</span></tt> and <tt class="docutils literal"><span class="pre">make_operator</span></tt>
+<p>This function is actually used by both the <tt class="docutils literal"><span class="pre">make_pwm</span></tt> and <tt class="docutils literal"><span class="pre">make_operator</span></tt>
 functions: all that is varied is the <tt class="docutils literal"><span class="pre">cell_fn</span></tt> and the <tt class="docutils literal"><span class="pre">cls</span></tt>.  Here's
 an example:</p>
 <blockquote>
@@ -646,22 +646,22 @@ it will discard motifs.</p>
 &gt;&gt;&gt; sites = [ 'AGATAA',
 ...           'TGATAA',
 ...           'AGATAG' ]
-&gt;&gt;&gt; pwm = motility.make_PWM(sites)
+&gt;&gt;&gt; pwm = motility.make_pwm(sites)
 </pre>
 <pre class="doctest-block">
 &gt;&gt;&gt; for site in [ 'AGATAA', 'TGATAA', 'AGATAG', 'GGATAA', 'GCGCGC' ]:
 ...   print site, pwm.calc_score(site)
-AGATAA 5.33333333333
-TGATAA 5.0
-AGATAG 5.0
-GGATAA 4.66666666667
+AGATAA 11.1699250014
+TGATAA 10.5849625007
+AGATAG 10.5849625007
+GGATAA 9.58496250072
 GCGCGC 0.0
 </pre>
 </blockquote>
-<p>Hmm, I wonder what sites score above a 4.5?</p>
+<p>Hmm, I wonder what sites score above a 9.3?</p>
 <blockquote>
 <pre class="doctest-block">
-&gt;&gt;&gt; pprint.pprint(pwm.generate_sites_over(4.5))
+&gt;&gt;&gt; pprint.pprint(pwm.generate_sites_over(9.3))
 ('AGATAA',
  'AGATAC',
  'AGATAG',
@@ -673,15 +673,15 @@ GCGCGC 0.0
 </pre>
 </blockquote>
 <p>Well, that's not too much of a surprise -- all of those sites have the
-core <tt class="docutils literal"><span class="pre">GATA</span></tt> in them, which means they have a minimum score of 4.0,
+core <tt class="docutils literal"><span class="pre">GATA</span></tt> in them, which means they have a good minimum score,
 plus an A at the end or the beginning.  (Go back to the PWM's matrix
 representation if you don't see why the scores work out this way.)</p>
 <p>Let's rank them and print them out with their scores: first, generate
 the sites &amp; their scores:</p>
 <blockquote>
 <pre class="doctest-block">
-&gt;&gt;&gt; sites_45 = pwm.generate_sites_over(4.5)
-&gt;&gt;&gt; sites_45 = [ (site, pwm.calc_score(site)) for site in sites_45 ]
+&gt;&gt;&gt; sites_93 = pwm.generate_sites_over(9.3)
+&gt;&gt;&gt; sites_93 = [ (site, pwm.calc_score(site)) for site in sites_93 ]
 </pre>
 </blockquote>
 <p>Now write a custom sort function to sort 'em appropriately (top down,
@@ -695,16 +695,16 @@ by second element, the score):</p>
 <p>and... sort!</p>
 <blockquote>
 <pre class="doctest-block">
-&gt;&gt;&gt; sites_45.sort(sort_by_score)
-&gt;&gt;&gt; pprint.pprint(sites_45)
-[('AGATAA', 5.333333333333333),
- ('TGATAA', 5.0),
- ('AGATAG', 4.9999999999999991),
- ('CGATAA', 4.666666666666667),
- ('GGATAA', 4.666666666666667),
- ('AGATAC', 4.6666666666666661),
- ('AGATAT', 4.6666666666666661),
- ('TGATAG', 4.6666666666666661)]
+&gt;&gt;&gt; sites_93.sort(sort_by_score)
+&gt;&gt;&gt; pprint.pprint(sites_93)
+[('AGATAA', 11.169925001442312),
+ ('AGATAG', 10.584962500721156),
+ ('TGATAA', 10.584962500721156),
+ ('TGATAG', 10.0),
+ ('AGATAC', 9.5849625007211561),
+ ('AGATAT', 9.5849625007211561),
+ ('CGATAA', 9.5849625007211561),
+ ('GGATAA', 9.5849625007211561)]
 </pre>
 </blockquote>
 <p>You'll note that the three input sites rank highest (which will not
@@ -720,14 +720,14 @@ Then count how many other sites you would find with that threshold.</p>
 function:</p>
 <blockquote>
 <pre class="doctest-block">
-&gt;&gt;&gt; pwm.weight_sites_over(4.5)
+&gt;&gt;&gt; pwm.weight_sites_over(9.3)
 0.001953125
 </pre>
 </blockquote>
 <p>which is just</p>
 <blockquote>
 <pre class="doctest-block">
-&gt;&gt;&gt; len(sites_45) / float(4096)
+&gt;&gt;&gt; len(sites_93) / float(4096)
 0.001953125
 </pre>
 </blockquote>

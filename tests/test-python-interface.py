@@ -35,7 +35,7 @@ def test_4():
     """
     motif = 'ACGG'
     
-    pwm = motility.make_PWM([motif])
+    pwm = motility.make_pwm([motif])
     pwm_match = pwm.find(motif, 4)
     iupac_match = motility.find_iupac(motif, motif)
     exact_match = motility.find_exact(motif, motif)
@@ -57,7 +57,7 @@ def test_5():
     """
     motif = 'ACGG'
     
-    pwm = motility.make_PWM([motif])
+    pwm = motility.make_pwm([motif])
     operator = motility.make_operator([motif])
 
     print pwm.calc_score(motif)
