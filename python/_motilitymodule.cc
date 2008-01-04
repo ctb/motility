@@ -54,7 +54,7 @@ static PyObject *MotilityError;
 typedef struct {
   PyObject_HEAD
   double *matrix;		// double [len][5]
-  unsigned int length;
+  Py_ssize_t length;
 } motility_MatrixObject;
 
 static void motility_matrix_dealloc(PyObject *);
