@@ -4,3 +4,9 @@ doctest in build.py
 
 * large-sequence style iteration
 * Python modules for reading/writing stuff to/from file.
+
+add _motility.MotilityError to motility/__init__
+
+make an is_valid thingy for IUPAC motifs.
+
+consensus calculator fn?

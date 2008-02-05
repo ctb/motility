@@ -74,7 +74,7 @@ motility_matrix_getattr(PyObject * obj, char * name)
 
 static Py_ssize_t matrix_length(motility_MatrixObject * self)
 {
-  return (Py_ssize_t) self->length;
+  return self->length;
 }
 
 static PyObject * _convert_results_to_tuple(motility::MotifMatchList * matches) {

@@ -130,13 +130,13 @@ class PWM:
 
     def generate_sites_over(self, threshold, use_n=0):
         """
-        Generate a list of all sites under this threshold.
+        Generate a list of all sites over this threshold.
         """
         return _motility.generate_sites_over(self._m, threshold, use_n)
 
     def weight_sites_over(self, threshold, AT_bias=.25, GC_bias=.25):
         """
-        Calculate the combined weight of all sites under this threshold,
+        Calculate the combined weight of all sites over this threshold,
         using the given AT/GC biases.
         """
         return _motility.weight_sites_over(self._m, threshold,
