@@ -1,5 +1,5 @@
 FIND_PROGRAM(PYTHON_EXECUTABLE 
-    NAMES python2.4 python2.3
+    NAMES python2.6 python2.5 python2.4 python2.3
      [HKEY_LOCAL_MACHINE\\SOFTWARE\\Python\\PythonCore\\2.5\\InstallPath]
      [HKEY_LOCAL_MACHINE\\SOFTWARE\\Python\\PythonCore\\2.4\\InstallPath]
      [HKEY_LOCAL_MACHINE\\SOFTWARE\\Python\\PythonCore\\2.3\\InstallPath]

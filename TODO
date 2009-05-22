@@ -10,3 +10,11 @@ add _motility.MotilityError to motility/__init__
 make an is_valid thingy for IUPAC motifs.
 
 consensus calculator fn?
+
+Background:
+ - correcting for prob in each genome is silly if same t.f. works in all
+   genomes.
+
+make sort_by_energy function available
+
+AT/GC bias => 1/4 rather than 1/2?

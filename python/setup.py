@@ -10,7 +10,9 @@ extension_mod = Extension("motility._motilitymodule",
                           include_dirs=['../src',],
                           library_dirs=['../src',],
                           libraries=['motility', 'stdc++'],
-                          depends=['../src/libmotility.a',])
+                          depends=['../src/libmotility.a',],
+                          extra_link_args=['-fPIC'],
+                          )
 
 # python modules: currently only 'motility.py'
 py_mod = 'motility'
