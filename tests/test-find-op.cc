@@ -4,6 +4,7 @@
 #include "EnergyOperator.hh"
 
 #include <iostream>
+#include <stdlib.h>
 
 using namespace motility;
 

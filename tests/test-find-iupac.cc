@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include <assert.h>
+#include <stdlib.h>
 
 using namespace motility;
 
