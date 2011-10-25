@@ -1,0 +1,14 @@
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles
+Makefile
+DartTestfile.txt
+list
+python/_motilitymodule.o
+python/motility/_motilitymodule.so
+src/libmotility.a
+tests/test-find-iupac
+tests/test-find-literal
+tests/test-find-op
+tests/test-find-pwm
+tests/test-sequence
