@@ -14,6 +14,7 @@
  * Titus directly.
  *
  */ 
+#include <stdio.h>   /* required for prt file io */
 #include "DnaSequence.hh"
 #include <cctype>
 #include <algorithm>

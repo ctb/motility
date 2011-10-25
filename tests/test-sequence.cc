@@ -2,6 +2,7 @@
 #include "_MatrixRow.hh"
 #include "PwmMotif.hh"
 
+#include <stdio.h> /* file needed for io */
 #include <iostream>
 #include <stdlib.h>
 

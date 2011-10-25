@@ -3,6 +3,7 @@
 #include "MotifMatch.hh"
 #include "EnergyOperator.hh"
 
+#include <stdio.h>  /* file needed for io */
 #include <iostream>
 #include <stdlib.h>
 

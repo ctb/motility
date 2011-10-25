@@ -2,6 +2,7 @@
 #include "MotifMatch.hh"
 #include "LiteralMotif.hh"
 
+#include <stdio.h>  /* needed for io */
 #include <iostream>
 #include <stdlib.h>
 

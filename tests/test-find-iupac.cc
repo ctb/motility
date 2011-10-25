@@ -2,6 +2,7 @@
 #include "MotifMatch.hh"
 #include "IupacMotif.hh"
 
+#include <stdio.h>  /* needed for io */
 #include <iostream>
 #include <assert.h>
 #include <stdlib.h>
