@@ -1,0 +1,14 @@
+
+This directory is for the script timing files for TAMO, MOTILITY and BIOPYTHON.
+The directory OUTPUT is for the output files from tests run on the three Motif
+checking routines.  By convention a file starting with:
+	s 	is an exact matching script
+	i	is an iupac matching script
+	m	is a matrix weighting script
+
+the second letter in the scrit name [s,i,m][m,t,b]
+	m	is for motility
+	t	is for tamo
+	b	is for biopython
+
+All scripts are python scripts.

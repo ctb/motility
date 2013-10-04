@@ -1,0 +1,179 @@
+\documentclass{bioinfo}
+\copyrightyear{2012}
+\pubyear{2012}
+
+\begin{document}
+\firstpage{1}
+
+\title[short Title]{A Timed String Biological Motif comparison of Biopython, 
+Motility and Tamo}
+\author[Sample \textit{et~al}]{Philip Trosko\,$^{1}$, 
+Eric Macdonald\,$^{2}$ 
+and Titus Brown\,$^2$\footnote{to whom correspondence should be addressed}}
+\address{$^{1}$Trosko's Consulting and Programming, 
+1630 Sylvan Glen, Okemos, MI, 48864.\\
+$^{2}$Department of Molecular Genetics, Michigan State University, 48823.}
+
+\history{Received on XXXXX; revised on XXXXX; accepted on XXXXX}
+
+\editor{Associate Editor: XXXXXXX}
+
+\maketitle
+
+\begin{abstract}
+
+\section{Motivation:}
+When doing a google search of motif searching routines for biological 
+sequences one easily finds the routines: Biopython, Motility, and Tamo.  
+This paper gives a brief comparison of the routines in doing exact matching, 
+IUPAC matching and matrix positional weighting calculations.
+
+\section{Results:}
+All three routines produced consistent matching results.  
+The documentation for all routines allowed for the construction and running of
+our tests in python.
+When doing exact matching, IUPAC matching and PAM weighted matches 
+Motility is almost as fast as doing hard coded searches in Python, 
+while Biopython and Tamo run quite a bit slower.  
+
+\section{Availability:}
+The three routines are available online, 
+and can be downloaded and compiled by a person with some sophistication 
+using Git, ftp, make and python.
+\section{Contact:} \href{brown@msu.edu}{brown@msu.edu}
+\end{abstract}
+
+\section{Introduction}
+The field of string searching usually falls in the discipline of 
+Computer Science.  Usually we refer to a query q of length m and all the
+offsets of q that lie on a text of length n, where n is usually 
+much longer than m.
+% Figure~\ref{eq:01} follows.
+Figure~\ref{eq:01} follows.
+
+\begin{equation}
+ q[m] \rightarrow t[n],   O(m*n)\label{eq:01}
+\end{equation}
+
+
+% TODO: Either embed caption in a fake figure with equation in math mode.
+%	Or else don't use captions with equations.
+% Equation~(\ref{eq:01})
+%\caption{A query of length m querried against a text of length n.}. \citealp{Knuth65} 
+
+Figure~\ref{eq:02} calculation and runtime of Position Weight String.
+\begin{equation}
+  \sum_{i=1}^{n} \sum_{j=1}^{m} W_i (q[j], t[i+j]),   O(m*n)\label{eq:02}
+\end{equation}
+
+
+% Equation~(\ref{eq:02}) \caption{The weight W of an offset i in t between q and t }.  \citealp{Sanko65} 
+
+
+\section{Approach}
+Our approach was to dowload Biopython, Motility and Tamo all on to 
+the same machine, and run them using the same queries and the same domain data.
+Once running we furthermore for reproducibility made our data run in scripts
+and ran these scripts under similar conditions on the Amazon cluster.
+
+\begin{methods}
+\section{Methods}
+Our method involved dividing the Motif queries into three groups:, 
+\begin{itemize}
+\item Exact matching,
+\item IUPAC matching,
+\item Positional weight matrix matching.  
+\end{itemize}
+All three routines support these matches,
+the queries and data were from the bacteria data set. \citealp{BactXX} 
+We feel they are representative of the kinds of queries of strings into
+genomic information. First the exact queries were broken down by size into
+four selected five groups:  TATAA, Small, Medium, Large and Very Large 
+of randomly selected query data. The reason for an additional 
+small recognized region called the TATAA box was because
+in our test data, Bacteria, it 
+has a large number of recognition sites and is a functional recognition site.  
+Furthermore forward match, reverse match 
+of each of  the queries was performed because in Biology 
+DNA is two stranded with
+matches possible in either direction.
+
+\begin{table}[!t]
+\processtable{Forward and Reverse Exact Match Timings in ecoli\label{Tab:01}}
+{\begin{tabular}{lllll}\toprule
+Exact Matches in ecoli\\\midrule
+Query Length 	 & Matches & Biopython & Motility & TAMO \\
+TATAA (5 bases)  & 5811 &52.0 & 0.01 & 44.5\\
+Small (8 bases)  & 245 &52.9 & 0.01 & 71.3\\
+Medium (12 bases)& 3 &52.3 & 0.01 & 98.3\\
+Large (20 bases) & 1 &52.7 & 0.01 & 135.6\\
+VLarge(60 bases) & 1 &52.2 & 0.01 & 378.2\\\botrule
+\end{tabular}}{The exact timings were run on a Macintosh computer}
+\end{table}
+
+\begin{table}[!t]
+\processtable{Forward and Reverse IUPAC Ambiguity and Position Weight Matrix 
+Matches in ecoli\label{Tab:02}}
+{\begin{tabular}{lll}\toprule
+Routine 	& IUPAC (Matches=10099) & PWM (Matches=8505)\\
+Biopython 	& 95.6 	& 77.9\\
+Motility 	& 3.6 	& 3.5\\
+TAMO 		& 28.0	& 151.8\\\botrule
+\end{tabular}}{The IUPAC string match on string "WGTATA" and Position 
+Weight Matrix on string "WGATAR" with a threshhold of 10.57.
+Timings were run on a Macintosh computer}
+\end{table}
+
+\end{methods}
+
+\section{Discussion}
+We feel the text and the size of data and queries are very representative 
+of the kinds of ongoing queries in biology. When trying to find
+epigenetic structure in a single small organism's DNA,
+small restriction site cuts or operative regions in the DNA all 
+three routines are adequate.
+If doing a simple exact match a hard coded string search would be fast,
+however Motility is fastest.  
+Biopython and Tamo are slower.
+
+
+\section{Conclusion}
+Our brief software run time comparison shows Motility 
+to be superior in run times and that all software compared
+are capable of doing the searches required for simple DNA comparison.
+
+\section*{Acknowledgement}
+We would like recognise??
+
+\paragraph{Funding\textcolon} 
+Titus Brown was provided for by XXXXXX, 
+and funding for Eric Macdonald was provided by XXXXXX.
+
+%\bibliographystyle{natbib}
+%\bibliographystyle{achemnat}
+%\bibliographystyle{plainnat}
+%\bibliographystyle{abbrv}
+%\bibliographystyle{bioinformatics}
+%
+%\bibliographystyle{plain}
+%
+%\bibliography{Document}
+
+
+\begin{thebibliography}{}
+
+\bibitem[Knuth {\it et~al}., 1965]{Knuth65} 
+Knuth,D.(1965) Volume 3, Chapter 6, Searching 
+\textit {The Art of Computer Programming}, pp-pp.
+
+\bibitem[Sankoff and Kruskal., 1965]{Sanko65} 
+Sankoff, X and Kruskal,X.(XXXX), Chapter X, SXXXXXX 
+\textit {Time Warps, String Edits and Macromolecules, The Art and Practice of
+String Comparison}, pp-pp.
+
+\bibitem[Escherichia.,xxxx] {BactXX} Name, X. (xxxx) Escherichia coli, compete genome. 
+% >mg1655 |ref|NC_000913.2| 
+%Escherichia coli str. K-12 substr. MG1655 chromosome, complete genome
+
+\end{thebibliography}
+\end{document}

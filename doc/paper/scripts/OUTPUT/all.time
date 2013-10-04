@@ -1,0 +1,59 @@
+::::::::::::::
+ib.time
+::::::::::::::
+Biopyhton exact matches done
+Sequence Read in Time:  0:00:00.111736
+Iupac set up time:  0:00:00.000168
+Biopython search time:  0:01:35.284354
+::::::::::::::
+im.time
+::::::::::::::
+End Motility iupac matches!
+Motility Iupac search time:  0:00:03.558393
+::::::::::::::
+it.time
+::::::::::::::
+TAMO IUPAC matches!
+tamo IUPAC TIME:  0:00:28.034545
+::::::::::::::
+mt.time
+::::::::::::::
+TAMO position weight seach
+TAMO PM time:  0:02:31.760564
+::::::::::::::
+pb.time
+::::::::::::::
+Biopyhton Position Weight matrix matches!
+Biopython PWM match time:  0:01:17.876464
+::::::::::::::
+pm.time
+::::::::::::::
+end Motility Position Weight matches
+Motility PM:  0:00:07.080008
+::::::::::::::
+sb.time
+::::::::::::::
+Biopython exact matching times
+TATA match time:  0:00:52.055712
+small sequence time:  0:00:52.849876
+medium sequence time:  0:00:52.250094
+large sequence time:  0:00:52.668464
+very large sequence time:  0:00:52.189565
+::::::::::::::
+sm.time
+::::::::::::::
+Motility exact matches
+TATAA Timings:  0:00:01.043394
+Small Timings:  0:00:01.008288
+Medium Timings:  0:00:01.005170
+Large Timings:  0:00:01.007083
+very Large Timings:  0:00:01.007393
+::::::::::::::
+st.time
+::::::::::::::
+end TAMO exact matches!
+TATA times:  0:00:44.490618
+Small times:  0:01:11.277522
+Medium times:  0:01:38.270731
+Large times:  0:02:18.559888
+very Large times:  0:06:15.220739

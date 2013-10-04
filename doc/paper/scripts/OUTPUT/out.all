@@ -1,0 +1,35 @@
+Biopython exact matches
+read in data:	0:00:00.059245
+TATA:		0:01:44.016720
+Small query	0:01:45.278888
+Medium query	0:01:43.113954
+Large query	0:01:44.537751
+V Large query	0:01:43.972068
+Total Time BP	0:08:40.919531
+
+Motility exact matches!
+read in data:	0:00:00.060413
+TATA:		0:00:03.129626
+Small query	0:00:03.004497
+Medium query	0:00:02.996024
+Large query	0:00:02.997931
+V Large query	0:00:02.996173
+Total Time Mo	0:00:15.124438
+
+python exact matches!
+read in data:	0:00:00.059094
+TATA:		0:00:00.048282
+Small query	0:00:00.059610
+Medium query	0:00:00.036991
+Large query	0:00:00.112084
+V Large query	0:00:00.071357
+Total Time PE	0:00:00.328478
+
+TAMO exact matches!
+read in data:	0:00:00.060052
+TATA:		0:01:28.884078
+Small query	0:02:22.332078
+Medium query	0:03:17.943086
+Large query	0:04:37.300497
+V Large query	0:12:33.252262
+Total Time Tamo	0:24:19.712172
