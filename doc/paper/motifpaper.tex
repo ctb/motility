@@ -5,14 +5,14 @@
 \begin{document}
 \firstpage{1}
 
-\title[short Title]{A Timed String Biological Motif comparison of Biopython, 
-Motility and Tamo}
+\title[short Title]{Fast motif searching with the motility software library}
 \author[Sample \textit{et~al}]{Philip Trosko\,$^{1}$, 
 Eric Macdonald\,$^{2}$ 
-and Titus Brown\,$^2$\footnote{to whom correspondence should be addressed}}
+and C. Titus Brown\,$^{3,2}$\footnote{to whom correspondence should be addressed}}
 \address{$^{1}$Trosko's Consulting and Programming, 
-1630 Sylvan Glen, Okemos, MI, 48864.\\
-$^{2}$Department of Molecular Genetics, Michigan State University, 48823.}
+1630 Sylvan Glen, Okemos, MI, 48864\\
+$^{2}$Computer Science and Engineering, Michigan State University, 48823.\\
+$^{3}$Microbiology and Molecular Genetics, Michigan State University, 48823.}
 
 \history{Received on XXXXX; revised on XXXXX; accepted on XXXXX}
 
@@ -23,18 +23,18 @@ $^{2}$Department of Molecular Genetics, Michigan State University, 48823.}
 \begin{abstract}
 
 \section{Motivation:}
-When doing a google search of motif searching routines for biological 
-sequences one easily finds the routines: Biopython, Motility, and Tamo.  
-This paper gives a brief comparison of the routines in doing exact matching, 
-IUPAC matching and matrix positional weighting calculations.
+
+Searching for transcription factor binding sites in DNA is now
+routinely done on genomic scales.  We describe the motility library
+for fast exact and inexact string searching, and compare its performance
+to the performance of BioPython and TAMO motif searching.
 
 \section{Results:}
-All three routines produced consistent matching results.  
-The documentation for all routines allowed for the construction and running of
-our tests in python.
-When doing exact matching, IUPAC matching and PAM weighted matches 
-Motility is almost as fast as doing hard coded searches in Python, 
-while Biopython and Tamo run quite a bit slower.  
+
+All three software packages produced consistent results, but motility is
+consistently much faster than BioPython and TAMO.  This is because
+motility is primarily implemented in C++, while BioPython and TAMO
+are in pure Python.
 
 \section{Availability:}
 The three routines are available online, 
